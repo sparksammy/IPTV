@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://raw.githubusercontent.com/maccise/IPTV/master/GuiaTest.xml
+#EXTM3U url-tvg="https://raw.githubusercontent.com/maccise/IPTV/master/GuiaTest.xml"
 
 #EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir”,Shams TV  02-Apr-2017  16:00
 http://streaming203.radionomy.com:80/City-Dance-Radio
