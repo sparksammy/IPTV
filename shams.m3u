@@ -51,7 +51,7 @@ http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canalcongresomexico.png" group-title=Mexico TV,Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Capital 21" tvg-name="Canal Capital 21" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/997.png" group-title=Mexico TV,Capital 21
+#EXTINF:-1 tvg-id="Canal Capital 21" tvg-name="Canal Capital 21" tvg-logo="http://imryt.org/sites/default/files/noticias/capital21.jpg" group-title=Mexico TV,Capital 21
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
 #EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",[B][COLOR yellow]== Mexico Local ==[/COLOR][/B]
