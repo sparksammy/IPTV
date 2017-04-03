@@ -57,12 +57,18 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",[B][COLOR yellow]== Mexico Local ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title=Mexico Local",Mexiquense TV (Mexico)
+#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title=Mexico Local",Mexiquense TV (MEX)
 http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8
 
-#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title=Mexico Local",Mexiquense TV (Mexico) *
+#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title=Mexico Local",Mexiquense TV (MEX) *
 http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cincotv.com/v2/wp-content/uploads/2014/04/enlace-5tv1.png" group-title=Mexico Local",5tv (Coahuila)
+#EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="http://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title=Mexico Local",Multimedios (NLE)
 http://video.gvstream.net:1935/e-tv-video/default.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cincotv.com/v2/wp-content/uploads/2014/04/enlace-5tv1.png" group-title=Mexico Local",Canal 5 TV (COA)
+http://video.gvstream.net:1935/e-tv-video/default.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l.jpg" group-title=Mexico Local",Canal 15 TV (COA)
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 
