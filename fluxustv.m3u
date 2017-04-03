@@ -75,6 +75,12 @@ http://video.gvstream.net:1935/e-tv-video/default.stream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/787311506668924929/oP9Ajb2l.jpg" group-title=LOCAL,Canal 15 TV (CA)
 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/rcgtv.png" group-title="MÉXICO (Locales)",RCG 1 TV (CA)
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png" group-title="MÉXICO (Locales)",RCG 3 TV (CA)
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title=LOCAL,Canal 10 HD (QR)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
@@ -86,3 +92,7 @@ http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/images2012/tdt_tv_de_tlaxcala_mx.jpg" group-title=LOCAL,TDT (TL)
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/ochotv_mexico.jpg" group-title=LOCAL,Ocho TV (JA)
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
