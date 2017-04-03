@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/maccise/IPTV/master/entutele.com.channels.xml"
 
-#EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",Shams IPTV
+#EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",[B][COLOR red]Shams IPTV[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",== Mexico TV ==
+#EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",[B][COLOR yellow]== Mexico TV ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title=Mexico TV,Las Estrellas HD
@@ -39,11 +39,30 @@ http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title=Mexico TV,Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg" group-title=Mexico TV,GreenTV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg" group-title=Mexico TV,GreenTV
 http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title=Mexico TV,Canal 22
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.blogs.es/7abda0/mvs-noticias3-1-/original.jpg" group-title=Mexico TV,MVS Noticias
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canalcongresomexico.png" group-title=Mexico TV,Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Capital 21" tvg-name="Canal Capital 21" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/997.png" group-title=Mexico TV,Capital 21
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+
+#EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",[B][COLOR yellow]== Mexico Local ==[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title=Mexico Local",Mexiquense TV (Mexico)
+http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8
+
+#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title=Mexico Local",Mexiquense TV (Mexico) *
+http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cincotv.com/v2/wp-content/uploads/2014/04/enlace-5tv1.png" group-title=Mexico Local",5tv (Coahuila)
+http://video.gvstream.net:1935/e-tv-video/default.stream/live.m3u8
+
