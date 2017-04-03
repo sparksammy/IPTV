@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/maccise/IPTV/master/entutele.com.channels.xml"
 
-#EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",ShamsTV
-http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",Shams IPTV
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== Mexico ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",== Mexico ==
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title=Mexico TV,Las Estrellas (NoGeo)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
