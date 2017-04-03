@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/maccise/IPTV/master/entutele.com.channels.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/fluxustv/IPTV/master/entutele.com.channels.xml"
 
 #EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",[B][COLOR red]Shams IPTV[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
