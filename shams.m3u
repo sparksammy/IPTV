@@ -6,11 +6,17 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="http://logos.textgiraffe.com/logos/logo-name/Shams-designstyle-summer-m.png" group-title="z-omitir",== Mexico ==
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title=Mexico TV,Las Estrellas (NoGeo)
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title=Mexico TV,Las Estrellas
+#EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title=Mexico TV,Las Estrellas HD
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title=Mexico TV,Las Estrellas *
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="http://st-listas.20minutos.es/images/2016-09/414848/5050894_640px.jpg" group-title=Mexico TV,Canal 5
-http://exabytetv.zapto.org/exabytetv-esgratis/total/5/QCLCR-1011000111000000011010011001001-ExabyteTV/6647/visita-exabytetv.m3u8
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/3/stream.m3u8
+
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111207376.png" group-title=Mexico TV,Azteca 7
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/2/stream.m3u8
+
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111207376.png" group-title=Mexico TV,Azteca 7 *
+http://cdn2.elitegol.xyz/verliga/34/index.m3u8
