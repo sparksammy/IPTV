@@ -15,7 +15,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="http://st-listas.20minutos.es/images/2016-09/414848/5050894_640px.jpg" group-title=MEXICO,Canal 5
 https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/3/stream.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111207376.png" group-title=Mexico TV,Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111207376.png" group-title=MEXICO,Azteca 7
 https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/2/stream.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111207376.png" group-title=MEXICO,Azteca 7 *
@@ -42,7 +42,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg" group-title=MEXICO,GreenTV
 http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title=Mexico TV,Canal 22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title=MEXICO,Canal 22
 http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.blogs.es/7abda0/mvs-noticias3-1-/original.jpg" group-title=MEXICO,MVS Noticias
