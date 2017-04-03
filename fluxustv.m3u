@@ -54,7 +54,7 @@ http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u
 #EXTINF:-1 tvg-id="Canal Capital 21" tvg-name="Canal Capital 21" tvg-logo="http://imryt.org/sites/default/files/noticias/capital21.jpg" group-title=MEXICO,Capital 21
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",[B][COLOR yellow]== Mexico Local ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",[B][COLOR yellow]== Mexico Local TV ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title=LOCAL,Mexiquense TV (MX)
@@ -80,3 +80,6 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_3sp5q5of/sd/10000/t/xcFhH
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title=LOCAL,Canal 66 (BN)
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/images2012/tdt_tv_de_tlaxcala_mx.jpg" group-title=LOCAL,TDT (TL)
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
