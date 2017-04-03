@@ -42,7 +42,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg" group-title=MEXICO,GreenTV
 http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 
-#EXTINF:-1 tvg-id="once tv" tvg-name="once tv" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1177.png" group-title=MEXICO,Canal Once
+#EXTINF:-1 tvg-id="once tv" tvg-name="once tv" tvg-logo="http://oncetv-ipn.net/generales/wp-content/uploads/2015/12/logo_once_blanco_footer.png" group-title=MEXICO,Canal Once
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title=MEXICO,Canal 22
