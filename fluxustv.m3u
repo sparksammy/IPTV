@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",List Updated: April-03-2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",[B][COLOR green]== Mexico TV ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="z-omitir",[B][COLOR green]== Mexico TV ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title=MEXICO,Las Estrellas HD [B][COLOR yellow](geoblocked)[/COLOR][/B]
@@ -63,7 +63,7 @@ http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u
 #EXTINF:-1 tvg-id="Canal Capital 21" tvg-name="Canal Capital 21" tvg-logo="http://imryt.org/sites/default/files/noticias/capital21.jpg" group-title=MEXICO,Capital 21
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",[B][COLOR green]== Mexico Local TV ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Mexico_map_with_flag.png" group-title="z-omitir",[B][COLOR green]== Mexico Local TV ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title=LOCAL,Canal 66 (BN)
@@ -132,7 +132,7 @@ http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title=LOCAL,Trecevision HD (YU)
 http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
 
-#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",[B][COLOR green]== Latino TV ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="z-omitir",[B][COLOR green]== Latino TV ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png" group-title=LATINO,AMC
@@ -198,7 +198,7 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/25/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fontmeme.com/images/disney-xd-logo.png" group-title=LATINO,Disney XD
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/30/stream.m3u8
 
-#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title=LATINO,DistritoComedia
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif" group-title=LATINO,Distrito Comedia
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/168/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/202/e5824d38597133.Y3JvcCwxMDI0LDgwMCwwLDExOQ.png" group-title=LATINO,E!
@@ -294,5 +294,5 @@ http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/64/Warner2012.png" group-title=LATINO,Warner Channel
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",[B][COLOR green]== Spain TV ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="z-omitir",[B][COLOR green]== Spain TV ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
