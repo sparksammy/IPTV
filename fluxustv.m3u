@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/fluxustv/IPTV/master/entutele.com.channels.xml"
 
-#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",[B][COLOR blue]Fluxus TV[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="z-omitir",[B][COLOR blue]Fluxus TV[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",Free IPTV - IPTV Gratis
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="z-omitir",Visit: fb.me/FluxusTV
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",List Updated: April-03-2017
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="z-omitir",List Updated: April-03-2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="z-omitir",[B][COLOR green]== Mexico TV ==[/COLOR][/B]
