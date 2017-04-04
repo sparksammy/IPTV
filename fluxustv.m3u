@@ -111,6 +111,9 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://i.imgur.com/3t5Cz1e.jpg" group-title=LOCAL,Gala TV (QR)
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/819651361960669184/kiW1_Jcg.jpg" group-title=LOCAL,Canal 7 (SL)
+http://187.188.159.113:1935/live/web.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-JrfUo7hu1AM/AAAAAAAAAAI/AAAAAAAAAAA/Xd1mW5rm2bA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title=LOCAL,TVT (TB)
 http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8
 
