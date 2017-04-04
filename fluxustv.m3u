@@ -150,6 +150,9 @@ https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/14/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title=LATINO,Boomerang
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/51/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vsQAgvN5JtQ/AAAAAAAAAAI/AAAAAAAAAAA/0Xb-yTUf-bc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title=LATINO,Canal Claro
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/cartoonnetwork/images/f/f1/Cartoon_Network_2004_logo.svg.png" group-title=LATINO,Cartoon Network
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/16/stream.m3u8
 
@@ -168,7 +171,7 @@ http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/85/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024x768.png" group-title=LATINO,Discovery Channel
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/19/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.logotypes101.com/logos/397/F6D3A0C3E688D9072F58B0B9DBF4C190/Discovery_Civilization_Channel.png" group-title=LATINO,Discovery Civilization
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bilder.wunschliste.de/logos/hr/313.png" group-title=LATINO,Discovery Civilization
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/61/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title=LATINO,Discovery H&H
@@ -177,7 +180,7 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/66/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/LogoDK.png" group-title=LATINO,Discovery Kids
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/22/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-vp2f7vxSVuE/Vm3VU3rl_pI/AAAAAAAAAY0/Hxg6YW5HZWI/s1600/Discovery-Science.png" group-title=LATINO,Discovery SCI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/c/c5/500px-Discovery_Science_Italia_2012.png" group-title=LATINO,Discovery Science
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/62/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/2015_Discovery_theater_HD_logo.svg" group-title=LATINO,Discovery Theater
@@ -222,13 +225,13 @@ http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title=LATINO,Fox Life
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/44/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-oYNXUOTyr9w/VFoqo54ECBI/AAAAAAAAo7o/o9b2_GphlAI/s1600/fox-action.png" group-title=LATINO,Fox Action
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Action-Logo-300x98.png" group-title=LATINO,Fox Premium Action
 http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/88/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f9/Fox_(5).png" group-title=LATINO,Fox Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Movies-Logo-300x98.png" group-title=LATINO,Fox Premium Movies
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/46/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg" group-title=LATINO,Fox Premium Series
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Series-Logo-300x98.png" group-title=LATINO,Fox Premium Series
 http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/89/stream.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title=LATINO,Fox Sports 1
@@ -249,7 +252,7 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/37/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052016/untitled-1_247.png" group-title=LATINO,History
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/6/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/67/Investigation_discovery_us_hd.png" group-title=LATINO,Investigation Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c1.staticflickr.com/9/8667/28486535492_70f000f6d6.jpg" group-title=LATINO,Investigation Discovery
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/65/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title=LATINO,Nickelodeon
@@ -267,13 +270,13 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/11/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png" group-title=LATINO,Space
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/15/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png" group-title="TP SIN GEOBLOQUEO",Studio Universal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-ledFLQI3h4w/Vw2IxysiOgI/AAAAAAAAqcg/nBVjIv06G1EDyjffF5ggbZszxSHmumVIgCLcB/s1600/Universal-Studio_Logo.jpg" group-title=LATINO,Studio Universal
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/56/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/syfy-logo.jpg" group-title=LATINO,Syfy
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/42/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sincable.tv/noticias/wp-content/uploads/2013/04/LOGO-TCM-2012.jpg" group-title=LATINO,TCM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/logo_tcm_2.jpg" group-title=LATINO,TCM
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/57/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reportajede.news/wp-content/uploads/2016/02/TNT-Logo.jpg" group-title=LATINO,TNT
