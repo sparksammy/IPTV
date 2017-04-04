@@ -105,7 +105,7 @@ http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title=LOCAL,Canal 10 HD (QR)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="ENTRETENIMIENTO",Gala TV (QR)
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://i.imgur.com/3t5Cz1e.jpg" group-title=LOCAL,Gala TV (QR)
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-JrfUo7hu1AM/AAAAAAAAAAI/AAAAAAAAAAA/Xd1mW5rm2bA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title=LOCAL,TVT (TB)
@@ -117,7 +117,7 @@ http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cemev.gob.mx/local1/Imagenes/tvmas1.png" group-title=LOCAL,TVMas (VE)
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="ENTRETENIMIENTO",Gala TV (YU)
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title=LOCAL,Gala TV (YU)
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title=LOCAL,Trecevision HD (YU)
