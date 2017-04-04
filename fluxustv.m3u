@@ -135,6 +135,9 @@ http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072
 #EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",[B][COLOR green]== Premium Latino ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i2.esmas.com/2015/06/29/780439/nueva-imagen-bandamax-624x468.jpg" group-title=LATINO,Bandamax
+https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/14/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title=LATINO,Boomerang
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/51/stream.m3u8
 
@@ -162,10 +165,10 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/61/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title=LATINO,Discovery H&H
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/66/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/LogoDK.png" group-title="TP SIN GEOBLOQUEO",Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/LogoDK.png" group-title=LATINO,Discovery Kids
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/22/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-vp2f7vxSVuE/Vm3VU3rl_pI/AAAAAAAAAY0/Hxg6YW5HZWI/s1600/Discovery-Science.png" group-title="TP SIN GEOBLOQUEO",Discovery SCI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-vp2f7vxSVuE/Vm3VU3rl_pI/AAAAAAAAAY0/Hxg6YW5HZWI/s1600/Discovery-Science.png" group-title=LATINO,Discovery SCI
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/62/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/2015_Discovery_theater_HD_logo.svg" group-title=LATINO,Discovery Theater
