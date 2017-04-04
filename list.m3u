@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/fluxustv/IPTV/master/entutele.com.channels.xml"
 
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="z-omitir",[B][COLOR blue]Fluxus TV[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="z-omitir",[B][COLOR blue]Fluxus TV[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="z-omitir",[B][COLOR green]Donations/Donativos tiny.cc/FluxusTVDonate[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="z-omitir",[B][COLOR green]Donations/Donativos tiny.cc/FluxusTVDonate[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="z-omitir",fluxustv.blogspot.com
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="z-omitir",fluxustv.blogspot.com
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="z-omitir",List Updated: April-04-2017
