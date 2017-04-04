@@ -240,7 +240,7 @@ http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/4/stream.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title=LATINO,Fox Sports 2
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/5/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://archive.boston.com/ae/tv/blog/fx_logo.png" group-title="TP SIN GEOBLOQUEO",FX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://archive.boston.com/ae/tv/blog/fx_logo.png" group-title=LATINO,FX
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/8/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title=LATINO,Golden
@@ -254,6 +254,9 @@ http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/6/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://c1.staticflickr.com/9/8667/28486535492_70f000f6d6.jpg" group-title=LATINO,Investigation Discovery
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/65/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1901.gif" group-title=LATINO,Lifetime
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/34/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title=LATINO,Nickelodeon
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/21/stream.m3u8
