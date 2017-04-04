@@ -275,3 +275,6 @@ http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/64/Warner2012.png" group-title=LATINO,Warner Channel
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://the-artists.org/wp-content/uploads/2008/12/Fluxus-Legacy-and-Features.png" group-title="z-omitir",[B][COLOR green]== Spain TV ==[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
