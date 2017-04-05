@@ -138,6 +138,9 @@ http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="Z-OMIT",[B][COLOR green]== Latino TV ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://channelpear.com/images/media/4841.png" group-title="LATINO",A&E
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/48/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png" group-title="LATINO",AMC
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8
 
