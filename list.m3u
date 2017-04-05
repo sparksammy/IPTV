@@ -24,7 +24,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="http://st-listas.20minutos.es/images/2016-09/414848/5050894_640px.jpg" group-title="MEXICO",Canal 5
 https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/3/stream.m3u8
 
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111207376.png" group-title=MEXICO,Azteca 7
+#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111207376.png" group-title="MEXICO",Azteca 7
 https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/2/stream.m3u8
 
 #EXTINF:-1 tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111207376.png" group-title="MEXICO",Azteca 7 *
@@ -69,7 +69,7 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Mexico_map_with_flag.png" group-title="Z-OMIT",[B][COLOR green]== Mexico Local TV ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title=LOCAL,Canal 66 (BN)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title="LOCAL",Canal 66 (BN)
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cincotv.com/v2/wp-content/uploads/2014/04/enlace-5tv1.png" group-title="LOCAL",Canal 5 TV (CA)
