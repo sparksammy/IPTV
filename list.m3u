@@ -351,7 +351,7 @@ http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14839.jpg" group-title="SPAIN",Mega HD
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/1f397c13f176bf77fb8079b85563902b.jpeg" group-title="SPAIN",Miami TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/1f397c13f176bf77fb8079b85563902b.jpeg" group-title="SPAIN",Miami TV HD
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/2000px-Movistar_Comedia.svg.png" group-title="SPAIN",Movistar Comedia
@@ -366,10 +366,10 @@ http://cdn2.elitegol.xyz/verliga/13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://linsutherland.org/images/NatGeo-Black.png" group-title="SPAIN",National Geographic
 http://cdn2.elitegol.xyz/verliga/13/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="SPAIN",Neox
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="SPAIN",Neox HD
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="SPAIN",Nova
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="SPAIN",Nova HD
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/459282803549413376/JoWuNky2.jpeg" group-title="SPAIN",Onda Azul
@@ -393,7 +393,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_YkZZPo1aKZU/TNC6ww46M6I/AAAAAAAAOs0/G-v0dN2-Bb0/s400/canalcuatro-cablehogar.gif" group-title="ARGENTINA",Canal 4 Cablehogar
 http://media203.services.digitar.net:1935/cablehogar/cablehogar/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg" group-title="ARGENTINA",Canal 4 Jujuy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg" group-title="ARGENTINA",Canal 4 Jujuy HD
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/02/Canal-9-Salta-Logo-670x300.jpg" group-title="ARGENTINA",Canal 9 Salta
@@ -408,7 +408,7 @@ http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/I_sat.jpg" group-title="ARGENTINA",I.Sat
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="ARGENTINA",Power HD
@@ -417,7 +417,7 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redeco.com.ar/images/stories/redeco/Nacional/medios/qm_noticias.png" group-title="ARGENTINA",QM Noticias
 http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ARGENTINA",Radio One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ARGENTINA",Radio One HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mincyt.gob.ar/adjuntos/imagenes/000/021/0000021142.jpg" group-title="ARGENTINA",Tec TV HD
@@ -441,11 +441,11 @@ http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png" group-title="CHILE",Mega HD
 http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BITLZHE.png" group-title="CHILE",Niu TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BITLZHE.png" group-title="CHILE",Niu TV HD
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpinguino.com/web2012/logo.png" group-title="CHILE",Pinguino TV
-http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13
 http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
@@ -453,7 +453,7 @@ http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="CHILE",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png" group-title="CHILE",VTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png" group-title="CHILE",VTV HD
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Colombia-01.png" group-title="Z-OMIT",[B][COLOR green]== Colombia TV ==[/COLOR][/B]
