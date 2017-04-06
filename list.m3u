@@ -39,6 +39,9 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://2.bp.blogspot.com/-7wl5oVHDtuc/VQoX1VarXHI/AAAAAAAAATc/cPYVrgfENK4/s320/Azteca%2BNoticias.png" group-title="MEXICO",Az Noticias
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="MEXICO",Az Cinema
+https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/114/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="MEXICO",Az Clic
 https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/116/stream.m3u8
 
@@ -93,8 +96,17 @@ https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/40/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1241409099/AyM.png" group-title="MEXICO",AYM Sports
 https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/47/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.ufc.tv/logos/logo-baja.png" group-title="MEXICO",UFC Network
+http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Tlnovelas_(TV_network)_logo.jpg/250px-Tlnovelas_(TV_network)_logo.jpg" group-title="MEXICO",TLNovelas
 https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/9/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.passionfest.com.mx/images/partners/hmx-01.png" group-title="MEXICO",HMX
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/9/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/RMS.png" group-title="MEXICO",RMS
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/41/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO",Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
