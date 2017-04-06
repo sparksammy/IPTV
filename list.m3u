@@ -39,7 +39,7 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
 #EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://2.bp.blogspot.com/-7wl5oVHDtuc/VQoX1VarXHI/AAAAAAAAATc/cPYVrgfENK4/s320/Azteca%2BNoticias.png" group-title="MEXICO",Az Noticias
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="MEXICO",Az Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://condista.com/wp-content/uploads/2016/05/azcinema.png" group-title="MEXICO",Az Cinema
 https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/114/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="MEXICO",Az Clic
