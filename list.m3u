@@ -385,7 +385,7 @@ http://www.lengua.com/anthems/Spain.mp3
 http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg" group-title="SPAIN",8 TV
-http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.axartel.es/assets/img/sliders/tv-canales/tv-13tv.jpg" group-title="SPAIN",13 TV
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
