@@ -51,6 +51,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg" group-title="MEXICO",GreenTV
 http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="MEXICO",Once TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title="MEXICO",Canal 22
 http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
 
@@ -60,11 +63,20 @@ http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canalcongresomexico.png" group-title="MEXICO",Canal del Congreso
 http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Y0oiMPs.jpg" group-title="MEXICO",Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal Capital 21" tvg-name="Canal Capital 21" tvg-logo="http://imryt.org/sites/default/files/noticias/capital21.jpg" group-title="MEXICO",Capital 21
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO",Teleritmo
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Mexico_map_with_flag.png" group-title="Z-OMIT",[B][COLOR green]== Mexico Local TV ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491409806221.jpg" group-title="LOCAL",BiTV (AG)
+http://iphone-streaming.ustream.tv/uhls/22664097/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title="LOCAL",Canal 66 (BN)
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
@@ -321,8 +333,23 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="SPAIN",Atreseries HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/es/BARCA.png" group-title="SPAIN",Barca TV
+http://cdn2.elitegol.xyz/verliga/2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.svg" group-title="SPAIN",Calle 13
+http://cdn2.elitegol.xyz/verliga/18/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adnstream.com/img/canales/Canal-Cocina_w320.jpg" group-title="SPAIN",Canal Cocina
+http://cdn2.elitegol.xyz/verliga/8/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-Historia/Canal-Historia_.jpg" group-title="SPAIN",Canal Historia
 http://edge14.livesports.pw/live/verhistoriaesp92439d25ebf/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rologo.com/images/uploads/2015/07/Canal_Panda_2015.png" group-title="SPAIN",Canal Panda
+http://edge14.livesports.pw/live/verpanda09f8f91b6bfd8e414/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://moratallatv.com/wp-content/uploads/tv-logos/cazapesca.png" group-title="SPAIN",Caza y Pesca TV
+http://cdn2.elitegol.xyz/verliga/15/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fiber.storage.googleapis.com/channels/logos/cinemax.png" group-title="SPAIN",Cinemax
 http://cdn2.elitegol.xyz/verliga/20/index.m3u8
@@ -330,11 +357,17 @@ http://cdn2.elitegol.xyz/verliga/20/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://puu.sh/v4uml/cfc7b12ce6.png" group-title="SPAIN",Crimen & Investigacion
 http://cdn2.elitegol.xyz/verliga/22/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg" group-title="SPAIN",DMAX
+http://cdn2.elitegol.xyz/verliga/27/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/el-correo-de-andaluc-C3-ADa-tv-logo.png" group-title="SPAIN",El Correo de Andalucia TV
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamgaroo.com/images/streams/600x400/14618607951807.png" group-title="SPAIN",Eurosport 2
+http://cdn2.elitegol.xyz/verliga/25/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491105333230.png" group-title="SPAIN",Fox
 http://cdn2.elitegol.xyz/verliga/28/index.m3u8
@@ -357,6 +390,9 @@ http://cdn2.elitegol.xyz/verliga/4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1920px-Movistar_DCine.svg.png" group-title="SPAIN",Movistar DCine
 http://cdn2.elitegol.xyz/verliga/7/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/tv-kanaler/mtv_hvit.png" group-title="SPAIN",MTV
+http://cdn2.elitegol.xyz/verliga/1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/WTJX22GFFpc/hqdefault.jpg" group-title="SPAIN",Nat Geo Wild
 http://cdn2.elitegol.xyz/verliga/13/index.m3u8
 
@@ -371,6 +407,21 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/459282803549413376/JoWuNky2.jpeg" group-title="SPAIN",Onda Azul
 http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (EN)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2016_11/large.582cb27562d2d_Superee.png.762649faffad1d0df1ebf4fccedb7e66.png" group-title="SPAIN",SupereNe
+http://streann-i.akamaihd.net/hls/live/225396/STREANN-AkamaiSuperene/WVTSUPERENE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/512px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
+http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cineytele.com/wp-content/uploads/2016/04/ten-575x323.jpg" group-title="SPAIN",Ten
+http://cdn2.elitegol.xyz/verliga/33/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.syfy.com/sites/syfy/themes/syfy/default.jpg" group-title="SPAIN",Syfy
 http://edge14.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
