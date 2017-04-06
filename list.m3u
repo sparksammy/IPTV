@@ -582,10 +582,10 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/03/11.jpg" group-title="ARGENTINA",TyC Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/03/11.jpg" group-title="ARGENTINA",TyC Sports HD
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/03/11.jpg" group-title="ARGENTINA",TyC Sports *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/03/11.jpg" group-title="ARGENTINA",TyC Sports
 http://cdn2.elitegol.xyz/verliga/37/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="Z-OMIT",[B][COLOR green]== Chile TV ==[/COLOR][/B]
