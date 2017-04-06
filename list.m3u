@@ -195,6 +195,9 @@ http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-ZxSLgUvnfbA/UgmwyPWsM_I/AAAAAAAAAAc/7TyqbuEdPKg/s1600/animal+planet.jpg" group-title="LATINO",Animal Planet
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/28/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="LATINO",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="LATINO",AXN
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/74/stream.m3u8
 
@@ -206,6 +209,9 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/51/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vsQAgvN5JtQ/AAAAAAAAAAI/AAAAAAAAAAA/0Xb-yTUf-bc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Canal Claro
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/565552790559141888/6Er9L0J6.png" group-title="LATINO",Canal F1 Latin America
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/106/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/cartoonnetwork/images/f/f1/Cartoon_Network_2004_logo.svg.png" group-title="LATINO",Cartoon Network
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/16/stream.m3u8
@@ -347,6 +353,9 @@ http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/64/Warner2012.png" group-title="LATINO",Warner Channel
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/wobi.png" group-title="LATINO",WOBI (EN)
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/107/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="Z-OMIT",[B][COLOR green]== Spain TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Spain.mp3
