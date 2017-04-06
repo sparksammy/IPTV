@@ -114,7 +114,7 @@ http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8
 #EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title="LOCAL",Mexiquense TV (MX) *
 http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8
 
-#EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="http://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title="LOCAL",Multimedios HD (NL)
+#EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/402.png" group-title="LOCAL",Multimedios HD (NL)
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486350658770
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redmexico.org.mx/admin/dbfiles/dbdirectorio/dbicos/71.jpg" group-title="LOCAL",RTQ (QE)
@@ -339,7 +339,7 @@ http://cdn2.elitegol.xyz/verliga/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png" group-title="SPAIN",Boing
 http://edge14.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.calle13.es/sites/all/themes/pint_themes/base_13thstreet_v2/logo-es.svg" group-title="SPAIN",Calle 13
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="SPAIN",Calle 13
 http://cdn2.elitegol.xyz/verliga/18/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adnstream.com/img/canales/Canal-Cocina_w320.jpg" group-title="SPAIN",Canal Cocina
@@ -455,6 +455,21 @@ http://200.115.193.177/live/26hd-720/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.quomusica.com/wp-content/uploads/2015/02/CanaldelaCiudad-TV-Logo.jpg" group-title="ARGENTINA",Canal de la Ciudad
 http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-bxxrOlAm8Xc/VyoWxpAFUjI/AAAAAAAAEkk/IDr2cf3F-0cA9E_zfTAzXOOz4w24DerJgCLcB/s640/construirtv.jpg" group-title="ARGENTINA",Construir TV
+http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvplay.com/thumbs/section-54beb5c4671824c81aa4b2a9-3-100x50-directv_play_directv_sports_sitio_oficial-4abe5f78762c80919e70154442d2d04a.png" group-title="ARGENTINA",DirecTV Sports
+http://cdn2.elitegol.xyz/verliga/10/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvpublica.com.ar/wp-content/uploads/2014/06/comunicacionPublicaDigital-DeporTV.png" group-title="ARGENTINA",DXTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491455166760.jpg" group-title="ARGENTINA",Elgourmet
+https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/71/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/I_sat.jpg" group-title="ARGENTINA",I.Sat
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
