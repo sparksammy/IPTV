@@ -501,6 +501,9 @@ http://streann-i.akamaihd.net/hls/live/225396/STREANN-AkamaiSuperene/WVTSUPERENE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/512px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/512px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco *
+http://edge14.livesports.pw/live/vertelecinco39ffb0f0c5e23/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cineytele.com/wp-content/uploads/2016/04/ten-575x323.jpg" group-title="SPAIN",Ten
 http://cdn2.elitegol.xyz/verliga/33/index.m3u8
 
