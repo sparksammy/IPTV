@@ -252,8 +252,14 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/63/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/175px-2015_Disney_Channel_logo.svg.png" group-title="LATINO",Disney Channel
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/20/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/175px-2015_Disney_Channel_logo.svg.png" group-title="LATINO",Disney Channel *
+http://edge14.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="LATINO",Disney Junior
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/25/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg" group-title="LATINO",Disney Junior *
+http://edge5.livesports.pw/live/verdisneyjuniora1a6392c36/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fontmeme.com/images/disney-xd-logo.png" group-title="LATINO",Disney XD
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/30/stream.m3u8
@@ -351,11 +357,17 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/56/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/syfy-logo.jpg" group-title="LATINO",Syfy
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/42/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logodatabases.com/wp-content/uploads/2012/05/syfy-logo.jpg" group-title="LATINO",Syfy *
+http://edge14.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/logo_tcm_2.jpg" group-title="LATINO",TCM
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/57/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reportajede.news/wp-content/uploads/2016/02/TNT-Logo.jpg" group-title="LATINO",TNT
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/15/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reportajede.news/wp-content/uploads/2016/02/TNT-Logo.jpg" group-title="LATINO",TNT *
+http://cdn2.elitegol.xyz/verliga/29/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LATINO",TruTV
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/73/stream.m3u8
