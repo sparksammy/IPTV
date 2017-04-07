@@ -831,3 +831,78 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",H2 Documentaries
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CNN *
+http://origin2.cignal.tv/aes/smil:cnnhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",VoA
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NFL RedZone
+http://stream.i4atv.info/ggwpl/live2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NFL Now
+http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Olympic Channel HD
+http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Red Bull TV
+http://elementaldelta2.redbull.tv/30_5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HSN
+http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",QVC
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Azteca America (SP)
+http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Telemundo (SP)
+hhttp://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Gol TV (SP)
+http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cadena H (SP)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/68/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TV Marti (SP)
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",El Venezolano (SP)
+http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",La Mega Mundial (SP)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
