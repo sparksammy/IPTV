@@ -1227,10 +1227,10 @@ http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daynewsonline.com/wp-content/uploads/2017/01/sama-tv-live.jpg" group-title="SYRIA",Sama TV
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" tvg-logo="" group-title="SYRIA",Syria News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" group-title="SYRIA",Syria News
 http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg" tvg-logo="" group-title="SYRIA",Syria Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg" group-title="SYRIA",Syria Drama
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Sk6m97Pu2aQ/AAAAAAAAAAI/AAAAAAAAAAA/LPCTsrRt1DI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SYRIA",Ugarit TV
