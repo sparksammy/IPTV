@@ -1172,3 +1172,21 @@ http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="Z-OMIT",[B][COLOR green]== Syria TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Syria.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SYRIA",Syria TV
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SYRIA",Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SYRIA",Syria News
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SYRIA",Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SYRIA",Ugarit TV
+http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="Z-OMIT",[B][COLOR green]== Arabic News ==[/COLOR][/B]
+http://yp.shoutcast.com/sbin/tunein-station.m3u?id=113926
