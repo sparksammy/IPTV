@@ -352,7 +352,7 @@ http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="Z-OMIT",[B][COLOR green]== Latino TV ==[/COLOR][/B]
-http://yp.shoutcast.com/sbin/tunein-station.m3u?id=1532778
+http://50.7.56.2:8016
 
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://channelpear.com/images/media/4841.png" group-title="LATINO",A&E
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/48/stream.m3u8
@@ -1189,4 +1189,4 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="Z-OMIT",[B][COLOR green]== Arabic News ==[/COLOR][/B]
-http://yp.shoutcast.com/sbin/tunein-station.m3u?id=113926
+http://192.99.35.215:5109/stream
