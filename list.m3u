@@ -93,11 +93,17 @@ http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6957.jpeg" group-title="USA",CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thedailyrash.com/wp-content/uploads/2014/02/MSNBC.jpg" group-title="USA",MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="USA",Bloomberg TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" group-title="USA",VoA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Vdi1y4L.jpg" group-title="USA",Fox News
+http://iphone-streaming.ustream.tv/uhls/4381960/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3251.jpg" group-title="USA",C-SPAN
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
@@ -1134,5 +1140,33 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s4.m3u8
 
+#EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/square_icon/lebanon/lebanon_640.png" group-title="Z-OMIT",[B][COLOR green]== Lebanon TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Lebanon.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/fanart/original/plugin.video.AlJadeedPrograms.jpg" group-title="LEBANON",Al Jadeed (Geo)
+https://svs.itworkscdn.net/newtvlive/smil:jadeed.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aljazeera.com/mritems/images/2006/11/23/1_202119_1_5.jpg" group-title="LEBANON",Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mayadeen.blob.core.windows.net/store/archive/_shared/mayadeen-logo.png" group-title="LEBANON",Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LEBANON",Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC (Geo)
+https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lbcgroup.tv/newsimages/News-P-234443-635804074670202354.jpg" group-title="LEBANON",LDC (Geo)
+http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrIJWCkub0c/hqdefault.jpg" group-title="LEBANON",MTV (Geo)
+http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON",Arabica TV
+https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anastasiaklauser.ulango.tv/uploads/channels/24653/logo_hawacom.png" group-title="LEBANON",Hawacom TV
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
