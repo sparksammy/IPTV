@@ -764,3 +764,70 @@ http://live-01.viewer.dacast.com/i/dclive_1@311302/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="Z-OMIT",[B][COLOR green]== USA TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/USA.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",ABC
+http://208.86.19.123:8080/live/104.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CBS
+http://208.86.19.13:8080/live/101.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Fox
+http://208.86.19.13:8080/live/103.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NBC
+http://208.86.19.123:8080/live/102.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",PBS
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WWOR (My 9)
+http://208.86.19.13:8080/live/105.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",PIX 11
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WLIW 21
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WLIW 21 *
+http://208.86.19.123:8080/live/107.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TNT
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",TBS
+http://208.86.19.123:8080/live/201.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",USA Network
+http://208.86.19.123:8080/live/11.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",BBC America
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Ion Television
+http://208.86.19.123:8080/live/109.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Discovery
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Freeform
+http://208.86.19.13:8080/live/27.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Toonami Aftermath EST
+http://iphone-streaming.ustream.tv/uhls/22835363/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Toonami Aftermath PST
+http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Nasa TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",H2 Documentaries
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
+
