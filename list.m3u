@@ -1071,16 +1071,53 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/str
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" tvg-logo="" group-title="KSA",Rotana Aflam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="KSA",Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" tvg-logo="" group-title="KSA",Rotana Classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" group-title="KSA",Rotana Classic
 http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="KSA",Rotana Masriya
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
 
+#EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="Z-OMIT",[B][COLOR green]== UAE TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/UnitedArabEmirates.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One
+http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One *
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" group-title="UAE",Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg" group-title="UAE",Dubai Racing 1
+http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg" group-title="UAE",Dubai Racing 2
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV
+http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama
+http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
+http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2016/04/quest-arabia.jpg" group-title="UAE",Quest
+http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/qatar/flag-button-square-250.png" group-title="Z-OMIT",[B][COLOR green]== Qatar TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Qatar.mp3
