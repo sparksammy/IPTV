@@ -1052,3 +1052,35 @@ http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="Z-OMIT",[B][COLOR green]== KSA TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/SaudiArabia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" group-title="KSA",Saudi 1
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel2/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" group-title="KSA",Saudi 2
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel3/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg" group-title="KSA",Saudi Sports
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/game/files/image/al_ekhbariya_saudi_news_tv_islamic_live_online_free_arabic_channel.png" group-title="KSA",Saudi News
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.an7a.com/wp-content/uploads/2011/06/thaqafiyah.jpg" group-title="KSA",Saudi Documentary
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" tvg-logo="" group-title="KSA",Rotana Aflam
+http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" tvg-logo="" group-title="KSA",Rotana Classic
+http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="KSA",Rotana Masriya
+http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
+
+
+
+
+
