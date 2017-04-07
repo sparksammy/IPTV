@@ -375,6 +375,9 @@ http://cdn2.elitegol.xyz/verliga/29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LATINO",TruTV
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/73/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LATINO",TV5Monde Latino
+http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://digitalspyuk.cdnds.net/13/31/640x320/landscape_uktv-universal-channel-logo.jpg" group-title="LATINO",Universal Channel
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
 
