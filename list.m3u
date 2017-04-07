@@ -1023,5 +1023,32 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/hn_si-tv_m.png" group-title="Honduras",Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="Z-OMIT",[B][COLOR green]== Ecuador TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Ecuador.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://blixtv.com/wp-content/uploads/2015/03/ecuavisa.jpg" group-title="Honduras",Ecuavisa
+http://cdn3.elitegol.xyz/verliga/38/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oromar_logo.png/200px-Oromar_logo.png" group-title="Honduras",Oromar TV
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/85/15/9456e87d60993e3.jpg" group-title="Z-OMIT",[B][COLOR green]== Venezuela TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Venezuela.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fun88goal.com/wp-content/uploads/2015/05/sun-channel-tourism-tv-logo-primary.jpg" group-title="Venezuela",Sun Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nodal.am/wp-content/uploads/2016/03/telesur_logo.jpg" group-title="Venezuela",TeleSUR
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.apkapk.website/com.andromo.dev130378.app268461.png" group-title="Z-OMIT",[B][COLOR green]== Bolivia TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Bolivia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://gigavision.com.bo/wp-content/uploads/sites/8/2015/03/cropped-logoCanal_Gigavision.png" group-title="BOLIVIA",Gigavision
+http://www.server.tevemi.com:1935/8110/8110/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/medium.red_pat.png.e93349a590537fb1722ea5bff6abbfc6.png" group-title="BOLIVIA",Red PAT
+http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="Z-OMIT",[B][COLOR green]== KSA TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/SaudiArabia.mp3
