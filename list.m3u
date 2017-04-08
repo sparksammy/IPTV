@@ -145,7 +145,10 @@ http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manife
 http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="USA",Telemundo (SP)
-hhttp://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u
+http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/tooncast_left_logo.jpg" group-title="USA",Tooncast (SP)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/31/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2012/08/goltv-logo1.jpg" group-title="USA",Gol TV (SP)
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
@@ -321,6 +324,9 @@ http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aquienguate.com/images/logos/124307.jpg" group-title="MEXICO",Unicable
 https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/43/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rbr.com/wp-content/uploads/El-Financiero.jpg" group-title="MEXICO",El Financiero Bloomberg
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/24/stream.m3u8
+
 #EXTINF:-1 tvg-id="EfektoTV" tvg-name="EfektoTV" tvg-logo="http://elpoderdelespiritu.com/channels/efektotv.png" group-title="MEXICO",Efekto TV HD
 http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 
@@ -374,6 +380,9 @@ https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/41/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO",Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://allvectorlogo.com/img/2016/07/telehit-logo.png" group-title="MEXICO",Telehit
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/100/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Mexico_map_with_flag.png" group-title="LABEL",[B][COLOR green]== Mexico Local TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Mexico.mp3
@@ -513,6 +522,9 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/64/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://payload.cargocollective.com/1/0/891/407649/TURBO-LOGO.jpg" group-title="LATINO",Discovery Turbo
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/63/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png" group-title="LATINO",Discovery World
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/63/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/175px-2015_Disney_Channel_logo.svg.png" group-title="LATINO",Disney Channel
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/20/stream.m3u8
 
@@ -551,6 +563,9 @@ https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/13/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zHueLzhpkzc/UFcjuqZ4jAI/AAAAAAAAN4I/N01Reruy8g0/s1600/canal_fox_cl.png" group-title="LATINO",Fox
 http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zHueLzhpkzc/UFcjuqZ4jAI/AAAAAAAAN4I/N01Reruy8g0/s1600/canal_fox_cl.png" group-title="LATINO",Fox *
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/8/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="LATINO",Fox Life
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/44/stream.m3u8
