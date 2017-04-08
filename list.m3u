@@ -162,6 +162,72 @@ http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="USA",La Mega Mundial (SP)
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",[B][COLOR green]== UK TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/129.jpeg" group-title="UK",ITV
+http://5.135.139.19:1935/server7/stream19.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/211.png" group-title="UK",BBC One
+http://5.135.139.19:1935/server7/stream18.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1680.png" group-title="UK",BBC Two
+http://5.135.139.19:1935/server7/stream20.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News
+http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=bbc-news
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/12344.gif" group-title="UK",BBC Parliament
+http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png" group-title="UK",STV
+http://5.135.139.19:1935/server7/stream22.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.tvplayer.com/common/logos/256/Inverted/251.png" group-title="UK",S4C
+http://5.135.139.19:1935/server7/stream33.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.unichromecreative.co.uk/wp/wp-content/uploads/2015/12/ITV-Encore-logo.jpg" group-title="UK",ITV Encore
+http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/y540w4T.png" group-title="UK",AMC
+http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://warnertv-prod.s3-website-ap-southeast-1.amazonaws.com/uploads/shows/d395fa0ea7a0c7a43df71790e1137f7a.jpg" group-title="UK",Warner TV
+http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn32.sptndigital.com/sites/uk.set/files/styles/image_700x394/public/default/responsive_sony_blue/default_channel.jpg" group-title="UK",Sony Channel
+http://50.7.69.42:8899/GB/UK/SONY_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/01/Sony-Movie-Channel.png" group-title="UK",Sony Movies
+http://50.7.69.42:8899/GB/UK/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MjgFltd.jpg" group-title="UK",Food Network
+http://origin2.cignal.tv/aes/smil:fnhd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.afin.at/typo3temp/pics/f9b9cf2c1e.jpg" group-title="UK",Fashion TV
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/112/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.itv.com/uploads/show/show_branding_logo/42/WCRX85ZI3pOn7GiO_NZ0XZ8OnpnBNylotC_12DNRY8Y.png" group-title="UK",CITV
+http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2510.png" group-title="UK",Cartoon Network
+http://origin2.cignal.tv/aes/smil:cnhd.smil/chunklist_w2137725223_b768000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img-realtree.com/sites/default/files/content/previews/outdoorchannellogo.gif" group-title="UK",Outdoor Channel
+http://origin2.cignal.tv/aes/smil:ohd.smil/chunklist_w186411106_b768000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
+http://81.7.13.162/hls/ss4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1108.jpg" group-title="UK",BT Sport 1
+http://5.135.139.19:1935/server7/btsport1.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Wie36zX.png" group-title="UK",BT Sport 2
+http://5.135.139.19:1935/server7/btsport2.stream/playlist.m3u8?token=
+
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",[B][COLOR green]== Mexico TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Mexico.mp3
 
@@ -1235,7 +1301,3 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Sk6m97Pu2aQ/AAAAAAAAAAI/AAAAAAAAAAA/LPCTsrRt1DI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SYRIA",Ugarit TV
 http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",[B][COLOR green]== UK TV ==[/COLOR][/B]
-http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
-
