@@ -196,7 +196,7 @@ http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
 http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://warnertv-prod.s3-website-ap-southeast-1.amazonaws.com/uploads/shows/d395fa0ea7a0c7a43df71790e1137f7a.jpg" group-title="UK",Warner TV
-http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
+http://origin2.cignal.tv/aes/smil:wtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn32.sptndigital.com/sites/uk.set/files/styles/image_700x394/public/default/responsive_sony_blue/default_channel.jpg" group-title="UK",Sony Channel
 http://50.7.69.42:8899/GB/UK/SONY_TV/index.m3u8
