@@ -141,30 +141,6 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hispanicmarketworks.org/wp-content/uploads/2015/05/20150504-PG13-AztecaAmerica.jpg" group-title="USA",Azteca America (SP)
-http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="USA",Telemundo (SP)
-http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/tooncast_left_logo.jpg" group-title="USA",Tooncast (SP)
-http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/31/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2012/08/goltv-logo1.jpg" group-title="USA",Gol TV (SP)
-http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491492317750.jpg" group-title="USA",Cadena H (SP)
-http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/68/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bbgwatch.com/bbgwatch/wp-content/uploads/2013/08/Marti-150x150.png" group-title="USA",TV Marti (SP)
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elvenezolano.tv/wp-content/uploads/2016/08/logo.png" group-title="USA",El Venezolano (SP)
-http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="USA",La Mega Mundial (SP)
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR green]== Adult Swim ==[/COLOR][/B]
 http://stream.dubstep.fm:80/256mp3
 
@@ -526,11 +502,17 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="LATINO",AXN
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/74/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hispanicmarketworks.org/wp-content/uploads/2015/05/20150504-PG13-AztecaAmerica.jpg" group-title="LATINO",Azteca America
+http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i2.esmas.com/2015/06/29/780439/nueva-imagen-bandamax-624x468.jpg" group-title="LATINO",Bandamax
 https://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/14/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="LATINO",Boomerang
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/51/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491492317750.jpg" group-title="LATINO",Cadena H
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/68/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vsQAgvN5JtQ/AAAAAAAAAAI/AAAAAAAAAAA/0Xb-yTUf-bc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Canal Claro
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
@@ -649,6 +631,9 @@ http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/5/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/FX_w.svg.png" group-title="LATINO",FX
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/8/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2012/08/goltv-logo1.jpg" group-title="LATINO",Gol TV
+http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://orbitcable.com.do/v2/wp-content/uploads/2015/09/312-Golden.jpg" group-title="LATINO",Golden
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/54/stream.m3u8
 
@@ -666,6 +651,9 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/65/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1901.gif" group-title="LATINO",Lifetime
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/34/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="LATINO",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="LATINO",Nickelodeon
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/21/stream.m3u8
@@ -703,11 +691,17 @@ http://edge14.livesports.pw/live/versysfesp42975d2f318954b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/logo_tcm_2.jpg" group-title="LATINO",TCM
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/57/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo
+http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reportajede.news/wp-content/uploads/2016/02/TNT-Logo.jpg" group-title="LATINO",TNT
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/15/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reportajede.news/wp-content/uploads/2016/02/TNT-Logo.jpg" group-title="LATINO",TNT *
 http://cdn2.elitegol.xyz/verliga/29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/tooncast_left_logo.jpg" group-title="LATINO",Tooncast
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/31/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LATINO",TruTV
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/73/stream.m3u8
@@ -715,8 +709,14 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/73/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="LATINO",TV5Monde Latino (FR)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bbgwatch.com/bbgwatch/wp-content/uploads/2013/08/Marti-150x150.png" group-title="LATINO",TV Marti
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://digitalspyuk.cdnds.net/13/31/640x320/landscape_uktv-universal-channel-logo.jpg" group-title="LATINO",Universal Channel
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elvenezolano.tv/wp-content/uploads/2016/08/logo.png" group-title="LATINO",El Venezolano
+http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/6/64/Warner2012.png" group-title="LATINO",Warner Channel
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
