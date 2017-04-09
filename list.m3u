@@ -523,7 +523,7 @@ http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/64/stream.m3u8
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/63/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/discoveryworld.png" group-title="LATINO",Discovery World
-http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/63/stream.m3u8
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/87/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/175px-2015_Disney_Channel_logo.svg.png" group-title="LATINO",Disney Channel
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/20/stream.m3u8
@@ -566,6 +566,9 @@ http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zHueLzhpkzc/UFcjuqZ4jAI/AAAAAAAAN4I/N01Reruy8g0/s1600/canal_fox_cl.png" group-title="LATINO",Fox *
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/8/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zHueLzhpkzc/UFcjuqZ4jAI/AAAAAAAAN4I/N01Reruy8g0/s1600/canal_fox_cl.png" group-title="LATINO",Fox *
+http://cdn2.elitegol.xyz/verliga/28/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="LATINO",Fox Life
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/44/stream.m3u8
@@ -755,9 +758,6 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamgaroo.com/images/streams/600x400/14618607951807.png" group-title="SPAIN",Eurosport 2
 http://cdn2.elitegol.xyz/verliga/25/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491105333230.png" group-title="SPAIN",Fox
-http://cdn2.elitegol.xyz/verliga/28/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
@@ -1217,9 +1217,6 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_ar.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/france24_arabic.jpg" group-title="ARABIC NEWS",France 24
 http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cfvod.kaltura.com/p/1396861/sp/139686100/thumbnail/entry_id/1_f4dwlwce/version/100001/width/720/height/480" group-title="ARABIC NEWS",Nessma
-http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.image-share.com/upload/3127/124.jpg" group-title="ARABIC NEWS",NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
