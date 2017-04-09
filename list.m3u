@@ -318,6 +318,9 @@ https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/113/stream.m3u8
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",FOROtv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
 
+#EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",FOROtv *
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/101/stream.m3u8
+
 #EXTINF:-1 tvg-id="Proyecto 40" tvg-name="Proyecto 40" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MEXICO",ADN 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
 
@@ -339,8 +342,11 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg" group-title="MEXICO",GreenTV
 http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="MEXICO",Once TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="MEXICO",Once TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="MEXICO",Once TV*
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/18/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.spr.gob.mx/img/ligas_interes/logo_canal_22.jpg" group-title="MEXICO",Canal 22
 http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
