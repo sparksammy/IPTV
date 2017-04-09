@@ -724,6 +724,15 @@ http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/wobi.png" group-title="LATINO",WOBI TV
 http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/107/stream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097861982.jpg" group-title="LATINO",Gravity Falls (MP4)
+http://latino-webtv.ml/series/gameofthrones.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",Los Simpson (MP4)
+http://latino-webtv.ml/series/simpsons.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491099909658.jpg" group-title="LATINO",Juego de Tronos (MP4)
+http://latino-webtv.ml/series/gameofthrones.mp4
+
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",[B][COLOR green]== Spain TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Spain.mp3
 
