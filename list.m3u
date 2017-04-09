@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="LABEL",:: Donate: [COLOR yellow]tiny.cc/FluxusTVDonate[/COLOR] ::
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="LABEL",:: Update: [COLOR yellow]04/06/2017[/COLOR] ::
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="LABEL",:: Update: [COLOR yellow]04/08/2017[/COLOR] ::
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR green]== USA TV ==[/COLOR][/B]
@@ -339,6 +339,9 @@ http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/111/stream.m3u8
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="MEXICO",Milenio TV *
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Gala-tv.png" group-title="MEXICO",Gala TV
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/72/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg" group-title="MEXICO",GreenTV
 http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 
@@ -494,6 +497,9 @@ https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/106/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/cartoonnetwork/images/f/f1/Cartoon_Network_2004_logo.svg.png" group-title="LATINO",Cartoon Network
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/16/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4722.jpg" group-title="LATINO",CBeebies
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/50/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/medium.Cinecanal-altSep16.png.c01ec81f9ad0558e17d7708a22ba787e.png" group-title="LATINO",Cinecanal
 http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/12/stream.m3u8
@@ -905,6 +911,9 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491455166760.jpg" group-title="ARGENTINA",Elgourmet
 https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/71/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="ARGENTINA",Garage TV
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/104/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/I_sat.jpg" group-title="ARGENTINA",I.Sat
 http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
