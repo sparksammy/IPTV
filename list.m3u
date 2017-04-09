@@ -1206,6 +1206,12 @@ http://www.lengua.com/anthems/Italy.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="ITALY",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg" group-title="ITALY",History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",La 7
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="ITALY",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
@@ -1214,6 +1220,9 @@ http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="ITALY",Radio Monte Carlo
 http://fms.105.net:1935/live/rmc1/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="ITALY",Radio Taormina
+http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digiterrestre.com/wp-content/uploads/2010/11/rai5.png" group-title="ITALY",Rai 5
 http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
@@ -1238,6 +1247,12 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ilroma.net/sites/default/files/Rtl-logo.jpg" group-title="ITALY",RTL 102.5
 http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.larena.it/gfx/siti/quotidiani_web-v3/images/demo/photo08.jpg" group-title="ITALY",TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-IEsZs7n9BlE/AAAAAAAAAAI/AAAAAAAAAAA/ze1PixBe8_E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",Videostar
+http://151.80.100.112:1935/tvstar/tvstar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",[B][COLOR green]== Arabic News ==[/COLOR][/B]
 http://192.99.35.215:5109/stream
