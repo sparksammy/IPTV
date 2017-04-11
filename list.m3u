@@ -690,15 +690,6 @@ http://cdn2.elitegol.xyz/verliga/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvpublica.com.ar/wp-content/uploads/2014/06/comunicacionPublicaDigital-DeporTV.png" group-title="ARGENTINA",DXTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491455166760.jpg" group-title="ARGENTINA",Elgourmet
-https://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/71/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_37194.png" group-title="ARGENTINA",Garage TV
-http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/104/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/I_sat.jpg" group-title="ARGENTINA",I.Sat
-http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
@@ -830,6 +821,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/3PANr.png" group-title="COLOMBIA",Vmas
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-Q-Aa5I2t2UQ/Vzprkbdp8qI/AAAAAAAAkoQ/Dgjnk3elXcQfV7kwrvY2GOROrKatZRJLACLcB/s320/Win_Sport_logo.png" group-title="COLOMBIA",Win Sports
+http://cdn2.elitegol.xyz/verliga/35/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/costa-rica/flag-button-square-250.png" group-title="LABEL",[B][COLOR green]== Costa Rica TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/CostaRica.mp3
