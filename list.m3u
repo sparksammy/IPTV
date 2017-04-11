@@ -438,6 +438,9 @@ http://efusion1-i.akamaihd.net/hls/live/252882/hispantv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo
 http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="LATINO",TNT
+http://cdn2.elitegol.xyz/verliga/29/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="LATINO",TV5Monde Latino (FR)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 
