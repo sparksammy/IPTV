@@ -270,7 +270,7 @@ http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drjasonjohnson.files.wordpress.com/2016/05/08-al-jazeera-e1336473401965.gif" group-title="WORLD NEWS",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="WORLD NEWS",BBC World News HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="WORLD NEWS",BBC World News
 http://dreamlord.tk:5454/live/emby/plexsucks/14066.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="WORLD NEWS",BBC World News
