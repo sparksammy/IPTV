@@ -1067,6 +1067,66 @@ http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-IEsZs7n9BlE/AAAAAAAAAAI/AAAAAAAAAAA/ze1PixBe8_E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",Videostar
 http://151.80.100.112:1935/tvstar/tvstar/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",[B][COLOR green]== Greece TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Greece.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14792.png" group-title="GREECE",4E TV
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvgreece.tk/acheloos.jpg" group-title="GREECE",Acheloos TV
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rodiaki.gr/articles/2013-12-09/267507/thumb_640.jpg" group-title="GREECE",Aigaio TV
+http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www1.astratv.gr/wp-content/uploads/2015/06/logoastra-300x51.png" group-title="GREECE",Astra TV
+http://www.astratv.gr:8090/hls/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logos/ktv-og.png" group-title="GREECE",Crete TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mad3vUlHRKk/mqdefault.jpg" group-title="GREECE" group-title="MUSIC",Ellinikos FM
+http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-4DmxytUTGGE/VxRh6axUqLI/AAAAAAAAON0/OG3GQC7SjzoV5qtNcqIuyvdZzKnuO_UowCLcB/s1600/ioannina_tv_gr.png" group-title="GREECE",Ioannina TV
+http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/logo-kontra.png" group-title="GREECE",Kontra
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mad.tv/wp-content/uploads/2015/11/charts.jpg" group-title="GREECE" group-title="MUSIC",MAD TV
+http://144.76.2.213:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mpaxalotv.magicstreams.net/mpaxalologo.jpg" group-title="GREECE",Mpaxalo TV
+http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zarpanews.gr/wp-content/uploads/2013/06/nea-tv-e1372269765679.png" group-title="GREECE",Nea TV
+http://srv.viiideo.gr:1935/neatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.doriforikanea.gr/sub/news/sbctv-logo.jpg" group-title="GREECE",SBC
+http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://syrosrace.gr/gr/wp-content/uploads/2011/08/TV1.jpg" group-title="GREECE",Syros TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-OKd7PRKNvq0/V5IU9KHwhkI/AAAAAAAACJs/Azm19N9RihkJaTIoBL9mm_gQOLcdHVc-gCLcB/s200/thrakinet.png" group-title="GREECE",Thraki Net TV
+http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/02f9ff0c940d52c67dc7a5aac7e9c235.jpeg" group-title="GREECE",Tilesport TV
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.livetvgr.com/wp-content/uploads/2013/01/vouli-tv-CHANNELS-GREEK-TV.jpg" group-title="GREECE",Vouli TV
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.greekradio.net/graphics/chwb.png" group-title="GREECE",Montreal Greek TV
+http://138.197.136.102:8081/live/greektv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-BvwqZSJKLAY/Vr1DZnpLEeI/AAAAAAAASAk/SbNAKTnyhgs/s1600/3.png" group-title="GREECE",NETV Toronto
+http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg" group-title="GREECE",Sigma TV (CY)
+http://81.21.47.74/hls/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",[B][COLOR green]== Arabic News ==[/COLOR][/B]
 http://192.99.35.215:5109/stream
 
