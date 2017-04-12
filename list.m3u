@@ -129,16 +129,49 @@ http://stream.i4atv.info/ggwpl/live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/9095.png" group-title="USA",NFL Now
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9LtjkGW.jpg" group-title="USA",Olympic Channel HD
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-C6a3WowdZpM/Vt29q_dnYEI/AAAAAAAAE8o/N0MPtbWquBM/s1600/rbtv-logo-large.png" group-title="USA",Red Bull TV
 http://elementaldelta2.redbull.tv/30_5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/2000px-HSN_logo.svg.png" tvg-logo="" group-title="USA",HSN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="USA",ESPN
+http://dreamlord.tk:5454/live/emby/plexsucks/14198.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="USA",Fox Sports 1
+http://dreamlord.tk:5454/live/emby/plexsucks/14238.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Fox_Sports_2_Logo.jpg" group-title="USA",Fox Sports 2
+http://dreamlord.tk:5454/live/emby/plexsucks/14237.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.darrellsgolftraining.com/wp-content/uploads/2014/07/GolfChannellogo2011.png" group-title="USA",NBC Golf
+http://dreamlord.tk:5454/live/emby/plexsucks/14162.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network HD
+http://dreamlord.tk:5454/live/emby/plexsucks/14169.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" group-title="USA",NBA TV
+http://dreamlord.tk:5454/live/emby/plexsucks/14170.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.nbcnewyork.com/images/1200*675/NBCSN.jpg" group-title="USA",NBCSN
+http://dreamlord.tk:5454/live/emby/plexsucks/14132.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://csa.dishnetwork.com/images/logos/NFL.PNG" group-title="USA",NFL Network
+http://dreamlord.tk:5454/live/emby/plexsucks/14202.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-owuDiJmYRKo/TvPXuWzB45I/AAAAAAAADXY/qAOckKR7qJo/s1600/NHL+Network+logo+2011.png" group-title="USA",NHL Network
+http://dreamlord.tk:5454/live/emby/plexsucks/14144.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.officialpsds.com/images/thumbs/WWE-Network-Logo-psd98782.png" group-title="USA",WWE Network
+http://dreamlord.tk:5454/live/emby/plexsucks/14057.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.motoamerica.com/sites/motoamerica.com/files/styles/large_4x3/public/custom-touts/2016/04/ma-logos-4x3-05.jpg" group-title="USA",beIN Sport
+http://dreamlord.tk:5454/live/emby/plexsucks/14154.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" tvg-logo="" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",QVC
