@@ -1067,7 +1067,7 @@ http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-IEsZs7n9BlE/AAAAAAAAAAI/AAAAAAAAAAA/ze1PixBe8_E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",Videostar
 http://151.80.100.112:1935/tvstar/tvstar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",[B][COLOR green]== Greece TV ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://kordas.gr/img/gr.png" group-title="LABEL",[B][COLOR green]== Greece TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Greece.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14792.png" group-title="GREECE",4E TV
