@@ -237,7 +237,7 @@ http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2510.png" group-title="UK",Cartoon Network
 http://dreamlord.tk:5454/live/emby/plexsucks/14981.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2510.png" group-title="UK",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2510.png" group-title="UK",Cartoon Network Asia
 http://origin2.cignal.tv/aes/smil:cnhd.smil/chunklist_w2137725223_b768000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" group-title="UK",Insight UHD
