@@ -348,7 +348,7 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.ufc.tv/logos/logo-baja.png" group-title="MEXICO",UFC Network
 http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO",Teleritmo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO,MUSIC",Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Mexico_map_with_flag.png" group-title="LABEL",[B][COLOR green]== Mexico Local TV ==[/COLOR][/B]
@@ -555,7 +555,7 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamgaroo.com/images/streams/600x400/14618607951807.png" group-title="SPAIN",Eurosport 2
 http://cdn2.elitegol.xyz/verliga/25/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN,MUSIC",Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="SPAIN",Hola TV
@@ -684,7 +684,7 @@ http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-bxxrOlAm8Xc/VyoWxpAFUjI/AAAAAAAAEkk/IDr2cf3F-0cA9E_zfTAzXOOz4w24DerJgCLcB/s640/construirtv.jpg" group-title="ARGENTINA",Construir TV
 http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA,MUSIC",Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvplay.com/thumbs/section-54beb5c4671824c81aa4b2a9-3-100x50-directv_play_directv_sports_sitio_oficial-4abe5f78762c80919e70154442d2d04a.png" group-title="ARGENTINA",DirecTV Sports
@@ -693,19 +693,19 @@ http://cdn2.elitegol.xyz/verliga/10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvpublica.com.ar/wp-content/uploads/2014/06/comunicacionPublicaDigital-DeporTV.png" group-title="ARGENTINA",DXTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA,MUSIC",Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/programs/ar_chronochicos-s00e01_l_m.jpg" group-title="ARGENTINA",Pakapaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="ARGENTINA",Power HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="ARGENTINA,MUSIC",Power HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redeco.com.ar/images/stories/redeco/Nacional/medios/qm_noticias.png" group-title="ARGENTINA",QM Noticias
 http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ARGENTINA",Radio One HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ARGENTINA,MUSIC",Radio One HD
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mincyt.gob.ar/adjuntos/imagenes/000/021/0000021142.jpg" group-title="ARGENTINA",Tec TV HD
@@ -714,7 +714,7 @@ http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="ARGENTINA",TelpinTV Canal 2 HD
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA,MUSIC",TLX HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/03/11.jpg" group-title="ARGENTINA",TyC Sports HD
@@ -777,7 +777,7 @@ http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emrtallercreativo.com/img/medios/television/canal_uno.jpg" group-title="COLOMBIA",Canal Uno
 http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/playlist_p1500000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-mlFvknLpfgE/VQy5lg2IcyI/AAAAAAAAAXc/w4LPztKxtKc/s320/CantinazoTV.jpg" group-title="COLOMBIA",Cantinazo TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-mlFvknLpfgE/VQy5lg2IcyI/AAAAAAAAAXc/w4LPztKxtKc/s320/CantinazoTV.jpg" group-title="COLOMBIA,MUSIC",Cantinazo TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-19K43ULMe40/TrvUcbhyiiI/AAAAAAAAAlM/L7sXf72CeCA/s1600/cosmo+tv.png" group-title="COLOMBIA",Cosmovision
@@ -792,7 +792,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_72391.png" group-title="COLOMBIA",Mi Gente TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="COLOMBIA",MiMusica HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="COLOMBIA,MUSIC",MiMusica HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png" group-title="COLOMBIA",RCN TV
@@ -813,7 +813,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9aM1tcTrdZE/AAAAAAAAAAI/AAAAAAAAAAA/WFqCRbAPIXI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COLOMBIA",Televentas Mio
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MIOTV/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://industriamusical.es/wp-content/uploads/2014/09/Tigo-Music.png" group-title="COLOMBIA",Tigo Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://industriamusical.es/wp-content/uploads/2014/09/Tigo-Music.png" group-title="COLOMBIA,MUSIC",Tigo Music
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TC_LOGO.png/245px-TC_LOGO.png" group-title="COLOMBIA",Trendy Channel
@@ -930,7 +930,7 @@ http://www.lengua.com/anthems/Honduras.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/HCH_Turkey.jpg" group-title="HONDURAS",HCH
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/hn_si-tv_m.png" group-title="HONDURAS",Si TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/hn_si-tv_m.png" group-title="HONDURAS,MUSIC",Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/ecuador/flag-button-square-250.png" group-title="LABEL",[B][COLOR green]== Ecuador TV ==[/COLOR][/B]
@@ -975,13 +975,13 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reshet.tv/wp-content/uploads/2017/01/logo-reshet.jpg" group-title="ISRAEL",Reshet
 http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448546266.png" group-title="ISRAEL",Music 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448546266.png" group-title="ISRAEL,MUSIC",Music 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",[B][COLOR green]== Italy TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Italy.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="ITALY",Carina TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="ITALY,MUSIC",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg" group-title="ITALY",History Lab
@@ -990,13 +990,13 @@ http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",La 7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="ITALY",m20 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="ITALY,MUSIC",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY",Radio Italia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY,MUSIC",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="ITALY",Radio Monte Carlo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="ITALY,MUSIC",Radio Monte Carlo
 http://fms.105.net:1935/live/rmc1/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="ITALY",Radio Taormina
@@ -1023,7 +1023,7 @@ http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/1200px-RAI_YoYo_2010_Logo.svg.png" group-title="ITALY",Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ilroma.net/sites/default/files/Rtl-logo.jpg" group-title="ITALY",RTL 102.5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ilroma.net/sites/default/files/Rtl-logo.jpg" group-title="ITALY,MUSIC",RTL 102.5
 http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.larena.it/gfx/siti/quotidiani_web-v3/images/demo/photo08.jpg" group-title="ITALY",TeleArena
@@ -1107,6 +1107,9 @@ http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="KSA",Rotana Masriya
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA,MUSIC",Wanasah
+http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",[B][COLOR green]== UAE TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
 
@@ -1185,10 +1188,10 @@ http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrIJWCkub0c/hqdefault.jpg" group-title="LEBANON",MTV (Geo)
 http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON",Arabica TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON,MUSIC",Arabica TV
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anastasiaklauser.ulango.tv/uploads/channels/24653/logo_hawacom.png" group-title="LEBANON",Hawacom TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anastasiaklauser.ulango.tv/uploads/channels/24653/logo_hawacom.png" group-title="LEBANON,MUSIC",Hawacom TV
 http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",[B][COLOR green]== Syria TV ==[/COLOR][/B]
