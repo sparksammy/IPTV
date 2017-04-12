@@ -981,7 +981,7 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",[B][COLOR green]== Italy TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Italy.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="ITALY,MUSIC",Carina TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="ITALY" group-title="MUSIC",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg" group-title="ITALY",History Lab
@@ -993,7 +993,7 @@ http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="ITALY" group-title="MUSIC",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY,MUSIC",Radio Italia TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY" group-title="MUSIC",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="ITALY" group-title="MUSIC",Radio Monte Carlo
@@ -1023,7 +1023,7 @@ http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/1200px-RAI_YoYo_2010_Logo.svg.png" group-title="ITALY",Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ilroma.net/sites/default/files/Rtl-logo.jpg" group-title="ITALY,MUSIC",RTL 102.5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ilroma.net/sites/default/files/Rtl-logo.jpg" group-title="ITALY" group-title="MUSIC",RTL 102.5
 http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.larena.it/gfx/siti/quotidiani_web-v3/images/demo/photo08.jpg" group-title="ITALY",TeleArena
