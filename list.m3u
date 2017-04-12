@@ -593,6 +593,7 @@ http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3
 http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/0/1/0/20109787/20109787,640x360,b:2.jpg" group-title="LATINO",Vitato TV
+
 http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097861982.jpg" group-title="LATINO",Gravity Falls (MP4)
