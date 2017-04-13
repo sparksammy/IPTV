@@ -1462,6 +1462,15 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Sk6m97Pu2aQ/AAAAAAAAAAI/AAAAAAAAAAA/LPCTsrRt1DI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SYRIA",Ugarit TV
 http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/jo.png" group-title="LABEL",[B][COLOR green]== Jordan TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Jordan.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/Palestine-01.png" group-title="LABEL",[B][COLOR green]== Palestine TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Palestine.mp3
 
@@ -1489,11 +1498,11 @@ http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="EGYPT",Rotana Masriya
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
 
-#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/jo.png" group-title="LABEL",[B][COLOR green]== Jordan TV ==[/COLOR][/B]
-http://www.lengua.com/anthems/Jordan.mp3
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Libya%20(New)-01.png" group-title="LABEL",[B][COLOR green]== Libya TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Libya.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
-http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="JORDAN",Libya TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_240p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
-http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/mqEK6nU.gif" group-title="JORDAN",Al Hadath
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
