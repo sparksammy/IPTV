@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="LABEL",:: [COLOR yellow]fb.me/FluxusTV[/COLOR] ::
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="LABEL",:: Update: [COLOR yellow]04/12/2017[/COLOR] ::
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="LABEL",:: Update: [COLOR yellow]04/13/2017[/COLOR] ::
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR green]== USA TV ==[/COLOR][/B]
@@ -1408,6 +1408,15 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s4.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.wpclipart.com/flags/country_code_buttons/.cache/om_Oman.png" group-title="LABEL",[B][COLOR green]== Oman TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Oman.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV
+http://38.96.148.30:1935/live/omantv1/Zona-Live-TV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-yCEXwQgArD8/VqpC50OgSaI/AAAAAAAAAMw/rCuOnftELJ4/s1600/omansportstv.png" group-title="OMAN",Oman Sports
+http://38.96.148.30:1935/live/omantv2/Zona-Live-TV.m3u8
+
 #EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/square_icon/lebanon/lebanon_640.png" group-title="LABEL",[B][COLOR green]== Lebanon TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Lebanon.mp3
 
@@ -1455,3 +1464,14 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Sk6m97Pu2aQ/AAAAAAAAAAI/AAAAAAAAAAA/LPCTsrRt1DI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SYRIA",Ugarit TV
 http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/Palestine-01.png" group-title="LABEL",[B][COLOR green]== Palestine TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Palestine.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imemc.org/wp-content/uploads/mar2016/palestinetoday.jpg" group-title="PALESTINE",Palestine Today
+http://live.paltoday.tv:1935/paltv/live/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG" group-title="PALESTINE",Al Quds
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+
