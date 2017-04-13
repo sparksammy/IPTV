@@ -1231,6 +1231,51 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg" group-title="GREECE",Sigma TV (CY)
 http://81.21.47.74/hls/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",[B][COLOR green]== Turkey TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Turkey.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="TURKEY",Bursapor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/795977867008077824/YLp6rTAL.jpg" group-title="TURKEY" group-title="MUSIC",Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/440px-FOX_wordmark-orange.svg.png" group-title="TURKEY",Fox
+http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sentezyapi.com/Files/referanskanal242794433.jpg" group-title="TURKEY",Kanal 24
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u88
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.batitrakya.org/wp-content/uploads/2016/01/trt-avaz.jpg" group-title="TURKEY",TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.trtbelgesel.net.tr/fotograf/makaleler/1-yeni-donem-basin-bulteni-20150404-141137-trtbelgesel-makaleler_270x198.jpg" group-title="TURKEY",TRT Belgesel
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trthaberstatic.s3-website-eu-west-1.amazonaws.com/resimler/542000/543144.jpg" group-title="TURKEY",TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.duzicimuftulugu.gov.tr/resimler/bag/1cf553078842fce52c1d2edebaa51f69.jpg" group-title="TURKEY",TRT Diyanet
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/CyVPO6MW8AAvy-0.jpg" group-title="TURKEY",TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canlitv.gallery/wp-content/uploads/2016/09/trtmuzik-tv-canli.png" group-title="TURKEY",TRT Muzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://trtkurumsal.trt.net.tr/Uploads/image/png/2015-07-02-16.22.45/a778abff5363462182f7a3bd5a87f259.png" group-title="TURKEY",TRT Okul
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Trt_turk.png" group-title="TURKEY",TRT Turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",[B][COLOR green]== Arabic News ==[/COLOR][/B]
 http://192.99.35.215:5109/stream
 
