@@ -649,23 +649,14 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="SPAIN",Atreseries HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="SPAIN",AXN
-http://edge10.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/es/BARCA.png" group-title="SPAIN",Barca TV
 http://cdn2.elitegol.xyz/verliga/2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.motoamerica.com/sites/motoamerica.com/files/styles/large_4x3/public/custom-touts/2016/04/ma-logos-4x3-05.jpg" group-title="SPAIN",beIN Sports
-http://edge6.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png" group-title="SPAIN",Boing
 http://edge14.livesports.pw/live/verboing26865699c9d756dcf/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="SPAIN",Calle 13
 http://cdn2.elitegol.xyz/verliga/18/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/wp-content/uploads/2011/03/calle131.jpg" group-title="SPAIN",Calle 13 *
-http://edge10.livesports.pw/live/vercalltreesb62be937cb974/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="SPAIN",Canal 24 Horas
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
@@ -751,17 +742,8 @@ http://cdn2.elitegol.xyz/verliga/7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1920px-Movistar_Estrenos.svg.png" group-title="SPAIN",Movistar Estrenos
 http://edge15.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_Fútbol.svg/2000px-Movistar_Fútbol.svg.png" group-title="SPAIN",Movistar Futbol
-http://edge5.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vertele.eldiario.es/files/2014/12/Movistar-Series.jpg" group-title="SPAIN",Movistar Series
 http://edge14.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/MovistarSeriesXtra.png" group-title="SPAIN",Movistar Series Xtra
-http://edge6.livesports.pw/live/vera6669184f0b71095624027/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tventretenimiento.es/images/Movistar_Xtra.svg.png" group-title="SPAIN",Movistar Xtra
-http://edge7.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/tv-kanaler/mtv_hvit.png" group-title="SPAIN",MTV
 http://cdn2.elitegol.xyz/verliga/1/index.m3u8
