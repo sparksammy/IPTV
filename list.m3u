@@ -1348,9 +1348,6 @@ http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" group-title="KSA",Rotana Classic
 http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="KSA",Rotana Masriya
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA" group-title="MUSIC",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
@@ -1474,4 +1471,29 @@ http://live.paltoday.tv:1935/paltv/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG" group-title="PALESTINE",Al Quds
 http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",[B][COLOR green]== Egypt TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Egypt.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.livetvhd.net/thumbs/al_masriya.jpg" group-title="EGYPT",ERTU 1
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elshobak.com/images/watch-melody-aflam-online-free.jpg" group-title="EGYPT",Melody Aflam
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/mldyc.png" group-title="EGYPT",Melody Classic
+http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="EGYPT",Rotana Masriya
+http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
+
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/jo.png" group-title="LABEL",[B][COLOR green]== Jordan TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Jordan.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
+http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
+http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
