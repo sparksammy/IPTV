@@ -530,6 +530,9 @@ http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Capital 21" tvg-name="Canal Capital 21" tvg-logo="http://imryt.org/sites/default/files/noticias/capital21.jpg" group-title="MEXICO",Capital 21
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UVTV.jpg" group-title="MEXICO",UV TV
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.ufc.tv/logos/logo-baja.png" group-title="MEXICO",UFC Network
 http://cdnw2.zetatv.com.uy/live_edge/_definst_/amlst:27940/playlist.m3u8
 
