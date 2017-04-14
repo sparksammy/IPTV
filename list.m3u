@@ -1501,8 +1501,8 @@ http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Libya%20(New)-01.png" group-title="LABEL",[B][COLOR green]== Libya TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Libya.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="JORDAN",Libya TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="LIBYA",Libya TV
 http://starmena.ercdn.net/libyaschannel/libyaschannel_240p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/mqEK6nU.gif" group-title="JORDAN",Al Hadath
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/mqEK6nU.gif" group-title="LIBYA",Al Hadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
