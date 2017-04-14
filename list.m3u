@@ -1487,16 +1487,16 @@ http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m
 http://www.lengua.com/anthems/Egypt.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.livetvhd.net/thumbs/al_masriya.jpg" group-title="EGYPT",ERTU 1
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elshobak.com/images/watch-melody-aflam-online-free.jpg" group-title="EGYPT",Melody Aflam
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+http://38.96.148.118/MelodyAflam/smil:aflam.smil/chunklist_w2063537809_b500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/mldyc.png" group-title="EGYPT",Melody Classic
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="EGYPT",Rotana Masriya
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
