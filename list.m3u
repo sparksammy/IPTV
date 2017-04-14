@@ -165,9 +165,6 @@ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="ADULT SWIM",Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14059.jpg" group-title="ADULT SWIM",Toonami	
-http://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="ADULT SWIM",The Venture Bros.
 http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
 
