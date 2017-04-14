@@ -1351,6 +1351,9 @@ http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA" group-title="MUSIC",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="KSA",Al Quran Al Karim
+http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",[B][COLOR green]== UAE TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
 
