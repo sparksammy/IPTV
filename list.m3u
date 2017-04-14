@@ -81,9 +81,6 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://payload49.cargocollective.com/1/1/50983/3288358/prt_1335480906.png" group-title="USA",H2 Documentaries
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN HD
-http://dreamlord.tk:5454/live/emby/plexsucks/14110.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN
 http://origin2.cignal.tv/aes/smil:cnnhd.smil/playlist.m3u8
 
@@ -101,9 +98,6 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" group-title="USA",VoA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Vdi1y4L.jpg" group-title="USA",Fox News
-http://dreamlord.tk:5454/live/emby/plexsucks/14200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Vdi1y4L.jpg" group-title="USA",Fox News
 http://iphone-streaming.ustream.tv/uhls/4381960/streams/live/iphone/playlist.m3u8
@@ -135,26 +129,8 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-C6a3WowdZpM/Vt29q_dnYEI/AAAAAAAAE8o/N0MPtbWquBM/s1600/rbtv-logo-large.png" group-title="USA",Red Bull TV
 http://elementaldelta2.redbull.tv/30_5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="USA",Fox Sports 1
-http://dreamlord.tk:5454/live/emby/plexsucks/14238.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Fox_Sports_2_Logo.jpg" group-title="USA",Fox Sports 2
-http://dreamlord.tk:5454/live/emby/plexsucks/14237.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.darrellsgolftraining.com/wp-content/uploads/2014/07/GolfChannellogo2011.png" group-title="USA",NBC Golf
-http://dreamlord.tk:5454/live/emby/plexsucks/14162.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1055px-NBA_TV.svg.png" group-title="USA",NBA TV
-http://dreamlord.tk:5454/live/emby/plexsucks/14170.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://csa.dishnetwork.com/images/logos/NFL.PNG" group-title="USA",NFL Network
-http://dreamlord.tk:5454/live/emby/plexsucks/14202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-owuDiJmYRKo/TvPXuWzB45I/AAAAAAAADXY/qAOckKR7qJo/s1600/NHL+Network+logo+2011.png" group-title="USA",NHL Network
-http://dreamlord.tk:5454/live/emby/plexsucks/14144.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" tvg-logo="" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
@@ -202,34 +178,19 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/129.jpeg" group-title="UK",ITV
-http://dreamlord.tk:5454/live/emby/plexsucks/14129.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/129.jpeg" group-title="UK",ITV*
 http://5.135.139.19:1935/server7/stream19.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/211.png" group-title="UK",BBC One HD
-http://dreamlord.tk:5454/live/emby/plexsucks/14122.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/211.png" group-title="UK",BBC One
 http://5.135.139.19:1935/server7/stream18.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1680.png" group-title="UK",BBC Two HD
-http://dreamlord.tk:5454/live/emby/plexsucks/14123.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1680.png" group-title="UK",BBC Two
 http://5.135.139.19:1935/server7/stream20.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1682.gif" group-title="UK",BBC Four
-http://dreamlord.tk:5454/live/emby/plexsucks/14124.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=bbc-news
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/12344.gif" group-title="UK",BBC Parliament
 http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News
-http://dreamlord.tk:5454/live/emby/plexsucks/14068.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
@@ -239,9 +200,6 @@ http://5.135.139.19:1935/server7/stream22.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.tvplayer.com/common/logos/256/Inverted/251.png" group-title="UK",S4C
 http://5.135.139.19:1935/server7/stream33.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.unichromecreative.co.uk/wp/wp-content/uploads/2015/12/ITV-Encore-logo.jpg" group-title="UK",ITV Encore
-http://dreamlord.tk:5454/live/emby/plexsucks/14208.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.unichromecreative.co.uk/wp/wp-content/uploads/2015/12/ITV-Encore-logo.jpg" group-title="UK",ITV Encore
 http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
@@ -265,13 +223,7 @@ http://origin2.cignal.tv/aes/smil:fnhd.smil/playlist.m3u8
 http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/112/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.itv.com/uploads/show/show_branding_logo/42/WCRX85ZI3pOn7GiO_NZ0XZ8OnpnBNylotC_12DNRY8Y.png" group-title="UK",CITV
-http://dreamlord.tk:5454/live/emby/plexsucks/14141.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.itv.com/uploads/show/show_branding_logo/42/WCRX85ZI3pOn7GiO_NZ0XZ8OnpnBNylotC_12DNRY8Y.png" group-title="UK",CITV
 http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2510.png" group-title="UK",Cartoon Network
-http://dreamlord.tk:5454/live/emby/plexsucks/14981.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2510.png" group-title="UK",Cartoon Network Asia
 http://origin2.cignal.tv/aes/smil:cnhd.smil/chunklist_w2137725223_b768000.m3u8
@@ -749,9 +701,6 @@ http://cdn2.elitegol.xyz/verliga/25/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN" group-title="MUSIC",Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="SPAIN",Hola TV
-https://ret8eg4d4vd4u48i44.premiumtutv.com/streams/110/stream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" group-title="SPAIN",La 1
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
 
@@ -787,9 +736,6 @@ http://edge15.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vertele.eldiario.es/files/2014/12/Movistar-Series.jpg" group-title="SPAIN",Movistar Series
 http://edge14.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/tv-kanaler/mtv_hvit.png" group-title="SPAIN",MTV
-http://cdn2.elitegol.xyz/verliga/1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/WTJX22GFFpc/hqdefault.jpg" group-title="SPAIN",Nat Geo Wild
 http://cdn2.elitegol.xyz/verliga/13/index.m3u8
@@ -835,9 +781,6 @@ http://cdn2.elitegol.xyz/verliga/33/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="SPAIN",TNT
 http://cdn2.elitegol.xyz/verliga/9/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="SPAIN",TNT *
-http://edge10.livesports.pw/live/vertntesp65a5b8508dd5e287/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/galaciatv.png" group-title="SPAIN",TVG Europa
 http://media3.crtvg.es/live/tvge/playlist.m3u8
