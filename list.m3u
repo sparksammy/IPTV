@@ -455,8 +455,14 @@ http://iphone-streaming.ustream.tv/uhls/18113990/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="NATURE",Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="NATURE",International Space Station
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Kelp Forest
 http://iphone-streaming.ustream.tv/uhls/9948292/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://files.allaboutbirds.net/wp-content/uploads/2012/03/rtha_2birds.jpg" group-title="NATURE",Red-Tailed Hawk
+http://edge06.hdontap.com/ingest03-hdontap/redtailhawk_hdontap.stream/chunklist_w557056133.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Sea Otters
 http://iphone-streaming.ustream.tv/uhls/13659436/streams/live/iphone/playlist.m3u8
