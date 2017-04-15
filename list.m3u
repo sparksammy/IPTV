@@ -710,12 +710,6 @@ http://edge14.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rologo.com/images/uploads/2015/07/Canal_Panda_2015.png" group-title="SPAIN",Canal Panda
 http://edge14.livesports.pw/live/verpanda09f8f91b6bfd8e414/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Canal Toros
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1822.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Canal+ Toros
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/804.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://moratallatv.com/wp-content/uploads/tv-logos/cazapesca.png" group-title="SPAIN",Caza y Pesca TV
 http://cdn2.elitegol.xyz/verliga/15/index.m3u8
 
@@ -844,6 +838,12 @@ http://cdn2.elitegol.xyz/verliga/33/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="SPAIN",TNT
 http://cdn2.elitegol.xyz/verliga/9/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="SPAIN",Toros
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1822.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="SPAIN",Toros *
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/804.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/galaciatv.png" group-title="SPAIN",TVG Europa
 http://media3.crtvg.es/live/tvge/playlist.m3u8
