@@ -788,9 +788,6 @@ http://edge14.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/WTJX22GFFpc/hqdefault.jpg" group-title="SPAIN",Nat Geo Wild
 http://cdn2.elitegol.xyz/verliga/13/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/WTJX22GFFpc/hqdefault.jpg" group-title="SPAIN",Nat Geo Wild *
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1303.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://linsutherland.org/images/NatGeo-Black.png" group-title="SPAIN",National Geographic
 http://cdn2.elitegol.xyz/verliga/13/index.m3u8
 
@@ -1183,6 +1180,9 @@ http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="ITALY" group-title="MUSIC",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-charts.eu/img/paramounthd.jpg" group-title="ITALY",Paramount Channel
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5540.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY" group-title="MUSIC",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
