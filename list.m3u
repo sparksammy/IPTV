@@ -435,6 +435,9 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.
 
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]== Street Cams ==[/COLOR][/B]
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",Ft. Lauderdale Marina
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Statue of Liberty
 http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
 
@@ -474,8 +477,23 @@ http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="STREETS",NYC Harbor
 http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",Seattle Downtown
+http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",Seattle Space Needle
+http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.gettyimages.com/videos/high-angle-wide-shot-traffic-moving-around-seoul-plaza-as-day-turns-video-id887-30?s=640x640" group-title="STREETS",Seoul
 http://iphone-streaming.ustream.tv/uhls/18113990/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",Toronto CN Tower 1
+http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",Toronto CN Tower 2
+http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",Washington Monument
+http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
 
