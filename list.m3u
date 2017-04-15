@@ -435,17 +435,44 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.
 
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]== Street Cams ==[/COLOR][/B]
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.webcamgalore.com/webcamimages/webcam-002700.jpg" group-title="STREETS",Broadway
-http://video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Statue of Liberty
+http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mylivestreams.com/images/camera/large_10724.jpg" group-title="STREETS",Brooklyn Bridge
-http://video3.earthcam.com/fecnetwork/3983.flv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Midtown Skyline
+http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="STREETS",New York Harbor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC 5th Avenue
+http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Brooklyn Bridge
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Charging Bull
+http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Columbus Circle
+http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC High Line
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Times Square
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Times Square (47th & Broadway)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Times Square (Street Cam)
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Times Square (Crossroads)
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Times Square (South View)
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="STREETS",NYC Harbor
 http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="STREETS",Times Square
-http://video3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.gettyimages.com/videos/high-angle-wide-shot-traffic-moving-around-seoul-plaza-as-day-turns-video-id887-30?s=640x640" group-title="STREETS",Seoul
 http://iphone-streaming.ustream.tv/uhls/18113990/streams/live/iphone/playlist.m3u8
