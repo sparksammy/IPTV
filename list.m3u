@@ -770,14 +770,23 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png" group-title="SPAIN",Movistar Accion
 http://edge15.livesports.pw/live/veraccion177662786c60c28d/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png" group-title="SPAIN",Movistar Accion *
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1266.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MovistarCineÑ.png/1200px-MovistarCineÑ.png" group-title="SPAIN",Movistar Cine Espanol
 http://edge14.livesports.pw/live/verdcinen472ab4996ac0193b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/2000px-Movistar_Comedia.svg.png" group-title="SPAIN",Movistar Comedia
 http://cdn2.elitegol.xyz/verliga/4/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/2000px-Movistar_Comedia.svg.png" group-title="SPAIN",Movistar Comedia *
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4703.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1920px-Movistar_DCine.svg.png" group-title="SPAIN",Movistar DCine
 http://cdn2.elitegol.xyz/verliga/7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1920px-Movistar_DCine.svg.png" group-title="SPAIN",Movistar DCine *
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1333.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1920px-Movistar_Estrenos.svg.png" group-title="SPAIN",Movistar Estrenos
 http://edge15.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
