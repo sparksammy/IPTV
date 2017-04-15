@@ -261,6 +261,9 @@ http://81.7.13.162/hls/ss4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1108.jpg" group-title="UK",BT Sport 1
 http://5.135.139.19:1935/server7/btsport1.stream/playlist.m3u8?token=
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1108.jpg" group-title="UK",BT Sport 1 *
+http://164.132.90.143:8000/live/visit/www.freeworldwideiptv.com/42.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Wie36zX.png" group-title="UK",BT Sport 2
 http://5.135.139.19:1935/server7/btsport2.stream/playlist.m3u8?token=
 
@@ -278,6 +281,15 @@ http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 4
 http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/1ae6106a-d0e8-4b1f-9045-e9385e99cb4c/Sky-Sports-Logos-CMYK.png" group-title="UK",Sky Sports 2
+http://164.132.90.143:8000/live/visit/www.freeworldwideiptv.com/45.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/1ae6106a-d0e8-4b1f-9045-e9385e99cb4c/Sky-Sports-Logos-CMYK.png" group-title="UK",Sky Sports 3
+http://164.132.90.143:8000/live/visit/www.freeworldwideiptv.com/46.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2016/07/01/1ae6106a-d0e8-4b1f-9045-e9385e99cb4c/Sky-Sports-Logos-CMYK.png" group-title="UK",Sky Sports 4
+http://164.132.90.143:8000/live/visit/www.freeworldwideiptv.com/47.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",[B][COLOR green]== World News ==[/COLOR][/B]
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
