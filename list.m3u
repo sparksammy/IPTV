@@ -1205,7 +1205,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-charts.eu/img/paramounthd.jpg" group-title="ITALY",Paramount Channel
 http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/5540.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.illinois-liver.org/resize/2016/12/24/medium-logo-premium-sport-174289-cinetivu.jpg" group-title="ITALY",Premium Sport 1 (ts)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.illinois-liver.org/resize/2016/12/24/medium-logo-premium-sport-174289-cinetivu.jpg" group-title="ITALY",Premium Sport 1 TS
 http://37.187.132.154:5969/live/0126F2CBdb/0126F2CBdb/1240.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/1939237/logo_premium%20sport%202.png" group-title="ITALY",Premium Sport 2
