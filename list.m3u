@@ -82,7 +82,7 @@ http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u
 http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN
-http://origin2.cignal.tv/aes/smil:cnnhd.smil/playlist.m3u8
+http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QVvBPKr.jpg" group-title="USA",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
@@ -213,9 +213,6 @@ http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/y540w4T.png" group-title="UK",AMC
 http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://warnertv-prod.s3-website-ap-southeast-1.amazonaws.com/uploads/shows/d395fa0ea7a0c7a43df71790e1137f7a.jpg" group-title="UK",Warner TV
-http://origin2.cignal.tv/aes/smil:wtv.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1116_2.jpg" group-title="UK",Spike
 http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
 
@@ -225,17 +222,11 @@ http://50.7.69.42:8899/GB/UK/SONY_TV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/01/Sony-Movie-Channel.png" group-title="UK",Sony Movies
 http://50.7.69.42:8899/GB/UK/SONY_MOVIES/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MjgFltd.jpg" group-title="UK",Food Network
-http://origin2.cignal.tv/aes/smil:fnhd.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="UK",BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.itv.com/uploads/show/show_branding_logo/42/WCRX85ZI3pOn7GiO_NZ0XZ8OnpnBNylotC_12DNRY8Y.png" group-title="UK",CITV
 http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2510.png" group-title="UK",Cartoon Network Asia
-http://origin2.cignal.tv/aes/smil:cnhd.smil/chunklist_w2137725223_b768000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" group-title="UK",Insight UHD
 http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
