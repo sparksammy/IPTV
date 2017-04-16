@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="LABEL",:: [COLOR yellow]fb.me/FluxusTV[/COLOR] ::
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="LABEL",:: Update: [COLOR yellow]04/13/2017[/COLOR] ::
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/21lsc5e.png" group-title="LABEL",:: Update: [COLOR yellow]04/16/2017[/COLOR] ::
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR green]== USA TV ==[/COLOR][/B]
@@ -227,9 +227,6 @@ http://50.7.69.42:8899/GB/UK/SONY_MOVIES/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MjgFltd.jpg" group-title="UK",Food Network
 http://origin2.cignal.tv/aes/smil:fnhd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.afin.at/typo3temp/pics/f9b9cf2c1e.jpg" group-title="UK",Fashion TV
-http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/112/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="UK",BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
@@ -728,8 +725,8 @@ http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="SPAIN",324
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4841.png" group-title="SPAIN",A&E
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4712.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4841.png" group-title="SPAIN",A&E (TS)
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4712.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/y540w4T.png" group-title="SPAIN",AMC
 http://cdn2.elitegol.xyz/verliga/26/index.m3u8
@@ -743,8 +740,8 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="SPAIN",Atreseries HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="SPAIN",AXN
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="SPAIN",AXN (TS)
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1833.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/738309186845429760/4HA03dX1.jpg" group-title="SPAIN",AXN White
 http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/8146.m3u8
@@ -845,8 +842,8 @@ http://cdn2.elitegol.xyz/verliga/4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1920px-Movistar_DCine.svg.png" group-title="SPAIN",Movistar DCine
 http://cdn2.elitegol.xyz/verliga/7/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1920px-Movistar_DCine.svg.png" group-title="SPAIN",Movistar DCine *
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1333.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1920px-Movistar_DCine.svg.png" group-title="SPAIN",Movistar DCine (TS)
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1333.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1920px-Movistar_Estrenos.svg.png" group-title="SPAIN",Movistar Estrenos
 http://edge15.livesports.pw/live/vermestrenos91ddad7d34dd8/index.m3u8
@@ -859,9 +856,6 @@ http://cdn2.elitegol.xyz/verliga/13/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://linsutherland.org/images/NatGeo-Black.png" group-title="SPAIN",National Geographic
 http://cdn2.elitegol.xyz/verliga/13/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://linsutherland.org/images/NatGeo-Black.png" group-title="SPAIN",National Geographic *
-http://bs4tv.com/bsdev/live/?anass1234567/4a3oEM40DC/ES-National-Geographic
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="SPAIN",Neox HD
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
@@ -905,11 +899,11 @@ http://cdn2.elitegol.xyz/verliga/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="SPAIN",TNT
 http://cdn2.elitegol.xyz/verliga/9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="SPAIN",Toros
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="SPAIN",Toros (TS)
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1822.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="SPAIN",Toros *
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="SPAIN",Toros * (TS)
+http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/804.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/galaciatv.png" group-title="SPAIN",TVG Europa
 http://media3.crtvg.es/live/tvge/playlist.m3u8
@@ -1433,9 +1427,6 @@ http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_de
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="ARABIC NEWS",Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="ARABIC NEWS",Al Rai
-http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="ARABIC NEWS",BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
@@ -1616,15 +1607,6 @@ http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/Palestine-01.png" group-title="LABEL",[B][COLOR green]== Palestine TV ==[/COLOR][/B]
-http://www.lengua.com/anthems/Palestine.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imemc.org/wp-content/uploads/mar2016/palestinetoday.jpg" group-title="PALESTINE",Palestine Today
-http://live.paltoday.tv:1935/paltv/live/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG" group-title="PALESTINE",Al Quds
-http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",[B][COLOR green]== Egypt TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Egypt.mp3
 
@@ -1636,9 +1618,6 @@ http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elshobak.com/images/watch-melody-aflam-online-free.jpg" group-title="EGYPT",Melody Aflam
 http://38.96.148.118/MelodyAflam/smil:aflam.smil/chunklist_w2063537809_b500000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/mldyc.png" group-title="EGYPT",Melody Classic
-http://38.96.148.164/MelodyClassic/smil:classic.smil/chunklist_w63959344_b500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="EGYPT",Rotana Masriya
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
