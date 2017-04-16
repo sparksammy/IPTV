@@ -725,9 +725,6 @@ http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://statics.ccma.cat/multimedia/jpg/7/9/1466521666097.jpg" group-title="SPAIN",324
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4841.png" group-title="SPAIN",A&E (TS)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/4712.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/y540w4T.png" group-title="SPAIN",AMC
 http://cdn2.elitegol.xyz/verliga/26/index.m3u8
 
@@ -899,11 +896,8 @@ http://cdn2.elitegol.xyz/verliga/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="SPAIN",TNT
 http://cdn2.elitegol.xyz/verliga/9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="SPAIN",Toros (TS)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="SPAIN",Toros HD (TS)
 http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/1822.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistar.es/estaticos/imagenes/fichas-producto/apaisado-grande/imagen-banner-movistar-toros-responsive.jpg?1" group-title="SPAIN",Toros * (TS)
-http://sadatek57.dyndns.tv:8000/live/Pailaidelande/bCfzbT9oUm/804.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/galaciatv.png" group-title="SPAIN",TVG Europa
 http://media3.crtvg.es/live/tvge/playlist.m3u8
