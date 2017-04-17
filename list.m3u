@@ -1130,56 +1130,17 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",[B][COLOR green]== Italy TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Italy.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Boing.png" group-title="ITALY",Boing
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/24.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/Canale_5.svg/1035px-Canale_5.svg.png" group-title="ITALY",Canale 5
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/10.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="ITALY" group-title="MUSIC",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-oedCZyIG93Q/VMwMSz97mII/AAAAAAAABJQ/G2oLtGsgwXo/s1600/cartoonito.jpg" group-title="ITALY",Cartoonito
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/39.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491103973781.jpg" group-title="ITALY",Disney Channel
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/120.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111616406.jpg" group-title="ITALY",Disney Junior
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/73.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamgaroo.com/images/streams/600x400/14618607951807.png" group-title="ITALY",Eurosport 2
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/170.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="ITALY",Fox Sports
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/98.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg" group-title="ITALY",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/1024px-Italia_1.svg.png" group-title="ITALY",Italia 1
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/9.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.mediaset.it/bin/58.$plit/C_116_articolo_2774_articolo.jpg" group-title="ITALY",Italia 2
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/172.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",La 7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="ITALY" group-title="MUSIC",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.greyboxcreative.com/wp-content/uploads/2015/07/National-Geographic-logo.jpg" group-title="ITALY",National Geographic
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/110.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111492675.png" group-title="ITALY",Nick Jr.
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/75.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-charts.eu/img/paramounthd.jpg" group-title="ITALY",Paramount Channel
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/19.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://savepic.ru/12298620.png" group-title="ITALY",Pescare & Cacciare TV
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/475.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.illinois-liver.org/resize/2016/12/24/medium-logo-premium-sport-174289-cinetivu.jpg" group-title="ITALY",Premium Sport 1
 http://37.187.132.154:5969/live/0126F2CBdb/0126F2CBdb/1240.ts
@@ -1192,15 +1153,6 @@ http://fms.105.net:1935/live/rmc1/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="ITALY" group-title="MUSIC",Radio Taormina
 http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_1_logo.svg/200px-Rai_1_logo.svg.png" group-title="ITALY",Rai 1
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/1.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/it/RAI2.png" group-title="ITALY",Rai 2
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/2.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/it/RAI3.png" group-title="ITALY",Rai 3
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/3.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digiterrestre.com/wp-content/uploads/2010/11/rai5.png" group-title="ITALY",Rai 5
 http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
@@ -1222,15 +1174,6 @@ http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/1200px-RAI_YoYo_2010_Logo.svg.png" group-title="ITALY",Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Rete_4.svg/1024px-Rete_4.svg.png" group-title="ITALY",Rete 4
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/8.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="ITALY",RSI La1
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/168.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="ITALY",RSI La2
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/167.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ilroma.net/sites/default/files/Rtl-logo.jpg" group-title="ITALY" group-title="MUSIC",RTL 102.5
 http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
