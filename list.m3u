@@ -1148,6 +1148,9 @@ http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/120.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491111616406.jpg" group-title="ITALY",Disney Junior
 http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/73.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamgaroo.com/images/streams/600x400/14618607951807.png" group-title="ITALY",Eurosport 2
+http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/170.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="ITALY",Fox Sports
 http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/98.ts
 
@@ -1156,6 +1159,9 @@ http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Italia_1.svg/1024px-Italia_1.svg.png" group-title="ITALY",Italia 1
 http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/9.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.mediaset.it/bin/58.$plit/C_116_articolo_2774_articolo.jpg" group-title="ITALY",Italia 2
+http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/172.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",La 7
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
@@ -1171,6 +1177,9 @@ http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/75.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-charts.eu/img/paramounthd.jpg" group-title="ITALY",Paramount Channel
 http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/19.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://savepic.ru/12298620.png" group-title="ITALY",Pescare & Cacciare TV
+http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/475.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.illinois-liver.org/resize/2016/12/24/medium-logo-premium-sport-174289-cinetivu.jpg" group-title="ITALY",Premium Sport 1
 http://37.187.132.154:5969/live/0126F2CBdb/0126F2CBdb/1240.ts
@@ -1216,6 +1225,12 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Rete_4.svg/1024px-Rete_4.svg.png" group-title="ITALY",Rete 4
 http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/8.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="ITALY",RSI La1
+http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/168.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="ITALY",RSI La2
+http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/167.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ilroma.net/sites/default/files/Rtl-logo.jpg" group-title="ITALY" group-title="MUSIC",RTL 102.5
 http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
