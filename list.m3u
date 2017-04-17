@@ -1178,13 +1178,13 @@ http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="ITALY" group-title="MUSIC",m20 TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-charts.eu/img/paramounthd.jpg" group-title="ITALY",Paramount Channel
-http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-charts.eu/img/paramounthd.jpg" group-title="ITALY",Paramount Channel TS
+http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/19.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.illinois-liver.org/resize/2016/12/24/medium-logo-premium-sport-174289-cinetivu.jpg" group-title="ITALY",Premium Sport 1 TS
 http://37.187.132.154:5969/live/0126F2CBdb/0126F2CBdb/1240.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/1939237/logo_premium%20sport%202.png" group-title="ITALY",Premium Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/1939237/logo_premium%20sport%202.png" group-title="ITALY",Premium Sport 2 TS
 http://164.132.90.143:8000/live/visit/www.freeworldwideiptv.com/34.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY" group-title="MUSIC",Radio Italia TV
