@@ -1196,6 +1196,16 @@ http://fms.105.net:1935/live/rmc1/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="ITALY" group-title="MUSIC",Radio Taormina
 http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_1_logo.svg/200px-Rai_1_logo.svg.png" group-title="ITALY",Rai 1
+http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/it/RAI2.png" group-title="ITALY",Rai 2
+http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/it/RAI3.png
+" group-title="ITALY",Rai 3
+http://scambio.tvstar.biz:8000/live/trickserver/6t6T1PJ8El/3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digiterrestre.com/wp-content/uploads/2010/11/rai5.png" group-title="ITALY",Rai 5
 http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
 
