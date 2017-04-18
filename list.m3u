@@ -72,9 +72,6 @@ http://iphone-streaming.ustream.tv/uhls/22835363/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/13994.png" group-title="USA",Toonami Aftermath PST
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://payload49.cargocollective.com/1/1/50983/3288358/prt_1335480906.png" group-title="USA",H2 Documentaries
-http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-1,6/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN
 http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 
@@ -143,6 +140,9 @@ http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/tbn-logo.png" group-title="USA",TBN
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NRB Network
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR green]== Adult Swim ==[/COLOR][/B]
 http://stream.dubstep.fm:80/256mp3
@@ -272,6 +272,9 @@ http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",QVC
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",IdealWorld
+http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",[B][COLOR green]== World News ==[/COLOR][/B]
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
@@ -1083,6 +1086,9 @@ http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/85/15/9456e87d60993e3.jpg" group-title="LABEL",[B][COLOR green]== Venezuela TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Venezuela.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg" group-title="VENEZUELA",Promar TV
+http://edge.wms28.lorini.net/promar/promar/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fun88goal.com/wp-content/uploads/2015/05/sun-channel-tourism-tv-logo-primary.jpg" group-title="VENEZUELA",Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
 
@@ -1118,6 +1124,9 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",[B][COLOR green]== Italy TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Italy.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canaledieci.it/wp-content/themes/Divi/images/logo.png" group-title="ITALY",Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="ITALY" group-title="MUSIC",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
@@ -1226,6 +1235,9 @@ http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",[B][COLOR green]== France TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/France.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Alsace_20_logo_2013.png/300px-Alsace_20_logo_2013.png" group-title="FRANCE",Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.monasterra.org/wp-content/uploads/2015/12/Arte-logo.png" group-title="FRANCE",Arte
 http://streaming-hub.com/stream/arte.m3u8
