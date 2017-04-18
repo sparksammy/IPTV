@@ -1241,11 +1241,12 @@ http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG" group-title="FRANCE",La Chaine Normande
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE"TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCE",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m6music.free.fr/m6music/im2/m6_music.png" group-title="FRANCE" group-title="MUSIC",M6 Music
-http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 
 #EXTINF:-1 tvg-logo="http://kordas.gr/img/gr.png" group-title="LABEL",[B][COLOR green]== Greece TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Greece.mp3
