@@ -1128,7 +1128,7 @@ http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
 http://www.lengua.com/anthems/Israel.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.mako.co.il/2014/05/18/B-news_.jpg" group-title="ISRAEL",Channel 2
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ausraelim.com.au/wp-content/uploads/2013/10/channel10.jpg" group-title="ISRAEL",Channel 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
