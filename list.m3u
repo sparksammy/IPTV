@@ -48,9 +48,6 @@ http://208.86.19.13:8080/live/105.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RIuoFeP.jpg" group-title="USA",PIX 11
 http://208.86.19.13:8080/live/106.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RIuoFeP.jpg" group-title="USA",PIX 11 *
-http://stream-full.selfip.com:8000/live/riad/riad/635.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/P4gM8FY.jpg" group-title="USA",WLIW 21
 http://208.86.19.13:8080/live/108.stream/index.m3u8
 
@@ -149,19 +146,6 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 #EXTINF:-1 tvg-id="" tvg-name="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" tvg-logo="" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Showtime
-http://stream-full.selfip.com:8000/live/riad/riad/779.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinemax
-http://stream-full.selfip.com:8000/live/riad/riad/571.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO 1
-HBO 1
-http://stream-full.selfip.com:8000/live/riad/riad/1286.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO 2
-http://stream-full.selfip.com:8000/live/riad/riad/1285.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cartoon Network
 http://stream-full.selfip.com:8000/live/riad/riad/388.ts
