@@ -73,10 +73,10 @@ http://208.86.19.13:8080/live/34.stream/index.m3u8
 http://208.86.19.123:8080/live/109.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/208.jpg" group-title="USA",Discovery
+http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",E!
 http://stream-full.selfip.com:8000/live/riad/riad/1305.ts
-http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg" group-title="USA",Freeform
 http://208.86.19.13:8080/live/27.stream/index.m3u8
