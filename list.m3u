@@ -30,7 +30,7 @@ http://stream-full.selfip.com:8000/live/riad/riad/574.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CNBC
 http://stream-full.selfip.com:8000/live/riad/riad/628.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",CW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CW
 http://stream-full.selfip.com:8000/live/riad/riad/869.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC
