@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/fluxustv/IPTV/master/entutele.com.channels.xml"
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="LABEL",[B][COLOR blue]:: FLUXUS TV ::[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="LABEL",[B][COLOR blue]▃ ▄ ▅ ▆ ▇ █ FLUXUS TV █ ▇ ▆ ▅ ▄ ▃[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="LABEL",:: FREE IPTV - IPTV GRATIS ::
@@ -18,20 +18,50 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC
 http://208.86.19.123:8080/live/104.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",AMC
+http://stream-full.selfip.com:8000/live/riad/riad/1310.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Bravo
+http://stream-full.selfip.com:8000/live/riad/riad/562.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS
 http://208.86.19.13:8080/live/101.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS *
+http://stream-full.selfip.com:8000/live/riad/riad/931.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS **
+http://stream-full.selfip.com:8000/live/riad/riad/574.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CNBC
+http://stream-full.selfip.com:8000/live/riad/riad/628.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",CW
+http://stream-full.selfip.com:8000/live/riad/riad/869.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Fox
+http://stream-full.selfip.com:8000/live/riad/riad/780.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC
 http://208.86.19.123:8080/live/102.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC *
+http://stream-full.selfip.com:8000/live/riad/riad/831.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1236.jpg" group-title="USA",PBS
 http://208.86.19.13:8080/live/108.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1236.jpg" group-title="USA",PBS*
+http://stream-full.selfip.com:8000/live/riad/riad/833.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/pePkOtd.jpg" group-title="USA",WWOR (My 9)
 http://208.86.19.13:8080/live/105.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RIuoFeP.jpg" group-title="USA",PIX 11
 http://208.86.19.13:8080/live/106.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RIuoFeP.jpg" group-title="USA",PIX 11 *
+http://stream-full.selfip.com:8000/live/riad/riad/635.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/P4gM8FY.jpg" group-title="USA",WLIW 21
 http://208.86.19.13:8080/live/108.stream/index.m3u8
@@ -111,6 +141,12 @@ http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3144.jpg" group-title="USA",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NBA
+http://stream-full.selfip.com:8000/live/riad/riad/640.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",NBCSN
+http://stream-full.selfip.com:8000/live/riad/riad/1298.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.exstreamist.com/wp-content/uploads/2015/08/Watch-NFL-RedZone-Online.jpg" group-title="USA",NFL RedZone
 http://stream.i4atv.info/ggwpl/live2.m3u8
 
@@ -125,6 +161,25 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 
 #EXTINF:-1 tvg-id="" tvg-name="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" tvg-logo="" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Showtime
+http://stream-full.selfip.com:8000/live/riad/riad/779.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cinemax
+http://stream-full.selfip.com:8000/live/riad/riad/571.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO 1
+HBO 1
+http://stream-full.selfip.com:8000/live/riad/riad/1286.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO 2
+http://stream-full.selfip.com:8000/live/riad/riad/1285.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cartoon Network
+http://stream-full.selfip.com:8000/live/riad/riad/388.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",E!
+http://stream-full.selfip.com:8000/live/riad/riad/1305.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
@@ -1454,11 +1509,17 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC (Geo)
 https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC
+http://stream-full.selfip.com:8000/live/riad/riad/464.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lbcgroup.tv/newsimages/News-P-234443-635804074670202354.jpg" group-title="LEBANON",LDC (Geo)
 http://selevision9884-i.akamaihd.net/hls/live/219263/98847/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrIJWCkub0c/hqdefault.jpg" group-title="LEBANON",MTV (Geo)
 http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrIJWCkub0c/hqdefault.jpg" group-title="LEBANON",MTV
+http://stream-full.selfip.com:8000/live/riad/riad/465.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON" group-title="MUSIC",Arabica TV
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
