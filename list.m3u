@@ -1261,7 +1261,7 @@ http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://backoffice.telecablesat.fr/business/img/photos/biz/999/weo.jpg" group-title="FRANCE",Weo
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+http://str81.creacast.com/weo/high/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/92/TVPI_logo.png" group-title="FRANCE",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
