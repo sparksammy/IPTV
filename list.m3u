@@ -153,7 +153,7 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",HBO (Canada)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",HBO (Canada)
 http://stream-full.selfip.com:8000/live/riad/riad/635.ts
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR green]== Adult Swim ==[/COLOR][/B]
