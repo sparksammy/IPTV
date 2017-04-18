@@ -105,6 +105,12 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3249.png" group-title="USA",C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",WGN News
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_4500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Newsmax TV
+http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
@@ -123,12 +129,17 @@ http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" tvg-logo="" group-title="USA",HSN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www1.cbn.com/sites/all/themes/cbnnewstheme/images/CBN-Logo.svg" group-title="USA",CBN
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/tbn-logo.png" group-title="USA",TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR green]== Adult Swim ==[/COLOR][/B]
 http://stream.dubstep.fm:80/256mp3
@@ -213,6 +224,9 @@ http://50.7.69.42:8899/GB/UK/SONY_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/01/Sony-Movie-Channel.png" group-title="UK",Sony Movies
 http://50.7.69.42:8899/GB/UK/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",Sky life TG24
+http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="UK",BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
@@ -1076,6 +1090,9 @@ http://162.220.218.101:8081/live/stream2.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://th.seaicons.com/wp-content/uploads/2016/03/Honduras-icon.png" group-title="LABEL",[B][COLOR green]== Honduras TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Honduras.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HONDURAS",Azteca
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/HCH_Turkey.jpg" group-title="HONDURAS",HCH
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
