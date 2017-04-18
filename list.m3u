@@ -1210,7 +1210,7 @@ http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
 http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video2.kronopress.com/openlogic1/tele8.jpg" group-title="ITALY",Tele 8
-http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+http://vs2.streamcaster.net:1935/tele8_live/tele8/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemilano.net/files/2016/03/31/TELEMILANO.jpg" group-title="ITALY",Tele Milano
 http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
