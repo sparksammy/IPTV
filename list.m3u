@@ -1229,6 +1229,9 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.france24.com/apple-touch-icon-144x144.png" group-title="FRANCE",France 24
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_Découverte_2012.png" group-title="FRANCE",RMC Decouverte
+http://streaming-hub.com/stream/rmc.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="FRANCE",TV5 Monde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 
