@@ -1277,9 +1277,6 @@ http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",[B][COLOR green]== Turkey TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Turkey.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hdcanlitvizler.com/wp-content/uploads/2016/10/a-spor-tv-logo-png.png" group-title="TURKEY",A Spor
-http://164.132.90.143:8000/live/visit/www.freeworldwideiptv.com/37.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teksas.org/haber/resim/detay/bursasportv-yayinina-digiturkte-basladi_2.jpg" group-title="TURKEY",Bursapor TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
 
@@ -1292,14 +1289,8 @@ http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sentezyapi.com/Files/referanskanal242794433.jpg" group-title="TURKEY",Kanal 24
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.userlogos.org/files/logos/armoni/ntvspor.png" group-title="TURKEY",NTV Spor
-http://164.132.90.143:8000/live/visit/www.freeworldwideiptv.com/38.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xsportv1.com/images/tivibuspor.png" group-title="TURKEY",Tivibu Spor 1
-http://164.132.90.143:8000/live/visit/www.freeworldwideiptv.com/39.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
