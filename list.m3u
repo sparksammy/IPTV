@@ -1226,7 +1226,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/ENORME_TV_LOGO.png/1280px-ENORME_TV_LOGO.png" group-title="FRANCE",Enorme TV
 http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-antenne-reunion-television-2011.png" group-title="FRANCE",Antenne Reunion	
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-antenne-reunion-television-2011.png" group-title="FRANCE",Antenne Reunion
 http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG" group-title="FRANCE",La Chaine Normande
