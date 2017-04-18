@@ -70,6 +70,9 @@ http://208.86.19.13:8080/live/34.stream/index.m3u8
 http://208.86.19.123:8080/live/109.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/208.jpg" group-title="USA",Discovery
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",E!
+http://stream-full.selfip.com:8000/live/riad/riad/1305.ts
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg" group-title="USA",Freeform
@@ -147,14 +150,11 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:-1 tvg-id="" tvg-name="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" tvg-logo="" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",Cartoon Network
-http://stream-full.selfip.com:8000/live/riad/riad/388.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",E!
-http://stream-full.selfip.com:8000/live/riad/riad/1305.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",HBO (Canada)
+http://stream-full.selfip.com:8000/live/riad/riad/635.ts
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR green]== Adult Swim ==[/COLOR][/B]
 http://stream.dubstep.fm:80/256mp3
