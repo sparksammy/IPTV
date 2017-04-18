@@ -1212,6 +1212,9 @@ http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/1200px-RAI_YoYo_2010_Logo.svg.png" group-title="ITALY",Rai Yoyo
 http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/7b/RTV38.png" group-title="ITALY",RTV 38
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALY",Sky TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 
@@ -1221,8 +1224,29 @@ http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.larena.it/gfx/siti/quotidiani_web-v3/images/demo/photo08.jpg" group-title="ITALY",TeleArena
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/583586711407611904/6ULVQdGW.png" group-title="ITALY",Telenord
+http://streamer.oodlz.it/hls/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/TeleTicino.png" group-title="ITALY",TeleTicino (CH)
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemilano.net/files/2016/03/31/TELEMILANO.jpg" group-title="ITALY",Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456428050.png" group-title="ITALY",TSN Livigno
+http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dinamobasket.com/sites/default/files/styles/news_740_440/public/news/videolina.jpg" group-title="ITALY",Videolina
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-IEsZs7n9BlE/AAAAAAAAAAI/AAAAAAAAAAA/ze1PixBe8_E/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",Videostar
 http://151.80.100.112:1935/tvstar/tvstar/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvdream.net/immagini/video-brescia.jpg" group-title="ITALY",Video Brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/579290315338608640/fGSNs2SZ.png" group-title="ITALY",Video Calabria
+http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",[B][COLOR green]== France TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/France.mp3
