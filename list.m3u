@@ -1173,24 +1173,6 @@ http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Xitelogo.jpg/266px-Xitelogo.jpg" group-title="NETHERLANDS",Xite Music
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/493882319854653440/IS5djWg6.jpeg" group-title="LABEL",[B][COLOR green]== Israel TV ==[/COLOR][/B]
-http://www.lengua.com/anthems/Israel.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.mako.co.il/2014/05/18/B-news_.jpg" group-title="ISRAEL",Channel 2
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-b.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ausraelim.com.au/wp-content/uploads/2013/10/channel10.jpg" group-title="ISRAEL",Channel 10
-http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.iltwenty.png.pagespeed.ic.RWEe7tuYLa.jpg" group-title="ISRAEL",Channel 20
-http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reshet.tv/wp-content/uploads/2017/01/logo-reshet.jpg" group-title="ISRAEL",Reshet
-http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448546266.png" group-title="ISRAEL" group-title="MUSIC",Music 24
-http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
-
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",[B][COLOR green]== Italy TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Italy.mp3
 
@@ -1700,3 +1682,21 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/493882319854653440/IS5djWg6.jpeg" group-title="LABEL",[B][COLOR green]== Israel TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Israel.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.mako.co.il/2014/05/18/B-news_.jpg" group-title="ISRAEL",Channel 2
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/index_550_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ausraelim.com.au/wp-content/uploads/2013/10/channel10.jpg" group-title="ISRAEL",Channel 10
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.iltwenty.png.pagespeed.ic.RWEe7tuYLa.jpg" group-title="ISRAEL",Channel 20
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reshet.tv/wp-content/uploads/2017/01/logo-reshet.jpg" group-title="ISRAEL",Reshet
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448546266.png" group-title="ISRAEL" group-title="MUSIC",Music 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
