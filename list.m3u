@@ -1122,9 +1122,6 @@ http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/mast
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="GERMANY",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ecPjdDrlMtg/AAAAAAAAAAI/AAAAAAAAAAA/dwJcRogOefw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="GERMANY",DOBBiT (BE)
-http://193.110.252.20:1935/live/dobbittv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soaktuell.ch/files/thumbnails/1d/1d63/1d639d302fe60d94877e51dd6cd537d3/c_300_200_6712_telebielingue.jpg" group-title="GERMANY",TeleBielingue (CH)
 http://rtmp.infomaniak.ch/livecast/telebielinguech/master.m3u8
 
