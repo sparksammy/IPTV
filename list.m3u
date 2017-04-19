@@ -1046,8 +1046,7 @@ http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/canal_33_el_salvador.jpg" group-title="EL SALVADOR",Canal 33
 http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg
-" group-title="EL SALVADOR",Wow TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="EL SALVADOR",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ffpic.com/files/2012/1231/png1225guoqi/ffpic13061228190539.png" group-title="LABEL",[B][COLOR green]== Guatemala TV ==[/COLOR][/B]
