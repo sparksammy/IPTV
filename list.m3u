@@ -441,10 +441,10 @@ http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Times Square
 http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="STREETS",NYC Times Square (47th & Broadway)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="STREETS",NYC Times Square (47th & Broadway)
 http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="STREETS",NYC Times Square (Street Cam)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="STREETS",NYC Times Square (Street Cam)
 http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Times Square (Crossroads)
