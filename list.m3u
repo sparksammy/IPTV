@@ -150,39 +150,6 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myersinfosys.com/wp-content/uploads/2015/07/NRB_Logo.png" group-title="USA",NRB Network
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR green]== Adult Swim ==[/COLOR][/B]
-http://stream.dubstep.fm:80/256mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="ADULT SWIM",Animation
-http://amd.cdn.turner.com/adultswim/big/streams/playlists/animated-marathon.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="ADULT SWIM",Black Jesus
-http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="ADULT SWIM",The Eric Andre Show
-http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="ADULT SWIM",Live Action
-http://amd.cdn.turner.com/adultswim/big/streams/playlists/live-action-marathon.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="ADULT SWIM",Live Stream
-http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="ADULT SWIM",Off The Air
-http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="ADULT SWIM",Rick and Morty
-http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="ADULT SWIM",Tim and Eric
-http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="ADULT SWIM",The Venture Bros.
-http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="ADULT SWIM",Williams Stream
-http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
-
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",[B][COLOR green]== UK TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
@@ -320,188 +287,6 @@ http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televizyondizisi.com/wp-content/uploads/2015/10/TRTWORLDHABER.png" group-title="WORLD NEWS",TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://assets.ilounge.com/images/uploads/music-app-icon.jpg" group-title="LABEL",[B][COLOR green]== Music TV ==[/COLOR][/B]
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="MUSIC",1Music
-
-http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="MUSIC",City TV
-http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="MUSIC",Retro
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="MUSIC",Vibee TV
-http://46.101.21.42:8081/live/live2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSIC",Music Choice Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Brits + Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Dance/EDM
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Hip-Hop and R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Metal
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop & Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] R&B Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Today’s Country
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] 90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Y2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Musica Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Kidz Only!
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]== Street Cams ==[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="STREETS",Ft. Lauderdale Marina
-http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="STREETS",NYC Statue of Liberty
-http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg" group-title="STREETS",NYC Midtown Skyline
-http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg" group-title="STREETS",NYC 5th Avenue
-http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mylivestreams.com/images/camera/large_10724.jpg" group-title="STREETS",NYC Brooklyn Bridge
-http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2U3__wGBMPQ/maxresdefault.jpg" group-title="STREETS",NYC Charging Bull
-http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg" group-title="STREETS",NYC Columbus Circle
-http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.timeout.com/images/103264714/630/472/image.jpg" group-title="STREETS",NYC High Line
-http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="STREETS",NYC Times Square
-http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="STREETS",NYC Times Square (47th & Broadway)
-http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="STREETS",NYC Times Square (Street Cam)
-http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg" group-title="STREETS",NYC Times Square (Crossroads)
-http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="STREETS",NYC Times Square (South View)
-http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="STREETS",NYC Harbor
-http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg" group-title="STREETS",Seattle Downtown
-http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg" group-title="STREETS",Seattle Space Needle
-http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.gettyimages.com/videos/high-angle-wide-shot-traffic-moving-around-seoul-plaza-as-day-turns-video-id887-30?s=640x640" group-title="STREETS",Seoul
-http://iphone-streaming.ustream.tv/uhls/18113990/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 1
-http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 2
-http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wtop.com/wp-content/uploads/2015/08/540809551.jpg" group-title="STREETS",Washington Monument
-http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="NATURE",Christmas Fireplace
-http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imagecrow.com/albums/friday-findsits-eagle-time-magic-school-house.jpg" group-title="NATURE",Decorah Eagles
-http://iphone-streaming.ustream.tv/uhls/3064708/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="NATURE",International Space Station
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Kelp Forest
-http://iphone-streaming.ustream.tv/uhls/9948292/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://files.allaboutbirds.net/wp-content/uploads/2012/03/rtha_2birds.jpg" group-title="NATURE",Red-Tailed Hawk
-http://edge06.hdontap.com/ingest03-hdontap/redtailhawk_hdontap.stream/chunklist_w557056133.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Sea Otters
-http://iphone-streaming.ustream.tv/uhls/13659436/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Open Sea
-http://iphone-streaming.ustream.tv/uhls/9600798/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 1
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 2
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",[B][COLOR green]== Mexico TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Mexico.mp3
@@ -1702,3 +1487,218 @@ http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448546266.png" group-title="ISRAEL",Music 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.ilounge.com/images/uploads/music-app-icon.jpg" group-title="LABEL",[B][COLOR green]== Music TV ==[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="MUSIC",1Music
+
+http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="MUSIC",City TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="MUSIC",Retro
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="MUSIC",Vibee TV
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSIC",Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Brits + Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Dance/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Hip-Hop and R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] R&B Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Today’s Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] 90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Kidz Only!
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]== Street Cams ==[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="STREETS",Ft. Lauderdale Marina
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="STREETS",NYC Statue of Liberty
+http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg" group-title="STREETS",NYC Midtown Skyline
+http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg" group-title="STREETS",NYC 5th Avenue
+http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mylivestreams.com/images/camera/large_10724.jpg" group-title="STREETS",NYC Brooklyn Bridge
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2U3__wGBMPQ/maxresdefault.jpg" group-title="STREETS",NYC Charging Bull
+http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg" group-title="STREETS",NYC Columbus Circle
+http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.timeout.com/images/103264714/630/472/image.jpg" group-title="STREETS",NYC High Line
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="STREETS",NYC Times Square
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="STREETS",NYC Times Square (47th & Broadway)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="STREETS",NYC Times Square (Street Cam)
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg" group-title="STREETS",NYC Times Square (Crossroads)
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="STREETS",NYC Times Square (South View)
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="STREETS",NYC Harbor
+http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg" group-title="STREETS",Seattle Downtown
+http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg" group-title="STREETS",Seattle Space Needle
+http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.gettyimages.com/videos/high-angle-wide-shot-traffic-moving-around-seoul-plaza-as-day-turns-video-id887-30?s=640x640" group-title="STREETS",Seoul
+http://iphone-streaming.ustream.tv/uhls/18113990/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 1
+http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 2
+http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wtop.com/wp-content/uploads/2015/08/540809551.jpg" group-title="STREETS",Washington Monument
+http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="NATURE",Christmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imagecrow.com/albums/friday-findsits-eagle-time-magic-school-house.jpg" group-title="NATURE",Decorah Eagles
+http://iphone-streaming.ustream.tv/uhls/3064708/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="NATURE",International Space Station
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Kelp Forest
+http://iphone-streaming.ustream.tv/uhls/9948292/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://files.allaboutbirds.net/wp-content/uploads/2012/03/rtha_2birds.jpg" group-title="NATURE",Red-Tailed Hawk
+http://edge06.hdontap.com/ingest03-hdontap/redtailhawk_hdontap.stream/chunklist_w557056133.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Sea Otters
+http://iphone-streaming.ustream.tv/uhls/13659436/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Open Sea
+http://iphone-streaming.ustream.tv/uhls/9600798/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR green]== Adult Swim ==[/COLOR][/B]
+http://stream.dubstep.fm:80/256mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="ADULT SWIM",Animation
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/animated-marathon.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" group-title="ADULT SWIM",Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" group-title="ADULT SWIM",The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14061.jpg" group-title="ADULT SWIM",Live Action
+http://amd.cdn.turner.com/adultswim/big/streams/playlists/live-action-marathon.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="ADULT SWIM",Live Stream
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="ADULT SWIM",Off The Air
+http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="ADULT SWIM",Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4874.png" group-title="ADULT SWIM",Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4835.jpg" group-title="ADULT SWIM",The Venture Bros.
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="ADULT SWIM",Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
