@@ -300,6 +300,12 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://seeklogo.com/images/E/Euronews-logo-1584DEBA3C-seeklogo.com.gif" group-title="GERMANY",Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="GERMANY",Noa 4 Norderstedt
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/en/NOA4.gif" group-title="GERMANY",Noa 4 Hamburg
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/1zcz428.jpg" group-title="GERMANY",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
