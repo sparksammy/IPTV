@@ -642,14 +642,35 @@ http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="SPAIN",Atreseries HD
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Barca TV •
+http://cdn2.elitegol.xyz/verliga/2/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="SPAIN",Canal 24 Horas
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Canal Cocina •
+http://cdn2.elitegol.xyz/verliga/8/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Calle 13 •
+http://cdn2.elitegol.xyz/verliga/18/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Caza y Pesca TV •
+http://cdn2.elitegol.xyz/verliga/15/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Crimen e Investigacion •
+http://cdn2.elitegol.xyz/verliga/22/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",DMAX •
+http://cdn2.elitegol.xyz/verliga/27/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/el-correo-de-andaluc-C3-ADa-tv-logo.png" group-title="SPAIN",El Correo de Andalucia TV
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Eurosport 2 •
+http://cdn2.elitegol.xyz/verliga/25/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
@@ -668,6 +689,12 @@ http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14839.jpg" group-title="SPAIN",Mega HD
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Movistar Comedia •
+http://cdn2.elitegol.xyz/verliga/4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",Movistar DCine •
+http://cdn2.elitegol.xyz/verliga/7/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="SPAIN",Neox HD
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
@@ -699,6 +726,9 @@ http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s03.s3c.es/imag/_v0/640x300/8/1/f/telemadridrecursonuevo.jpg" group-title="SPAIN",Telemadrid
 http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPAIN",TNT •
+http://cdn2.elitegol.xyz/verliga/9/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/galaciatv.png" group-title="SPAIN",TVG Europa
 http://media3.crtvg.es/live/tvge/playlist.m3u8
 
@@ -714,7 +744,25 @@ http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",[B][COLOR green]== Latino TV ==[/COLOR][/B]
 http://50.7.56.2:8016
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reportajede.news/wp-content/uploads/2016/02/TNT-Logo.jpg" group-title="LATINO",TNT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATINO",AMC •
+http://cdn2.elitegol.xyz/verliga/26/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATINO",Cinemax •
+http://cdn2.elitegol.xyz/verliga/20/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATINO",Fox •
+http://cdn2.elitegol.xyz/verliga/28/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATINO",MTV •
+http://cdn2.elitegol.xyz/verliga/1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATINO",National Geographic •
+http://cdn2.elitegol.xyz/verliga/12/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LATINO",Nat Geo Wild •
+http://cdn2.elitegol.xyz/verliga/13/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reportajede.news/wp-content/uploads/2016/02/TNT-Logo.jpg" group-title="LATINO",TNT •
 http://cdn2.elitegol.xyz/verliga/29/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="LATINO",Anime TV
