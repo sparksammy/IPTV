@@ -1164,6 +1164,9 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-GC4XR_qwaBA/V8iEfhTgxPI/AAAAAAAABpI/gauZ-5_RPZQxcYB3GN1R8fGBrIIR6Ah9ACLcB/s1600/ATV%2BAntwerpen.jpg" group-title="NETHERLANDS",ATV (BE)
 http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ecPjdDrlMtg/AAAAAAAAAAI/AAAAAAAAAAA/dwJcRogOefw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title=“NETHERLANDS”,DOBBiT (BE)
+http://193.110.252.20:1935/live/dobbittv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cache.tvl.be/tvlbe/meta/tvl.25ce1cf6.png" group-title="NETHERLANDS",TVL (BE)
 http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
 
@@ -1355,6 +1358,9 @@ http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://planetemetiers.e-monsite.com/medias/images/televesdre.jpg" group-title="FRANCE",Televesdre (BE)
 http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soaktuell.ch/files/thumbnails/1d/1d63/1d639d302fe60d94877e51dd6cd537d3/c_300_200_6712_telebielingue.jpg" group-title=“FRANCE”,TeleBielingue (CH)
+http://rtmp.infomaniak.ch/livecast/telebielinguech/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/08/TV-Francophonie.jpg" group-title="FRANCE",Francophonie 24
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
