@@ -420,10 +420,10 @@ http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="STREETS",NYC Statue of Liberty
 http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Midtown Skyline
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg" group-title="STREETS",NYC Midtown Skyline
 http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC 5th Avenue
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg" group-title="STREETS",NYC 5th Avenue
 http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mylivestreams.com/images/camera/large_10724.jpg" group-title="STREETS",NYC Brooklyn Bridge
@@ -438,7 +438,7 @@ http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.timeout.com/images/103264714/630/472/image.jpg" group-title="STREETS",NYC High Line
 http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Times Square
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="STREETS",NYC Times Square
 http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="STREETS",NYC Times Square (47th & Broadway)
@@ -447,7 +447,7 @@ http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="STREETS",NYC Times Square (Street Cam)
 http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="STREETS",NYC Times Square (Crossroads)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg" group-title="STREETS",NYC Times Square (Crossroads)
 http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="STREETS",NYC Times Square (South View)
