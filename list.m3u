@@ -564,7 +564,7 @@ http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://saronno.tv/wp-content/uploads/2014/11/Saronno_FB_Share.png" group-title="ITALY",Saronno TV
 http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ITALY",Sky TG24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/Sky-TG24-2.jpg" group-title="ITALY",Sky TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-ZyKgPwkQPmQ/V53UU0Cm1rI/AAAAAAAAAxY/Dnh6rCMIFMwaIYJpjIhqh1WPK47OARrFQCLcB/s1600/supertv.jpg" group-title="ITALY",SuperTV
@@ -1170,7 +1170,7 @@ http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-logo="http://th.seaicons.com/wp-content/uploads/2016/03/Honduras-icon.png" group-title="LABEL",[B][COLOR green]== Honduras TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Honduras.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HONDURAS",Azteca
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamwebtown.com/xml/hondutv/aztecahondu.jpg" group-title="HONDURAS",Azteca
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/HCH_Turkey.jpg" group-title="HONDURAS",HCH
