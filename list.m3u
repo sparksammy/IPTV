@@ -1104,6 +1104,33 @@ http://www.server.tevemi.com:1935/8110/8110/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/medium.red_pat.png.e93349a590537fb1722ea5bff6abbfc6.png" group-title="BOLIVIA",Red PAT
 http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",[B][COLOR green]== Germany TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Germany.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://seeklogo.com/images/E/Euronews-logo-1584DEBA3C-seeklogo.com.gif" group-title="GERMANY",Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.portmann-media.com/wp-content/uploads/2015/06/telebasel.png" group-title="GERMANY",Telebasel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tvaktuell.com/storage/thumbs/700x/r:1428659201/128312.jpg" group-title="GERMANY",TVA Ostbayern
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="GERMANY",WDR Fernsehen
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ecPjdDrlMtg/AAAAAAAAAAI/AAAAAAAAAAA/dwJcRogOefw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="GERMANY",DOBBiT (BE)
+http://193.110.252.20:1935/live/dobbittv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soaktuell.ch/files/thumbnails/1d/1d63/1d639d302fe60d94877e51dd6cd537d3/c_300_200_6712_telebielingue.jpg" group-title="GERMANY",TeleBielingue (CH)
+http://rtmp.infomaniak.ch/livecast/telebielinguech/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" group-title="GERMANY",1-2-3 TV
+http://123tv.cdn.ses-ps.com/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",[B][COLOR green]== Netherlands TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Netherlands.mp3
 
