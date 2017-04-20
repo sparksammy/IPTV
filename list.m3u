@@ -1317,6 +1317,15 @@ http://watch.mihantv.com/mihantvlive.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.sndcdn.com/avatars-000204049469-zgdijy-t500x500.jpg" group-title="IRAN",Manoto
 https://manotolive-i.akamaihd.net/hls/live/251779/livexhq/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/malta/flag-button-square-250.png" group-title="LABEL",[B][COLOR green]== Malta TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Malta.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets.tvm.com.mt/mt/wp-content/themes/pbs/images/logo-tv-tvm.png" group-title="MALTA",TVM
+http://bcliveuniv-lh.akamaihd.net/i/TVM1streamTV_1@326354/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets.tvm.com.mt/mt/wp-content/uploads/sites/1/2014/01/logo-tv-tvm2.png" group-title="MALTA",TVM 2
+http://bcliveuniv-lh.akamaihd.net/i/TVMstream2TV_1@326354/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",[B][COLOR green]== Arabic News ==[/COLOR][/B]
 http://192.99.35.215:5109/stream
 
