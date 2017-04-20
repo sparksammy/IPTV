@@ -1122,9 +1122,6 @@ http://www.lengua.com/anthems/Peru.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491412008184.png" group-title="PERU",America TV
-http://ooyalasecurehd3-f.akamaihd.net/i/atvsec01_delivery@304258/index_2128_av-p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-nF9dYlaQFj8/Vty14YpJPBI/AAAAAAAAAYo/69scp8b09w8/s1600/latina-tv-peru.png" group-title="PERU",Latina TV
 http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
 
