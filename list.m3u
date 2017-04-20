@@ -195,12 +195,6 @@ http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1116_2.jpg" group-title="UK",Spike
 http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn32.sptndigital.com/sites/uk.set/files/styles/image_700x394/public/default/responsive_sony_blue/default_channel.jpg" group-title="UK",Sony Channel
-http://50.7.69.42:8899/GB/UK/SONY_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/01/Sony-Movie-Channel.png" group-title="UK",Sony Movies
-http://50.7.69.42:8899/GB/UK/SONY_MOVIES/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="UK",BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 
