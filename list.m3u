@@ -933,9 +933,6 @@ http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.directvplay.com/thumbs/section-54beb5c4671824c81aa4b2a9-3-100x50-directv_play_directv_sports_sitio_oficial-4abe5f78762c80919e70154442d2d04a.png" group-title="ARGENTINA",DirecTV Sports
-http://cdn2.elitegol.xyz/verliga/10/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvpublica.com.ar/wp-content/uploads/2014/06/comunicacionPublicaDigital-DeporTV.png" group-title="ARGENTINA",DXTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
@@ -1050,9 +1047,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="COLOMBIA",MiMusica HD
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png" group-title="COLOMBIA",RCN TV
-http://cdn2.elitegol.xyz/verliga/14/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
 
@@ -1085,9 +1079,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/3PANr.png" group-title="COLOMBIA",Vmas
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-Q-Aa5I2t2UQ/Vzprkbdp8qI/AAAAAAAAkoQ/Dgjnk3elXcQfV7kwrvY2GOROrKatZRJLACLcB/s320/Win_Sport_logo.png" group-title="COLOMBIA",Win Sports
-http://cdn2.elitegol.xyz/verliga/35/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/costa-rica/flag-button-square-250.png" group-title="LABEL",[B][COLOR green]== Costa Rica TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/CostaRica.mp3
