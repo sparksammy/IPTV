@@ -1309,7 +1309,7 @@ http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_
 http://www.lengua.com/anthems/India.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/742690056939311106/UdK1R9GE.jpg" group-title="INDIA",9x Jalwa
-http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/index_1110_av-p.m3u8
+http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpg" group-title="INDIA",ABP News
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
