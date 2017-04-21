@@ -1302,6 +1302,27 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
 
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="LABEL",[B][COLOR green]== India TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/India.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpg" group-title="INDIA",ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://storiesofworld.com/wp-content/uploads/2016/03/8-9.jpg" group-title="INDIA",DD News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="INDIA",India TV
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://uploads.tapatalk-cdn.com/20161102/a108a219f47ca81b4ecf33525429ffd4.jpg" group-title="INDIA",JK 24x7 News
+http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://drop.ndtv.com/albums/GADGETS/indianapps/ndtvapp.jpg" group-title="INDIA",NDTV
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-YvUAO640WNc/AAAAAAAAAAI/AAAAAAAAAAA/XHgSiezaGVg/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="INDIA",Paras TV
+http://208.109.243.12/apiupload/parasInternational/hls/5/parastv/playlist_9.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/493882319854653440/IS5djWg6.jpeg" group-title="LABEL",[B][COLOR green]== Israel TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Israel.mp3
 
