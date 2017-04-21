@@ -54,11 +54,14 @@ http://208.86.19.13:8080/live/34.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lJ3Oes3.jpg" group-title="USA",Ion Television
 http://208.86.19.123:8080/live/109.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg" group-title="USA",Freeform
+http://208.86.19.13:8080/live/27.stream/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/208.jpg" group-title="USA",Discovery
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg" group-title="USA",Freeform
-http://208.86.19.13:8080/live/27.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/208.jpg" group-title="USA",Animal Planet
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
