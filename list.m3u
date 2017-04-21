@@ -1649,17 +1649,17 @@ http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfire
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imagecrow.com/albums/friday-findsits-eagle-time-magic-school-house.jpg" group-title="NATURE",Decorah Eagles
 http://iphone-streaming.ustream.tv/uhls/3064708/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="NATURE",International Space Station
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imagecrow.com/albums/friday-findsits-eagle-time-magic-school-house.jpg" group-title="NATURE",Decorah Eagles
+http://iphone-streaming.ustream.tv/uhls/3064708/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.washingtonpost.com/rf/image_480w/2010-2019/WashingtonPost/2016/10/21/Local/Images/d1477086971.jpg" group-title="NATURE",Humane Rescue Alliance
+http://iphone-streaming.ustream.tv/uhls/13027422/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Kelp Forest
 http://iphone-streaming.ustream.tv/uhls/9948292/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://files.allaboutbirds.net/wp-content/uploads/2012/03/rtha_2birds.jpg" group-title="NATURE",Red-Tailed Hawk
 http://edge06.hdontap.com/ingest03-hdontap/redtailhawk_hdontap.stream/chunklist_w557056133.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Sea Otters
-http://iphone-streaming.ustream.tv/uhls/13659436/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Open Sea
 http://iphone-streaming.ustream.tv/uhls/9600798/streams/live/iphone/playlist.m3u8
@@ -1669,6 +1669,9 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 2
 http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Sea Otters
+http://iphone-streaming.ustream.tv/uhls/13659436/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]== Street Cams ==[/COLOR][/B]
 
@@ -1780,6 +1783,18 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="MUSIC",Vibee TV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing Animation
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing Classic
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing Dancefloor
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing Underground
+http://www.djing.com/tv/u-05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSIC",Music Choice Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
