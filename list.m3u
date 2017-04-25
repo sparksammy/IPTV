@@ -579,6 +579,9 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nellonetwork.com/media/zoo/images/cop_canale21_new_75d33e282d95b5b8474636e008388972.png" group-title="ITALY",Napoli Canale 21
 http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/149abbcb156b5e4b6d87697452d29fdf.jpeg" group-title="ITALY",Radio 105 TV
+http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/it/RADIOITALIATV.png" group-title="ITALY",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
@@ -642,6 +645,9 @@ http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/583586711407611904/6ULVQdGW.png" group-title="ITALY",Telenord
 http://streamer.oodlz.it/hls/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ifiodunavolta.flazio.com/public/componenti/225/f1/logo_telepavia_1474481286131.png" group-title="ITALY",telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1449306216.png" group-title="ITALY",TeleStudio Modena
 http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
 
@@ -653,6 +659,9 @@ http://vs2.streamcaster.net:1935/tele8_live/tele8/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemilano.net/files/2016/03/31/TELEMILANO.jpg" group-title="ITALY",Tele Milano
 http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ildolomiti.it/sites/default/files/styles/articolo/public/articoli-blog/TrentinoTV.jpg" group-title="ITALY",Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456428050.png" group-title="ITALY",TSN
 http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
