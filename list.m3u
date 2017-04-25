@@ -693,6 +693,15 @@ http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/20/TVI_2017.png" group-title="PORTUGAL",TVI *
 http://www.iptvsaga.com/play/tv3/0021.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvi24.png" group-title="PORTUGAL",TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtc.cv/tcv/images/logo_tcv.jpg" group-title="PORTUGAL",RTC (CV)
+http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="PORTUGAL",Santuario de Fatima - Capelinha das Aparicoes
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",[B][COLOR green]== Spain TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Spain.mp3
 
