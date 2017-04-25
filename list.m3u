@@ -741,6 +741,9 @@ http://live.sba1.com/hls-live/liveac/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1200059400/canal_rural_400x400.jpg" group-title="BRAZIL",Canal Rural
 http://67149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg" group-title="BRAZIL",Cancao Nova
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="BRAZIL",RedeTV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
