@@ -1005,6 +1005,9 @@ http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro
 http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://insiderlatam.com/wp-content/uploads/2016/04/Europa-Europa-1.jpg" group-title="ARGENTINA",Europa Europa
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
