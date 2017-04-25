@@ -51,17 +51,29 @@ http://208.86.19.123:8080/live/11.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/n7u8y4s.jpg" group-title="USA",BBC America
 http://208.86.19.13:8080/live/34.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sociallysuperlative.com/wp-content/uploads/bravo_logo.jpg" group-title="USA",Bravo
+http://vaders.tv/live/deedee/deedee/2438.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2013/10/comedy_central_logo-black.jpg" group-title="USA",Comedy Central
+http://vaders.tv/live/deedee/deedee/2443.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lJ3Oes3.jpg" group-title="USA",Ion Television
 http://208.86.19.123:8080/live/109.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg" group-title="USA",Freeform
 http://208.86.19.13:8080/live/27.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg" group-title="USA",Freeform HD
+http://vaders.tv/live/deedee/deedee/2450.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/208.jpg" group-title="USA",Discovery
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/taringa/4/0/2/1/7/1/lagarrapatasucia/E81.jpg" group-title="USA",HBO
+http://vaders.tv/live/deedee/deedee/7859.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
@@ -77,6 +89,9 @@ http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN
 http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3867.jpg" group-title="USA",CNBC
+http://vaders.tv/live/deedee/deedee/2441.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QVvBPKr.jpg" group-title="USA",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
