@@ -69,6 +69,24 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ee2tD7U.png" group-title="USA",Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/11/ae_network_logo-svg.png" group-title="USA",A&E
+http://144.217.68.106/live/qTUXdRgyKI-Ocmf-JVmsrQ/1493110271/ce425ca32dea0f37b22717ae989bcffb.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sociallysuperlative.com/wp-content/uploads/bravo_logo.jpg" group-title="USA",Bravo
+http://167.114.102.27/live/gb5x3fIMYKkY0QHHLjQyjg/1493110268/582b19f3ef5459a2f139ec69ee2053d0.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/440px-FOX_wordmark-orange.svg.png" group-title="USA",Fox
+http://144.217.68.106/live/pJIMwDYOcdQdlxuoO9g6oQ/1493109968/c2f52b70c2324ba134b2cba2962bedae.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/fx-logo.png" group-title="USA",FX
+http://144.217.68.106/live/xaOH1CTZULYwZ97RrZBcKQ/1493109965/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nor-del.com/images/Channels/spike_tv_ca.png" group-title="USA",Spike
+http://144.217.68.106/live/c45WFhazkjDEKlL3jCp6TA/1493110267/744a2e6d638ef5996394717e9e871717.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/syfy-logo.png" group-title="USA",Syfy
+http://167.114.102.27/live/SNaJsL1toUsk7cUMXgpekw/1493110273/d8320fedb4a90fb06c9f7bff96a7e619.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/13994.png" group-title="USA",Toonami Aftermath EST
 http://iphone-streaming.ustream.tv/uhls/22835363/streams/live/iphone/playlist.m3u8
 
