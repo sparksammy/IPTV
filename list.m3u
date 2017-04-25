@@ -1763,12 +1763,6 @@ http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.washingtonpost.com/rf/image_480w/2010-2019/WashingtonPost/2016/10/21/Local/Images/d1477086971.jpg" group-title="NATURE",Humane Rescue Alliance
 http://iphone-streaming.ustream.tv/uhls/13027422/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Kelp Forest
-http://iphone-streaming.ustream.tv/uhls/9948292/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Open Sea
-http://iphone-streaming.ustream.tv/uhls/9600798/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 1
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
@@ -1777,9 +1771,6 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://files.allaboutbirds.net/wp-content/uploads/2012/03/rtha_2birds.jpg" group-title="NATURE",Red-Tailed Hawk
 http://edge06.hdontap.com/ingest03-hdontap/redtailhawk_hdontap.stream/chunklist_w557056133.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14219.jpg" group-title="NATURE",Sea Otters
-http://iphone-streaming.ustream.tv/uhls/13659436/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="NATURE",Praia Carcavelos [Portugal]
 http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
