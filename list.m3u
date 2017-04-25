@@ -789,6 +789,9 @@ http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="SPAIN",Canal 24 Horas
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.federacionaspacecyl.org/wp-content/uploads/2016/08/cyltv-600x400.jpg" group-title="SPAIN",CYLTV
+http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/el-correo-de-andaluc-C3-ADa-tv-logo.png" group-title="SPAIN",El Correo de Andalucia TV
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
 
@@ -1272,6 +1275,9 @@ http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/liv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/32lNdWp.png" group-title="PERU",Panamericana TV
 http://stream-07.vty.dailymotion.com/09/dm/1/x18w5up/live.isml/events(live-1491417782)/live-audio=128000-video=2100000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s.rpp-noticias.io/images/imgshare.jpg" group-title="PERU",RPP TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="PERU",TV Peru
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
 
@@ -1311,6 +1317,12 @@ http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision
 http://162.220.218.101:8081/live/stream2.sdp/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/29c778_7ed6e418c0574ea38b1ff303f8a23041~mv2.png" group-title="LABEL",[B][COLOR green]== Panama TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Panama.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV.png" group-title="PANAMA",NEXtv
+http://190.102.61.118:1935/live/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://th.seaicons.com/wp-content/uploads/2016/03/Honduras-icon.png" group-title="LABEL",[B][COLOR green]== Honduras TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Honduras.mp3
 
@@ -1349,6 +1361,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nodal.am/wp-content/uploads/2016/03/telesur_logo.jpg" group-title="VENEZUELA",TeleSUR
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/708080483704377344/FLWBhNnC.jpg" group-title="VENEZUELA",TLT
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_1163_7_26601.png" group-title="VENEZUELA",TVO
 http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
