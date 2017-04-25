@@ -63,12 +63,6 @@ http://208.86.19.13:8080/live/31.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ee2tD7U.png" group-title="USA",Nicktoons
-http://208.86.19.13:8080/live/15.stream/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/11/ae_network_logo-svg.png" group-title="USA",A&E
 http://144.217.68.106/live/qTUXdRgyKI-Ocmf-JVmsrQ/1493110271/ce425ca32dea0f37b22717ae989bcffb.m3u8
 
@@ -86,6 +80,12 @@ http://144.217.68.106/live/c45WFhazkjDEKlL3jCp6TA/1493110267/744a2e6d638ef599639
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/syfy-logo.png" group-title="USA",Syfy
 http://167.114.102.27/live/SNaJsL1toUsk7cUMXgpekw/1493110273/d8320fedb4a90fb06c9f7bff96a7e619.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ee2tD7U.png" group-title="USA",Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/13994.png" group-title="USA",Toonami Aftermath EST
 http://iphone-streaming.ustream.tv/uhls/22835363/streams/live/iphone/playlist.m3u8
