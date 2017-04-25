@@ -583,10 +583,13 @@ http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiomontecarlo.net/images/logos/1/logo_colored.jpg" group-title="ITALY",Radio Monte Carlo
-http://fms.105.net:1935/live/rmc1/.m3u8
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-media.streema.com/media/object-images/053d11a4c6f0c4f8cc83bf9d2580daaa.jpg" group-title="ITALY",Radio Taormina
 http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3673.gif" group-title="ITALY",Radio Virgin TV
+http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digiterrestre.com/wp-content/uploads/2010/11/rai5.png" group-title="ITALY",Rai 5
 http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
