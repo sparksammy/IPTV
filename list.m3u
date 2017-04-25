@@ -867,6 +867,9 @@ http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="MEXICO",ESPN
 http://exabytetv.zapto.org/exabytetv-esgratis/total/3/@FHGY-1011000111101111001101100001001-ExabyteTV/6116/visita-exabytetv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.expodestinos.mx/images/expositores/mexico-travel-channel.jpg" group-title="MEXICO",Mexico Travel Channel
+http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO",Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 
