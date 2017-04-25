@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="LABEL",:: [COLOR yellow]fb.me/FluxusTV[/COLOR] ::
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="LABEL",:: Update: [COLOR yellow]04/24/2017[/COLOR] ::
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-B3tqSnojI0Y/WOPZ2UPCesI/AAAAAAAAAqQ/diehAz8d8k4L1sfls-wil69LsQjy5imvACK4B/s1600/FluxusTVblog.png" group-title="LABEL",:: Update: [COLOR yellow]04/25/2017[/COLOR] ::
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR green]== USA TV ==[/COLOR][/B]
@@ -167,6 +167,9 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://myersinfosys.com/wp-content/uploads/2015/07/NRB_Logo.png" group-title="USA",NRB Network
 http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://churchwatchcentral.files.wordpress.com/2016/05/hillsong-channel.jpg" group-title="USA",Hillsong Channel
+http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",[B][COLOR green]== UK TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
@@ -380,6 +383,9 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="GERMANY",KroneHit (AT)
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="GERMANY",QVC
+http://ios-stream.qvc.de/qvc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" group-title="GERMANY",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
@@ -771,6 +777,9 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lancelot.tv/lancelot.jpg" group-title="SPAIN",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/8/logo_thumb.jpg" group-title="SPAIN"RTVida
+http://178.32.53.254/radiovida/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",[B][COLOR green]== Latino TV ==[/COLOR][/B]
 http://50.7.56.2:8016
 
@@ -1152,6 +1161,9 @@ http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_enlace-juvenil_m.png" group-title="COSTA RICA",Enlace Juvenil
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV.png" group-title="COSTA RICA",Enlace TV
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZxJ6v5DgdMk/maxresdefault.jpg" group-title="COSTA RICA",HBTV Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
@@ -1164,23 +1176,32 @@ http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://si.cultura.cr/sites/default/files/styles/ficha_full/public/tvsur1.jpg" group-title="COSTA RICA",TV Sur Canal 14
 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/do.png" group-title="LABEL",[B][COLOR green]== Dominican TV ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/do.png" group-title="LABEL",[B][COLOR green]== Dominican Rep. TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/DominicanRepublic.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal4rd.com/portada/images/logos/logo-final5.jpg" group-title="DOMINICAN",Canal 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal4rd.com/portada/images/logos/logo-final5.jpg" group-title="DOMINICAN REP",Canal 4
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nettalkconnect.com/resources/nt/images/tv/tv_channels/canal-america.jpg" group-title="DOMINICAN",Canal America
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nettalkconnect.com/resources/nt/images/tv/tv_channels/canal-america.jpg" group-title="DOMINICAN REP",Canal America
 http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cristoreypuntocom.blogia.com/upload/20100228171452-logo-supercanal.jpg" group-title="DOMINICAN",Super Canal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png" group-title="DOMINICAN REP",Color Vision
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cristoreypuntocom.blogia.com/upload/20100228171452-logo-supercanal.jpg" group-title="DOMINICAN REP",Super Canal
 http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telefuturo-23.jpg" group-title="DOMINICAN",Telefuturo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleradioamerica.com/wp-content/uploads/2015/02/download.jpg" group-title="DOMINICAN REP",Tele Radio America
+http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telefuturo-23.jpg" group-title="DOMINICAN REP",Telefuturo
 http://qs1.distream.net:2112/tf_str/futu/chunklist_w1961345922.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/6c/f7/aa/6cf7aa90d1d7186a7b9a5467267a9630.jpg" group-title="DOMINICAN",Teleuniverso
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/6c/f7/aa/6cf7aa90d1d7186a7b9a5467267a9630.jpg" group-title="DOMINICAN REP",Teleuniverso
 http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xtremotv.com/images/xtremo_logo2_.png" group-title="DOMINICAN REP",Xtremo Channel
+http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.travelindicator.com/images/flags/173.png" group-title="LABEL",[B][COLOR green]== Peru TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Peru.mp3
@@ -1256,6 +1277,9 @@ http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/hn_si-tv_m.png" group-title="HONDURAS",Si TV
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="HONDURAS",Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9A-7_CtfRPM/AAAAAAAAAAI/AAAAAAAAAAA/xF80hVNHCaM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="HONDURAS",Televicentro
 http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
