@@ -69,12 +69,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ee2tD7U.png" group-title="USA",Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/13994.png" group-title="USA",Toonami Aftermath EST
-http://iphone-streaming.ustream.tv/uhls/22835363/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/13994.png" group-title="USA",Toonami Aftermath PST
-http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN
 http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 
@@ -447,9 +441,6 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mad3vUlHRKk/mqdefault.jpg" group-title="GREECE",Ellinikos FM
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-4DmxytUTGGE/VxRh6axUqLI/AAAAAAAAON0/OG3GQC7SjzoV5qtNcqIuyvdZzKnuO_UowCLcB/s1600/ioannina_tv_gr.png" group-title="GREECE",Ioannina TV
-http://iphone-streaming.ustream.tv/uhls/6066221/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/logo-kontra.png" group-title="GREECE",Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
@@ -813,9 +804,6 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2016_11/large.582cb27562d2d_Superee.png.762649faffad1d0df1ebf4fccedb7e66.png" group-title="SPAIN",SupereNe
 http://streann-i.akamaihd.net/hls/live/225396/STREANN-AkamaiSuperene/WVTSUPERENE/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/syfy-logo.png" group-title="SPAIN",Syfy
-http://edge3.telesport.pw/live/syfy/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Telecinco_2012_Large.svg/512px-Telecinco_2012_Large.svg.png" group-title="SPAIN",Telecinco
 http://mediasethls-lh.akamaihd.net/i/mitele/telecinco_ng@393132/index_500_av-p.m3u8
 
@@ -855,26 +843,11 @@ http://efusion1-i.akamaihd.net/hls/live/252882/hispantv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/1f397c13f176bf77fb8079b85563902b.jpeg" group-title="LATINO",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo
-http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo*
-http://iphone-streaming.ustream.tv/uhls/22489838/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bbgwatch.com/bbgwatch/wp-content/uploads/2013/08/Marti-150x150.png" group-title="LATINO",TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logo-png.com/uploads/posts/2016-07/univision-logo.png" group-title="LATINO",Univision
-http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elvenezolano.tv/wp-content/uploads/2016/08/logo.png" group-title="LATINO",El Venezolano
 http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_80-2c9amFs/maxresdefault.jpg" group-title="LATINO",Vitato Series
-http://iphone-streaming.ustream.tv/uhls/22671982/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/3r2bq.jpg" group-title="LATINO",Vitato TV
-http://iphone-streaming.ustream.tv/uhls/20109787/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/770289655795286016/yx04qWjm.jpg" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
@@ -944,9 +917,6 @@ http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO",Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491409806221.jpg" group-title="MEXICO",BiTV (AG)
-http://iphone-streaming.ustream.tv/uhls/22664097/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title="MEXICO",Canal 66 (BN)
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
@@ -1038,17 +1008,11 @@ http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canalorbe21.png" group-title="ARGENTINA",Canal Orbe 21
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-bxxrOlAm8Xc/VyoWxpAFUjI/AAAAAAAAEkk/IDr2cf3F-0cA9E_zfTAzXOOz4w24DerJgCLcB/s640/construirtv.jpg" group-title="ARGENTINA",Construir TV
-http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.Deportv2.png.a8a973d8c62197d90994dbf4e00a45e2.png" group-title="ARGENTINA",DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_bgzu5BPlsZY/SEcDHBXiSdI/AAAAAAAAAF4/JXiwbhDuSCI/S1600-R/Logo+El+Once+TV.jpg" group-title="ARGENTINA",Elonce TV
-http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro
 http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
@@ -1284,9 +1248,6 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.incanto.org.ni/wp-content/uploads/2015/10/Canal-6.png" group-title="NICARAGUA",Canal 6
 http://iphone-streaming.ustream.tv/uhls/18004667/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vivanicaragua.com.ni/contenido/archivos/2013/03/logo-viva-nicaragua-600x400.jpg" group-title="NICARAGUA",Canal 13
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/15/90/1856aec6ddbc5f9.jpg" group-title="LABEL",[B][COLOR green]== El Salvador TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/ElSalvador.mp3
 
@@ -1299,9 +1260,6 @@ http://198.24.135.42/canal11/canal11/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Canal 21
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/canal_33_el_salvador.jpg" group-title="EL SALVADOR",Canal 33
-http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="EL SALVADOR",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
@@ -1313,9 +1271,6 @@ http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision
 http://162.220.218.101:8081/live/stream2.sdp/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2hdxx76.jpg" group-title="GUATEMALA",TV Maya
-http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://th.seaicons.com/wp-content/uploads/2016/03/Honduras-icon.png" group-title="LABEL",[B][COLOR green]== Honduras TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Honduras.mp3
@@ -1754,9 +1709,6 @@ http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="NATURE",Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imagecrow.com/albums/friday-findsits-eagle-time-magic-school-house.jpg" group-title="NATURE",Decorah Eagles
-http://iphone-streaming.ustream.tv/uhls/3064708/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="NATURE",Fish Tank
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
@@ -1878,9 +1830,6 @@ http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg" group-title="STREETS",Seattle Space Needle
 http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.gettyimages.com/videos/high-angle-wide-shot-traffic-moving-around-seoul-plaza-as-day-turns-video-id887-30?s=640x640" group-title="STREETS",Seoul
-http://iphone-streaming.ustream.tv/uhls/18113990/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 1
 http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
