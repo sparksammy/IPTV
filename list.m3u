@@ -1026,6 +1026,9 @@ http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXb
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",[B][COLOR green]== Chile TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Chile.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-65e5oTcogNE/Vx7Uf4GBd_I/AAAAAAAB0Wk/Sgz8L_ZHAs0yFMM1H8XQhD7QOYyEZp_hACLcB/s1600/Cnn_cl.jpg" group-title="CHILE",CNN
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RUO9xsA.png" group-title="CHILE",Canal 13
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 
