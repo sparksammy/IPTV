@@ -987,10 +987,7 @@ http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablevisionfibertel.com.ar/dyn/dyn/MEDIA_ProductCatalog/m870014_DEPORTV-nuevo.png" group-title="ARGENTINA",DeporTV
-http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvpublica.com.ar/wp-content/uploads/2014/06/comunicacionPublicaDigital-DeporTV.png" group-title="ARGENTINA",DXTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.Deportv2.png.a8a973d8c62197d90994dbf4e00a45e2.png" group-title="ARGENTINA",DeporTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_bgzu5BPlsZY/SEcDHBXiSdI/AAAAAAAAAF4/JXiwbhDuSCI/S1600-R/Logo+El+Once+TV.jpg" group-title="ARGENTINA",Elonce TV
