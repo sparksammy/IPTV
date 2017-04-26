@@ -738,6 +738,9 @@ http://www.lengua.com/anthems/Brazil.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/_744KXmFCyEo/S5vk5r3KowI/AAAAAAAAAIQ/-bJJYN13CK8/w1200-h630-p-nu/agro_canal.png" group-title="BRAZIL",Agro Canal
 http://live.sba1.com/hls-live/liveac/_definst_/liveevent/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/09/Band-Logo.jpg" group-title="BRAZIL",Band
+http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1200059400/canal_rural_400x400.jpg" group-title="BRAZIL",Canal Rural
 http://67149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
 
@@ -747,14 +750,35 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="BRAZIL",RedeTV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg" group-title="BRAZIL",Rede Brasil
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/AF64Zzsa_ks/maxresdefault.jpg" group-title="BRAZIL",Rede Meio Norte
 http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.portalimprensa.com.br/content_file_storage/2015/03/19/SBT.jpg" group-title="BRAZIL",SBT Sao Paulo
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ismaelcarvalho.com.br/wp-content/uploads/2016/06/tv-brasil.png" group-title="BRAZIL",TV Brasil
 http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvbrusque.com.br/img/social.png" group-title="BRAZIL",TV Brusque
+http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/TV_Faap_Brazil.jpg" group-title="BRAZIL",TV Faap
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRAZIL",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2015/07/Jornal.png" group-title="BRAZIL",TV Jornal Caruaru
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://musikcity.mus.br/TV/figuras/tvjornal.png" group-title="BRAZIL",TV Jornal Recife
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png" group-title="BRAZIL",TVT
+http://slrp.sambavideos.sambatech.com/liveevent/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",[B][COLOR green]== Spain TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Spain.mp3
