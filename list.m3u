@@ -1846,19 +1846,19 @@ http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Sao Torpes [Portugal]
 http://213.13.26.11:1935/live/saotorpes.stream/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="NATURE",Praia Do Guincho [Portugal]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Do Guincho [Portugal]
 http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Do Norte [Portugal]
 http://213.13.26.11:1935/live/norte.stream/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="NATURE",Praia Grande [Portugal]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Grande [Portugal]
 http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Leca Da Palmeira [Portugal]
 http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="NATURE",Praia Liga Moche Surfe [Portugal]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Liga Moche Surfe [Portugal]
 http://213.13.26.11:1935/live/surfstream.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Madeira Jardim Do Mar [Portugal]
