@@ -930,6 +930,9 @@ http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2dm9jzc.jpg" group-title="LATINO",HispanTV
 http://efusion1-i.akamaihd.net/hls/live/252882/hispantv/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="LATINO",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/1f397c13f176bf77fb8079b85563902b.jpeg" group-title="LATINO",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
