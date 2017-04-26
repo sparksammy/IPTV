@@ -1677,6 +1677,9 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live/str
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.an7a.com/wp-content/uploads/2011/06/thaqafiyah.jpg" group-title="KSA",Saudi Documentary
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="KSA",Masdar TV
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
 
@@ -1883,6 +1886,9 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",[B][COLOR green]== Egypt TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Egypt.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/znmo0g.png" group-title="EGYPT"4Shbab
+http://api.new.livestream.com/accounts/13608789/events/4065056/videos/143758344.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq
 http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
