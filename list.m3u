@@ -270,6 +270,21 @@ http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 4
 http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports1-hq
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports 2
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports2-hq
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports 3
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports3-hq
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports 4
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports4-hq
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports 5
+http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports5-hq
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
 
