@@ -1818,6 +1818,9 @@ http://www.osltv.com/sniffs-s/lbc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrIJWCkub0c/hqdefault.jpg" group-title="LEBANON",MTV
 http://www.osltv.com/sniffs-s/mtv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LEBANON",Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON",Arabica TV
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
 
@@ -1829,9 +1832,6 @@ http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/2w2h8gw.jpg" group-title="LEBANON",Al Maaref
 http://almaareftv.com:1935/live/12/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LEBANON",Future TV
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",[B][COLOR green]== Syria TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Syria.mp3
