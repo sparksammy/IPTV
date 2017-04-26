@@ -48,6 +48,21 @@ http://208.86.19.123:8080/live/201.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2737.jpg" group-title="USA",USA Network
 http://208.86.19.123:8080/live/11.stream/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/440px-FOX_wordmark-orange.svg.png" group-title="USA",FOX
+http://channelpear.com/watch/?id=1837&u=237307&k=dlYrdXR5RktrZ1R2L3NhcXE1STM4T1JlNXRzNDIyajA3OUlOVjlBbHlmMD0%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-_VSq5RxQ5vk/UViRC3bzN2I/AAAAAAAAAqE/6Z6XymqPRo0/s1600/fx+channel+sivergamtv.png" group-title="USA",FX
+http://channelpear.com/watch/?id=1466&u=237307&k=dlYrdXR5RktrZ1R2L3NhcXE1STM4T1JlNXRzNDIyajA3OUlOVjlBbHlmMD0%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Spike_logo_2015.svg/2000px-Spike_logo_2015.svg.png" group-title="USA",Spike
+http://channelpear.com/watch/?id=1116&u=237307&k=dlYrdXR5RktrZ1R2L3NhcXE1STM4T1JlNXRzNDIyajA3OUlOVjlBbHlmMD0%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="USA",Syfy
+http://channelpear.com/watch/?id=875&u=237307&k=dlYrdXR5RktrZ1R2L3NhcXE1STM4T1JlNXRzNDIyajA3OUlOVjlBbHlmMD0%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1000px-CNBC_logo.svg.png" group-title="USA",CNBC
+http://channelpear.com/watch/?id=3867&u=237307&k=dlYrdXR5RktrZ1R2L3NhcXE1STM4T1JlNXRzNDIyajA3OUlOVjlBbHlmMD0%3D
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/n7u8y4s.jpg" group-title="USA",BBC America
 http://208.86.19.13:8080/live/34.stream/index.m3u8
 
