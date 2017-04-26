@@ -1921,7 +1921,7 @@ http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",[B][COLOR green]== Palestine TV ==[/COLOR][/B]
-http://www.lengua.com/anthems/Iraq.mp3
+http://users.atw.hu/szbszig/palestine.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imemc.org/wp-content/uploads/mar2016/palestinetoday.jpg" group-title="PALESTINE",Palestine Today
 http://live.paltoday.tv:1935/paltv/live/master.m3u8
