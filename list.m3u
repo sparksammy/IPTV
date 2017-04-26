@@ -1773,6 +1773,9 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Sk6m97Pu2aQ/AAAAAAAAAAI/AAAAAAAAAAA/LPCTsrRt1DI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SYRIA",Ugarit TV
 http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bf/Noor_Al-Sham_Logo.png" group-title="SYRIA",Nour El-Sham
+http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/jo.png" group-title="LABEL",[B][COLOR green]== Jordan TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Jordan.mp3
 
