@@ -1671,6 +1671,15 @@ http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/Rotana_Classic.jpeg" group-title="KSA",Rotana Classic
 http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Clip-logo.png" group-title="KSA",Rotana Clip
+http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://marfaworld.org/img/partners/rotana.png" group-title="KSA",Rotana Khalijia
+http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-khalijiah
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shahidhd.tv/video/uploads/thumbs/7eb6ffe5c-1.jpg" group-title="KSA",Rotana Mousica
+http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
