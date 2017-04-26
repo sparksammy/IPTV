@@ -1770,6 +1770,12 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/noor-dubai-tv-logo.jpeg" group-title="UAE",Nour Dubai
 http://dmiftvll.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1200000.m3u8
 
