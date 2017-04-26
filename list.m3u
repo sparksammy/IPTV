@@ -1335,9 +1335,6 @@ http://www.lengua.com/anthems/Nicaragua.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canal2nicaragua.png" group-title="NICARAGUA",Canal 2
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.incanto.org.ni/wp-content/uploads/2015/10/Canal-6.png" group-title="NICARAGUA",Canal 6
-http://iphone-streaming.ustream.tv/uhls/18004667/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/15/90/1856aec6ddbc5f9.jpg" group-title="LABEL",[B][COLOR green]== El Salvador TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/ElSalvador.mp3
 
