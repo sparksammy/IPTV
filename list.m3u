@@ -1818,6 +1818,9 @@ http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem *
 http://199.167.151.237:1935/live/sp15_46.stream/gmswf.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://toyoraljannah.tv/img/logo-1x.png" group-title="JORDAN",Toyor Al Jannah TV
+http://199.167.151.237:1935/live/sp15_47.stream/gmswf.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",[B][COLOR green]== Palestine TV ==[/COLOR][/B]
 http://users.atw.hu/szbszig/palestine.mp3
 
@@ -2019,6 +2022,12 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="QATAR",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem
+http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem *
+http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" group-title="QATAR",Jeem TV
 http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
 
@@ -2072,6 +2081,15 @@ http://www.osltv.com/sniffs-s/sports.m3u8?id=bein5-hq
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kw.png" group-title="LABEL",[B][COLOR green]== Kuwait TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Kuwait.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="KUWAIT",KTV 1
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="KUWAIT",KTV 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_al_ethraa.jpg" group-title="KUWAIT",KTV Ethraa
+https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="KUWAIT",Al Rai
 http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
