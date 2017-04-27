@@ -1731,14 +1731,26 @@ http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" group-title="SYRIA",Syria News
 http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Syrian_News_Logo.png/220px-Syrian_News_Logo.png" group-title="SYRIA",Syria News *
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_news
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg" group-title="SYRIA",Syria Drama
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg" group-title="SYRIA",Syria Drama *
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Sk6m97Pu2aQ/AAAAAAAAAAI/AAAAAAAAAAA/LPCTsrRt1DI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SYRIA",Ugarit TV
 http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Sk6m97Pu2aQ/AAAAAAAAAAI/AAAAAAAAAAA/LPCTsrRt1DI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SYRIA",Ugarit TV *
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bf/Noor_Al-Sham_Logo.png" group-title="SYRIA",Nour El Sham
 http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bf/Noor_Al-Sham_Logo.png" group-title="SYRIA",Nour El Sham *
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/jo.png" group-title="LABEL",[B][COLOR green]== Jordan TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Jordan.mp3
@@ -1759,7 +1771,7 @@ http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 http://users.atw.hu/szbszig/palestine.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imemc.org/wp-content/uploads/mar2016/palestinetoday.jpg" group-title="PALESTINE",Palestine Today
-http://live.paltoday.tv:1935/paltv/live/master.m3u8
+http://live.paltoday.tv:1935/paltv/live/chunklist_w564240298.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_quds_tv_palestine_channel_live_online_free_arabic_channel.JPG" group-title="PALESTINE",Al Quds
 http://stream.qudstv.com:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -1782,8 +1794,14 @@ http://www.lengua.com/anthems/SaudiArabia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" group-title="KSA",Saudi 1
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel2/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" group-title="KSA",Saudi 1 *
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" group-title="KSA",Saudi 2
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel3/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" group-title="KSA",Saudi 2 *
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg" group-title="KSA",Saudi Sports
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
@@ -1794,11 +1812,20 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel1/_definst_/live/str
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.an7a.com/wp-content/uploads/2011/06/thaqafiyah.jpg" group-title="KSA",Saudi Documentary
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.an7a.com/wp-content/uploads/2011/06/thaqafiyah.jpg" group-title="KSA",Saudi Documentary *
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="KSA",Masdar TV
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV *
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV **
+http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="KSA",Rotana Aflam
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
@@ -1962,6 +1989,9 @@ http://www.lengua.com/anthems/Kuwait.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="KUWAIT",Al Rai
 http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="KUWAIT",Al Rai *
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.wpclipart.com/flags/country_code_buttons/.cache/om_Oman.png" group-title="LABEL",[B][COLOR green]== Oman TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Oman.mp3
 
@@ -2007,6 +2037,9 @@ http://www.lengua.com/anthems/Tunisia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma
 http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma *
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Libya%20(New)-01.png" group-title="LABEL",[B][COLOR green]== Libya TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Libya.mp3
 
@@ -2014,7 +2047,7 @@ http://www.lengua.com/anthems/Libya.mp3
 http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="LIBYA",Libya TV
-http://starmena.ercdn.net/libyaschannel/libyaschannel_240p.m3u8
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/mqEK6nU.gif" group-title="LIBYA",Al Hadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
