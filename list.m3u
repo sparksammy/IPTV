@@ -2152,6 +2152,7 @@ http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
 #EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="NATURE",Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
@@ -2172,6 +2173,7 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
 http://edge06.hdontap.com/ingest03-hdontap/redtailhawk_hdontap.stream/chunklist_w557056133.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shift8web.ca/wp-content/uploads/2014/11/ser02-300x300.png" group-title="LABEL",[B][COLOR green]== Beach Cams ==[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Carcavelos [Portugal]
 http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
