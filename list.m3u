@@ -1068,6 +1068,9 @@ http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_3sp5q5of/sd/10000/t/xcFhH
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-i1CqxKxOIxo/VOQWpvIKeDI/AAAAAAAAA7Y/73FsGhkuZ_8/s1600/rtg.jpg" group-title="MEXICO",RTG (GR)
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png" group-title="MEXICO",Banda Ancha TV (JA)
+https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/ochotv_mexico.jpg" group-title="MEXICO",Ocho TV HD (JA)
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
