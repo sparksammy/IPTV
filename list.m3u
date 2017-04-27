@@ -48,39 +48,6 @@ http://208.86.19.123:8080/live/201.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2737.jpg" group-title="USA",USA Network
 http://208.86.19.123:8080/live/11.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2000px-A%26E_Network_logo.svg.png" group-title="USA",A&E
-http://144.217.68.106/live/3hnuxFKr26uDoOmr-S_rpg/1493264169/ce425ca32dea0f37b22717ae989bcffb.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://davios.com/sites/default/files/images/press/Bravo-TV-Logo-Wallpaper-1024x760.png" group-title="USA",Bravo
-http://144.217.68.106/live/JiNMydKGM1Ozx4Rkm52tBg/1493264165/582b19f3ef5459a2f139ec69ee2053d0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/cartoonnetwork/images/f/fe/CARTOON_NETWORK_logo.png" group-title="USA",Cartoon Network
-http://167.114.102.27//live/xo72qvfz0wn8wOZ9QaPlDw/1493264768/720933e62452d65671c676a065c18192.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/arrow/images/1/1a/The_CW_logo.png" group-title="USA",CW
-http://144.217.68.106/live/UZ9iHHe26KKP6NftVVNCzQ/1493264766/296e56c668bc8bd6b0044d3e4f034153.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1000px-CNBC_logo.svg.png" group-title="USA",CNBC
-http://144.217.68.106/live/deKZlrNFR4pTUjRwSR0VcQ/1493264764/0fa1864db527d3de89020cb06a050b35.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/440px-FOX_wordmark-orange.svg.png" group-title="USA",FOX
-http://144.217.68.106/live/W4KMOFrqDMKhnF5CaByuIw/1493263569/c2f52b70c2324ba134b2cba2962bedae.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-_VSq5RxQ5vk/UViRC3bzN2I/AAAAAAAAAqE/6Z6XymqPRo0/s1600/fx+channel+sivergamtv.png" group-title="USA",FX
-http://144.217.68.106/live/CiG-C5AxvpsDOuIvxbaDwg/1493263864/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/739px-History_Logo.svg.png" group-title="USA",History
-http://144.217.68.106/live/r3okvJMVqxbgtNFsC8sshw/1493265066/d722293bb9bbf20cc112924ef000a225.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Spike_logo_2015.svg/2000px-Spike_logo_2015.svg.png" group-title="USA",Spike
-http://167.114.102.27/live/TG0CR54kuIbq_-E95H8hQw/1493264162/744a2e6d638ef5996394717e9e871717.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="USA",Syfy
-http://167.114.102.27/live/IuT83Ycx8cAiHyJ5PiGlow/1493264165/d8320fedb4a90fb06c9f7bff96a7e619.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2000px-National-Geographic-Logo.svg.png" group-title="USA",National Geographic
-http://144.217.68.106/live/BwAzoEEIM2qroZtFS5M3TQ/1493265063/be2fa358e4f1c9a0ee833aa15f829f81.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/n7u8y4s.jpg" group-title="USA",BBC America
 http://208.86.19.13:8080/live/34.stream/index.m3u8
 
@@ -1010,6 +977,9 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1490989068109.jpg" group-title="LATINO",Russia Today
 http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",Los Simpson
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",[B][COLOR green]== Mexico TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Mexico.mp3
@@ -2307,9 +2277,3 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Toddler Tunes
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://assets.ilounge.com/images/uploads/music-app-icon.jpg" group-title="LABEL",[B][COLOR green]== 24/7 TV (Beta) ==[/COLOR][/B]
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="24/7",Simpsons
-http://144.217.68.106/live/i1QtSDAknWyslz72oEg-YA/1493267944/3691308f2a4c2f6983f2880d32e29c84.m3u8
