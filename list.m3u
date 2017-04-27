@@ -1914,6 +1914,9 @@ http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b80
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="UAE",Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/29n9sg4.png" group-title="UAE",Al Dafrah TV
+http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV
 http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
 
@@ -1926,12 +1929,6 @@ http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV *
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai *
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
 
@@ -1941,8 +1938,20 @@ http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One **
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" group-title="UAE",Dubai Zaman
+http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" group-title="UAE",Dubai Zaman *
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" group-title="UAE",Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai *
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg" group-title="UAE",Dubai Racing 1
 http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
@@ -2065,10 +2074,16 @@ http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 http://www.lengua.com/anthems/Oman.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV
-http://38.96.148.30:1935/live/omantv1/Zona-Live-TV.m3u8
+http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/oman_live.png" group-title="OMAN",Oman Mubasher
+http://38.96.148.30:1935/live/omantv3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/cultural.png" group-title="OMAN",Oman Documentary
+http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-yCEXwQgArD8/VqpC50OgSaI/AAAAAAAAAMw/rCuOnftELJ4/s1600/omansportstv.png" group-title="OMAN",Oman Sports
-http://38.96.148.30:1935/live/omantv2/Zona-Live-TV.m3u8
+http://38.96.148.30:1935/live/omantv2//playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Yemen-icon.png" group-title="LABEL",[B][COLOR green]== Yemen TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Yemen.mp3
@@ -2121,11 +2136,14 @@ http://www.lengua.com/anthems/Libya.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.218tv.net/wp-content/uploads/2016/12/218tv-default.jpg" group-title="LIBYA",218 (JO)
 http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="LIBYA",Libya TV
-http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/mqEK6nU.gif" group-title="LIBYA",Al Hadath
 http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i64.tinypic.com/msm71t.jpg" group-title="LIBYA",Al Nabaa
+http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="LIBYA",Libya TV
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
 #EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
 
