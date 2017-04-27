@@ -1722,6 +1722,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",[B][COLOR green]== Syria TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Syria.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="SYRIA",ANN
+http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.alarabiya.net/7d/df/640x392_50282_236307.jpg" group-title="SYRIA",Syria TV
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
 
@@ -1739,6 +1742,12 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvswatch.com/thumb/uploads/syria-drama-tv-live-from-syria-1458407756.jpg" group-title="SYRIA",Syria Drama *
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_drama
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvtvtv.ru/icons/syrian_education_tv.png" group-title="SYRIA",Syrian Education TV
+http://82.137.248.20:1935/SEdu/SEduLive3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvtvtv.ru/icons/syrian_education_tv.png" group-title="SYRIA",Syrian Education TV *
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Sk6m97Pu2aQ/AAAAAAAAAAI/AAAAAAAAAAA/LPCTsrRt1DI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SYRIA",Ugarit TV
 http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
@@ -1859,6 +1868,9 @@ http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",[B][COLOR green]== UAE TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png" group-title="UAE",CNBC Arabiya
+http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" group-title="UAE",Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
@@ -2025,6 +2037,9 @@ http://38.96.148.30:1935/live/omantv2/Zona-Live-TV.m3u8
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Yemen-icon.png" group-title="LABEL",[B][COLOR green]== Yemen TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Yemen.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" group-title="YEMEN",Yemen TV
+http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/almasirah_tv_yemen.jpg" group-title="YEMEN",Al Masirah
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 
@@ -2060,6 +2075,9 @@ http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma *
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/x6rl0.jpg" group-title="TUNISIA",Zitouna TV
+http://wowzacontrol.com:1935/8088/8088/gmswf.m3u8?cid=18648453&id=gmswf
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Libya%20(New)-01.png" group-title="LABEL",[B][COLOR green]== Libya TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Libya.mp3
