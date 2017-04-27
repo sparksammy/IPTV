@@ -1995,7 +1995,7 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",[B][COLOR green]== Egypt TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Egypt.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/znmo0g.png" group-title="EGYPT"4Shbab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/znmo0g.png" group-title="EGYPT",4Shbab
 http://api.new.livestream.com/accounts/13608789/events/4065056/videos/143758344.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq
@@ -2307,3 +2307,9 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Toddler Tunes
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.ilounge.com/images/uploads/music-app-icon.jpg" group-title="LABEL",[B][COLOR green]== 24/7 TV (Beta) ==[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="24/7",Simpsons
+http://144.217.68.106/live/i1QtSDAknWyslz72oEg-YA/1493267944/3691308f2a4c2f6983f2880d32e29c84.m3u8
