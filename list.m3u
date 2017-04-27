@@ -1458,6 +1458,36 @@ http://www.server.tevemi.com:1935/8110/8110/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/medium.red_pat.png.e93349a590537fb1722ea5bff6abbfc6.png" group-title="BOLIVIA",Red PAT
 http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://ru.seaicons.com/wp-content/uploads/2016/03/Russia-icon.png" group-title="LABEL",[B][COLOR green]== Russia TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Russia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.issueno206.com/wp-content/uploads/2015/04/rot-neu.jp" group-title="RUSSIA",7 TV
+http://78.40.108.218/7channel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kt.trkpuls.ru/home/images/b_img25.jpg" group-title="RUSSIA",Auto 24
+http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dreamhack.se/dhs15/files/2015/05/SCREEN_GS_STUDIO_LIGHT.png" group-title="RUSSIA",Game Show Network
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-on.ru/images/tv/hardlife-tv.jpg" group-title="RUSSIA",HardLife TV
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1457920745.png" group-title="RUSSIA",ILand TV (IL)
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photouploads.com/images/f807ad.png" group-title="RUSSIA",Life News
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="RUSSIA",RBC
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="RUSSIA",Soyuz
+http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.parsatv.com/index_files/channels/worldfashion.jpg" group-title="RUSSIA",World Fashion
+http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",[B][COLOR green]== Turkey TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Turkey.mp3
 
