@@ -1872,6 +1872,30 @@ http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="KSA",Masdar TV
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="KSA",MBC
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_1&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/5/50/MBC2_Logo.png" group-title="KSA",MBC 2
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_2&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/MBC_3_logo.jpg" group-title="KSA",MBC 3
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_3&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1129_1.png" group-title="KSA",MBC 4
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_4&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2014/August/week-02/9-8-2014/mbc-action-logo/original/8c79ab41b6beb0a5f568e8bd05c0048fa2d40cf9/mbc+action+logo.jpg" group-title="KSA",MBC Action
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_action&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-9MFYPtap7U0/U90uGxouH0I/AAAAAAAABiU/ukA6JrUSFbM/s1600/mbc+max+live.png" group-title="KSA",MBC Max
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_max&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-kEU08vkce8o/UtspIrSe2SI/AAAAAAAAAiI/eNN9_gm-CJU/s1600/Sans%2Btitre%2B1.png" group-title="KSA",MBC Drama
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_drama&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/nqu4q1.png" group-title="KSA",MBC Bollywood
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_bollywood&t=ar
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
 
@@ -2136,20 +2160,20 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",[B][COLOR green]== Egypt TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Egypt.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/znmo0g.png" group-title="EGYPT",4Shbab
-http://api.new.livestream.com/accounts/13608789/events/4065056/videos/143758344.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq
 http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.livetvhd.net/thumbs/al_masriya.jpg" group-title="EGYPT",ERTU 1
 http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nukussat.clan.su/Logo/logo_tv_3/mbc_ae_misr.png" group-title="EGYPT",MBC Masr
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_masr&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/mbcmasr2-android-124530.jpg" group-title="EGYPT",MBC Masr 2
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_masr_2&t=ar
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
 http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.elshobak.com/images/watch-melody-aflam-online-free.jpg" group-title="EGYPT",Melody Aflam
-http://38.96.148.118/MelodyAflam/smil:aflam.smil/chunklist_w2063537809_b500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="EGYPT",Rotana Masriya
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
