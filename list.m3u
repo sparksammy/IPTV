@@ -1893,9 +1893,6 @@ http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_max&t=ar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-kEU08vkce8o/UtspIrSe2SI/AAAAAAAAAiI/eNN9_gm-CJU/s1600/Sans%2Btitre%2B1.png" group-title="KSA",MBC Drama
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_drama&t=ar
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/nqu4q1.png" group-title="KSA",MBC Bollywood
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_bollywood&t=ar
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
 
