@@ -1467,7 +1467,7 @@ http://78.40.108.218/7channel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kt.trkpuls.ru/home/images/b_img25.jpg" group-title="RUSSIA",Auto 24
 http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dreamhack.se/dhs15/files/2015/05/SCREEN_GS_STUDIO_LIGHT.png" group-title="RUSSIA",Game Show Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dreamhack.se/dhs15/files/2015/05/SCREEN_GS_STUDIO_LIGHT.png" group-title="RUSSIA",Game Show Studio
 http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-on.ru/images/tv/hardlife-tv.jpg" group-title="RUSSIA",HardLife TV
