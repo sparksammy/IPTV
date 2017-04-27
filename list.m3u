@@ -1812,6 +1812,9 @@ http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem *
+http://199.167.151.237:1935/live/sp15_46.stream/gmswf.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",[B][COLOR green]== Palestine TV ==[/COLOR][/B]
 http://users.atw.hu/szbszig/palestine.mp3
 
