@@ -462,6 +462,60 @@ http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Xitelogo.jpg/266px-Xitelogo.jpg" group-title="NETHERLANDS",Xite Music
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.prazynka.pl/image/pl64.png" group-title="LABEL",[B][COLOR green]== Poland TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Poland.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qsCfWH49Lv8/maxresdefault.jpg" group-title="POLAND",AXN Black
+http://n-3-9.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_black_1/2933/0/tv-ss/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/738309186845429760/4HA03dX1.jpg" group-title="POLAND",AXN White
+http://n-3-23.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_white_1/3244/0/tv-ss/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/pl/AXNSPIN.png" group-title="POLAND",AXN Spin
+http://n-3-17.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_Spin_HD_1/2282/0/tv-ss/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.wp.pl/a/f/png/32041/stars-tv-logo.png" group-title="POLAND",Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.wirtualnemedia.pl/media/top/tvrepublika2015.jpg" group-title="POLAND",Telewizja Republika
+http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Twoja TV" group-title="POLAND",Twoja TV
+http://94.246.169.19/ttv_hls/live_270p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ru.seaicons.com/wp-content/uploads/2016/03/Russia-icon.png" group-title="LABEL",[B][COLOR green]== Russia TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Russia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.issueno206.com/wp-content/uploads/2015/04/rot-neu.jp" group-title="RUSSIA",7 TV
+http://78.40.108.218/7channel/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kt.trkpuls.ru/home/images/b_img25.jpg" group-title="RUSSIA",Auto 24
+http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dreamhack.se/dhs15/files/2015/05/SCREEN_GS_STUDIO_LIGHT.png" group-title="RUSSIA",Game Show Studio
+http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-on.ru/images/tv/hardlife-tv.jpg" group-title="RUSSIA",HardLife TV
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1457920745.png" group-title="RUSSIA",ILand TV (IL)
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photouploads.com/images/f807ad.png" group-title="RUSSIA",Life News
+http://tv.life.ru/lifetv/720p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="RUSSIA",RBC
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="RUSSIA",RT Documentary (EN)
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="RUSSIA",Soyuz
+http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.parsatv.com/index_files/channels/worldfashion.jpg" group-title="RUSSIA",World Fashion
+http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://kordas.gr/img/gr.png" group-title="LABEL",[B][COLOR green]== Greece TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Greece.mp3
 
@@ -1466,60 +1520,6 @@ http://www.server.tevemi.com:1935/8110/8110/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/medium.red_pat.png.e93349a590537fb1722ea5bff6abbfc6.png" group-title="BOLIVIA",Red PAT
 http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://ru.seaicons.com/wp-content/uploads/2016/03/Russia-icon.png" group-title="LABEL",[B][COLOR green]== Russia TV ==[/COLOR][/B]
-http://www.lengua.com/anthems/Russia.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.issueno206.com/wp-content/uploads/2015/04/rot-neu.jp" group-title="RUSSIA",7 TV
-http://78.40.108.218/7channel/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kt.trkpuls.ru/home/images/b_img25.jpg" group-title="RUSSIA",Auto 24
-http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dreamhack.se/dhs15/files/2015/05/SCREEN_GS_STUDIO_LIGHT.png" group-title="RUSSIA",Game Show Studio
-http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-on.ru/images/tv/hardlife-tv.jpg" group-title="RUSSIA",HardLife TV
-http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1457920745.png" group-title="RUSSIA",ILand TV (IL)
-http://146.185.61.140:1935/live/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photouploads.com/images/f807ad.png" group-title="RUSSIA",Life News
-http://tv.life.ru/lifetv/720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="RUSSIA",RBC
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="RUSSIA",RT Documentary (EN)
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="RUSSIA",Soyuz
-http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.parsatv.com/index_files/channels/worldfashion.jpg" group-title="RUSSIA",World Fashion
-http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.prazynka.pl/image/pl64.png" group-title="LABEL",[B][COLOR green]== Poland TV ==[/COLOR][/B]
-http://www.lengua.com/anthems/Poland.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qsCfWH49Lv8/maxresdefault.jpg" group-title="POLAND",AXN Black
-http://n-3-9.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_black_1/2933/0/tv-ss/live.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/738309186845429760/4HA03dX1.jpg" group-title="POLAND",AXN White
-http://n-3-23.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_white_1/3244/0/tv-ss/live.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.firstonetv.eu/images/logos/pl/AXNSPIN.png" group-title="POLAND",AXN Spin
-http://n-3-17.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_Spin_HD_1/2282/0/tv-ss/live.isml/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.wp.pl/a/f/png/32041/stars-tv-logo.png" group-title="POLAND",Stars TV
-http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.wirtualnemedia.pl/media/top/tvrepublika2015.jpg" group-title="POLAND",Telewizja Republika
-http://stream4.videostar.pl/999_tvrtest/smil:4321abr.ism/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="Twoja TV" group-title="POLAND",Twoja TV
-http://94.246.169.19/ttv_hls/live_270p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/300px/svg_to_png/157219/tr.png" group-title="LABEL",[B][COLOR green]== Turkey TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Turkey.mp3
