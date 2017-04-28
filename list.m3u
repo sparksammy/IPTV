@@ -328,7 +328,7 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/78.jpg" group-title="WORLD NEWS",i24 News
-http://stream-05.vty.dailymotion.com/47/dm/1/x29atae/live.isml/events(live-1491428045)/live-audio=128000-video=6300000.m3u8?vbegin=1451606400
+http://stream-07.vty.dailymotion.com/49/dm/1/x29atae/live.isml/events(live-1493313991)/live-audio=128000-video=6300000.m3u8?vbegin=1451606400
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.thenewsminute.com/sites/default/files/styles/news_detail/public/News%20X%20Facebook.jpg" group-title="WORLD NEWS",NewsX
 http://newsx.live-s.cdn.bitgravity.com/cdn-live/_definst_/newsx/live/newsxnew.smil/playlist.m3u8
