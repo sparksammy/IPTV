@@ -1500,7 +1500,7 @@ http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.parsatv.com/index_files/channels/worldfashion.jpg" group-title="RUSSIA",World Fashion
 http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.mefra.pl/images/language-pl.png" group-title="LABEL",[B][COLOR green]== Poland TV ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://www.prazynka.pl/image/pl64.png" group-title="LABEL",[B][COLOR green]== Poland TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Poland.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qsCfWH49Lv8/maxresdefault.jpg" group-title="POLAND",AXN Black
