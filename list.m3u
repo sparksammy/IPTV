@@ -1794,6 +1794,9 @@ http://82.137.248.21:1935/Ugarit/UgaritLive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Sk6m97Pu2aQ/AAAAAAAAAAI/AAAAAAAAAAA/LPCTsrRt1DI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SYRIA",Ugarit TV *
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_ugarit
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabdsyria.tv/Media/Default/Images/default-thumb.png" group-title="SYRIA",Nabd Syria
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bf/Noor_Al-Sham_Logo.png" group-title="SYRIA",Nour El Sham
 http://82.137.248.21:1935/Nour/NourLive2/playlist.m3u8
 
@@ -1926,11 +1929,20 @@ http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="KSA",Al Quran Al Karim
+http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="KSA",Al Sunnah Al Nabawiyah
+http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/almajd_tv_islamic_channel_live_online_free_arabic_channel.png" group-title="KSA",Al Majd TV
 http://almajd.ashttp21.visionip.tv/live/almajd-almajd-almajd-islamic-science-hsslive-25f-16x9-HD/chunklist_w183387519.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="KSA",Al Quran Al Karim
-http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iqraa.com/MediaStorage/images/news451.jpg" group-title="KSA",Iqraa
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ariase.com/media/television/logo-132x99/iqraa-international.jpg" group-title="KSA",Iqraa International
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_america
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/wesal_tv_islamic_channel_tv_live.jpg" group-title="KSA",Wesal TV
 http://109.123.123.82:1935/wesal/wesal1/chunklist_w2021646403.m3u8
@@ -2139,6 +2151,9 @@ http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/ktv2_Kuwait.jpg" group-title="KUWAIT",KTV 2 *
 https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/ktv3.jpg" group-title="KUWAIT",KTV Sport
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_al_ethraa.jpg" group-title="KUWAIT",KTV Ethraa
 https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
 
@@ -2177,6 +2192,9 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",[B][COLOR green]== Egypt TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Egypt.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-j2tQrXqcnbE/UJrfFKuhOVI/AAAAAAAAD9w/O1PAj3B0Wlw/s320/Screen_shot_2011-07-02_at_12.49.44_PM.png" group-title="EGYPT",CBC
+http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq
 http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
