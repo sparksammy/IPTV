@@ -2377,6 +2377,7 @@ http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
 http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]== Street Cams ==[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="STREETS",Ft. Lauderdale Marina
 http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
