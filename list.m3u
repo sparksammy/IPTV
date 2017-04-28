@@ -2247,6 +2247,12 @@ http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="LIBYA",Libya TV
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Morocco-01.png" group-title="LABEL",[B][COLOR green]== Morocco TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Morocco.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
+http://95.81.155.40/5958/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
