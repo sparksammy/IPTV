@@ -2265,6 +2265,15 @@ http://www.lengua.com/anthems/Morocco.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
 http://95.81.155.40/5958/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://amharic.co.il/images/ethiopia.png" group-title="LABEL",[B][COLOR green]== Ethiopia TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Ethiopia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diretube.com/uploads/articles/a8b4536f.jpg" group-title="ETHIOPIA",Kana TV
+http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://acafaith.com/website-images/elshaddai.png" group-title="ETHIOPIA",ETN Elshaddai
+http://ipointcablertmp.tulix.tv/elshaddai/elshaddai/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
