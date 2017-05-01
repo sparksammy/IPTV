@@ -2524,10 +2524,10 @@ http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Indie
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Metal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Metal
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop & Country
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Pop & Country
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Pop Hits
