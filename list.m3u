@@ -2485,37 +2485,37 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="MUSIC",Vibee TV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing Animation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Animation
 http://www.djing.com/tv/a-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing Classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Classic
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing Dancefloor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Dancefloor
 http://www.djing.com/tv/d-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing Underground
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Underground
 http://www.djing.com/tv/u-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSIC",Music Choice Play
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSIC",Music Choice Play HD
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Alternative
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Alternative
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Brits + Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Brits + Hits
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Dance/EDM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Dance/EDM
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Hip-Hop and R&B
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Hip-Hop and R&B
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Hit List
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Hit List
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Indie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Indie
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Metal
@@ -2524,50 +2524,50 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop & Country
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Pop Hits
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] R&B Soul
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - R&B Soul
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Rap
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Rap
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Rap 2K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Rap 2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Rock
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Rock
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Teen Beats
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Teen Beats
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Today’s Country
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Today’s Country
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] 90s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - 90s
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Throwback Jamz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Throwback Jamz
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Y2K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Y2K
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Mexicana
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Mexicana
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Musica Urbana
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Musica Urbana
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Pop Latino
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Pop Latino
 http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Tropicales
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Tropicales
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Kidz Only!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Kidz Only!
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",[MC] Toddler Tunes
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Toddler Tunes
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
