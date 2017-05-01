@@ -441,6 +441,9 @@ http://lb-omroepflevoland-live.cdn.streamgate.nl/omroepflevoland/livestream1.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgw.rgcdn.nl/819f34dadc124c9faccf2793e5710096/opener/Omroep-West.jpg" group-title="NETHERLANDS",Omroep West
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static3.omroepzeeland.nl/sites/all/themes/omroepzeeland/logo.png" group-title="NETHERLANDS",Omroep Zeeland
+http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/kSr7t6X7l.png" group-title="NETHERLANDS",RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
 
@@ -824,6 +827,9 @@ http://www.lengua.com/anthems/Brazil.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/_744KXmFCyEo/S5vk5r3KowI/AAAAAAAAAIQ/-bJJYN13CK8/w1200-h630-p-nu/agro_canal.png" group-title="BRAZIL",Agro Canal
 http://live.sba1.com/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/EWcqEk5WMIM/maxresdefault.jpg" group-title="BRAZIL",Amazon Sat
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/09/Band-Logo.jpg" group-title="BRAZIL",Band
 http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
@@ -2294,6 +2300,12 @@ http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://acafaith.com/website-images/elshaddai.png" group-title="ETHIOPIA",ETN Elshaddai
 http://ipointcablertmp.tulix.tv/elshaddai/elshaddai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Rwanda-icon.png" group-title="LABEL",[B][COLOR green]== Rwanda TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Rwanda.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rwanda.watsupafrica.com/wp-content/uploads/2017/04/kwibuka-23-walk-to-remember-2017-youtube-thumbnail.jpg" group-title="RWANDA",RBA
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
