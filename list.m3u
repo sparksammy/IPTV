@@ -486,6 +486,9 @@ http://212.96.163.139:8020/1-tv-pc/924.m3u8
 #EXTINF:-1 tvg-logo="https://www.prazynka.pl/image/pl64.png" group-title="LABEL",[B][COLOR green]== Poland TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Poland.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://n-4-16.dcs.redcdn.pl/file/mm/multimedia/live/amazing/aMazingCover500x200.png" group-title="POLAND",aMazing TV
+http://n-4-16.dcs.redcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/qsCfWH49Lv8/maxresdefault.jpg" group-title="POLAND",AXN Black
 http://n-3-9.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_black_1/2933/0/tv-ss/live.isml/playlist.m3u8
 
