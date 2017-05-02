@@ -2337,7 +2337,7 @@ http://ipointcablertmp.tulix.tv/elshaddai/elshaddai/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Rwanda-icon.png" group-title="LABEL",[B][COLOR green]== Rwanda TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Rwanda.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rwanda.watsupafrica.com/wp-content/uploads/2017/04/kwibuka-23-walk-to-remember-2017-youtube-thumbnail.jpg" group-title="RWANDA",RBA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="RWANDA",RTV
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
 #EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
