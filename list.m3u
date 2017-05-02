@@ -945,6 +945,9 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg" group-title="BRAZIL",Via Morena
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/11ch4sl.png" group-title="BRAZIL",Shoptime
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",[B][COLOR green]== Spain TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Spain.mp3
 
