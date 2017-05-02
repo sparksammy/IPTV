@@ -165,29 +165,17 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR green]== USA Local News ==[/COLOR][/B]
 http://www.lengua.com/anthems/USA.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.lakana.com/lakana-fox-global/theme/images/waga/placeholder-4x3.jpg" group-title="USA LOCAL",FOX 5 News (Atlanta)
-https://raw.githubusercontent.com/fluxustv/Channels/master/FOX5NewsAtlanta.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ufEoHOY.png" group-title="USA LOCAL",CBS 9 News (Baton Rouge)
-https://raw.githubusercontent.com/fluxustv/Channels/master/CBS9BatonRouge.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="USA LOCAL",NBC 11 News (Bay Area)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4059.jpg" group-title="USA LOCAL",KTVU 2 News (Bay Area)
 http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14550.jpg" group-title="USA LOCAL",CBS 5 News (Bay Area)
-http://play-prod1.live.anvato.net/server/play/cbslocal-kpix-dfp/master.m3u
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/WBZ-TV_logo.png" group-title="USA LOCAL",CBS 4 News (Boston)
 http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Brooklyn)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a743263f3544489d942262aa82ca9346-hd.png" group-title="USA LOCAL",ABC 7 News (Buffalo)
-http://stswkbw-i.akamaihd.net/hls/live/220610/anvato/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/7293.jpeg" group-title="USA LOCAL",ABC 7 News (Chicago)
 https://raw.githubusercontent.com/fluxustv/Channels/master/ABC7Chicago.m3u8
@@ -246,9 +234,6 @@ http://play-prod1.live.anvato.net/server/play/gray-koln-dfp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg" group-title="USA LOCAL",FOX 25 News (New England)
 http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/jy5HmAM.png" group-title="USA LOCAL",FOX 5 News (New York)
-https://raw.githubusercontent.com/fluxustv/Channels/master/FOX5NewsNY.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/7291.jpg" group-title="USA LOCAL",ABC 7 News (New York)
 https://raw.githubusercontent.com/fluxustv/Channels/master/ABC7NewYork.m3u8
 
@@ -266,9 +251,6 @@ https://raw.githubusercontent.com/fluxustv/Channels/master/ABC6Philly.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14578.jpeg" group-title="USA LOCAL",ABC 15 News (Phoenix)
-http://spsknxv-i.akamaihd.net/hls/live/203386/anvato/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2cKB6u1.jpg" group-title="USA LOCAL",FOX 10 News (Phoenix)
 https://raw.githubusercontent.com/fluxustv/Channels/master/FOX10Phoenix.m3u8
