@@ -402,6 +402,9 @@ http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=kika
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="GERMANY",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://opsmedia.ru/wp-content/uploads/2016/10/ELECTROSOUND-TV-logo.jpg" group-title="GERMANY",Electrosound TV
+http://www.electrosound.tv:1935/public/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="GERMANY",KroneHit (AT)
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 
