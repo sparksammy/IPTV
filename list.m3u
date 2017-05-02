@@ -558,6 +558,27 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="BULGARIA",Vibee TV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.emit.it/assets/images/icone/Albania.png" group-title="LABEL",[B][COLOR green]== Albania TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Albania.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ejashiko.ch/wp-content/uploads/2014/06/abc-550x400_c.png" group-title="ALBANIA",ABC News
+http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/03/supersonic_tv_al.png" group-title="ALBANIA",Supersonic TV
+http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/ro.png" group-title="LABEL",[B][COLOR green]== Romania TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Romania.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mywebtv.info/img/tvicons/560870.png" group-title="ROMANIA",Atomic TV
+http://5.154.185.153/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digi-online.ro/img/logo-digionline-top.png" group-title="ROMANIA",Digi 24
+http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.forbes.ro/wp-content/uploads/2013/06/51b066754e457.jpg" group-title="ROMANIA",Realitatea TV
+http://realitatea.m247.ro/hls/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://kordas.gr/img/gr.png" group-title="LABEL",[B][COLOR green]== Greece TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Greece.mp3
 
@@ -2346,6 +2367,15 @@ http://www.lengua.com/anthems/Rwanda.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="RWANDA",RTV
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
+#EXTINF:-1 tvg-logo="http://topbandeiras.com.br/images/botoes/Nigeria-01.png" group-title="LABEL",[B][COLOR green]== Nigeria TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Nigeria.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iamericaa.com/wp-content/uploads/2016/04/TVC-LOGO-hd-2.jpg" group-title="NIGERIA",TVC Entertainment
+http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.consat.tv/images/1475327925.jpg" group-title="NIGERIA",TVC News
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
@@ -2525,12 +2555,6 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="MUSIC",1Music (HU)
 http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mywebtv.info/img/tvicons/560870.png" group-title="MUSIC",Atomic TV (RO)
-http://5.154.185.153/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/03/supersonic_tv_al.png" group-title="MUSIC",Supersonic TV (AB)
-http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Kfj2J1z.png" group-title="MUSIC",The Edge (NZ)
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
