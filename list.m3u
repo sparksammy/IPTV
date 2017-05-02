@@ -2491,8 +2491,10 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="MUSIC",1Music
-
 http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mywebtv.info/img/tvicons/560870.png" group-title="MUSIC",Atomic TV
+http://5.154.185.153/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/citytv.png" group-title="MUSIC",City TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
