@@ -474,6 +474,9 @@ http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="CZECH REP",Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://restaurace.slusnejkanal.cz/wp-content/gallery/interier/Slus_nej-kana_l_3.jpeg" group-title="CZECH REP",Slusnej Kanal
+http://212.96.163.139:8020/1-tv-pc/924.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.prazynka.pl/image/pl64.png" group-title="LABEL",[B][COLOR green]== Poland TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Poland.mp3
 
