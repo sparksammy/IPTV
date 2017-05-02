@@ -264,9 +264,6 @@ http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/9255.png" group-title="USA LOCAL",ABC 7 News (San Francisco)
 https://raw.githubusercontent.com/fluxustv/Channels/master/ABC7SanFrancisco.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/T_5P8qPV89g/hqdefault.jpg" group-title="USA LOCAL",KIRO 7 News (Seattle)
-http://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14552.jpg" group-title="USA LOCAL",CBS 13 News (Stockton)
 http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
 
