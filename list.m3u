@@ -162,6 +162,138 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://churchwatchcentral.files.wordpress.com/2016/05/hillsong-channel.jpg" group-title="USA",Hillsong Channel
 http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR green]== USA Local News ==[/COLOR][/B]
+http://www.lengua.com/anthems/USA.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.lakana.com/lakana-fox-global/theme/images/waga/placeholder-4x3.jpg" group-title="USA LOCAL",FOX 5 News (Atlanta)
+https://raw.githubusercontent.com/fluxustv/Channels/master/FOX5NewsAtlanta.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ufEoHOY.png" group-title="USA LOCAL",CBS 9 News (Baton Rouge)
+https://raw.githubusercontent.com/fluxustv/Channels/master/CBS9BatonRouge.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="USA LOCAL",NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4059.jpg" group-title="USA LOCAL",KTVU 2 News (Bay Area)
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14550.jpg" group-title="USA LOCAL",CBS 5 News (Bay Area)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kpix-dfp/master.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/WBZ-TV_logo.png" group-title="USA LOCAL",CBS 4 News (Boston)
+http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a743263f3544489d942262aa82ca9346-hd.png" group-title="USA LOCAL",ABC 7 News (Buffalo)
+http://stswkbw-i.akamaihd.net/hls/live/220610/anvato/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/7293.jpeg" group-title="USA LOCAL",ABC 7 News (Chicago)
+https://raw.githubusercontent.com/fluxustv/Channels/master/ABC7Chicago.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg" group-title="USA LOCAL",CBS 5 News (Colorado)
+http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tribwtic.files.wordpress.com/2013/04/station_logo.png" group-title="USA LOCAL",FOX 61 News (Connecticut)
+https://raw.githubusercontent.com/fluxustv/Channels/master/FOX61Connecticut.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.blumshapiro.com/media/uploads/images/NEWS8_Logo.jpg" group-title="USA LOCAL",WTNH 8 News (Connecticut)
+https://raw.githubusercontent.com/fluxustv/Channels/master/WTNH8Connecticut.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LAp3YOi.jpg" group-title="USA LOCAL",FOX 4 News (Dallas)
+https://raw.githubusercontent.com/fluxustv/Channels/master/FOX4Dallas.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/j6ihWgU.jpg" group-title="USA LOCAL",ABC 7 News (Denver)
+https://raw.githubusercontent.com/fluxustv/Channels/master/ABC7Denver.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.lakana.com/lakana-fox-global/theme/images/wjbk/placeholder-4x3.jpg" group-title="USA LOCAL",FOX 2 News (Detroit)
+https://raw.githubusercontent.com/fluxustv/Channels/master/FOX2Detroit.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/7297.jpg" group-title="USA LOCAL",ABC 30 News (Fresno)
+https://raw.githubusercontent.com/fluxustv/Channels/master/ABC30Fresno.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/7296.jpg" group-title="USA LOCAL",ABC 13 News (Houston)
+https://raw.githubusercontent.com/fluxustv/Channels/master/ABC13Houston.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" group-title="USA LOCAL",KCAL 9 News (Los Angeles)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d8/KTBS_1996.jpg" group-title="USA LOCAL",ABC 3 News (Louisiana)
+http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",FOX 13 News (Memphis)
+http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png" group-title="USA LOCAL",CBS 3 News (Michigan)
+http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Cif3x2W.jpg" group-title="USA LOCAL",FOX 9 News (Minneapolis)
+https://raw.githubusercontent.com/fluxustv/Channels/master/FOX9Minneapolis.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/fK8shXh.jpg" group-title="USA LOCAL",NBC News (Montana)
+https://raw.githubusercontent.com/fluxustv/Channels/master/NBCMontana.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14523.jpg" group-title="USA LOCAL",NBC News (Nebraska)
+http://play-prod1.live.anvato.net/server/play/gray-ksnb-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14522.jpg" group-title="USA LOCAL",CBS News (Nebraska)
+http://play-prod1.live.anvato.net/server/play/gray-koln-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newenglandone.com/images/stories/2016/wfxtfox25newsat4.jpg" group-title="USA LOCAL",FOX 25 News (New England)
+http://cmghlslive-i.akamaihd.net/hls/live/224671/WFXT/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/jy5HmAM.png" group-title="USA LOCAL",FOX 5 News (New York)
+https://raw.githubusercontent.com/fluxustv/Channels/master/FOX5NewsNY.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/7291.jpg" group-title="USA LOCAL",ABC 7 News (New York)
+https://raw.githubusercontent.com/fluxustv/Channels/master/ABC7NewYork.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://uncubed.com/wp-content/uploads/2014/07/cbslocal.png" group-title="USA LOCAL",CBS 2 News (New York)
+http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/N2mDQbE.jpg" group-title="USA LOCAL",NBC 4 News (New York)
+http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/NRkRSWp.jpg" group-title="USA LOCAL",FOX 35 News (Orlando)
+https://raw.githubusercontent.com/fluxustv/Channels/master/FOX35Orlando.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/7294.jpg" group-title="USA LOCAL",ABC 6 News (Philadelphia)
+https://raw.githubusercontent.com/fluxustv/Channels/master/ABC6Philly.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
+http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14578.jpeg" group-title="USA LOCAL",ABC 15 News (Phoenix)
+http://spsknxv-i.akamaihd.net/hls/live/203386/anvato/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2cKB6u1.jpg" group-title="USA LOCAL",FOX 10 News (Phoenix)
+https://raw.githubusercontent.com/fluxustv/Channels/master/FOX10Phoenix.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lTqLxtj.png" group-title="USA LOCAL",KOIN 6 News (Portland)
+https://raw.githubusercontent.com/fluxustv/Channels/master/KOIN6Portland.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kutv2productions.com/images/KUTV2Productions_SplashImage_972x510.jpg" group-title="USA LOCAL",CBS 2 (Salt Lake City)
+http://ktvx-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/9255.png" group-title="USA LOCAL",ABC 7 News (San Francisco)
+https://raw.githubusercontent.com/fluxustv/Channels/master/ABC7SanFrancisco.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/T_5P8qPV89g/hqdefault.jpg" group-title="USA LOCAL",KIRO 7 News (Seattle)
+http://cmghlslive-i.akamaihd.net/hls/live/224708/KIRO/2564k/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14552.jpg" group-title="USA LOCAL",CBS 13 News (Stockton)
+http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/7VCnCvh.png" group-title="USA LOCAL",Fox 29 News (West Palm Beach)
+https://raw.githubusercontent.com/fluxustv/Channels/master/FOX29WPalmBeach.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14506.jpg" group-title="USA LOCAL",ABC News (Wichita)
+http://play-prod1.live.anvato.net/server/play/gray-kake-dfp/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",[B][COLOR green]== UK TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
