@@ -984,6 +984,9 @@ http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/nbr.png" group-title="BRAZIL",NBR
 http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiomeninabc.portalmenina.com.br/images/logo-radio-bc.png" group-title="BRAZIL",Radio Menina TV
+http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="BRAZIL",RedeTV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
@@ -1008,8 +1011,14 @@ http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jacarei.sp.leg.br/wp-content/uploads/2015/04/btn-tv.gif" group-title="BRAZIL",TV Camara Jacarei
 http://wse.midiaserverbr.com:1935/jacarei/jacarei/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.coletiva.net/wp-content/uploads/2016/02/TV-Cidade-Pelotas_fev16-1200x674.jpg" group-title="BRAZIL",TV Cidade (Pelotas)
+http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Diário_logo_2015.png" group-title="BRAZIL",TV Diario
 http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvdigitalbirigui.com/images/ffb3f74d034d557c83fdedd9ae2fe0ec.jpg" group-title="BRAZIL",TV Digital Birigui
+http://tv01.hstbr.net:1935/radiodigitalbirigui/radiodigitalbirigui/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://roquettepinto.org.br/wp-content/uploads/2014/12/tvescola-home-alt2-300x227.png" group-title="BRAZIL",TV Escola
 http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
@@ -1020,6 +1029,9 @@ http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRAZIL",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guará.png" group-title="BRAZIL",TV Guara
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2015/07/Jornal.png" group-title="BRAZIL",TV Jornal Caruaru
 http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
@@ -1028,6 +1040,9 @@ http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlis
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-tDFM-FmSBEk/AAAAAAAAAAI/AAAAAAAAAAA/xalBBXt7iRY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BRAZIL",TV Marajoara
 http://104.156.60.74:1935/canal50/canal50/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvpontanegra.com.br/assets/app/tvpontanegra_logo-facebok-f10a54d732ddce5fad5cbe213e2af5b8db3e34b806d3b256941842e28c21cda1.png" group-title="BRAZIL",TV Ponta Negra
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/59/Logotipo_da_TVE_Bahia.PNG/400px-Logotipo_da_TVE_Bahia.PNG" group-title="BRAZIL",TVE Bahia
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
