@@ -270,6 +270,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
 http://81.7.13.162/hls/ss4/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsportespn.png" group-title="UK",BT Sport/ESPN
+http://5.255.90.223:2082/play/a01w
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1108.jpg" group-title="UK",BT Sport 1
 http://5.135.139.19:1935/server7/btsport1.stream/playlist.m3u8?token=
 
