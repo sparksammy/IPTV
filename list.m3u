@@ -18,7 +18,7 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",**** fb.me/FluxusTV
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR green]== USA TV ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR blue]== USA TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/USA.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC
@@ -162,7 +162,7 @@ http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://churchwatchcentral.files.wordpress.com/2016/05/hillsong-channel.jpg" group-title="USA",Hillsong Channel
 http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",[B][COLOR green]== UK TV ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",[B][COLOR blue]== UK TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/129.jpeg" group-title="UK",ITV
