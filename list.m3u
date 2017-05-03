@@ -210,8 +210,23 @@ http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1116_2.jpg" group-title="UK",Spike
 http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/03/Showcase-TV-Live.jpg" group-title="UK",Showcase TV
+http://5.255.90.223:2082/play/a01l
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/pmcdeadline2.files.wordpress.com/2014/10/comedycentral-logo-red.jpg" group-title="UK",Comedy Central
+http://5.255.90.223:2082/play/ComedyCentral
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/pmcdeadline2.files.wordpress.com/2014/10/comedycentral-logo-red.jpg" group-title="UK",Comedy Central +1
+http://5.255.90.223:2082/play/ComedyCent1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Comedy_Central_Extra.png" group-title="UK",Comedy Central Xtra
+http://5.255.90.223:2082/play/ComedyXtra
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Comedy_Central_Extra.png" group-title="UK",Comedy Central Xtra +1
+http://5.255.90.223:2082/play/ComedyXtra1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="UK",BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
@@ -240,6 +255,9 @@ http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/84.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo-300x200.jpg" group-title="UK",Disney XD
 http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/86.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/nickelodeon/images/6/6f/Nick_Logo.png" group-title="UK",Nickelodeon
+http://5.255.90.223:2082/play/Nickelodeon
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/nickelodeon/images/f/f0/NickToons_logo_2009.png" group-title="UK",Nicktoons
 http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/81.m3u8
 
@@ -255,6 +273,9 @@ http://5.255.90.223:2082/play/NickJr
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/films-tv-shows-and-wildlife/images/a/ac/NickJr.2009logo.png" group-title="UK",Nick Jr. +1
 http://5.255.90.223:2082/play/NickJr1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-nick-jnr-too.png" group-title="UK",Nick Jr. Too
+http://5.255.90.223:2082/play/NickJrToo
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" group-title="UK",Insight UHD
 http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
 
@@ -267,8 +288,17 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MTV_Music_2015.png" group-title="UK",MTV Music
+http://5.255.90.223:2082/play/mtv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
 http://81.7.13.162/hls/ss4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.boxnation.com/assets/boxnation/images/logo_box_nation.png" group-title="UK",BoxNation
+http://5.255.90.223:2082/play/a01x
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.motorstv.com/sites/default/files/motorsporttv_logo.png" group-title="UK",Motorsport TV
+http://5.255.90.223:2082/play/a01s
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsportespn.png" group-title="UK",BT Sport/ESPN
 http://5.255.90.223:2082/play/a01w
