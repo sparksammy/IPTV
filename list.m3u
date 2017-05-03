@@ -240,8 +240,17 @@ http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/86.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/nickelodeon/images/f/f0/NickToons_logo_2009.png" group-title="UK",Nicktoons
 http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/81.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/nickelodeon/images/f/f0/NickToons_logo_2009.png" group-title="UK",Nicktoons *
+http://5.255.90.223:2082/play/Nicktoons
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/films-tv-shows-and-wildlife/images/a/ac/NickJr.2009logo.png" group-title="UK",Nick Jr.
 http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/83.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/films-tv-shows-and-wildlife/images/a/ac/NickJr.2009logo.png" group-title="UK",Nick Jr. *
+http://5.255.90.223:2082/play/NickJr
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/films-tv-shows-and-wildlife/images/a/ac/NickJr.2009logo.png" group-title="UK",Nick Jr. +1
+http://5.255.90.223:2082/play/NickJr1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" group-title="UK",Insight UHD
 http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
@@ -264,6 +273,9 @@ http://5.135.139.19:1935/server7/btsport1.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Wie36zX.png" group-title="UK",BT Sport 2
 http://5.135.139.19:1935/server7/btsport2.stream/playlist.m3u8?token=
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Wie36zX.png" group-title="UK",BT Sport 2 *
+http://5.255.90.223:2082/play/a01t
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Mosaic
 http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
 
@@ -273,11 +285,26 @@ http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 2
 http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 2 *
+http://5.255.90.223:2082/play/btx2
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 3
 http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 3 *
+http://5.255.90.223:2082/play/btx3
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 4
 http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 4 *
+http://5.255.90.223:2082/play/btx4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 5
+http://5.255.90.223:2082/play/btx5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 6
+http://5.255.90.223:2082/play/a01q
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports
 http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports1-hq
