@@ -966,6 +966,12 @@ http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbed
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/09/Band-Logo.jpg" group-title="BRAZIL",Band
 http://video01.kshost.com.br/rba24509/rba24509/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bhnews.tv.br/images/logo.png" group-title="BRAZIL",BH News TV
+http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/canaldoboib.png" group-title="BRAZIL",Canal do Boi
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1200059400/canal_rural_400x400.jpg" group-title="BRAZIL",Canal Rural
 http://67149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
 
@@ -980,6 +986,9 @@ http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logicahost.com.br/blog/wp-content/uploads/2017/02/livretv.png" group-title="BRAZIL",Livre TV
 http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2016/02/multitv.jpg" group-title="BRAZIL",MultiTV Cidades
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/nbr.png" group-title="BRAZIL",NBR
 http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8
@@ -1014,6 +1023,9 @@ http://wse.midiaserverbr.com:1935/jacarei/jacarei/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.coletiva.net/wp-content/uploads/2016/02/TV-Cidade-Pelotas_fev16-1200x674.jpg" group-title="BRAZIL",TV Cidade (Pelotas)
 http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/01/PB-TV-CORREIO.png" group-title="BRAZIL",TV Correio
+http://flash1.crossdigital.com.br/491/491/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Diário_logo_2015.png" group-title="BRAZIL",TV Diario
 http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
 
@@ -1029,6 +1041,9 @@ http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="BRAZIL",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/__V5pVKfEbbc/TTogzfvKkGI/AAAAAAAAABY/ISzMSn12zw8/s250/tvgeral.jpg" group-title="BRAZIL",TV Geral
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guará.png" group-title="BRAZIL",TV Guara
 http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
 
@@ -1041,8 +1056,14 @@ http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-tDFM-FmSBEk/AAAAAAAAAAI/AAAAAAAAAAA/xalBBXt7iRY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BRAZIL",TV Marajoara
 http://104.156.60.74:1935/canal50/canal50/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_Metrópole.png" group-title="BRAZIL",TV Metropole
+http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvpontanegra.com.br/assets/app/tvpontanegra_logo-facebok-f10a54d732ddce5fad5cbe213e2af5b8db3e34b806d3b256941842e28c21cda1.png" group-title="BRAZIL",TV Ponta Negra
 http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2a/TV_Urbana.png/400px-TV_Urbana.png" group-title="BRAZIL",TV Urbana
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/59/Logotipo_da_TVE_Bahia.PNG/400px-Logotipo_da_TVE_Bahia.PNG" group-title="BRAZIL",TVE Bahia
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
