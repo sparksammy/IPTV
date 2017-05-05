@@ -1593,9 +1593,6 @@ http://qs1.distream.net:2112/tf_str/futu/chunklist_w1961345922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/6c/f7/aa/6cf7aa90d1d7186a7b9a5467267a9630.jpg" group-title="DOMINICAN REP",Teleuniverso
 http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-KgM413fLuFI/WBv8hA5kCuI/AAAAAAAAG_k/D1d8hE84OFwXNcgVrCPI9QMAMi-OXh0NACK4B/s1600/logo02.png" group-title="DOMINICAN REP",Telever Canal 12
-http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xtremotv.com/images/xtremo_logo2_.png" group-title="DOMINICAN REP",Xtremo Channel
 http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 
@@ -1620,7 +1617,7 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PERU”,TV La Luz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.laluztv.com/img/logo.png" group-title="PERU”,TV La Luz
 http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="PERU",TV Peru
