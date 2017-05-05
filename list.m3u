@@ -1566,7 +1566,7 @@ http://www.lengua.com/anthems/DominicanRepublic.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal4rd.com/portada/images/logos/logo-final5.jpg" group-title="DOMINICAN REP",Canal 4
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title=“DOMINICAN REP”,Canal 25
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="DOMINICAN REP",Canal 25
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nettalkconnect.com/resources/nt/images/tv/tv_channels/canal-america.jpg" group-title="DOMINICAN REP",Canal America
@@ -1608,7 +1608,7 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u88
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/32lNdWp.png" group-title="PERU",Panamericana TV
 http://stream-07.vty.dailymotion.com/09/dm/1/x18w5up/live.isml/events(live-1491417782)/live-audio=128000-video=2100000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.quatrotv.pe/images/logo_v.jpg" group-title="PERU”,Quatro TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.quatrotv.pe/images/logo_v.jpg" group-title="PERU",Quatro TV
 http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s.rpp-noticias.io/images/imgshare.jpg" group-title="PERU",RPP TV
@@ -1617,7 +1617,7 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.laluztv.com/img/logo.png" group-title="PERU”,TV La Luz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.laluztv.com/img/logo.png" group-title="PERU",TV La Luz
 http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="PERU",TV Peru
