@@ -1689,9 +1689,6 @@ http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/85/15/9456e87d60993e3.jpg" group-title="LABEL",[B][COLOR green]== Venezuela TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Venezuela.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-Kmvm3lTUegM/VP_uyJbHojI/AAAAAAAADh4/ha6dsq2HFpU/s1600/Anzoategui%2BTV.jpg" group-title="VENEZUELA",Anzoategui TV
-http://edge.wms28.lorini.net/anzoateguitv/anzoateguitv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg" group-title="VENEZUELA",Promar TV
 http://edge.wms28.lorini.net/promar/promar/live.m3u8
 
