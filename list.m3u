@@ -2095,7 +2095,7 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel8/_definst_/live/str
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=thaqafiya
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/14uum1v.jpg" group-title="KSA",Masdar TV
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel5/_definst_/live/stream1.m3u8
+http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="KSA",MBC
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_1&t=ar
