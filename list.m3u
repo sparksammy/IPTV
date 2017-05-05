@@ -2289,14 +2289,59 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="QATAR",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",FX
+http://free.pro213.com:80/live/free/star7arab.com/29.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",FOX Movies
+http://free.pro213.com:80/live/free/star7arab.com/30.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",Fox Movies Family
+http://free.pro213.com:80/live/free/star7arab.com/32.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",Fox Movies Action
+http://free.pro213.com:80/live/free/star7arab.com/31.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",FIX Foxi
+http://free.pro213.com:80/live/free/star7arab.com/33.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",Fatafeat
+http://free.pro213.com:80/live/free/star7arab.com/24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Movies 1
+http://free.pro213.com:80/live/free/star7arab.com/15.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Movies 2
+http://free.pro213.com:80/live/free/star7arab.com/16.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Movies 3
+http://free.pro213.com:80/live/free/star7arab.com/17.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Movies 4
+http://free.pro213.com:80/live/free/star7arab.com/18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Series
+http://free.pro213.com:80/live/free/star7arab.com/19.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem
 http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem *
 http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem **
+http://free.pro213.com:80/live/free/star7arab.com/20.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem Europe
+http://free.pro213.com:80/live/free/star7arab.com/21.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" group-title="QATAR",Jeem TV
 http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" group-title="QATAR",Jeem TV *
+http://free.pro213.com:80/live/free/star7arab.com/22.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" group-title="QATAR",Jeem TV Europe
+http://free.pro213.com:80/live/free/star7arab.com/23.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s4.m3u8
@@ -2316,11 +2361,20 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports NBA
+http://free.pro213.com:80/live/free/star7arab.com/14.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports News
+http://free.pro213.com:80/live/free/star7arab.com/13.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports
 http://78.129.239.105:8080/mystreambinnosep-1/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports *
 http://www.osltv.com/sniffs-s/sports.m3u8?id=bein1-hq
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports **
+http://free.pro213.com:80/live/free/star7arab.com/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 2
 http://78.129.239.105:8080/mystreambinnosep-2/Strm/tracks-v1a1/index.m3u8
@@ -2328,11 +2382,17 @@ http://78.129.239.105:8080/mystreambinnosep-2/Strm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 2 *
 http://www.osltv.com/sniffs-s/sports.m3u8?id=bein2-hq
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 2 **
+http://free.pro213.com:80/live/free/star7arab.com/2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 3
 http://78.129.239.105:8080/mystreambinnosep-3/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 3 *
 http://www.osltv.com/sniffs-s/sports.m3u8?id=bein3-hq
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 3 **
+http://free.pro213.com:80/live/free/star7arab.com/3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 4
 http://78.129.239.105:8080/mystreambinnosep-4/Strm/tracks-v1a1/index.m3u8
@@ -2340,11 +2400,38 @@ http://78.129.239.105:8080/mystreambinnosep-4/Strm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 4 *
 http://www.osltv.com/sniffs-s/sports.m3u8?id=bein4-hq
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 4 **
+http://free.pro213.com:80/live/free/star7arab.com/4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 5
 http://78.129.239.105:8080/mystreambinnosep-5/Strm/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 5 *
 http://www.osltv.com/sniffs-s/sports.m3u8?id=bein5-hq
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 5 **
+http://free.pro213.com:80/live/free/star7arab.com/5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 6
+http://free.pro213.com:80/live/free/star7arab.com/6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 7
+http://free.pro213.com:80/live/free/star7arab.com/7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 8
+http://free.pro213.com:80/live/free/star7arab.com/8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 9
+http://free.pro213.com:80/live/free/star7arab.com/9.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 10
+http://free.pro213.com:80/live/free/star7arab.com/10.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 11
+http://free.pro213.com:80/live/free/star7arab.com/11.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 12
+http://free.pro213.com:80/live/free/star7arab.com/12.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kw.png" group-title="LABEL",[B][COLOR green]== Kuwait TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Kuwait.mp3
