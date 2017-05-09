@@ -537,7 +537,7 @@ http://46.101.21.42:8081/live/live2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/420425531251646465/bwRV9NQZ_400x400.png" group-title="LABEL",[B][COLOR green]== Armenia TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Armenia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ARMENIA",AABC TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://izitv.tv/modules/homecontent/images/chans/trans/aabc.png" group-title="ARMENIA",AABC TV
 http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6515.jpg" group-title="ARMENIA",MTV AM
