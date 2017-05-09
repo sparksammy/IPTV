@@ -2352,11 +2352,23 @@ http://www.lengua.com/anthems/Algeria.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.clipartlogo.com/files/images/50/502456/canal-algerie-tv_f.png" group-title="ALGERIA",Canal Algerie
 http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www12.0zz0.com/2013/05/19/19/779272851.jpg" group-title="ALGERIA",Dzair TV
+http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Morocco-01.png" group-title="LABEL",[B][COLOR green]== Morocco TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Morocco.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
 http://95.81.155.40/5958/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://online.sccnn.com/icon/1093/195.png" group-title="LABEL",[B][COLOR green]== Sudan TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Sudan.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg" group-title="SUDAN",Tayba TV
+http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg" group-title="SUDAN",Tayba TV *
+http://199.167.151.237:1935/live/sp15_17.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-logo="http://amharic.co.il/images/ethiopia.png" group-title="LABEL",[B][COLOR green]== Ethiopia TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Ethiopia.mp3
