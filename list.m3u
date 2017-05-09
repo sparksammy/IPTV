@@ -129,6 +129,9 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="USA",ESPN
 http://stream.i4atv.info/ggwpl/live2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanflattrack.com/storage/app/uploads/public/564/381/463/thumb_60013_1200x800_0_0_auto.jpg" group-title="USA",NBCSN
+http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/8038.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf (SD)
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
