@@ -21,20 +21,11 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC
 http://208.86.19.123:8080/live/104.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC (West)
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/7994.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS
 http://208.86.19.13:8080/live/101.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS (West)
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/7993.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC
 http://208.86.19.123:8080/live/102.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC (West)
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/8062.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="USA",Fox (West)
 http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/7992.m3u8
