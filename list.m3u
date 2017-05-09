@@ -279,14 +279,8 @@ http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/84.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo-300x200.jpg" group-title="UK",Disney XD
 http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/86.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/nickelodeon/images/6/6f/Nick_Logo.png" group-title="UK",Nickelodeon
-http://5.255.90.223:2082/play/Nickelodeon
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/nickelodeon/images/f/f0/NickToons_logo_2009.png" group-title="UK",Nicktoons
 http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/81.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/nickelodeon/images/f/f0/NickToons_logo_2009.png" group-title="UK",Nicktoons *
-http://5.255.90.223:2082/play/Nicktoons
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/films-tv-shows-and-wildlife/images/a/ac/NickJr.2009logo.png" group-title="UK",Nick Jr.
 http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/83.m3u8
