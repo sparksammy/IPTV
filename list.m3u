@@ -510,9 +510,6 @@ http://146.185.61.140:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photouploads.com/images/f807ad.png" group-title="RUSSIA",Life News
 http://tv.life.ru/lifetv/720p/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6515.jpg" group-title="RUSSIA",MTV AM (AM)
-https://raw.githubusercontent.com/fluxustv/Channels/master/MTVArmenia.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="RUSSIA",RBC
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 
@@ -536,6 +533,15 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="BULGARIA",Vibee TV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/420425531251646465/bwRV9NQZ_400x400.png" group-title="LABEL",[B][COLOR green]== Armenia TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Armenia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ARMENIA",AABC TV
+http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6515.jpg" group-title="ARMENIA",MTV AM
+https://raw.githubusercontent.com/fluxustv/Channels/master/MTVArmenia.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.emit.it/assets/images/icone/Albania.png" group-title="LABEL",[B][COLOR green]== Albania TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Albania.mp3
