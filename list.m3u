@@ -201,23 +201,8 @@ http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1116_2.jpg" group-title="UK",Spike
 http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/03/Showcase-TV-Live.jpg" group-title="UK",Showcase TV
-http://5.255.90.223:2082/play/a01l
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/pmcdeadline2.files.wordpress.com/2014/10/comedycentral-logo-red.jpg" group-title="UK",Comedy Central
-http://5.255.90.223:2082/play/ComedyCentral
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/pmcdeadline2.files.wordpress.com/2014/10/comedycentral-logo-red.jpg" group-title="UK",Comedy Central +1
-http://5.255.90.223:2082/play/ComedyCent1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Comedy_Central_Extra.png" group-title="UK",Comedy Central Xtra
-http://5.255.90.223:2082/play/ComedyXtra
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Comedy_Central_Extra.png" group-title="UK",Comedy Central Xtra +1
-http://5.255.90.223:2082/play/ComedyXtra1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="UK",BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
@@ -258,15 +243,6 @@ http://5.255.90.223:2082/play/Nicktoons
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/films-tv-shows-and-wildlife/images/a/ac/NickJr.2009logo.png" group-title="UK",Nick Jr.
 http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/83.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/films-tv-shows-and-wildlife/images/a/ac/NickJr.2009logo.png" group-title="UK",Nick Jr. *
-http://5.255.90.223:2082/play/NickJr
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/films-tv-shows-and-wildlife/images/a/ac/NickJr.2009logo.png" group-title="UK",Nick Jr. +1
-http://5.255.90.223:2082/play/NickJr1
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/channel-logo-nick-jnr-too.png" group-title="UK",Nick Jr. Too
-http://5.255.90.223:2082/play/NickJrToo
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" group-title="UK",Insight UHD
 http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
 
@@ -279,20 +255,8 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/MTV_Music_2015.png" group-title="UK",MTV Music
-http://5.255.90.223:2082/play/mtv
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
 http://81.7.13.162/hls/ss4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://watch.boxnation.com/assets/boxnation/images/logo_box_nation.png" group-title="UK",BoxNation
-http://5.255.90.223:2082/play/a01x
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.motorstv.com/sites/default/files/motorsporttv_logo.png" group-title="UK",Motorsport TV
-http://5.255.90.223:2082/play/a01s
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsportespn.png" group-title="UK",BT Sport/ESPN
-http://5.255.90.223:2082/play/a01w
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1108.jpg" group-title="UK",BT Sport 1
 http://5.135.139.19:1935/server7/btsport1.stream/playlist.m3u8?token=
@@ -300,56 +264,23 @@ http://5.135.139.19:1935/server7/btsport1.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Wie36zX.png" group-title="UK",BT Sport 2
 http://5.135.139.19:1935/server7/btsport2.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Wie36zX.png" group-title="UK",BT Sport 2 *
-http://5.255.90.223:2082/play/a01t
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport 3
-http://5.255.90.223:2082/play/a01q
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Mosaic
 http://5.135.139.19:1935/server7/stream8.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 1
 http://5.135.139.19:1935/server7/stream10.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 1 *
-http://5.255.90.223:2082/play/btx1
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 2
 http://5.135.139.19:1935/server7/stream11.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 2 *
-http://5.255.90.223:2082/play/btx2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 3
 http://5.135.139.19:1935/server7/stream12.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 3 *
-http://5.255.90.223:2082/play/btx3
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 4
 http://5.135.139.19:1935/server7/stream13.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 4 *
-http://5.255.90.223:2082/play/btx4
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nihf.co.uk/DatabaseImages/new_5646029__bt-sport.jpg" group-title="UK",BT Sport Extra 5
 http://5.255.90.223:2082/play/btx5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports
-http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports1-hq
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports 2
-http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports2-hq
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports 3
-http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports3-hq
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports 4
-http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports4-hq
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://robertatkinson61.files.wordpress.com/2013/09/sky-sports.png" group-title="UK",Sky Sports 5
-http://www.osltv.com/sniffs-s/sports.m3u8?id=skysports5-hq
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
@@ -446,9 +377,6 @@ http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/play
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="GERMANY",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kika.de/startseite/kika-logo-vor-blau100_v-tlarge169_zc-cc2f4e31.jpg" group-title="GERMANY",KiKa
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=kika
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="GERMANY",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
@@ -2133,12 +2061,6 @@ http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-Clip-logo.png" group-title="KSA",Rotana Clip
 http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://marfaworld.org/img/partners/rotana.png" group-title="KSA",Rotana Khalijia
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-khalijiah
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shahidhd.tv/video/uploads/thumbs/7eb6ffe5c-1.jpg" group-title="KSA",Rotana Mousica
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
@@ -2168,9 +2090,6 @@ http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" group-title="UAE",Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" group-title="UAE",Al Aan *
-http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=al_aan
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="UAE",Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
@@ -2283,59 +2202,14 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="QATAR",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",FX
-http://free.pro213.com:80/live/free/star7arab.com/29.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",FOX Movies
-http://free.pro213.com:80/live/free/star7arab.com/30.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",Fox Movies Family
-http://free.pro213.com:80/live/free/star7arab.com/32.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",Fox Movies Action
-http://free.pro213.com:80/live/free/star7arab.com/31.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",FIX Foxi
-http://free.pro213.com:80/live/free/star7arab.com/33.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",Fatafeat
-http://free.pro213.com:80/live/free/star7arab.com/24.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Movies 1
-http://free.pro213.com:80/live/free/star7arab.com/15.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Movies 2
-http://free.pro213.com:80/live/free/star7arab.com/16.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Movies 3
-http://free.pro213.com:80/live/free/star7arab.com/17.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Movies 4
-http://free.pro213.com:80/live/free/star7arab.com/18.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="QATAR",beIN Series
-http://free.pro213.com:80/live/free/star7arab.com/19.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem
 http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem *
 http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem **
-http://free.pro213.com:80/live/free/star7arab.com/20.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem Europe
-http://free.pro213.com:80/live/free/star7arab.com/21.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" group-title="QATAR",Jeem TV
 http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" group-title="QATAR",Jeem TV *
-http://free.pro213.com:80/live/free/star7arab.com/22.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" group-title="QATAR",Jeem TV Europe
-http://free.pro213.com:80/live/free/star7arab.com/23.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports
 http://alkass-i.akamaihd.net/hls/live/205534/1/live_38s4.m3u8
@@ -2354,78 +2228,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports NBA
-http://free.pro213.com:80/live/free/star7arab.com/14.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports News
-http://free.pro213.com:80/live/free/star7arab.com/13.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports
-http://78.129.239.105:8080/mystreambinnosep-1/Strm/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports *
-http://www.osltv.com/sniffs-s/sports.m3u8?id=bein1-hq
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports **
-http://free.pro213.com:80/live/free/star7arab.com/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 2
-http://78.129.239.105:8080/mystreambinnosep-2/Strm/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 2 *
-http://www.osltv.com/sniffs-s/sports.m3u8?id=bein2-hq
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 2 **
-http://free.pro213.com:80/live/free/star7arab.com/2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 3
-http://78.129.239.105:8080/mystreambinnosep-3/Strm/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 3 *
-http://www.osltv.com/sniffs-s/sports.m3u8?id=bein3-hq
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 3 **
-http://free.pro213.com:80/live/free/star7arab.com/3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 4
-http://78.129.239.105:8080/mystreambinnosep-4/Strm/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 4 *
-http://www.osltv.com/sniffs-s/sports.m3u8?id=bein4-hq
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 4 **
-http://free.pro213.com:80/live/free/star7arab.com/4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 5
-http://78.129.239.105:8080/mystreambinnosep-5/Strm/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 5 *
-http://www.osltv.com/sniffs-s/sports.m3u8?id=bein5-hq
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 5 **
-http://free.pro213.com:80/live/free/star7arab.com/5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 6
-http://free.pro213.com:80/live/free/star7arab.com/6.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 7
-http://free.pro213.com:80/live/free/star7arab.com/7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 8
-http://free.pro213.com:80/live/free/star7arab.com/8.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 9
-http://free.pro213.com:80/live/free/star7arab.com/9.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 10
-http://free.pro213.com:80/live/free/star7arab.com/10.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 11
-http://free.pro213.com:80/live/free/star7arab.com/11.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="QATAR",beIN Sports 12
-http://free.pro213.com:80/live/free/star7arab.com/12.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kw.png" group-title="LABEL",[B][COLOR green]== Kuwait TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Kuwait.mp3
@@ -2493,29 +2295,17 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",[B][COLOR green]== Egypt TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Egypt.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-j2tQrXqcnbE/UJrfFKuhOVI/AAAAAAAAD9w/O1PAj3B0Wlw/s320/Screen_shot_2011-07-02_at_12.49.44_PM.png" group-title="EGYPT",CBC
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq
 http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.livetvhd.net/thumbs/al_masriya.jpg" group-title="EGYPT",ERTU 1
 http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nukussat.clan.su/Logo/logo_tv_3/mbc_ae_misr.png" group-title="EGYPT",MBC Masr
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_masr&t=ar
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/mbcmasr2-android-124530.jpg" group-title="EGYPT",MBC Masr 2
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=mbc_masr_2&t=ar
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
 http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7pictures.net/images/moga-comedy.png" group-title="EGYPT",Moga Comedy
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=moga_comedy&t=ar
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.egytvs.com/wp-content/uploads/2014/07/rotana-masrya.jpg" group-title="EGYPT",Rotana Masriya
-http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=rotana-masriya
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cablevision.com.lb/Library/Photos/-1933download.jpg" group-title="EGYPT",Panorama Drama
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=panorama_drama&t=ar
