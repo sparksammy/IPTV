@@ -1953,6 +1953,9 @@ http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/9_EQ_4WVSvk/maxresdefault_live.jpg" group-title="JORDAN",Roya TV
+http://cdns724ste1010.shooowit.net/royatvlive/smil:live.smil/gmswf.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
 
@@ -1982,6 +1985,12 @@ http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/al_rasheed_tv_iraq_arabic_live_online_free_arabic_channel.png" group-title="IRAQ",Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" group-title="IRAQ",Al Sharqiya
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" group-title="IRAQ",Al Sharqiya *
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",[B][COLOR green]== KSA TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/SaudiArabia.mp3
