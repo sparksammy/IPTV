@@ -9,7 +9,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",< FLUXUS TV >
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 05/05/17 =
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 05/08/17 =
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV <
@@ -1876,10 +1876,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 http://www.lengua.com/anthems/Lebanon.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC Europe
-http://www.osltv.com/sniffs-s/lbc.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TrIJWCkub0c/hqdefault.jpg" group-title="LEBANON",MTV
-http://www.osltv.com/sniffs-s/mtv.m3u8
+http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LEBANON",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
