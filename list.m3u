@@ -72,9 +72,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ee2tD7U.png" group-title="USA",Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://k60.kn3.net/taringa/4/0/2/1/7/1/lagarrapatasucia/E81.jpg" group-title="USA",HBO
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/4976.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.exstreamist.com/wp-content/uploads/2015/06/showtime-watch-online.jpg" group-title="USA",Showtime
 http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/7323.m3u8
 
