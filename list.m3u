@@ -888,7 +888,7 @@ http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtc.cv/tcv/images/logo_tcv.jpg" group-title="PORTUGAL",RTC (CV)
 http://213.13.26.11:1935/live/rtc_teste/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="PORTUGAL",Santuario de Fatima - Capelinha das Aparicoes
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="PORTUGAL",Santuario de Fatima
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/br.png" group-title="LABEL",[B][COLOR green]== Brazil TV ==[/COLOR][/B]
