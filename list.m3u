@@ -27,9 +27,6 @@ http://208.86.19.13:8080/live/101.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC
 http://208.86.19.123:8080/live/102.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox.gif" group-title="USA",Fox (West)
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/7992.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1236.jpg" group-title="USA",PBS
 http://208.86.19.13:8080/live/108.stream/index.m3u8
 
@@ -72,17 +69,8 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2510.png" group-title="USA",Cartoon Network
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/5051.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ee2tD7U.png" group-title="USA",Nicktoons
 http://208.86.19.13:8080/live/15.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.exstreamist.com/wp-content/uploads/2015/06/showtime-watch-online.jpg" group-title="USA",Showtime
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/7323.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fiber.storage.googleapis.com/channels/logos/cinemax.png" group-title="USA",Cinemax
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/7457.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN
 http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
@@ -128,12 +116,6 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN
 http://stream.i4atv.info/ggwpl/live2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN *
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/4969.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanflattrack.com/storage/app/uploads/public/564/381/463/thumb_60013_1200x800_0_0_auto.jpg" group-title="USA",NBCSN
-http://www.iptvpearl.com:8080/live/Hdiptv/Osntest/8038.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf (SD)
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
