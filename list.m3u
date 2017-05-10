@@ -9,7 +9,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",< FLUXUS TV >
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 05/08/17 =
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 05/10/17 =
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV <
@@ -152,18 +152,6 @@ http://xrxs.net/video/live-p12moun-2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="USA",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" group-title="USA",Seminole TV (Florida)
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg" group-title="USA",Orange TV (Orlando)
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestbrandlogo.com/logos/48742.jpg" group-title="USA",ATXN (Austin)
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" group-title="USA",WTPC 16 (Virginia)
-http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
@@ -1593,6 +1581,12 @@ http://www.lengua.com/anthems/Panama.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV.png" group-title="PANAMA",NEXtv
 http://190.102.61.118:1935/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d1vmfp3l3lxrif.cloudfront.net/en_directo/telemetro_en_linea_MEDDIR20131017_0001_9.jpg" group-title="PANAMA",Telemetro
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://th.seaicons.com/wp-content/uploads/2016/03/Honduras-icon.png" group-title="LABEL",[B][COLOR green]== Honduras TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Honduras.mp3
 
@@ -2385,6 +2379,27 @@ http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.consat.tv/images/1475327925.jpg" group-title="NIGERIA",TVC News
 http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",[B][COLOR green]== China TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/China.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LU9WYBf.jpg" group-title="CHINA",CCTV 13
+http://61.155.167.11/live/cctv13.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="CHINA",SinoVision (US)
+http://ec.sinovision.net/video/ts/lv.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Singapore-01.png" group-title="LABEL",[B][COLOR green]== Singapore TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/Singapore.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5253176/16x9/947/533/ae942ff62b59f223ea6a9edacf1da744/Uf/channel-5.png" group-title="SINGAPORE",Mediacorp Channel 5
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5166818/16x9/947/533/e298594e61926869a7a2e9b2ab5d3073/qA/channel-8.png" group-title="SINGAPORE",Mediacorp Channel 8
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="SINGAPORE",Mediacorp Channel U
+http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]== Nature Cams ==[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
@@ -2699,3 +2714,15 @@ http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png" group-title="USA LOCAL",Fox 23 (Tulsa)
 http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" group-title="USA",Seminole TV (Florida)
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg" group-title="USA",Orange TV (Orlando)
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestbrandlogo.com/logos/48742.jpg" group-title="USA",ATXN (Austin)
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" group-title="USA",WTPC 16 (Virginia)
+http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
