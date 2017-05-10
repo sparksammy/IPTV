@@ -99,9 +99,6 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3249.png" group-title="USA",C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ggbenitezpr.com/images/case_studies/mabels/wgn9-logo-bg.jpg" group-title="USA",WGN News
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_4500_av-p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/0f3d03b0dabd4b05a9597835ac79894d-hd.jpg" group-title="USA",Newsmax TV
 http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
 
@@ -2655,8 +2652,11 @@ http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.underconsideration.com/brandnew/archives/music_choice_logo_detail.png" group-title="MUSIC",Music Choice - Toddler Tunes
 http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",[B][COLOR green]== USA Local News ==[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",[B][COLOR green]== USA Local TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/USA.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ggbenitezpr.com/images/case_studies/mabels/wgn9-logo-bg.jpg" group-title="USA LOCAL",WGN News (Chicago)
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_4500_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="USA LOCAL",NBC 11 News (Bay Area)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
@@ -2718,14 +2718,14 @@ http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png" group-title="USA LOCAL",Fox 23 (Tulsa)
 http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" group-title="USA",Seminole TV (Florida)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" group-title="USA LOCAL",Seminole TV (Florida)
 http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg" group-title="USA",Orange TV (Orlando)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg" group-title="USA LOCAL",Orange TV (Orlando)
 http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestbrandlogo.com/logos/48742.jpg" group-title="USA",ATXN (Austin)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestbrandlogo.com/logos/48742.jpg" group-title="USA LOCAL",ATXN (Austin)
 http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" group-title="USA",WTPC 16 (Virginia)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" group-title="USA LOCAL",WTPC 16 (Virginia)
 http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
