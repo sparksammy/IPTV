@@ -75,6 +75,9 @@ http://208.86.19.13:8080/live/15.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN
 http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN *
+http://85.7.107.8:8010/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QVvBPKr.jpg" group-title="USA",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
 
@@ -2348,9 +2351,6 @@ http://199.167.151.237:1935/live/sp15_17.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-logo="http://amharic.co.il/images/ethiopia.png" group-title="LABEL",[B][COLOR green]== Ethiopia TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Ethiopia.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.andebet.com/livetv/img/ebc3.png" group-title="ETHIOPIA",EBC 3
-http://wowhe2.vixtream.net/vcdnedge1/_definst_/smil:ebc3.smil/chunklist_w1386332630_b993000_tkd3RDdXN0b21JcD03Mzg3MTk2MjAzJnd0ZW5kdGltZT0xNDk0NDExMDk2Jnd0aGFzaD16QU53MkxCelZjNmpfN2NGOFkzNW5KeVJjS3l2Y3E3MFlaaVl6TFZQNWxjPQ==.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diretube.com/uploads/articles/a8b4536f.jpg" group-title="ETHIOPIA",Kana TV
 http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
