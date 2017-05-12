@@ -1623,6 +1623,15 @@ http://ss6.domint.net:1948/zol_str/vzol/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.travelindicator.com/images/flags/173.png" group-title="LABEL",[B][COLOR green]== Peru TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Peru.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/yBX7ApyGx3c/hqdefault.jpg" group-title="PERU",BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rsmas.pe/wp-content/uploads/2015/06/1z2murt.jpg" group-title="PERU",Capital TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fulltelevisiononline.com/wp-content/uploads/2016/06/CTC_TELEVISION.png" group-title="PERU",CTC TV
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-nF9dYlaQFj8/Vty14YpJPBI/AAAAAAAAAYo/69scp8b09w8/s1600/latina-tv-peru.png" group-title="PERU",Latina TV
 http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
 
@@ -1646,6 +1655,9 @@ http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="PERU",TV Peru
 http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-l483UPtdcAU/VmXUK42u_KI/AAAAAAAACsE/2Qhcj5Inxdk/s1600/unotv-tacna.jpg" group-title="PERU",Uno TV
+http://unotv.pe:1935/unotv/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hostcartoon.com/cartoonproducciones/wp-content/uploads/2014/08/2willax.jpg" group-title="PERU",Willax TV
 http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
