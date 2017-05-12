@@ -513,8 +513,17 @@ http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ecPjdDrlMtg/AAAAAAAAAAI/AAAAAAAAAAA/dwJcRogOefw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BELGIUM",DOBBiT (Dutch)
 http://193.110.252.20:1935/live/dobbittv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/MNM_logo.png" group-title="BELGIUM",MNM (Dutch)
+http://live.stream.vrt.be/vrt_mnm_live/smil:vrt_mnm_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/08d35767e0675ecd4d321b8274b21ee4.jpeg" group-title="BELGIUM",Notele (French)
+http://streaming06.axeweb.be/live/direct.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV (French)
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://en.keywall.be/wp-content/themes/devdmbootstrap3-sasschild/img/partners/telesambre-512x512.png" group-title="BELGIUM",Telesambre (French)
+http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://planetemetiers.e-monsite.com/medias/images/televesdre.jpg" group-title="BELGIUM",Televesdre (French)
 http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
