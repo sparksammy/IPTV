@@ -208,6 +208,9 @@ http://86.166.86.159:9981/stream/channelid/931039562/playlist.m3u8
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=bbc-news
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News *
+http://79.172.241.74:8081/hls/bbcnews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News **
 http://86.166.86.159:9981/stream/channelid/73068048/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/12344.gif" group-title="UK",BBC Parliament
