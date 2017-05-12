@@ -1236,12 +1236,6 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/1f397c13f176bf77fb8079b85563902b.jpeg" group-title="LATINO",Miami TV
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo
-http://edge5.telesport.pw/live/telemundo/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo *
-http://edge4.telesport.pw/live/telemundo/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bbgwatch.com/bbgwatch/wp-content/uploads/2013/08/Marti-150x150.png" group-title="LATINO",TV Marti
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 
