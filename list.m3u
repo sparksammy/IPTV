@@ -1341,7 +1341,7 @@ http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png" group-title="MEXICO",Banda Ancha TV (JA)
 https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/ochotv_mexico.jpg" group-title="MEXICO",Ocho TV HD (JA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/ochotv_mexico.jpg" group-title="MEXICO",Ocho TV (JA)
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
 #EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title="MEXICO",Mexiquense TV (MX)
@@ -1350,13 +1350,13 @@ http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8
 #EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title="MEXICO",Mexiquense TV (MX) *
 http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8
 
-#EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/402.png" group-title="MEXICO",Multimedios HD (NL)
+#EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/402.png" group-title="MEXICO",Multimedios (NL)
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486350658770
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redmexico.org.mx/admin/dbfiles/dbdirectorio/dbicos/71.jpg" group-title="MEXICO",RTQ (QE)
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="MEXICO",Canal 10 HD (QR)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="MEXICO",Canal 10 (QR)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://i.imgur.com/3t5Cz1e.jpg" group-title="MEXICO",Gala TV (QR)
@@ -1380,7 +1380,7 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 #EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="MEXICO",Gala TV (YU)
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MEXICO",Trecevision HD (YU)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MEXICO",Trecevision (YU)
 http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",[B][COLOR green]== Argentina TV ==[/COLOR][/B]
