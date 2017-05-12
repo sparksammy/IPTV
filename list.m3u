@@ -1812,6 +1812,9 @@ http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dansee.live/liveTV/wp-content/uploads/2016/12/channel-v.png" group-title="INDIA",Channel V
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bestmediainfo.com/wp-content/uploads/2016/04/Cnn_news18.jpg" group-title="INDIA",CNN-News 18 (English)
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://storiesofworld.com/wp-content/uploads/2016/03/8-9.jpg" group-title="INDIA",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
