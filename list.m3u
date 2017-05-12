@@ -507,17 +507,20 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",[B][COLOR green]== Belgium TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Belgium.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-GC4XR_qwaBA/V8iEfhTgxPI/AAAAAAAABpI/gauZ-5_RPZQxcYB3GN1R8fGBrIIR6Ah9ACLcB/s1600/ATV%2BAntwerpen.jpg" group-title="NETHERLANDS",ATV (Dutch)
+http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ecPjdDrlMtg/AAAAAAAAAAI/AAAAAAAAAAA/dwJcRogOefw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BELGIUM",DOBBiT (Dutch)
+http://193.110.252.20:1935/live/dobbittv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV (French)
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://planetemetiers.e-monsite.com/medias/images/televesdre.jpg" group-title="BELGIUM",Televesdre (French)
 http://vm109.imust.org:1935/live/televesdre-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cache.tvl.be/tvlbe/meta/tvl.25ce1cf6.png" group-title="BELGIUM",TVL (Dutch)
 http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-ecPjdDrlMtg/AAAAAAAAAAI/AAAAAAAAAAA/dwJcRogOefw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BELGIUM",DOBBiT (Dutch)
-http://193.110.252.20:1935/live/dobbittv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-GC4XR_qwaBA/V8iEfhTgxPI/AAAAAAAABpI/gauZ-5_RPZQxcYB3GN1R8fGBrIIR6Ah9ACLcB/s1600/ATV%2BAntwerpen.jpg" group-title="NETHERLANDS",ATV (Dutch)
-http://urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cz.png" group-title="LABEL",[B][COLOR green]== Czech Republic TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/CzechRepublic.mp3
