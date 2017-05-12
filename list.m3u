@@ -1434,7 +1434,7 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/03/11.jpg" group-title="ARGENTINA",TyC Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/03/11.jpg" group-title="ARGENTINA",TyC Sports
 http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",[B][COLOR green]== Chile TV ==[/COLOR][/B]
@@ -1515,7 +1515,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1157_2_72391.png" group-title="COLOMBIA",Mi Gente TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="COLOMBIA",MiMusica HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="COLOMBIA",MiMusica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png" group-title="COLOMBIA",RCN
@@ -1715,9 +1715,6 @@ http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/ch
 
 #EXTINF:-1 tvg-logo="http://th.seaicons.com/wp-content/uploads/2016/03/Honduras-icon.png" group-title="LABEL",[B][COLOR green]== Honduras TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/Honduras.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamwebtown.com/xml/hondutv/aztecahondu.jpg" group-title="HONDURAS",Azteca
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/HCH_Turkey.jpg" group-title="HONDURAS",HCH
 http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
