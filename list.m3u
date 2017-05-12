@@ -1125,6 +1125,9 @@ http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png" group-title="SPAIN",Movistar Accion
 http://edge3.telesport.pw/live/plusaccion/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1920px-Movistar_Estrenos.svg.png" group-title="SPAIN",Movistar Estrenos
+http://edge7.telesport.pw/live/plusestrenos/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/vh5k1muMVbg/maxresdefault.jpg" group-title="SPAIN",Movistar Sports
 http://edge3.telesport.pw/live/plus1/index.m3u8
 
