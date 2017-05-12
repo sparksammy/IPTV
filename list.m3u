@@ -2496,6 +2496,34 @@ http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.consat.tv/images/1475327925.jpg" group-title="NIGERIA",TVC News
 http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",[B][COLOR green]== South Korea TV ==[/COLOR][/B]
+http://www.lengua.com/anthems/SouthKorea.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-qmLWm9FFEDA/UdWIdPyqvtI/AAAAAAAAAdg/dOSv-sogcxg/s960/mbc.jpg
+" group-title="SOUTH KOREA",MBC
+http://119.202.61.202:1935/live/livetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/thumb/5/5a/OBS-Logo.JPG/300px-OBS-Logo.JPG" group-title="SOUTH KOREA",OBS TV
+http://111.118.21.79/etv1sb/phd3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/28v99if.png" group-title="SOUTH KOREA",KTV
+http://111.118.21.79/etv1/phd393/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pshafc.com/wp-content/uploads/2016/07/kbs2.png" group-title="SOUTH KOREA",KBS 2
+http://123.108.164.71/etv2/phd847/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/1zoaoud.jpg" group-title="SOUTH KOREA",Mountain TV
+http://123.108.164.71/etv2sb/phd337/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo-670x300.jpg" group-title="SOUTH KOREA",YTN
+http://123.108.164.71/etv2sb/phd193/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Channel_A_Logo_transparent.png/220px-Channel_A_Logo_transparent.png" group-title="SOUTH KOREA",Channel A
+http://123.108.164.71/etv2sb/phd43/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://payload497.cargocollective.com/1/19/633459/12251667/KCTV_011_1280.png" group-title="SOUTH KOREA",KCTV
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",[B][COLOR green]== China TV ==[/COLOR][/B]
 http://www.lengua.com/anthems/China.mp3
 
