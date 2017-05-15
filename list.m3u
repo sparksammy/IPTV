@@ -1710,20 +1710,26 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/15/90/1856aec6ddbc5f9.jpg" group-title="LABEL",[B][COLOR blue]~ El Salvador TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/ElSalvador.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png" group-title="EL SALVADOR",Canal 10
-http://198.24.135.42/canal10/canal10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Megavision Canal 21
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivartv.com/wp-content/uploads/2016/05/canal-11-sv.png" group-title="EL SALVADOR",Canal 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg" group-title="EL SALVADOR",TVO Canal 23
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivartv.com/wp-content/uploads/2016/05/canal-11-sv.png" group-title="EL SALVADOR",TUTV Canal 11
 http://198.24.135.42/canal11/canal11/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Canal 21
-http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/tves-Canal-10.png" group-title="EL SALVADOR",TVES Canal 10
+http://198.24.135.42/canal10/canal10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-v_zuEnAktrI/AAAAAAAAAAI/AAAAAAAAAAA/0wAplfobdeY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="EL SALVADOR",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/pr.png" group-title="LABEL",[B][COLOR blue]~ Puerto Rico TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/PuertoRico.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://freebeacon.com/wp-content/uploads/2015/05/azteca.jpg" group-title="PUERTO RICO",Azteca (TS)
+http://cdn2.miip.tv:8880/live/stalker/stalker/3.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PUERTO RICO",WIPR TV
 http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
