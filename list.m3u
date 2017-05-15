@@ -1731,7 +1731,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/pr.png" group-title="LABEL",[B][COLOR blue]~ Puerto Rico TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/PuertoRico.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://noticiasprtv.com/wp-content/uploads/2016/09/WIPR-TV-logo-png.png" group-title="PUERTO RICO",WIPR TV (TS)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://noticiasprtv.com/wp-content/uploads/2016/09/WIPR-TV-logo-png.png" group-title="PUERTO RICO",WIPR TV
 http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.ffpic.com/files/2012/1231/png1225guoqi/ffpic13061228190539.png" group-title="LABEL",[B][COLOR blue]~ Guatemala TV ~[/COLOR][/B]
