@@ -1731,12 +1731,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/pr.png" group-title="LABEL",[B][COLOR blue]~ Puerto Rico TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/PuertoRico.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.missprorg.bravesites.com/files/images/abc-5.png" group-title="PUERTO RICO",ABC (TS)
-http://s1.iptv66.tv/live/0105195719641/0105195719641/44.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-G5e2GCDp19w/AAAAAAAAAAI/AAAAAAAAAAA/whI8ecEqZYw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PUERTO RICO",NBC (TS)
-http://s1.iptv66.tv/live/0105195719641/0105195719641/406.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hispanicprblog.com/wp-content/uploads/2015/03/MegaTV.jpg" group-title="PUERTO RICO",Mega TV (TS)
 http://s1.iptv66.tv/live/0105195719641/0105195719641/438.ts
 
