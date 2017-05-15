@@ -1731,21 +1731,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/pr.png" group-title="LABEL",[B][COLOR blue]~ Puerto Rico TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/PuertoRico.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hispanicprblog.com/wp-content/uploads/2015/03/MegaTV.jpg" group-title="PUERTO RICO",Mega TV (TS)
-http://s1.iptv66.tv/live/0105195719641/0105195719641/438.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/751530537165025280/uzVEpyCs.jpg" group-title="PUERTO RICO",Punto 2 (TS)
-http://s1.iptv66.tv/live/0105195719641/0105195719641/358.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/07/Telemundo-Negro-Logo-300x300.jpg" group-title="PUERTO RICO",Telemundo (TS)
-http://s1.iptv66.tv/live/0105195719641/0105195719641/354.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://atencionatencion.com/wp-content/themes/AtencionAtencion/images/new_teleisla.png" group-title="PUERTO RICO",Tele Isla (TS)
-http://s1.iptv66.tv/live/0105195719641/0105195719641/407.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediamoves.com/wp-content/uploads/2014/01/Univision-Puerto-Rico-logo.jpg" group-title="PUERTO RICO",Univision (TS)
-http://s1.iptv66.tv/live/0105195719641/0105195719641/356.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://noticiasprtv.com/wp-content/uploads/2016/09/WIPR-TV-logo-png.png" group-title="PUERTO RICO",WIPR TV (TS)
 http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
 
