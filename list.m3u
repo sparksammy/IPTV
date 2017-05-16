@@ -252,27 +252,6 @@ http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Challenge_logo_2016.png" group-title="UK",Challenge
-http://86.166.86.159:9981/stream/channelid/849014884/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dave.uktv.co.uk/static/img/default_image.jpg" group-title="UK",Dave
-http://86.166.86.159:9981/stream/channelid/558718484/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Food-Logo_blk.jpg" group-title="UK",Food Network
-http://86.166.86.159:9981/stream/channelid/1373788190/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvwise.co.uk/wp-content/uploads/2014/04/Movies4Men-300x168.jpg" group-title="UK",Movies4Men
-http://86.166.86.159:9981/stream/channelid/871628284/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cf/Pick2013.png" group-title="UK",Pick
-http://86.166.86.159:9981/stream/channelid/1582035603/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://uktv-static.s3.amazonaws.com/prod/really/img/default_image.jpg" group-title="UK",Really
-http://86.166.86.159:9981/stream/channelid/1118052505/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.heyuguys.com/images/2017/01/Sony-Movie-Channel-Logo.jpg" group-title="UK",Sony Movie Channel
-http://86.166.86.159:9981/stream/channelid/1738034267/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="UK",BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 
