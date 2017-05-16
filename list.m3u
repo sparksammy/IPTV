@@ -228,9 +228,6 @@ http://86.166.86.159:9981/stream/channelid/1713867818/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/BBC_Alba.svg/1280px-BBC_Alba.svg.png" group-title="UK",BBC Alba
 http://5.135.139.19:1935/server7/stream21.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="UK",RTE
-http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-360.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 
@@ -332,6 +329,18 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_inde
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Ideal_World_logo.png" group-title="UK",IdealWorld
 http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Ireland-01.png" group-title="LABEL",[B][COLOR blue]~ Ireland TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Ireland.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.irishmirror.ie/whats-on/film-news/article8736387.ece/ALTERNATES/s615/tg4-logo.jpg" group-title="IRELAND",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RTÉ_logo.svg/229px-RTÉ_logo.svg.png" group-title="IRELAND",RTE
+https://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RTÉ2_logo.svg/1280px-RTÉ2_logo.svg.png" group-title="IRELAND",RTE 2
+https://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",[B][COLOR blue]~ World News ~[/COLOR][/B]
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
