@@ -1863,6 +1863,36 @@ http://video.tvr.by:1935/belarus24/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oboz.by/wp-content/uploads/2016/10/1377853613_stv.jpg" group-title="BELARUS",STV
 http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",[B][COLOR blue]~ Moldova TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Moldova.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://acasatv.perfecte.md/design/acasatv_md/images/acasa_in_moldova_logo5.png" group-title="MOLDOVA",Acasa TV
+http://hls.protv.md/acasatv/acasatv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/469252/logo_actualitatea%20tv1.png" group-title="MOLDOVA",Actualitatea
+http://188.210.224.6:81/tv4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/_oZDHDGTCY8/maxresdefault.jpg" group-title="MOLDOVA",Digi 24
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/thumb-BY7M7cbZj.png" group-title="MOLDOVA",Pro TV
+http://hls.protv.md/hls/protv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media-azi.md/sites/default/files/logo%20publika.jpg" group-title="MOLDOVA",Publika TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media1.realitatea.md/image/201403/620x/media_139437113027950300.png" group-title="MOLDOVA",Realitatea
+http://realitatea.m247.ro/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.manutv.net/wp-content/uploads/893793546.png" group-title="MOLDOVA",Tele M
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="MOLDOVA",TV Buzau
+http://95.77.16.72:81/tv20/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/elita-tv-aici.png" group-title="MOLDOVA",TV Elita
+http://46.55.111.242:8080/Rezina.m3u8
+
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/hopstarter/flag/256/Bulgaria-icon.png" group-title="LABEL",[B][COLOR blue]~ Bulgaria TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Bulgaria.mp3
 
