@@ -1782,6 +1782,9 @@ http://46.101.21.42:8081/live/live2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cz.png" group-title="LABEL",[B][COLOR blue]~ Czech Republic TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/CzechRepublic.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elektrika.tv/elektrika-tv.jpg" group-title="CZECH REP",Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/3efa0aaaeb3a39c0380a38aaae7649db.jpeg" group-title="CZECH REP",Ocko
 http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
 
@@ -1790,6 +1793,9 @@ http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/2bbab18fa09352f91d2ecb59d6e17fdb.jpeg" group-title="CZECH REP",Ocko Gold
 http://se03.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.r1jih.cz/userFiles/rt-logo.png" group-title="CZECH REP",Regionalni Televize
+http://88.212.46.127:9000/rtp/232.232.64.21:5004
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Retro_Czech_Republic.jpg" group-title="CZECH REP",Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
