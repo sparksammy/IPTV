@@ -1089,6 +1089,12 @@ http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/11ch4sl.png" group-title="BRAZIL",Shoptime
 http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
 
+#EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/rounded-world-flags/andorra-flag-2.png" group-title="LABEL",[B][COLOR blue]~ Andorra TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Andorra.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_atv.jpg" group-title="ANDORRA",Andorra TV
+http://194.158.80.31:443/live/rtva/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",[B][COLOR blue]~ Spain TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Spain.mp3
 
@@ -1244,12 +1250,6 @@ http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/8/logo_thumb.jpg" group-title="SPAIN",RTVida
 http://178.32.53.254/radiovida/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/rounded-world-flags/andorra-flag-2.png" group-title="LABEL",[B][COLOR blue]~ Andorra TV ~[/COLOR][/B]
-http://www.lengua.com/anthems/Andorra.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/8/logo_thumb.jpg" group-title="ANDORRA",Andorra TV
-http://194.158.80.31:443/live/rtva/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",[B][COLOR blue]~ Latino TV ~[/COLOR][/B]
 http://50.7.56.2:8016
@@ -2694,123 +2694,6 @@ http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="SINGAPORE",Mediacorp Channel U
 http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]~ Nature Cams ~[/COLOR][/B]
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="NATURE",Christmas Fireplace
-http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="NATURE",Fish Tank
-http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 1
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 2
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.shift8web.ca/wp-content/uploads/2014/11/ser02-300x300.png" group-title="LABEL",[B][COLOR green]~ Beach Cams ~[/COLOR][/B]
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Costa Da Caparica [Portugal]
-http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Da Luz [Portugal]
-http://213.13.26.11:1935/live/luz.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Aveiro [Portugal]
-http://213.13.26.11:1935/live/aveiro.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Espinho [Portugal]
-http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Sao Pedro [Portugal]
-http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Sao Torpes [Portugal]
-http://213.13.26.11:1935/live/saotorpes.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Do Guincho [Portugal]
-http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Grande [Portugal]
-http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Leca Da Palmeira [Portugal]
-http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Matosinhos [Portugal]
-http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Ribeira [Portugal]
-http://213.13.26.11:1935/live/ribeira.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Santa Cruz [Portugal]
-http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Supertubos [Portugal]
-http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]~ Street Cams ~[/COLOR][/B]
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="STREETS",Ft. Lauderdale Marina
-http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="STREETS",NYC Statue of Liberty
-http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg" group-title="STREETS",NYC Midtown Skyline
-http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg" group-title="STREETS",NYC 5th Avenue
-http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mylivestreams.com/images/camera/large_10724.jpg" group-title="STREETS",NYC Brooklyn Bridge
-http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2U3__wGBMPQ/maxresdefault.jpg" group-title="STREETS",NYC Charging Bull
-http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg" group-title="STREETS",NYC Columbus Circle
-http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.timeout.com/images/103264714/630/472/image.jpg" group-title="STREETS",NYC High Line
-http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="STREETS",NYC Times Square
-http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="STREETS",NYC Times Square (47th & Broadway)
-http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="STREETS",NYC Times Square (Street Cam)
-http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg" group-title="STREETS",NYC Times Square (Crossroads)
-http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="STREETS",NYC Times Square (South View)
-http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="STREETS",NYC Harbor
-http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg" group-title="STREETS",Seattle Downtown
-http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg" group-title="STREETS",Seattle Space Needle
-http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 1
-http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 2
-http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wtop.com/wp-content/uploads/2015/08/540809551.jpg" group-title="STREETS",Washington Monument
-http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR blue]~ Adult Swim ~[/COLOR][/B]
 http://stream.dubstep.fm:80/256mp3
 
@@ -3017,3 +2900,120 @@ http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" group-title="USA LOCAL",WTPC 16 (Virginia)
 http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
+
+#EXTINF:-1 tvg-logo="http://incubate.usc.edu/StartupEquinox/images/opportuniteas.jpg" group-title="LABEL",[B][COLOR green]~ Nature Cams ~[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="NATURE",Christmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="NATURE",Fish Tank
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 1
+http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="NATURE",Panda Cam 2
+http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shift8web.ca/wp-content/uploads/2014/11/ser02-300x300.png" group-title="LABEL",[B][COLOR green]~ Beach Cams ~[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Costa Da Caparica [Portugal]
+http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Da Luz [Portugal]
+http://213.13.26.11:1935/live/luz.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Aveiro [Portugal]
+http://213.13.26.11:1935/live/aveiro.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Espinho [Portugal]
+http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Sao Pedro [Portugal]
+http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia De Sao Torpes [Portugal]
+http://213.13.26.11:1935/live/saotorpes.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Do Guincho [Portugal]
+http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Grande [Portugal]
+http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Leca Da Palmeira [Portugal]
+http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Matosinhos [Portugal]
+http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Ribeira [Portugal]
+http://213.13.26.11:1935/live/ribeira.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Santa Cruz [Portugal]
+http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="BEACH",Praia Supertubos [Portugal]
+http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]~ Street Cams ~[/COLOR][/B]
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="STREETS",Ft. Lauderdale Marina
+http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="STREETS",NYC Statue of Liberty
+http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg" group-title="STREETS",NYC Midtown Skyline
+http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg" group-title="STREETS",NYC 5th Avenue
+http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mylivestreams.com/images/camera/large_10724.jpg" group-title="STREETS",NYC Brooklyn Bridge
+http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2U3__wGBMPQ/maxresdefault.jpg" group-title="STREETS",NYC Charging Bull
+http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg" group-title="STREETS",NYC Columbus Circle
+http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.timeout.com/images/103264714/630/472/image.jpg" group-title="STREETS",NYC High Line
+http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="STREETS",NYC Times Square
+http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="STREETS",NYC Times Square (47th & Broadway)
+http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="STREETS",NYC Times Square (Street Cam)
+http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg" group-title="STREETS",NYC Times Square (Crossroads)
+http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="STREETS",NYC Times Square (South View)
+http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="STREETS",NYC Harbor
+http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg" group-title="STREETS",Seattle Downtown
+http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg" group-title="STREETS",Seattle Space Needle
+http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 1
+http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 2
+http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wtop.com/wp-content/uploads/2015/08/540809551.jpg" group-title="STREETS",Washington Monument
+http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
