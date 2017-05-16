@@ -519,8 +519,14 @@ http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/is.png" group-title="LABEL",[B][COLOR blue]~ Iceland TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Iceland.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.icelandwintergames.com/static/gallery/partners-1/.thumb/n4.png" group-title="ICELAND",N4
+http://tv.vodafoneplay.is/n4/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ruv.is/sites/all/themes/at_ruv/images/default-image-1200x750.png" group-title="ICELAND",RUV
 http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://old.omega.is/Broadcast_files/image002.jpg" group-title="ICELAND",Omega
+http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",[B][COLOR blue]~ Belgium TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Belgium.mp3
