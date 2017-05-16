@@ -1785,6 +1785,9 @@ http://www.lengua.com/anthems/CzechRepublic.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elektrika.tv/elektrika-tv.jpg" group-title="CZECH REP",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/O2tvlogo.png" group-title="CZECH REP",O2 TV
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/3efa0aaaeb3a39c0380a38aaae7649db.jpeg" group-title="CZECH REP",Ocko
 http://se01.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko/live_lq.m3u8
 
