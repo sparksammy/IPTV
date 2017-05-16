@@ -1899,6 +1899,21 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="BULGARIA",Vibee TV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.meloteca.com/imagens/flag500/latvia.jpg" group-title="LABEL",[B][COLOR blue]~ Latvia TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Latvia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.operetesfonds.lv/uploads/1/8/1/4/18144541/9661549.jpg" group-title="LATVIA",24 Riga TV
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-jEVyYmA7My4/AAAAAAAAAAI/AAAAAAAAAAA/rVNF0_izisA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATVIA",Chau TV
+http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/lv/RETV.png" group-title="LATVIA",RETV
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="LATVIA",TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cz.png" group-title="LABEL",[B][COLOR blue]~ Czech Republic TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/CzechRepublic.mp3
 
