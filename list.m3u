@@ -564,6 +564,24 @@ http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm9.staticflickr.com/8202/29849722645_76c3624f9b_z.jpg" group-title="NORWAY",Stortinget
 http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/se.png" group-title="LABEL",[B][COLOR blue]~ Sweden TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Sweden.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/se/24CORREN.png" group-title="SWEDEN",24 Corren
+http://lw-ntm-live.lwcdn.com/live/amlst:2df87a73-e998-4be4-b469-8e1614976f3c_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.himlentv7.se/files/2014/11/himlentv7_artikkelikuva.jpg" group-title="SWEDEN",Himlen TV7
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/sweden/217-Kanal-10[01].jpg" group-title="SWEDEN",Kanal 10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/se/OEPPNA.png" group-title="SWEDEN",Oppna Kanalen
+http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/426711113166618624/C17iFx66_400x400.jpeg" group-title="SWEDEN",Vastmanlands TV
+http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w404315212.m3u8
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/be.png" group-title="LABEL",[B][COLOR blue]~ Belgium TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Belgium.mp3
 
