@@ -117,7 +117,7 @@ http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV *
 http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN [Off]
 http://stream.i4atv.info/ggwpl/live2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
@@ -1416,7 +1416,7 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://elpoderdelespiritu.com/channels/aztecatrece.png" group-title="MEXICO",Azteca 13*
 http://urtmpkal-f.akamaihd.net/i/0b704irh8_1@492365/master.m3u8
 
-#EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://2.bp.blogspot.com/-7wl5oVHDtuc/VQoX1VarXHI/AAAAAAAAATc/cPYVrgfENK4/s320/Azteca%2BNoticias.png" group-title="MEXICO",Az Noticias (off)
+#EXTINF:-1 tvg-id="Az Noticias" tvg-name="Az Noticias" tvg-logo="http://2.bp.blogspot.com/-7wl5oVHDtuc/VQoX1VarXHI/AAAAAAAAATc/cPYVrgfENK4/s320/Azteca%2BNoticias.png" group-title="MEXICO",Az Noticias [Off]
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/master.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",FOROtv
