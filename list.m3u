@@ -1749,9 +1749,6 @@ http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-146
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-on.ru/images/tv/hardlife-tv.jpg" group-title="RUSSIA",HardLife TV
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1457920745.png" group-title="RUSSIA",ILand TV (IL)
-http://146.185.61.140:1935/live/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photouploads.com/images/f807ad.png" group-title="RUSSIA",Life News
 http://tv.life.ru/lifetv/720p/index.m3u8
 
@@ -2120,6 +2117,9 @@ http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1448546266.png" group-title="ISRAEL",Music 24
 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1457920745.png" group-title="ISRAEL",ILand TV (Russian)
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/malta/flag-button-square-250.png" group-title="LABEL",[B][COLOR blue]~ Malta TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Malta.mp3
