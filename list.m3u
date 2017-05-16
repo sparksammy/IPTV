@@ -1878,8 +1878,7 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="HONDURAS",Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.oyehonduras.org/es/wp-content/uploads/sites/3/2014/08/logoteleprogreso_H4O.png
-" group-title="HONDURAS",Teleprogreso
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.oyehonduras.org/es/wp-content/uploads/sites/3/2014/08/logoteleprogreso_H4O.png" group-title="HONDURAS",Teleprogreso
 http://162.212.176.83:8080/teleprogreso.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9A-7_CtfRPM/AAAAAAAAAAI/AAAAAAAAAAA/xF80hVNHCaM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="HONDURAS",Televicentro
