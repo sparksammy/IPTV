@@ -591,8 +591,17 @@ http://138.197.136.102:8081/live/greektv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-BvwqZSJKLAY/Vr1DZnpLEeI/AAAAAAAASAk/SbNAKTnyhgs/s1600/3.png" group-title="GREECE",NETV Toronto
 http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg" group-title="GREECE",Sigma TV (CY)
+#EXTINF:-1 tvg-logo="https://rlv.zcache.com/cyprus_national_world_flag_square_sticker-r38fa1b624e1c483ea70d516fbd66397f_v9wf3_8byvr_324.jpg" group-title="LABEL",[B][COLOR blue]~ Cyprus TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Cyprus.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg" group-title="CYPRUS",Sigma TV (Greek)
 http://81.21.47.74/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039529.png" group-title="CYPRUS",BRT 1 (Turkish)
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039476.png" group-title="CYPRUS",BRT 2 (Turkish)
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",[B][COLOR blue]~ France TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/France.mp3
@@ -1209,9 +1218,6 @@ http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX18CdMTgw7yjmRjaafMf%2BOP
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lamac.org/res/channels/logos/_0028_the_film_zone.png" group-title="LATINO",Film Zone
 http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FCVcazgvGrPFMwbDxG7DjDapAFBEOBn4i1BC4Pqf%2F9gBau7WhfXmZZ%2FXX9YxDWc3rEYd3PAHj9Bg%3D%3D
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491105333230.png" group-title="LATINO",Fox
-http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FapxpogvL1DLpjRaLx4vP%2F%2BxaN4s5Jmev3T9qSOM9ZrXKYa7HqDuEMm%2BMZtZCdB%2BrLiFnbzEcMcw%3D%3D
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yousenditcc.s3.amazonaws.com/FX_w.svg.png" group-title="LATINO",FX
 http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19sKaiwTxV4De9N476pf557ts5D4YprdxLDVZFYRn4YnXJzF9h%2FV5cCxo1o%2FI1%2Bod0DQi7wQvJy0g%3D%3D
 
@@ -1220,6 +1226,9 @@ http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FNPIZMJbtJKT3klFzDlu6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Movies-Logo-300x98.png" group-title="LATINO",Fox Premium Movies
 http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19cOg2SAvPwLk%2BZBvTMCBWegIqOASpFk8wGw6ed8A5TYd4cTfZsVaBPLNz7KoxLa1UJyBMtV4K1JQ%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/large.fox-series-blanco.png.376adb604c5e6dda7fa6a83023f022fe.png" group-title="LATINO",Fox Premium Series
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FapxpogvL1DLpjRaLx4vP%2F%2BxaN4s5Jmev3T9qSOM9ZrXKYa7HqDuEMm%2BMZtZCdB%2BrLiFnbzEcMcw%3D%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://orbitcable.com.do/v2/wp-content/uploads/2015/09/312-Golden.jpg" group-title="LATINO",Golden
 http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX198va17jTQX6AslWvt1xMVGa9CpXhoZNVm%2Fu%2B%2BXzaMmyVLtj9F3OySSMg0PJjWtZdeu8N4mrXBkEQ%3D%3D
