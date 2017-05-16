@@ -1332,6 +1332,21 @@ http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19cOg2SAvPwLk%2BZBvTMCBW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://orbitcable.com.do/v2/wp-content/uploads/2015/09/312-Golden.jpg" group-title="LATINO",Golden
 http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX198va17jTQX6AslWvt1xMVGa9CpXhoZNVm%2Fu%2B%2BXzaMmyVLtj9F3OySSMg0PJjWtZdeu8N4mrXBkEQ%3D%3D
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logodatabases.com/wp-content/uploads/2012/03/hbo-logo-wallpaper-1024x668.jpg" group-title="LATINO",HBO
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18BIZ2gvZOiWmenTtHtLucA81I8F1xwPAxgOy85Zau0WgvOloFLTkbKXF7bHZMBeYFAv9sxB1xIXQ%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/HBO%202.png" group-title="LATINO",HBO 2
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX19njebr7Hfqddd%2FPGi4uiVDcovw14Pkk9oacggriusyHd%2FUTIQZWoHaNVs0FfvEvTwNacH4t2VBxg%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://members.datafast.net.au/~systemlord/xbmc/polishtv/userdata/logos/HBO%202.png" group-title="LATINO",HBO 2 *
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19I%2FNJNSa3eRWrrV3sReJODyMLBqheU2SP%2F694DQ%2F0INCqcyXbeeAUclqewxE1Wauuvp%2BU3YflqXQ%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.downloadingzoo.com/wp-content/uploads/2014/10/HBOPLUS.png" group-title="LATINO",HBO Plus
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2BE60xR7RG%2BYd5qponNs8bsxHGc2SjRdGBfZPTSJ%2FtKMHdmV8bsAdtxpto3Ajwpcq7KNaKeKY2oHw%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/23/HBO_Family_1996.png" group-title="LATINO",HBO Family
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX1%2FwmR3w1Xjy6P3fe37ASbot5pDLGmjBJuA0wPzDuBHJFptb6FxAdUxoQo6uMkgm2Dl2fc1ETGvpzw%3D%3D
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/nick-nickelodeon-logo.jpg" group-title="LATINO",Nickelodeon
 http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19zwkJQjKREpZC3dWyd%2Bg7Z4eQo7kwxoXnwxPrkArnW%2BPmaoXYfMRR%2FnpyQ0dJHfD4UpZ0PqNCZ%2FQ%3D%3D
 
@@ -1343,6 +1358,9 @@ http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2BgEUPjw00bJp7qpIJOXKp
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/gt_space_m.png" group-title="LATINO",Space
 http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19s1%2F7X8NtHeZygP4TE0M0d7E6BhZaaS8t7iMxj4fb5AHkrIgE6UkKCFe1hbN2qvyP7G6ulsSoilw%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dtv.tbxstatic.com/thumbs/byqzsd-1-0x290-tnt_series-0a9ddb4e6a3edd6c26bc6eeef8275507.png" group-title="LATINO",TNT Series
+http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX19VpcQdRPgJgbQ1gOj0HoqWOYyeMtbtpUibkRH8xoHz3fskCwuWjfxiEHGgvmMT4TNBlx41mTKB6A%3D%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mobile.tvaovivo.co/wp-content/uploads/2017/02/tooncast-pronto.jpg" group-title="LATINO",Tooncast
 http://live.latino-webtv.com/live_2.m3u8?token=U2FsdGVkX1%2FPwjExRDK9lw4QdONCH5XYVPh4sERI%2BIoqHD1p3ET%2Fttj9iDlu8Aes3wHrov%2Bn9Zu9P%2BERHmmi3w%3D%3D
