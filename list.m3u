@@ -255,38 +255,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="UK",BabyTV
 http://5.135.139.19:1935/server7/stream37.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="UK",BabyTV *
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/92.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="UK",Boomerang
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/87.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2510.png" group-title="UK",Cartoon Network
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/91.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.getmemedia.com/public/ideas/Opp/13590/cartoonito.jpg" group-title="UK",Cartoonito
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/90.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://a.files.bbci.co.uk/cbeebies/www/assets/114d18d/images/channel-banner/logo.png" group-title="UK",CBBC
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/89.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.itv.com/uploads/show/show_branding_logo/42/WCRX85ZI3pOn7GiO_NZ0XZ8OnpnBNylotC_12DNRY8Y.png" group-title="UK",CITV
 http://5.135.139.19:1935/server7/stream36.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wdwdailynews.com/wp-content/uploads/2014/05/disney-channel-logo.jpg" group-title="UK",Disney Channel
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/85.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/7/73/Disney_junior24hrchannellogo.jpg" group-title="UK",Disney Junior
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/84.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chipandco.com/wp-content/uploads/2013/10/Disney-XD-Logo-300x200.jpg" group-title="UK",Disney XD
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/86.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/nickelodeon/images/f/f0/NickToons_logo_2009.png" group-title="UK",Nicktoons
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/81.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/films-tv-shows-and-wildlife/images/a/ac/NickJr.2009logo.png" group-title="UK",Nick Jr.
-http://178.33.237.97:1888/live/OkQfcpBn7O/jGvDZYzs1U/83.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/h_Sldf6XZ1c/maxresdefault.jpg" group-title="UK",Insight
 http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/master.m3u8
