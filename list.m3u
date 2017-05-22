@@ -1125,7 +1125,7 @@ http://178.32.53.254/radiovida/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",[B][COLOR blue]~ Latino TV ~[/COLOR][/B]
 http://50.7.56.2:8016
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.postard.com/wp-content/uploads/2016/11/gravity-falls.jpg" group-title="LATINO",24/7 Gravity Falls (MP4)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.postard.com/wp-content/uploads/2016/11/gravity-falls.jpg" group-title="LATINO",24/7 Gravity Falls (VOD)
 http://stream.latino-webtv.com/series/gravityfalls.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
