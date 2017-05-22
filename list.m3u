@@ -660,6 +660,9 @@ http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="ITALY",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://operators.monaco-telecom.mc/images/part/tv/Class-TV-Moda_o.jpg" group-title="ITALY",Class TV Moda
+http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cislmarche.it/files/2013/01/etv.jpg" group-title="ITALY",eTV Marche
 http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
 
@@ -855,8 +858,17 @@ http://67149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg" group-title="BRAZIL",Cancao Nova
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="BRAZIL",Cartoon Network
+http://95.211.149.215:8081/look/cartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/6FepRzn.png" group-title="BRAZIL",Classique TV
+http://45.43.208.2:1935/classique/classique/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/QdcfCnSdv2M/hqdefault.jpg" group-title="BRAZIL",CN Agitos
 http://wsemedia.com:1935/cn01/cn01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/02/combate.jpg" group-title="BRAZIL",Combate
+http://95.211.149.215:8081/look/combate/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/2/25/Futura_logo.png" group-title="BRAZIL",Futura
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8
