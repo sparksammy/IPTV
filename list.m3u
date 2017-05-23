@@ -1785,8 +1785,56 @@ http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2788.jpeg" group-title="BULGARIA",Heavy Metal Television
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.byalareka.com/ikoni/kanal/bg-stoychevtv.png" group-title="BULGARIA",TV Stoichev
+http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ТheVoiceTV-logo.png" group-title="BULGARIA",The Voice
+http://31.13.217.76:1935/rtplive/thevoice_live.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vibee.tv/wp-content/uploads/2016/12/vibeelogotvtv.png" group-title="BULGARIA",Vibee TV
 http://46.101.21.42:8081/live/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/macedonia/flag-button-square-250.png" group-title="LABEL",[B][COLOR blue]~ Macedonia TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Macedonia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YuVp5w9swnI/Ve1_NZe7StI/AAAAAAAAAMw/-LxxTHguJg8/s1600/h1.jpg" group-title="MACEDONIA",Hugo TV
+http://h1.servemp3.com:1935/live/h1/hugo1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="MACEDONIA",Plus TV
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvkanal.altervista.org/wp-content/uploads/2017/05/SkyFolkTV.jpg" group-title="MACEDONIA",Sky Folk TV
+http://skyfolk.mk/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.olimpikbeograd.com/wp-content/uploads/2013/06/serbia0.png" group-title="LABEL",[B][COLOR blue]~ Serbia TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Serbia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtvas.rs/images/logo-as.png" group-title="SERBIA",As Sabac
+http://as.multimediaiptv.net:8080/as/assabac/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.rtv.rs/slike/2015/12/16/tv-hram_660x330.jpg" group-title="SERBIA",Hram TV
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hotelkladovo.rs/images/TV%20Kladovo%20logo.png" group-title="SERBIA",Kladovo
+http://212.200.113.230:1935/iptv/iptv40000.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ligabuducihsampiona.rs/sites/default/files/onZYtGQ.png" group-title="SERBIA",SOS Kanal
+http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.exyu.xyz/telegraf.png" group-title="SERBIA",Telegraf
+http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/TVDugaSATlogo_1675-150x120.png" group-title="SERBIA",TV Duga
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/ba.png" group-title="LABEL",[B][COLOR blue]~ Bosnia and Herzegovina TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/BosniaandHerzegovina.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nextgen-iptv.com/logo/BN_BiH.png" group-title="BOSNIA",BN TV
+http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="BOSNIA",777 Tehnika TV
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.meloteca.com/imagens/flag500/latvia.jpg" group-title="LABEL",[B][COLOR blue]~ Latvia TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Latvia.mp3
