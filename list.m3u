@@ -888,7 +888,7 @@ http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1200059400/canal_rural_400x400.jpg" group-title="BRAZIL",Canal Rural
 http://67149o.ha.azioncdn.net/hlsverylow/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg" group-title="BRAZIL",Cancao Nova
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg" group-title="BRAZIL",Cancao Nova [Rel.]
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s20.postimg.org/x27jhejrh/Cartoon_Network.png" group-title="BRAZIL",Cartoon Network
@@ -1413,7 +1413,7 @@ http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png" group-title="CHILE",Mega
 http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nuevotiempo.org/radio/files/Radio-Nuevo-Tiempo-Logo.jpg" group-title="CHILE",Nuevo Tiempo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nuevotiempo.org/radio/files/Radio-Nuevo-Tiempo-Logo.jpg" group-title="CHILE",Nuevo Tiempo [Rel.]
 http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BITLZHE.png" group-title="CHILE",Niu TV
@@ -1530,10 +1530,10 @@ http://live-01.viewer.dacast.com/i/dclive_1@311302/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1458319748.png" group-title="COSTA RICA",Colosal TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_enlace-juvenil_m.png" group-title="COSTA RICA",Enlace Juvenil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_enlace-juvenil_m.png" group-title="COSTA RICA",Enlace Juvenil [Rel.]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV.png" group-title="COSTA RICA",Enlace TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV.png" group-title="COSTA RICA",Enlace TV [Rel.]
 http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZxJ6v5DgdMk/maxresdefault.jpg" group-title="COSTA RICA",HBTV Ticavision
@@ -1680,7 +1680,7 @@ http://190.102.61.118:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d1vmfp3l3lxrif.cloudfront.net/en_directo/telemetro_en_linea_MEDDIR20131017_0001_9.jpg" group-title="PANAMA",Telemetro
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Telemetro.png" group-title="PANAMA",Telemetro
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://th.seaicons.com/wp-content/uploads/2016/03/Honduras-icon.png" group-title="LABEL",[B][COLOR blue]~ Honduras TV ~[/COLOR][/B]
@@ -1788,7 +1788,7 @@ http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="RUSSIA",RT Documentary (English)
 http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="RUSSIA",Soyuz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="RUSSIA",Soyuz [Rel.]
 http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.parsatv.com/index_files/channels/worldfashion.jpg" group-title="RUSSIA",World Fashion
