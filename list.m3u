@@ -3060,59 +3060,224 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]~ Street Cams ~[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="STREETS",Ft. Lauderdale Marina
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="CCTV",Ft. Lauderdale Marina
 http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="STREETS",NYC Statue of Liberty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's - Key West (Duval Street Cam)
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Key West (Stage Cam)
+http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's - Key West (Bar Cam)
+http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="CCTV",NYC Statue of Liberty
 http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg" group-title="STREETS",NYC Midtown Skyline
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg" group-title="CCTV",NYC Midtown Skyline
 http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg" group-title="STREETS",NYC 5th Avenue
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg" group-title="CCTV",NYC 5th Avenue
 http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mylivestreams.com/images/camera/large_10724.jpg" group-title="STREETS",NYC Brooklyn Bridge
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mylivestreams.com/images/camera/large_10724.jpg" group-title="CCTV",NYC Brooklyn Bridge
 http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2U3__wGBMPQ/maxresdefault.jpg" group-title="STREETS",NYC Charging Bull
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2U3__wGBMPQ/maxresdefault.jpg" group-title="CCTV",NYC Charging Bull
 http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg" group-title="STREETS",NYC Columbus Circle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg" group-title="CCTV",NYC Columbus Circle
 http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.timeout.com/images/103264714/630/472/image.jpg" group-title="STREETS",NYC High Line
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.timeout.com/images/103264714/630/472/image.jpg" group-title="CCTV",NYC High Line
 http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="STREETS",NYC Times Square
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="CCTV",NYC Times Square
 http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="STREETS",NYC Times Square (47th & Broadway)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="CCTV",NYC Times Square (47th & Broadway)
 http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="STREETS",NYC Times Square (Street Cam)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="CCTV",NYC Times Square (Street Cam)
 http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg" group-title="STREETS",NYC Times Square (Crossroads)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg" group-title="CCTV",NYC Times Square (Crossroads)
 http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="STREETS",NYC Times Square (South View)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="CCTV",NYC Times Square (South View)
 http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="STREETS",NYC Harbor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="CCTV",NYC Harbor
 http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg" group-title="STREETS",Seattle Downtown
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg" group-title="CCTV",Seattle Downtown
 http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg" group-title="STREETS",Seattle Space Needle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg" group-title="CCTV",Seattle Space Needle
 http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="CCTV",Toronto CN Tower 1
 http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="STREETS",Toronto CN Tower 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="CCTV",Toronto CN Tower 2
 http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wtop.com/wp-content/uploads/2015/08/540809551.jpg" group-title="STREETS",Washington Monument
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wtop.com/wp-content/uploads/2015/08/540809551.jpg" group-title="CCTV",Washington Monument
 http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/switzerland/switzerland_640.png" group-title="CCTV",Switzerland - Zurich – Uetliberg
+http://stream.livespotting.tv/windit-edge/vv65_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/netherlands/netherlands_640.png" group-title="CCTV",Elburg - Netherlands
+http://stream.livespotting.tv/windit-edge/LS_36290_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/france/france_640.png" group-title="CCTV",Plougonvelin - Bretagne - France
+http://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Frankfurt - Stadt Frankfurt am Main
+http://stream.livespotting.tv/windit-edge/vv100_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Erfurt - KoWo
+http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Essen - Ruhrturm
+http://stream.livespotting.tv/windit-edge/vv60_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Flensburg - Fjord Tourismus
+http://stream.livespotting.tv/windit-edge/vv17_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Freiburg - Volksbank
+http://stream.livespotting.tv/windit-edge/vv112_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Fulda - Schlossstrasse
+http://stream.livespotting.tv/windit-edge/vv62_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Gaienhofen - Hotel Gasthaus Hirschen
+http://stream.livespotting.tv/windit-edge/vv105_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
+http://stream.livespotting.tv/windit-edge/vv111_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Gehlberg - Michael Gebser
+http://stream.livespotting.tv/windit-edge/vv123_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Wuppertal - Barmenia
+http://stream.livespotting.tv/windit-edge/vv117_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Neuharlingersiel - Hafen West
+http://stream.livespotting.tv/windit-edge/vv13_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Monchengladbach - Best Western Crown
+http://stream.livespotting.tv/windit-edge/vv118_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Munchen - Deutsche Eiche
+http://stream.livespotting.tv/windit-edge/vv72_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Munchen - Redaktion
+http://stream.livespotting.tv/windit-edge/vv55_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Munster - Raphaelsklinik
+http://stream.livespotting.tv/windit-edge/vv116_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Munster - Stadthaus
+http://stream.livespotting.tv/windit-edge/vv63_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Neuharlingersiel - Hafen Ost
+http://stream.livespotting.tv/windit-edge/vv12_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Neuharlingersiel - Panorama
+http://stream.livespotting.tv/windit-edge/vv14_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Niendorf - Meerwasserhallenbad
+http://stream.livespotting.tv/windit-edge/vv81_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Norderney - Zimmerservice - Norderney
+http://stream.livespotting.tv/windit-edge/vv147_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Oberstdorf - Hotel Exquisit
+http://stream.livespotting.tv/windit-edge/vv137_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Oberwiesenthal - Hotel Fichtelberghaus
+http://stream.livespotting.tv/windit-edge/vv30_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Oldenburg - Nordwest-Zeitung
+http://stream.livespotting.tv/windit-edge/vv91_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Passau - Hotel Konig
+http://stream.livespotting.tv/windit-edge/vv98_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Pelzerhaken - Lubecker Bucht
+http://stream.livespotting.tv/windit-edge/vv8_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Pertisau am Achensee - Bergstation
+http://stream.livespotting.tv/windit-edge/vv126_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Potsdam - Hotel Am Luisenplatz
+http://stream.livespotting.tv/windit-edge/vv110_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Rostock - Apartment Living Hotel
+http://stream.livespotting.tv/windit-edge/vv89_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Rostock - Hotel Sportforum
+http://stream.livespotting.tv/windit-edge/vv119_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Saarbrucken - La Residence
+http://stream.livespotting.tv/windit-edge/vv68_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Sankt Peter-Ording - Beach Motel
+http://stream.livespotting.tv/windit-edge/vv129_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Scharbeutz - Lubecker Bucht
+http://stream.livespotting.tv/windit-edge/vv41_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Schwangau - Schloss Neuschwanstein
+http://stream.livespotting.tv/windit-edge/vv108_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Schwerin - Com In IT Solution Center
+http://stream.livespotting.tv/windit-edge/vv97_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",St. Anton am Arlberg
+http://stream.livespotting.tv/windit-edge/vv21_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Stralsund - Hotel Hafenresidenz
+http://stream.livespotting.tv/windit-edge/vv132_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Timmendorfer Strand
+http://stream.livespotting.tv/windit-edge/vv9_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Torfhaus - Harz
+http://stream.livespotting.tv/windit-edge/vv52_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Travemunde - Strand
+http://stream.livespotting.tv/windit-edge/vv54_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Tubingen - Casino am Neckar
+http://stream.livespotting.tv/windit-edge/vv109_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Tubingen - Heindl Internet AG
+http://stream.livespotting.tv/windit-edge/vv104_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Ulm - Hotel Blaubeurer Tor
+http://stream.livespotting.tv/windit-edge/vv66_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Warnemunde - Best Western Hotel
+http://stream.livespotting.tv/windit-edge/vv20_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Warnemunde - Yachthafen
+http://stream.livespotting.tv/windit-edge/vv4_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Weimar - HotelPension am Goethehaus
+http://stream.livespotting.tv/windit-edge/vv92_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Westerland - Sylt
+http://stream.livespotting.tv/windit-edge/vv43_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Wiek - Rugen
+http://stream.livespotting.tv/windit-edge/vv25_450p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Wolfsburg - Stadt Wolfsburg
+http://stream.livespotting.tv/windit-edge/vv88_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Wurzburg - Hotel Alter Kranen
+http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
