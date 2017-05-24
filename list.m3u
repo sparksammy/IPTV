@@ -3129,7 +3129,7 @@ http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/switzerland/switzerland_640.png" group-title="CCTV",Switzerland - Zurich – Uetliberg
 http://stream.livespotting.tv/windit-edge/vv65_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/netherlands/netherlands_640.png" group-title="CCTV",Elburg - Netherlands
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/netherlands/netherlands_640.png" group-title="CCTV",Elburg - Netherlands [Off]
 http://stream.livespotting.tv/windit-edge/LS_36290_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/france/france_640.png" group-title="CCTV",Plougonvelin - Bretagne - France
