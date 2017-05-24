@@ -3201,6 +3201,63 @@ http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stre
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="RELIGION",Santuario de Fatima (Portugal)
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg" group-title="RELIGION",Cancao Nova (Brazil)
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGION",Novo Tempo (Brazil)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Rede_Fam%C3%ADlia_logo_2013.png" group-title="RELIGION",Rede Familia (Brazil)
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_w1834697316_b300000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.igreja-online.com/img/logo.png" group-title="RELIGION",Igreja Online (Brazil)
+http://195.22.19.179:1935/igronl/igronline2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jesuscristoapalavra.com/website/template/img/logo.png" group-title="RELIGION",Jesus Cristo - A Palavra (Brazil)
+http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2d7vy4n.png" group-title="RELIGION",Rede Gospel (Brazil)
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-FzZZDVhvkbY/VEPST1_CpoI/AAAAAAAAEwI/2nzsDQ-R3oc/s1600/Rede%2BGênesis%2B-%2BCDP%2BRede%2B-%2BServidor%2B3.png" group-title="RELIGION",Rede Genesis (Brazil)
+http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/529848566_780x439.jpg" group-title="RELIGION",RIT TV (Brazil)
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f2/Logo_rede_aparecida_comunicacao.png" group-title="RELIGION",Aparecida (Brazil)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alagoasgospel.com.br/painel/categorias/noticia/b171323b0258d8043783c77c089b7f24.jpg" group-title="RELIGION",Mundial (Brazil)
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.cejn4.webnode.com/200003588-a2e9ba4dbe/Links_TVs_TV%20ACaminhodaLuz.jpg" group-title="RELIGION",TV A Caminho da Luz (Brazil)
+http://streaming50.sitehosting.com.br:1935/angra/angra/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aainfo.com.br/wp/wp-content/uploads/2015/05/tv-aovivo.jpg" group-title="RELIGION",TV Arca da Alianca (Brazil)
+http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2ki75z26cxs83vw1ja1h5j8n.wpengine.netdna-cdn.com/wp-content/uploads/2015/12/tv-web-cristo-vive.png" group-title="RELIGION",TV Cristo Vive (Brazil)
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-9beSDaDpMPg/UmiU0tyOcdI/AAAAAAAACVg/kGgsxgZ9vsk/s1600/tv_louvar.jpg" group-title="RELIGION",TV Louvar (Brazil)
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" group-title="RELIGION",TVCI (Brazil)
+http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="RELIGION",TV Gidoes (Brazil)
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vemevetv.com.br/images/logo.png" group-title="RELIGION",Vem e Ve TV (Brazil)
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vemevetv.com.br/images/logo.png" group-title="RELIGION",Vem e Ve TV* (Brazil)
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3780556/logo_canal%20cjc.png" group-title="RELIGION",Canal CJC (Brazil)
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/8/logo_thumb.jpg" group-title="RELIGION",RTVida (Spain)
 http://178.32.53.254/radiovida/livestream/playlist.m3u8
 
@@ -3287,9 +3344,6 @@ http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://paxtvmovil.org/img/logo.png" group-title="RELIGION",PAX
 http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b598000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg" group-title="RELIGION",Cancao Nova (Brazil)
-http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://acafaith.com/website-images/elshaddai.png" group-title="RELIGION",ETN Elshaddai (Ethiopia)
 http://ipointcablertmp.tulix.tv/elshaddai/elshaddai/playlist.m3u8
