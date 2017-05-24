@@ -3177,6 +3177,12 @@ http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.youthscape.co.uk/assets/open_me/img/interface/prayer-icon.png" group-title="LABEL",[B][COLOR yellow]~ Religion TV ~[/COLOR][/B]
 http://206.190.136.212:9407/Live
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/family_friendly_tv_usa.jpg" group-title="RELIGION",Family Friendly Entertainment (USA)
+http://54.225.64.228:1935/live/roku2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg" group-title="RELIGION",Amazing Facts TV (USA)
+http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="RELIGION",CBN News (USA)
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 
