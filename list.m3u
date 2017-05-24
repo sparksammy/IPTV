@@ -1770,6 +1770,9 @@ http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-u2TYQLBkvZY/AAAAAAAAAAI/AAAAAAAAAAA/JI4QO9JE1kA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="RUSSIA",ID Fashion (English)
 http://95.67.8.22/hls/idfashion/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/01/impact.jpg" group-title="RUSSIA",Impact
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/250x150/ru/12KanalOmsk.png" group-title="RUSSIA",Kanal Omsk
 http://cdn-01.bonus-tv.ru/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/playlist.m3u8
 
