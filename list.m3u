@@ -9,7 +9,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",< FLUXUS TV >
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 05/23/17 =
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 05/24/17 =
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV <
@@ -417,14 +417,44 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://opsmedia.ru/wp-content/uploads/2016/10/ELECTROSOUND-TV-logo.jpg" group-title="GERMANY",Electrosound TV
 http://www.electrosound.tv:1935/public/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="GERMANY",KroneHit (AT)
-http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="GERMANY",QVC
 http://ios-stream.qvc.de/qvc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-BAcecuCPkK4/VGjDw1zsTdI/AAAAAAAACeE/eSgTcT9nY7Y/s1600/123tv.jpg" group-title="GERMANY",1-2-3 TV
 http://123tv.cdn.ses-ps.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.geriderklostertaler.eu/images/landimage/A.png" group-title="LABEL",[B][COLOR blue]~ Austria TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Austria.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://austria24.tv/wp-content/uploads/2014/01/A24_logo_big.png" group-title="AUSTRIA",Austria 24
+http://streaming.austria24.tv/live/stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nossojogo.at/wp-content/uploads/2014/04/CI-Dorf-v3.jpg" group-title="AUSTRIA",Dorf TV
+http://dorf.openplayout.org/hls/dorf_high/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.campusfernsehen.at/wp-content/themes/Orion/images/logo_okto.png" group-title="AUSTRIA",Okto TV
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" group-title="AUSTRIA",ORF 1
+http://apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" group-title="AUSTRIA",ORF 2
+http://apasfiisl.apa.at/ipad/orf2_q4a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" group-title="AUSTRIA",ORF 3
+http://apasfiisl.apa.at/ipad/orf3_q4a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" group-title="AUSTRIA",ORF Sport
+http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rts-salzburg.at/wp-content/themes/rts/images/rts-logo.png" group-title="AUSTRIA",RTS Salzburg
+http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="AUSTRIA",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",[B][COLOR blue]~ Netherlands TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Netherlands.mp3
