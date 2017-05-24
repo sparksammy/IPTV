@@ -1413,9 +1413,6 @@ http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png" group-title="CHILE",Mega
 http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nuevotiempo.org/radio/files/Radio-Nuevo-Tiempo-Logo.jpg" group-title="CHILE",Nuevo Tiempo [Rel.]
-http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/BITLZHE.png" group-title="CHILE",Niu TV
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 
@@ -1529,12 +1526,6 @@ http://live-01.viewer.dacast.com/i/dclive_1@311302/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1458319748.png" group-title="COSTA RICA",Colosal TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/co_enlace-juvenil_m.png" group-title="COSTA RICA",Enlace Juvenil [Rel.]
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV.png" group-title="COSTA RICA",Enlace TV [Rel.]
-http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/ZxJ6v5DgdMk/maxresdefault.jpg" group-title="COSTA RICA",HBTV Ticavision
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
@@ -3306,14 +3297,14 @@ http://server120416w1.a1network.net:1935/elmesias/elmesias.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.unored.tv/wp-content/uploads/2015/07/Cadena-del-Milagro-TV.jpg" group-title="RELIGION",Cadena del Milagro
 http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiocadenacret.com/wp-content/uploads/LOGO-CRET-NEW-2.png" group-title="RELIGION",TV Cret
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiocadenacret.com/wp-content/uploads/LOGO-CRET-NEW-2.png" group-title="RELIGION",TV CRET
 http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/7CAp43AuvzB0CmUcDXCxuTuT5dkz80zYzGbvttDNhPGJ1joBnTpGG4YOiMj7dulSZaA=w300" group-title="RELIGION",Gracia TV
 http://v1.streaminglatinoamerica.com:1935/graciatv/graciatv/chunklist_w84519623.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/NuevoTiempo-Logo.jpg" group-title="RELIGION",Nuevo Tiempo
-http://movilstream.digitalproserver.com/ntiempo/ntiempovivo/ntiempo.smil/chunklist-b448000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nuevotiempo.org/radio/files/Radio-Nuevo-Tiempo-Logo.jpg" group-title="RELIGION",Nuevo Tiempo
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televida.org.do/live/logo.png" group-title="RELIGION",Televida
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
