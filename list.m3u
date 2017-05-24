@@ -1740,17 +1740,29 @@ http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ru.seaicons.com/wp-content/uploads/2016/03/Russia-icon.png" group-title="LABEL",[B][COLOR blue]~ Russia TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Russia.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1hd.ru/assets/site/images/logo.png" group-title="RUSSIA",1 HD
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.issueno206.com/wp-content/uploads/2015/04/rot-neu.jp" group-title="RUSSIA",7 TV
 http://78.40.108.218/7channel/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://telebegun.ru/uploads/channels/thumb_5fc49038d168b7d2f5e1a9ed91711f74.png" group-title="RUSSIA",26 Region
+http://serv24.vintera.tv:8081/26region/26region1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kt.trkpuls.ru/home/images/b_img25.jpg" group-title="RUSSIA",Auto 24
 http://62.76.26.81:8081/sport/auto24_09/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="RUSSIA",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/chunklist_b2658304.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dreamhack.se/dhs15/files/2015/05/SCREEN_GS_STUDIO_LIGHT.png" group-title="RUSSIA",Game Show Studio
 http://cdn-01.bonus-tv.ru/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-on.ru/images/tv/hardlife-tv.jpg" group-title="RUSSIA",HardLife TV
 http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/250x150/ru/12KanalOmsk.png" group-title="RUSSIA",Kanal Omsk
+http://cdn-01.bonus-tv.ru/gtrkomsk/gtrkomsk/type/user/devname/LG-SmartTV/devid/LG-1469442137/eol/20200101T0000/hash/510de4d7c8db563c9e1f7bbe232311dd6f9fa531/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photouploads.com/images/f807ad.png" group-title="RUSSIA",Life News
 http://tv.life.ru/lifetv/720p/index.m3u8
@@ -1775,6 +1787,15 @@ http://video.tvr.by:1935/belarus24/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oboz.by/wp-content/uploads/2016/10/1377853613_stv.jpg" group-title="BELARUS",STV
 http://93.125.30.18:1935/ctv/live.stream/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://icon-icons.com/icons2/97/PNG/256/ukraine_flags_flag_17076.png" group-title="LABEL",[B][COLOR blue]~ Ukraine TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Ukraine.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xmtvplayer.com/chan-imgs/100_percent_news.png" group-title="UKRAINE",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/1200px-Logo_112_Ukraine.svg.png" group-title="UKRAINE",112 Ukraine
+http://app.live.112.events/hls/112hd_mid/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",[B][COLOR blue]~ Moldova TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Moldova.mp3
