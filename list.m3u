@@ -1797,6 +1797,9 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_112_Ukraine.svg/1200px-Logo_112_Ukraine.svg.png" group-title="UKRAINE",112 Ukraine
 http://app.live.112.events/hls/112hd_mid/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.start.crimea.ua/news/images/201410081430410.atr_n_b.jpg" group-title="UKRAINE",ATR (Crimea)
+http://stream.atr.ua/atr/live/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",[B][COLOR blue]~ Moldova TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Moldova.mp3
 
