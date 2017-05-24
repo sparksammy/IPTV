@@ -912,6 +912,9 @@ http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.portalimprensa.com.br/content_file_storage/2015/03/19/SBT.jpg" group-title="BRAZIL",SBT Sao Paulo
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://180graus.com/res/imagens/portal/2013/06/29/fdf-300x250e.jpg" group-title="BRAZIL",TV Antares
+http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www3.al.sp.gov.br/repositorio/noticia/N-06-2015/fg172134.jpg" group-title="BRAZIL",TV Assembleia SP
 http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
 
