@@ -3198,6 +3198,12 @@ http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.youthscape.co.uk/assets/open_me/img/interface/prayer-icon.png" group-title="LABEL",[B][COLOR yellow]~ Religion TV ~[/COLOR][/B]
 http://206.190.136.212:9407/Live
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jltv.tv/images/jltvLogoHor.png" group-title="RELIGION",Jewish Life TV (USA)
+http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="RELIGION",Catholic TV (USA)
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/family_friendly_tv_usa.jpg" group-title="RELIGION",Family Friendly Entertainment (USA)
 http://54.225.64.228:1935/live/roku2/playlist.m3u8
 
@@ -3227,6 +3233,12 @@ http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stre
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="RELIGION",Santuario de Fatima (Portugal)
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvclaret.com/upload/claretianocms/22/programa/68.png" group-title="RELIGION",Rede Seculo 21 (Brazil)
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frosat.net/images/logotv/original/SonLife-Broadcasting-Network.jpg" group-title="RELIGION",SBN (Brazil)
+http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg" group-title="RELIGION",Cancao Nova (Brazil)
 http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
