@@ -927,6 +927,9 @@ http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jacarei.sp.leg.br/wp-content/uploads/2015/04/btn-tv.gif" group-title="BRAZIL",TV Camara Jacarei
 http://wse.midiaserverbr.com:1935/jacarei/jacarei/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvcidadebrusque.com.br/wp-content/uploads/2016/04/tv-cidadeaeeeee-150x150.png" group-title="BRAZIL",TV Cidade (Brusque)
+http://179.107.83.10:1935/live/tvcidadeaovivo_1/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.coletiva.net/wp-content/uploads/2016/02/TV-Cidade-Pelotas_fev16-1200x674.jpg" group-title="BRAZIL",TV Cidade (Pelotas)
 http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
 
@@ -972,11 +975,17 @@ http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2a/TV_Urbana.png/400px-TV_Urbana.png" group-title="BRAZIL",TV Urbana
 http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gazetadevotorantim.com.br/arquivos/noticias/18734/14993ef29fbc95203538f7452e655bfe.jpg" group-title="BRAZIL",TV Vorantim
+http://198.20.107.218:1935/votorantim/votorantim/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/59/Logotipo_da_TVE_Bahia.PNG/400px-Logotipo_da_TVE_Bahia.PNG" group-title="BRAZIL",TVE Bahia
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="BRAZIL",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg" group-title="BRAZIL",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png" group-title="BRAZIL",TVT
 http://slrp.sambavideos.sambatech.com/liveevent/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream2/playlist.m3u8
