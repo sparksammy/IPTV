@@ -2736,7 +2736,7 @@ https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/09/ktv3.jpg" group-title="KUWAIT",KTV Sport
 http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_al_ethraa.jpg" group-title="KUWAIT",KTV Ethraa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/ktv_al_ethraa.jpg" group-title="KUWAIT",KTV Ethraa [Rel.]
 https://svs.itworkscdn.net/ktvethraalive/kethraa.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img63.jpg" group-title="KUWAIT",KTV Al Arabi
