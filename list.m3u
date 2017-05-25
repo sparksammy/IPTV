@@ -579,6 +579,9 @@ http://tv2danmark-tv2news-live.hls.adaptive.level3.net/tv2danmark/tv2news/master
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c5/TV_2_Nord.png" group-title="DENMARK",TV2 Nord
 http://tv2danmark-tv2nord-live.hls.adaptive.level3.net/tv2danmark/tv2nord/master3200kbps.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://omtv2.tv2.dk/fileadmin/_migrated/pics/TV-2-SPORT-logo-450x180.jpg" group-title="DENMARK",TV2 Sport
+http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://omtv2.tv2.dk/fileadmin/_processed_/csm_ZULU_02_RGB_a8c4b8df87.png" group-title="DENMARK",TV2 Zulu
 http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8
 
@@ -608,6 +611,21 @@ http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm9.staticflickr.com/8202/29849722645_76c3624f9b_z.jpg" group-title="NORWAY",Stortinget
 http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/fi.png" group-title="LABEL",[B][COLOR blue]~ Finland TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Finland.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/5HLJEvTYv.png" group-title="FINLAND",YLE TV 1
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yle.fi/vintti/yle.fi/tv2/sites/tv2.yle.fi/files/katsojapalaute-logo.gif" group-title="FINLAND",YLE TV 2
+http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sales.canaldigital.fi/Global/Finland/images/kanavat-logot/large/tv-kanava-yle-fem.png" group-title="FINLAND",YLE TV Fem
+http://yletvhdliveworld-lh.akamaihd.net/i/ylefemfihdworld_1@187589/index_2764_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.yle.fi/image/upload/h_160/yle-teema_vt.png" group-title="FINLAND",YLE TV Theema
+http://yletvhdliveworld-lh.akamaihd.net/i/yleteemahdworld_1@187591/index_2764_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/se.png" group-title="LABEL",[B][COLOR blue]~ Sweden TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Sweden.mp3
@@ -1946,6 +1964,12 @@ http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.userlogos.org/files/logos/spaljeni/tvnet.png" group-title="LATVIA",TV Net
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/estonia/flag-button-square-250.png" group-title="LABEL",[B][COLOR blue]~ Estonia TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Estonia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="ESTONIA",Tallinna TV
+http://egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cz.png" group-title="LABEL",[B][COLOR blue]~ Czech Republic TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/CzechRepublic.mp3
