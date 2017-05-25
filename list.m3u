@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://casinofreespins.eu/wp-content/uploads/sites/19/2013/08/Casino-free-spins.gif" group-title="LABEL",* Our Service is FREE *
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
+http://stream.srg-ssr.ch/m/rsj/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",+ Please Donate +
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
+http://sc9106.xpx.pl:9106/
 
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",< FLUXUS TV >
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 05/25/17 =
-https://archive.org/download/fluxustv/Fluxus_TV.mp4
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV <
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
@@ -3022,7 +3022,7 @@ http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.ilounge.com/images/uploads/music-app-icon.jpg" group-title="LABEL",[B][COLOR blue]~ MUSIC TV ~[/COLOR][/B]
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+http://37.97.160.125:9128
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Animation
 http://www.djing.com/tv/a-05.m3u8
@@ -3040,7 +3040,7 @@ http://www.djing.com/tv/u-05.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",[B][COLOR blue]~ USA Local News ~[/COLOR][/B]
-http://www.lengua.com/anthems/USA.mp3
+http://167.88.154.169/wnycfm-tunein
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ggbenitezpr.com/images/case_studies/mabels/wgn9-logo-bg.jpg" group-title="USA LOCAL",WGN News (Chicago)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_4500_av-p.m3u8
