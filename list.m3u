@@ -42,23 +42,14 @@ http://5.135.139.19:1935/server7/stream30.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p02lrp06.jpg" group-title="UK",BBC Four
 http://79.172.241.74:8081/hls/bbcfour.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p02lrp06.jpg" group-title="UK",BBC Four *
-http://86.166.86.159:9981/stream/channelid/931039562/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=bbc-news
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News *
 http://79.172.241.74:8081/hls/bbcnews.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News **
-http://86.166.86.159:9981/stream/channelid/73068048/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/12344.gif" group-title="UK",BBC Parliament
 http://5.135.139.19:1935/server7/stream34.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/12344.gif" group-title="UK",BBC Parliament *
-http://86.166.86.159:9981/stream/channelid/1713867818/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/BBC_Alba.svg/1280px-BBC_Alba.svg.png" group-title="UK",BBC Alba
 http://5.135.139.19:1935/server7/stream21.stream/playlist.m3u8?token=
