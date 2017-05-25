@@ -3196,7 +3196,7 @@ http://stream.livespotting.tv/windit-edge/vv88_720p.stream/playlist.m3u8
 http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.youthscape.co.uk/assets/open_me/img/interface/prayer-icon.png" group-title="LABEL",[B][COLOR yellow]~ Religion TV ~[/COLOR][/B]
-http://206.190.136.212:9407/Live
+http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jltv.tv/images/jltvLogoHor.png" group-title="RELIGION",Jewish Life TV (USA)
 http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
