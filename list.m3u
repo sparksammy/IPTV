@@ -129,49 +129,49 @@ http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR blue]~ USA TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/USA.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC [Off]
 http://208.86.19.123:8080/live/104.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS [Off]
 http://208.86.19.13:8080/live/101.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC [Off]
 http://208.86.19.123:8080/live/102.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1236.jpg" group-title="USA",PBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1236.jpg" group-title="USA",PBS [Off]
 http://208.86.19.13:8080/live/108.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/pePkOtd.jpg" group-title="USA",WWOR (My 9)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/pePkOtd.jpg" group-title="USA",WWOR (My 9) [Off]
 http://208.86.19.13:8080/live/105.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RIuoFeP.jpg" group-title="USA",PIX 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RIuoFeP.jpg" group-title="USA",PIX 11 [Off]
 http://208.86.19.13:8080/live/106.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/P4gM8FY.jpg" group-title="USA",WLIW 21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/P4gM8FY.jpg" group-title="USA",WLIW 21 [Off]
 http://208.86.19.13:8080/live/108.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/P4gM8FY.jpg" group-title="USA",WLIW 21 *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/P4gM8FY.jpg" group-title="USA",WLIW 21* [Off]
 http://208.86.19.123:8080/live/107.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1593.png" group-title="USA",TNT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1593.png" group-title="USA",TNT [Off]
 http://208.86.19.13:8080/live/16.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://stocklogos-pd.s3.amazonaws.com/tbstop.jpg" group-title="USA",TBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://stocklogos-pd.s3.amazonaws.com/tbstop.jpg" group-title="USA",TBS [Off]
 http://208.86.19.123:8080/live/201.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2737.jpg" group-title="USA",USA Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2737.jpg" group-title="USA",USA Network [Off]
 http://208.86.19.123:8080/live/11.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/n7u8y4s.jpg" group-title="USA",BBC America
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/n7u8y4s.jpg" group-title="USA",BBC America [Off]
 http://208.86.19.13:8080/live/34.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lJ3Oes3.jpg" group-title="USA",Ion Television
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lJ3Oes3.jpg" group-title="USA",Ion Television [Off]
 http://208.86.19.123:8080/live/109.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg" group-title="USA",Freeform
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg" group-title="USA",Freeform [Off]
 http://208.86.19.13:8080/live/27.stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/208.jpg" group-title="USA",Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/208.jpg" group-title="USA",Discovery [Off]
 http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
