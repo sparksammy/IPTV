@@ -3264,13 +3264,22 @@ http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="RELIGION",Catholic TV (USA)
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/b7b87e8c8abd4ac5b39e5cce15ced5de-hd.jpg" group-title="RELIGION",GOD TV (USA)
+http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-VPghX48O-hU/Ug_1A4i06VI/AAAAAAAAAto/SSkrT3mljh8/s1600/The+Dove+TV+%2526+Radio+Channel+Icon.jpg" group-title="RELIGION",The Dove (USA)
+http://s1.thedove.us:1935/theDoveTV/3theDoveTV.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/family_friendly_tv_usa.jpg" group-title="RELIGION",Family Friendly Entertainment (USA)
 http://54.225.64.228:1935/live/roku2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg" group-title="RELIGION",Amazing Facts TV (USA)
 http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="RELIGION",CBN News (USA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-Ej4WGyUiULY/AAAAAAAAAAI/AAAAAAAAAAA/18EVQ-ZWzXs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="RELIGION",CBN (USA)
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cbn.com/images8/cbn-news-channel-OG.jpg" group-title="RELIGION",CBN News (USA)
 http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/tbn-logo.png" group-title="RELIGION",TBN (USA)
