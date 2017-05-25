@@ -354,9 +354,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="http://icons.webpatashala.com/Icons/Flag-Borderless-Icons-Deleket-/Png/New-Zealand-01-icon57.PNG" group-title="LABEL",[B][COLOR blue]~ New Zealand TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/NewZealand.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ctv.co.nz/wp-content/uploads/2016/01/ctv_ondemand_logo_sm.png" group-title="NEW ZEALAND",CTV
-http://ooyalahd2-f.akamaihd.net/i/gonet01_delivery@329735/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Kfj2J1z.png" group-title="NEW ZEALAND",The Edge
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
 
