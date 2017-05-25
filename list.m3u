@@ -1152,7 +1152,7 @@ http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.levantetv.es/elementosWeb/version6_20100407/mediaweb/images/logoLevanteTv.jpg" group-title="SPAIN",Levante TV
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i63.tinypic.com/23tlf1g.png" group-title="SPAIN",Life TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2ptxhsh.png" group-title="SPAIN",Life TV
 http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14839.jpg" group-title="SPAIN",Mega
