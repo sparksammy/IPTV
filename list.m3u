@@ -624,7 +624,7 @@ http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sales.canaldigital.fi/Global/Finland/images/kanavat-logot/large/tv-kanava-yle-fem.png" group-title="FINLAND",YLE TV Fem
 http://yletvhdliveworld-lh.akamaihd.net/i/ylefemfihdworld_1@187589/index_2764_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.yle.fi/image/upload/h_160/yle-teema_vt.png" group-title="FINLAND",YLE TV Theema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.cdn.yle.fi/image/upload/h_160/yle-teema_vt.png" group-title="FINLAND",YLE TV Teema
 http://yletvhdliveworld-lh.akamaihd.net/i/yleteemahdworld_1@187591/index_2764_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/se.png" group-title="LABEL",[B][COLOR blue]~ Sweden TV ~[/COLOR][/B]
