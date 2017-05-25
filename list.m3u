@@ -2049,6 +2049,15 @@ http://94.246.169.19/ttv_hls/live_270p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="POLAND",Universal Channel
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/Universal_HD_1/11454/0/tv-ss/live.isml/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Hungary-01.png" group-title="LABEL",[B][COLOR blue]~ Hungary TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Hungary.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HUNGARY",Tisza TV
+http://www.tiszatv.hu:443/tiszatv.f4v
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="HUNGARY",1Music
+http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/420425531251646465/bwRV9NQZ_400x400.png" group-title="LABEL",[B][COLOR blue]~ Armenia TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Armenia.mp3
 
@@ -2882,9 +2891,6 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
 #EXTINF:-1 tvg-logo="http://assets.ilounge.com/images/uploads/music-app-icon.jpg" group-title="LABEL",[B][COLOR blue]~ MUSIC TV ~[/COLOR][/B]
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="MUSIC",1Music (HU)
-http://x1-music-channelx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Animation
 http://www.djing.com/tv/a-05.m3u8
