@@ -75,6 +75,9 @@ http://5.135.139.19:1935/server7/stream33.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.unichromecreative.co.uk/wp/wp-content/uploads/2015/12/ITV-Encore-logo.jpg" group-title="UK",ITV Encore
 http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/12/Arise-News.png" group-title="UK",Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/y540w4T.png" group-title="UK",AMC
 http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
 
