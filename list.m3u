@@ -30,17 +30,11 @@ http://79.172.241.74:8081/hls/bbcone.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/211.png" group-title="UK",BBC One Wales
 http://5.135.139.19:1935/server7/stream29.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/211.png" group-title="UK",BBC One West Midlands
-http://86.166.86.159:9981/stream/channelid/2004620013/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1680.png" group-title="UK",BBC Two
 http://5.135.139.19:1935/server7/stream20.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1680.png" group-title="UK",BBC Two *
 http://79.172.241.74:8081/hls/bbctwo.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1680.png" group-title="UK",BBC Two **
-http://86.166.86.159:9981/stream/channelid/580544153/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1680.png" group-title="UK",BBC Two Wales
 http://5.135.139.19:1935/server7/stream30.stream/playlist.m3u8?token=
