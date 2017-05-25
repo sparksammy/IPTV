@@ -2433,10 +2433,10 @@ http://146.185.61.140:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/malta/flag-button-square-250.png" group-title="LABEL",[B][COLOR blue]~ Malta TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Malta.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets.tvm.com.mt/mt/wp-content/themes/pbs/images/logo-tv-tvm.png" group-title="MALTA",TVM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets.tvm.com.mt/mt/wp-content/themes/pbs/images/logo-tv-tvm.png" group-title="MALTA",TVM [Off]
 http://bcliveuniv-lh.akamaihd.net/i/TVM1streamTV_1@326354/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets.tvm.com.mt/mt/wp-content/uploads/sites/1/2014/01/logo-tv-tvm2.png" group-title="MALTA",TVM 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://assets.tvm.com.mt/mt/wp-content/uploads/sites/1/2014/01/logo-tv-tvm2.png" group-title="MALTA",TVM 2 [Off]
 http://bcliveuniv-lh.akamaihd.net/i/TVMstream2TV_1@326354/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",[B][COLOR blue]~ Arabic News ~[/COLOR][/B]
