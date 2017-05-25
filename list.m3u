@@ -2940,8 +2940,14 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/9e/KREX-TV_2005.jpg" group-title="USA LOCAL",CBS 5 News (Colorado)
 http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" group-title="USA LOCAL",WVIT 30 News (Hartford)
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jacksonville.com/sites/default/files/styles/teaser__620x350/public/field/image/749636_web1_msms_CBS47.jpg" group-title="USA LOCAL",CBS 47 News (Jacksonville)
 http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.news4jax.com/theme/images/logo-wjxt_FULL_303x100.png" group-title="USA LOCAL",WJXT News 4 (Jacksonville)
+http://play-prod1.live.anvato.net/server/play/pns-wjxt-dfp/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Long Island)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
@@ -2949,11 +2955,17 @@ http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cbsla.files.wordpress.com/2016/04/streaminglivenow_kcal_700x350.jpg" group-title="USA LOCAL",KCAL 9 News (Los Angeles)
 http://play-prod1.live.anvato.net/server/play/cbslocal-kcal-dfp/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-kNz7wg-bE84/TxJOUCktelI/AAAAAAAAVBk/rs5Z_V89OCI/s1600/nbc4logo.jpg" group-title="USA LOCAL",KNBC 4 News (Los Angeles)
+http://knbclive-f.akamaihd.net/i/knbca1_1@13988/index_1286_av-p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/d/d8/KTBS_1996.jpg" group-title="USA LOCAL",ABC 3 News (Louisiana)
 http://ktbs-lh.akamaihd.net/i/KTBS_1069@111925/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.myfoxmemphiscom.cmgdigital.com/theme/images/placeholder-16x9.jpg" group-title="USA LOCAL",FOX 13 News (Memphis)
 http://cmghlslive-i.akamaihd.net/hls/live/224672/WHBQ/2564k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/19/Local_10_WPLG.jpg" group-title="USA LOCAL",WPLG 10 News (Miami)
+http://play-prod1.live.anvato.net/server/play/pns-wplg-dfp/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/WJMN-TV_2006_Logo.png/200px-WJMN-TV_2006_Logo.png" group-title="USA LOCAL",CBS 3 News (Michigan)
 http://wjmn-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
@@ -2976,6 +2988,9 @@ http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/N2mDQbE.jpg" group-title="USA LOCAL",NBC 4 News (New York)
 http://wnbclive-f.akamaihd.net/i/wnbca1_1@13992/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://forums.tvnewstalk.net/data/avatars/l/0/148.jpg" group-title="USA LOCAL",ABC News 9 (Orlando)
+http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C2hgdt4W8AEAJ3D.jpg" group-title="USA LOCAL",NBC 10 News (Philadelphia)
 http://wcaulive-f.akamaihd.net/i/wcaua1_1@13991/master.m3u8
 
@@ -2987,6 +3002,9 @@ http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bellmonawards.com/wp-content/uploads/2014/08/sponsor-fox.png" group-title="USA LOCAL",Fox 23 (Tulsa)
 http://cmghlslive-i.akamaihd.net/hls/live/224709/KOKI/904k/prog.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAa-AAAAJGEzZTg3ZGVlLTAzNmQtNDk4My1hNzMyLWM2Nzk0OTE0MGIxMg.png" group-title="USA LOCAL",WJFW Newswatch 12 (Wisconsin)
+http://cdn.bimvidlive.com/wjfw1/wjfw1/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" group-title="USA LOCAL",Seminole TV (Florida)
 http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
