@@ -1710,6 +1710,30 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/15/90/1856aec6ddbc5f9.jpg" group-title="LABEL",[B][COLOR blue]~ El Salvador TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/ElSalvador.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-El-Salvador.png" group-title="EL SALVADOR",Canal 2
+http://cdn2.miip.tv:8880/live/stalker/stalker/64.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-El-Salvador.png" group-title="EL SALVADOR",Canal 2*
+http://cdn2.miip.tv:8880/live/stalker/stalker/25.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-hBhUdQUtmms/Vt-EOhtIshI/AAAAAAAAKJM/b7LaQS3Ek0g/s1600/canal4elsalvador.jpg" group-title="EL SALVADOR",Canal 4
+http://cdn2.miip.tv:8880/live/stalker/stalker/29.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador.png" group-title="EL SALVADOR",Canal 6
+http://cdn2.miip.tv:8880/live/stalker/stalker/28.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://archivo.elsalvador.com/noticias/2004/11/17/escenarios/img/canal12.JPG" group-title="EL SALVADOR",Canal 12
+http://cdn2.miip.tv:8880/live/stalker/stalker/26.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador.png" group-title="EL SALVADOR",Canal 19
+http://cdn2.miip.tv:8880/live/stalker/stalker/31.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-21-El-Salvador.png" group-title="EL SALVADOR",Canal 21
+http://cdn2.miip.tv:8880/live/stalker/stalker/30.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VTV.png/245px-VTV.png" group-title="EL SALVADOR",Canal 35
+http://cdn2.miip.tv:8880/live/stalker/stalker/27.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Megavision Canal 21
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
