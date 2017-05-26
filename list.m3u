@@ -1590,6 +1590,27 @@ http://live-01.viewer.dacast.com/i/dclive_1@311302/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.lajornadanet.com/wp-content/uploads/2016/11/canal4.jpg" group-title="COSTA RICA",Canal 4*
 http://cdn2.miip.tv:8880/live/stalker/stalker/22.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-Costa-Rica.png" group-title="COSTA RICA",Canal 6
+http://cdn2.miip.tv:8880/live/stalker/stalker/20.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://si.cultura.cr/sites/default/files/styles/ficha_full/public/teletica_7_1.png" group-title="COSTA RICA",Canal 7
+http://cdn2.miip.tv:8880/live/stalker/stalker/19.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/canal_9-logo.jpg" group-title="COSTA RICA",Canal 9
+http://cdn2.miip.tv:8880/live/stalker/stalker/18.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-11-Costa-Rica.png" group-title="COSTA RICA",Canal 11
+http://cdn2.miip.tv:8880/live/stalker/stalker/24.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.en.cr/files/2011/10/13.png" group-title="COSTA RICA",Canal 13
+http://cdn2.miip.tv:8880/live/stalker/stalker/23.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://si.cultura.cr/sites/default/files/styles/ficha_full/public/canal36.jpg" group-title="COSTA RICA",Canal 36
+http://cdn2.miip.tv:8880/live/stalker/stalker/67.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.en.cr/files/2011/10/42.png" group-title="COSTA RICA",Canal 42
+http://cdn2.miip.tv:8880/live/stalker/stalker/21.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1458319748.png" group-title="COSTA RICA",Colosal TV
 http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
 
@@ -1625,6 +1646,9 @@ http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOMINICAN REP",Noticias 16
 http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="COSTA RICA",Musica TV
+http://cdn2.miip.tv:8880/live/stalker/stalker/17.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://senalestv.com/wp-content/uploads/2016/03/LOGO-SE%C3%B1ALES-01.png" group-title="DOMINICAN REP",Senales TV
 http://rctvhdstream.ddns.net:5050/rctv/senalestv.stream/playlist.m3u8
