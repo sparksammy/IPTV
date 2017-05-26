@@ -540,12 +540,6 @@ http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/mast
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://omtv2.tv2.dk/fileadmin/_processed_/csm_ZULU_02_RGB_a8c4b8df87.png" group-title="DENMARK",TV2 Zulu
 http://tv2danmark-tv2zulu-live.hls.adaptive.level3.net/tv2danmark/tv2zulu/master3200kbps.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/dreamlogos/images/a/aa/Kutonen_fi.png" group-title="DENMARK",Kanal 6 [Off]
-http://dnordichlslive04-i.akamaihd.net/hls/live/223840/6DKHD/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Canal_9_Denmark_2015.png" group-title="DENMARK",Kanal 9 [Off]
-http://dnordichlslive09-i.akamaihd.net/hls/live/223862/C9DKHD/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-bPiRzkkb1ks/AAAAAAAAAAI/AAAAAAAAAAA/hlb_vvmfzHo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="DENMARK",KKR TV
 http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist_w184691500_b1628000.m3u8
 
@@ -1023,7 +1017,7 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg" group-title="BRAZIL",Via Morena
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/11ch4sl.png" group-title="BRAZIL",Shoptime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/11ch4sl.png" group-title="BRAZIL",Shoptime [Off]
 http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/rounded-world-flags/andorra-flag-2.png" group-title="LABEL",[B][COLOR blue]~ Andorra TV ~[/COLOR][/B]
@@ -2076,9 +2070,6 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_channel_hd_1/10903/0/tv-ss/l
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sharejunior.c0.pl/ico/Disney_Junior_1.png" group-title="POLAND",Disney Junior
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_junior_1/10905/0/tv-ss/live.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sharejunior.c0.pl/ico/Disney_Junior_1.png" group-title="POLAND",Disney Junior*
-http://46.249.62.20:1824/play/a01s
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sharejunior.c0.pl/ico/Disney_XD_1.png" group-title="POLAND",Disney XD
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_xd_1/11384/0/tv-ss/live.isml/playlist.m3u8
 
@@ -2982,11 +2973,11 @@ http://122.202.129.136:1935/live/ch5/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",[B][COLOR blue]~ China TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/China.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lycatv.tv/lyca-cms/img/07102701CCTV4.png" group-title="CHINA",CCTV 4
+http://cdn2.miip.tv:8880/live/stalker/stalker/52.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LU9WYBf.jpg" group-title="CHINA",CCTV 13
 http://61.155.167.11/live/cctv13.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logonoid.com/images/cctv-logo.png" group-title="CHINA",CCTV
-http://cdn2.miip.tv:8880/live/stalker/stalker/52.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://z4u03a0h98qmyuk34iyrjwb-wpengine.netdna-ssl.com/wp-content/themes/cctv-america/img/CGTN-LOGO-GOLD.png" group-title="CHINA",CGTN (English)
 http://cdn2.miip.tv:8880/live/stalker/stalker/53.ts
@@ -3177,13 +3168,13 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="CCTV",Ft. Lauderdale Marina
 http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's - Key West (Duval Street Cam)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's - Key (Duval St. Cam)
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's - Key West (Stage Cam)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's (Stage Cam)
 http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's - Key West (Bar Cam)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's (Bar Cam)
 http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="CCTV",NYC Statue of Liberty
