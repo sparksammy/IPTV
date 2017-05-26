@@ -1107,9 +1107,6 @@ http://194.158.80.31:443/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sc01.alicdn.com/kf/HTB17w1pHXXXXXXrXXXX760XFXXXg.png" group-title="LABEL",[B][COLOR blue]~ Spain TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Spain.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-X1-eDHscNTU/VK0JclMSwGI/AAAAAAAAcVw/XQ82s7WUxg4/s1600/7hd.jpg" group-title="SPAIN",7 TV
-http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK.jpg" group-title="SPAIN",7 TV Murcia
 http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
 
