@@ -2079,6 +2079,9 @@ http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_channel_hd_1/10903/0/tv-ss/l
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sharejunior.c0.pl/ico/Disney_Junior_1.png" group-title="POLAND",Disney Junior
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_junior_1/10905/0/tv-ss/live.isml/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sharejunior.c0.pl/ico/Disney_Junior_1.png" group-title="POLAND",Disney Junior*
+http://46.249.62.20:1824/play/a01s
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sharejunior.c0.pl/ico/Disney_XD_1.png" group-title="POLAND",Disney XD
 http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_xd_1/11384/0/tv-ss/live.isml/playlist.m3u8
 
