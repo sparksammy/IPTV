@@ -1275,6 +1275,9 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://freebeacon.com/wp-content/uploads/2015/05/azteca.jpg" group-title="LATINO",Azteca (TS)
 http://cdn2.miip.tv:8880/live/stalker/stalker/3.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/KSTS_Logo.png" group-title="LATINO",Telemundo (TS)
+http://cdn2.miip.tv:8880/live/stalker/stalker/6.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vsQAgvN5JtQ/AAAAAAAAAAI/AAAAAAAAAAA/0Xb-yTUf-bc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Canal Claro
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
 
@@ -1703,6 +1706,9 @@ http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-v
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sol_tv_pe.png/500px-Sol_tv_pe.png" group-title="PERU",Sol TV
 http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.toplatino.net/wp-content/uploads/2011/06/logo_toplatino_horiz_300x131.jpg" group-title="PERU",Top Latino
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.laluztv.com/img/logo.png" group-title="PERU",TV La Luz
 http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
