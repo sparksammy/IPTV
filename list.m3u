@@ -1668,9 +1668,6 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u88
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/32lNdWp.png" group-title="PERU",Panamericana TV
 http://stream-07.vty.dailymotion.com/09/dm/1/x18w5up/live.isml/events(live-1491417782)/live-audio=128000-video=2100000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/32lNdWp.png" group-title="PERU",Panamericana TV*
-http://cdn2.miip.tv:8880/live/stalker/stalker/10.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.quatrotv.pe/images/logo_v.jpg" group-title="PERU",Quatro TV
 http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
 
@@ -1725,17 +1722,11 @@ http://cdn2.miip.tv:8880/live/stalker/stalker/28.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://archivo.elsalvador.com/noticias/2004/11/17/escenarios/img/canal12.JPG" group-title="EL SALVADOR",Canal 12
 http://cdn2.miip.tv:8880/live/stalker/stalker/26.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-19-El-Salvador.png" group-title="EL SALVADOR",Canal 19
-http://cdn2.miip.tv:8880/live/stalker/stalker/31.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-21-El-Salvador.png" group-title="EL SALVADOR",Canal 21
-http://cdn2.miip.tv:8880/live/stalker/stalker/30.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VTV.png/245px-VTV.png" group-title="EL SALVADOR",Canal 35
-http://cdn2.miip.tv:8880/live/stalker/stalker/27.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Megavision Canal 21
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Canal 21
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-21-El-Salvador.png" group-title="EL SALVADOR",Canal 21*
+http://cdn2.miip.tv:8880/live/stalker/stalker/30.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg" group-title="EL SALVADOR",TVO Canal 23
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
