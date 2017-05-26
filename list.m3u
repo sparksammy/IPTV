@@ -1080,6 +1080,9 @@ http://www.lengua.com/anthems/Spain.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-X1-eDHscNTU/VK0JclMSwGI/AAAAAAAAcVw/XQ82s7WUxg4/s1600/7hd.jpg" group-title="SPAIN",7 TV
 http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK.jpg" group-title="SPAIN",7 TV Murcia
+http://flash0.80670-live0.dna.qbrick.com:1935/80670-live0/murciatv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.focusmedia.es/wp-content/uploads/2014/10/8tv.jpg" group-title="SPAIN",8 TV
 http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1365534365.m3u8
 
@@ -1101,6 +1104,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="SPAIN",Antena 3 Intl.
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/aragon-tv-logo.png" group-title="SPAIN",Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="SPAIN",Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
@@ -1112,6 +1118,27 @@ http://edge10.verliga1.pw/live/verliga11/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/031a89fb932fc4501cfc67691ccb6f31.jpeg" group-title="SPAIN",Betis TV
 http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="SPAIN",Canal 11
+http://163.172.15.219:1935/live/vivatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalandaluciaturismo.es/siteadmin/uploads/logo.png" group-title="SPAIN",Canal Andalucia Turismo
+http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="SPAIN",Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-pc23_Nhkpm8/AAAAAAAAAAI/AAAAAAAAAAA/YCfrdxwBEVw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Canal Flamenco TV
+http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
+http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg" group-title="SPAIN",Castilla-La Mancha
+http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bonaresdigital.es/wp-content/uploads/2011/02/condavision1-1024x246.png" group-title="SPAIN",Condavision
 http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
@@ -1142,6 +1169,9 @@ http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" group-title="SPAIN",La 1 [NoKodi]
 http://edge7.telesport.pw/live/tve1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/La-regional-de-castilla-la-mancha-356x220.png" group-title="SPAIN",La Regional C-LM
+http://cast.streamingconnect.tv:1935/laregional/laregional/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg" group-title="SPAIN",La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
@@ -1175,6 +1205,9 @@ http://edge3.telesport.pw/live/nationalgeo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://20916-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/03/watch_Nat_Geo_Wild_online.jpg" group-title="SPAIN",NatGeo Wild [NoKodi]
 http://edge2.telesport.pw/live/nationalwild/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="SPAIN",Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
