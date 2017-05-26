@@ -21,9 +21,6 @@ http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drjasonjohnson.files.wordpress.com/2016/05/08-al-jazeera-e1336473401965.gif" group-title="WORLD NEWS",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drjasonjohnson.files.wordpress.com/2016/05/08-al-jazeera-e1336473401965.gif" group-title="WORLD NEWS",Al Jazeera*
-http://cdn2.miip.tv:8880/live/stalker/stalker/45.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="WORLD NEWS",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -44,9 +41,6 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isetnews.com/wp-content/plugins/mediabox/TvLogos/France24TV.jpg" group-title="WORLD NEWS",France 24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isetnews.com/wp-content/plugins/mediabox/TvLogos/France24TV.jpg" group-title="WORLD NEWS",France 24*
-http://cdn2.miip.tv:8880/live/stalker/stalker/51.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/80.jpg" group-title="WORLD NEWS",NHK World
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
@@ -105,15 +99,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News*
 http://cdn2.miip.tv:8880/live/stalker/stalker/46.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News**
-http://37.152.128.66:6535/play/a015
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News***
-http://37.152.128.66:6535/play/a00w
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/hUma1JP.jpg" group-title="UK",Sky News****
-http://37.152.128.66:6535/play/a00v
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png" group-title="UK",STV
 http://5.135.139.19:1935/server7/stream22.stream/playlist.m3u8?token=
 
@@ -122,24 +107,6 @@ http://5.135.139.19:1935/server7/stream33.stream/playlist.m3u8?token=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.unichromecreative.co.uk/wp/wp-content/uploads/2015/12/ITV-Encore-logo.jpg" group-title="UK",ITV Encore
 http://5.135.139.19:1935/server7/stream24.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cf/Pick2013.png" group-title="UK",Pick
-http://37.152.128.66:6535/play/a007
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/cf/Pick2013.png" group-title="UK",Pick (+1)
-http://37.152.128.66:6535/play/a00s
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.communitychannel.org/sites/communitychannel.org/themes/communitychannel/images/360-cc-logo.png" group-title="UK",Community Channel
-http://37.152.128.66:6535/play/a009
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="UK",CNBC Europe
-http://37.152.128.66:6532/play/a003
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn32.sptndigital.com/sites/asia.sony/files/sony-channel-asia_0.png" group-title="UK",Sony Channel
-http://37.152.128.66:6533/play/a00f
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.travelchannel.co.uk/img/logos/logo.svg" group-title="UK",Travel Channel
-http://37.152.128.66:6533/play/a00q
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/12/Arise-News.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -201,56 +168,8 @@ http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_inde
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Ideal_World_logo.png" group-title="UK",IdealWorld
 http://live.ccus.simplestreamcdn.com/live/isd_sdi3/bitrate1.isml/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/media/p/1/005/0b0/1e9/32762f8.png" group-title="UK",Tristar
-http://37.152.128.66:6533/play/a011
-
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",[B][COLOR blue]~ USA TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/USA.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC [Off]
-http://208.86.19.123:8080/live/104.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS [Off]
-http://208.86.19.13:8080/live/101.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC [Off]
-http://208.86.19.123:8080/live/102.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1236.jpg" group-title="USA",PBS [Off]
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/pePkOtd.jpg" group-title="USA",WWOR (My 9) [Off]
-http://208.86.19.13:8080/live/105.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RIuoFeP.jpg" group-title="USA",PIX 11 [Off]
-http://208.86.19.13:8080/live/106.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/P4gM8FY.jpg" group-title="USA",WLIW 21 [Off]
-http://208.86.19.13:8080/live/108.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/P4gM8FY.jpg" group-title="USA",WLIW 21* [Off]
-http://208.86.19.123:8080/live/107.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1593.png" group-title="USA",TNT [Off]
-http://208.86.19.13:8080/live/16.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://stocklogos-pd.s3.amazonaws.com/tbstop.jpg" group-title="USA",TBS [Off]
-http://208.86.19.123:8080/live/201.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2737.jpg" group-title="USA",USA Network [Off]
-http://208.86.19.123:8080/live/11.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/n7u8y4s.jpg" group-title="USA",BBC America [Off]
-http://208.86.19.13:8080/live/34.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/lJ3Oes3.jpg" group-title="USA",Ion Television [Off]
-http://208.86.19.123:8080/live/109.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/a49119067ab045158bf1d629bef29e66-hd.jpg" group-title="USA",Freeform [Off]
-http://208.86.19.13:8080/live/27.stream/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/208.jpg" group-title="USA",Discovery [Off]
-http://208.86.19.13:8080/live/31.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
@@ -312,7 +231,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV
 http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV*
 http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN
@@ -321,10 +240,10 @@ http://stream.i4atv.info/ggwpl/live2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf *[NoRoku]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf* [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf **[NoRoku]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf** [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/9095.png" group-title="USA",NFL Now
@@ -360,26 +279,8 @@ http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN*
 http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN**
-http://cdn2.miip.tv:8880/live/stalker/stalker/55.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/_TiusBLxs28U/TBY-y2gdThI/AAAAAAAACb8/xajsNXjstj0/s1600/hsn2.jpg" group-title="USA",HSN2
-http://cdn2.miip.tv:8880/live/stalker/stalker/49.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",QVC
 http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://conveyornetworks.co.uk/wp-content/uploads/2016/01/portfolio-client-logo-qvc-300x200.jpg" group-title="USA",QVC*
-http://cdn2.miip.tv:8880/live/stalker/stalker/50.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.scambook.com/filehandler/company_logo/128189/lt.5104e937e6a15eea65abccca9dec45e30f5f5fb20a885c01533e74a642ec0c6b.png" group-title="USA",AANTV
-http://cdn2.miip.tv:8880/live/stalker/stalker/47.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.giombettipr.com/wp-content/uploads/2016/08/EVINE_Live-260x185.png" group-title="USA",Envine
-http://cdn2.miip.tv:8880/live/stalker/stalker/43.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/jewelry_tv.png.300x300_q85.png" group-title="USA",Jewelery TV
-http://cdn2.miip.tv:8880/live/stalker/stalker/48.ts
 
 #EXTINF:-1 tvg-logo="https://desdelapelouse.files.wordpress.com/2012/06/canada.png" group-title="LABEL",[B][COLOR blue]~ Canada TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Canada.mp3
@@ -2436,9 +2337,6 @@ http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpg" group-title="INDIA",ABP News
 http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.weebly.com/uploads/1/0/6/7/10670567/1305273.jpg" group-title="INDIA",ABP News*
-http://37.152.128.66:6533/play/a018
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dansee.live/liveTV/wp-content/uploads/2016/12/channel-v.png" group-title="INDIA",Channel V
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Channel_V_hs.smil/chunklist.m3u8
 
@@ -2519,9 +2417,6 @@ http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epaper.pknewspapers.com/images/epapers/pakistan/geo-news-urdu.jpg" group-title="PAKISTAN",Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epaper.pknewspapers.com/images/epapers/pakistan/geo-news-urdu.jpg" group-title="PAKISTAN",Geo News*
-http://37.152.128.66:6533/play/a015
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveislife.info/wp-content/uploads/2015/12/Samaa-News-TV-Logo-Pakistan.png" group-title="PAKISTAN",Samaa
 http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/playlist.m3u8
@@ -2760,40 +2655,37 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="UAE",Al Arabiya*
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2016/04/01/db631092-83ba-4ee9-93a7-a83f017a93a9/db631092-83ba-4ee9-93a7-a83f017a93a9_16x9_788x442.jpg" group-title="UAE",Al Arabiya*
-http://37.152.128.66:6533/play/a017
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/29n9sg4.png" group-title="UAE",Al Dafrah TV
 http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV
 http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV*
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV **
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV**
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=dubai&t=ar
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One*
 http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One **
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One**
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" group-title="UAE",Dubai Zaman
 http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" group-title="UAE",Dubai Zaman *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3229653/logo_dubai%20zaman.png" group-title="UAE",Dubai Zaman*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" group-title="UAE",Dubai Sports
@@ -2802,7 +2694,7 @@ http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai
 http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg" group-title="UAE",Dubai Racing 1
@@ -2814,13 +2706,13 @@ http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV
 http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV*
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama
 http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama*
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
@@ -2829,7 +2721,7 @@ http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2016/04/quest-arabia.jpg" group-title="UAE",Quest
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2016/04/quest-arabia.jpg" group-title="UAE",Quest *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2016/04/quest-arabia.jpg" group-title="UAE",Quest*
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=quest_arabiya&t=ar
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://akamai.dittotv.vidz.zeecdn.com/secure/draco/Shows/Dittotv-new-logos/ZeeAflam300x248.jpg" group-title="UAE",Zee Aflam (Hindi)
