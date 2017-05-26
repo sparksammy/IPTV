@@ -1728,9 +1728,6 @@ http://www.lengua.com/anthems/Nicaragua.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canal2nicaragua.png" group-title="NICARAGUA",Canal 2
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canal2nicaragua.png" group-title="NICARAGUA",Canal 2*
-http://cdn2.miip.tv:8880/live/stalker/stalker/35.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/C/canal-4-nicaragua-logo-B52640A282-seeklogo.com.png" group-title="NICARAGUA",Canal 4
 http://cdn2.miip.tv:8880/live/stalker/stalker/34.ts
 
@@ -1745,6 +1742,9 @@ http://cdn2.miip.tv:8880/live/stalker/stalker/39.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal12.com.ni/assets/logo_default_150px_150px-7b9663fca253e855caf7b21ceda1e689c9467bffdb3faf4aa81ab269a368bc7a.png" group-title="NICARAGUA",Canal 12
 http://cdn2.miip.tv:8880/live/stalker/stalker/38.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal12.com.ni/assets/logo_default_150px_150px-7b9663fca253e855caf7b21ceda1e689c9467bffdb3faf4aa81ab269a368bc7a.png" group-title="NICARAGUA",Canal 12*
+http://cdn2.miip.tv:8880/live/stalker/stalker/35.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vivanicaragua.com.ni/contenido/archivos/2013/03/logo-viva-nicaragua.jpg" group-title="NICARAGUA",Canal 13
 http://cdn2.miip.tv:8880/live/stalker/stalker/37.ts
