@@ -1299,8 +1299,26 @@ http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://insiderlatam.com/wp-content/uploads/2016/04/Europa-Europa-1.jpg" group-title="ARGENTINA",Europa Europa
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-uU7tIibuSKk/WCyu-XBQi9I/AAAAAAAD57Y/BeyG2o_nK_w5OvQTiuT2nZjiHT4Ljgr0gCLcB/s1600/0edc353ff54f0fa2b88ffc4a45e0345e.png.jpg" group-title="ARGENTINA",ESPN
+http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/661.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtomotorsports.com/images/espn2logo.png" group-title="ARGENTINA",ESPN 2
+http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/685.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rtomotorsports.com/images/espn2logo.png" group-title="ARGENTINA",ESPN 2*
+http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/1602.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png" group-title="ARGENTINA",ESPN 3
+http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/1601.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="ARGENTINA",Fox Sports
 http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="ARGENTINA",Fox Sports*
+http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/387.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="ARGENTINA",Fox Sports 2
+http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/496.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -1313,6 +1331,12 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ARGENTINA",Radio One
 http://server5.stweb.tv/radioone/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.gif" group-title="ARGENTINA",Space
+http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/464.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.gif" group-title="ARGENTINA",Space*
+http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/1135.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mincyt.gob.ar/adjuntos/imagenes/000/021/0000021142.jpg" group-title="ARGENTINA",Tec TV
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
