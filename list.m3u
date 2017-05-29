@@ -132,7 +132,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1 [Off]
 http://81.7.13.162/hls/ss4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1108.jpg" group-title="UK",BT Sport 1
@@ -648,7 +648,7 @@ http://hls-m06.live-lv3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clai
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.novaguide.gr/files/1/Channels/euronews_new_logo_06_2016/EURONEWS-682x467.jpg" group-title="FRANCE",Euronews
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.france24.com/apple-touch-icon-144x144.png" group-title="FRANCE",France 24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.france24.com/apple-touch-icon-144x144.png" group-title="FRANCE",France 24 [Off]
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_1200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Logo_RMC_Découverte_2012.png" group-title="FRANCE",RMC Decouverte
@@ -1446,10 +1446,10 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MEXICO",Canal 44 (CH)
 http://canal44-lh.akamaihd.net/i/ch_canal44@325633/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/TV_10_Chiapas.png" group-title="MEXICO",Canal 10 (CP)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/TV_10_Chiapas.png" group-title="MEXICO",Canal 10 (CP) [Off]
 http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_3sp5q5of/sd/10000/t/xcFhHOHOWZElcfLGV6KV0w/index-s32.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-i1CqxKxOIxo/VOQWpvIKeDI/AAAAAAAAA7Y/73FsGhkuZ_8/s1600/rtg.jpg" group-title="MEXICO",RTG (GR)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-i1CqxKxOIxo/VOQWpvIKeDI/AAAAAAAAA7Y/73FsGhkuZ_8/s1600/rtg.jpg" group-title="MEXICO",RTG (GR) [Off]
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png" group-title="MEXICO",Banda Ancha TV (JA)
@@ -1524,7 +1524,7 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13
 http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.trrsf.com/image/fget/cf/600/600/ttv-sdp.terra.com/thumbox/freew/cnt68464_h0_aNoChange_1385750497000.jpg" group-title="CHILE",Teletrak TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://p1.trrsf.com/image/fget/cf/600/600/ttv-sdp.terra.com/thumbox/freew/cnt68464_h0_aNoChange_1385750497000.jpg" group-title="CHILE",Teletrak TV [Off]
 http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="CHILE",UESTV
@@ -1554,7 +1554,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/colombia/209-Canal-Tro[2].jpg" group-title="COLOMBIA",Canal Tro
 http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emrtallercreativo.com/img/medios/television/canal_uno.jpg" group-title="COLOMBIA",Canal Uno
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emrtallercreativo.com/img/medios/television/canal_uno.jpg" group-title="COLOMBIA",Canal Uno [Off]
 http://live10.cdnmedia.tv/rtvcCanalUNOlive/smil:live.smil/playlist_p1500000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-mlFvknLpfgE/VQy5lg2IcyI/AAAAAAAAAXc/w4LPztKxtKc/s320/CantinazoTV.jpg" group-title="COLOMBIA",Cantinazo TV
