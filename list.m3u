@@ -1326,9 +1326,6 @@ http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20E
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="ARGENTINA",Fox Sports*
 http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/387.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="ARGENTINA",Fox Sports 2
-http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/496.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
@@ -1343,6 +1340,9 @@ http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ARGENTINA",Radio One
 http://server5.stweb.tv/radioone/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/3/30/Sony_Entertainment_Television_LA.png/revision/latest?cb=20110926214723" group-title="ARGENTINA",Sony Entertainment
+http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/496.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.gif" group-title="ARGENTINA",Space
 http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/464.ts
