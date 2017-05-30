@@ -747,6 +747,9 @@ http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.novaguide.gr/files/1/Channels/euronews_new_logo_06_2016/EURONEWS-682x467.jpg" group-title="ITALY",Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.novaguide.gr/files/1/Channels/euronews_new_logo_06_2016/EURONEWS-682x467.jpg" group-title="ITALY",Euronews*
+http://37.152.128.66:7007/play/a00w
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/819159962291212288/Fk4VdIFM.jpg" group-title="ITALY",Fano TV
 http://live.streamcaster.net:1935/live/fanotv/livestream.m3u8
 
@@ -1170,11 +1173,23 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg" group-title="SPAIN",Castilla-La Mancha
 http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.classica.de/fileadmin/site/img/logo_classica.png" group-title="SPAIN",Classica
+http://93.158.220.149:5001/play/a01t
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bonaresdigital.es/wp-content/uploads/2011/02/condavision1-1024x246.png" group-title="SPAIN",Condavision
 http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/el-correo-de-andaluc-C3-ADa-tv-logo.png" group-title="SPAIN",Correo TV
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/07/comedy-central-logo-1.png" group-title="SPAIN",Comedy Central
+http://93.158.220.149:5001/play/a01y
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/07/comedy-central-logo-1.png" group-title="SPAIN",Comedy Central*
+http://93.158.220.149:5001/play/a02j
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif" group-title="SPAIN",Cosmo HD
+http://93.158.220.149:5001/play/a01k
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.federacionaspacecyl.org/wp-content/uploads/2016/08/cyltv-600x400.jpg" group-title="SPAIN",CYLTV
 http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
@@ -1187,6 +1202,12 @@ http://93.158.220.149:5001/play/a022
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/7/73/Disney_junior24hrchannellogo.jpg" group-title="SPAIN",Disney Junior*
 http://93.158.220.149:5001/play/a006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN",Divinity
+http://93.158.220.149:5001/play/a014
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/fee6ub.jpg" group-title="SPAIN",Energy
+http://93.158.220.149:5001/play/a019
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
@@ -1211,6 +1232,9 @@ http://93.158.220.149:5001/play/a01h
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="SPAIN",Fox Life**
 http://93.158.220.149:5001/play/a003
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="SPAIN",GOL
+http://93.158.220.149:5001/play/a01d
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-Historia/Canal-Historia_.jpg" group-title="SPAIN",Historia [NoKodi]
 http://edge8.telesport.pw/live/historia/index.m3u8
@@ -1238,6 +1262,9 @@ http://cast.streamingconnect.tv:1935/laregional/laregional/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg" group-title="SPAIN",La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.asaja.com/files/noticia/02032015095703_08012015082948_3.jpg" group-title="SPAIN",La Tienda en Casa
+http://93.158.220.149:5001/play/a017
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lancelot.tv/lancelot.jpg" group-title="SPAIN",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
@@ -1341,6 +1368,9 @@ http://93.158.220.149:5001/play/a004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/459282803549413376/JoWuNky2.jpeg" group-title="SPAIN",Onda Azul
 http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-charts.eu/img/paramounthd.jpg" group-title="SPAIN",Paramount Channel
+http://93.158.220.149:5001/play/a01n
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
@@ -1367,6 +1397,9 @@ http://edge4.telesport.pw/live/syfy/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.syfy.com/sites/syfy/themes/syfy/default.jpg" group-title="SPAIN",Syfy*
 http://93.158.220.149:5001/play/a00f
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/dr/teg/turner/release/sites/default/files/images/tcm-asia.png" group-title="SPAIN",TCM
+http://93.158.220.149:5001/play/a02i
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="SPAIN",Teledeporte
 http://93.158.220.149:5001/play/a02m
@@ -2496,6 +2529,9 @@ http://www.astratv.gr:8090/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logos/ktv-og.png" group-title="GREECE",Crete TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/732665354242150400/tZsCnjuh.jpg" group-title="GREECE",Euronews
+http://37.152.128.66:7007/play/a00x
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mad3vUlHRKk/mqdefault.jpg" group-title="GREECE",Ellinikos FM
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 
@@ -2883,6 +2919,9 @@ http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/JordanTV.png" group-title="JORDAN",Jordan TV
+http://37.152.128.66:7009/play/a00m
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/9_EQ_4WVSvk/maxresdefault_live.jpg" group-title="JORDAN",Roya TV
 http://cdns724ste1010.shooowit.net/royatvlive/smil:live.smil/gmswf.m3u8
 
@@ -2922,11 +2961,17 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" group-title="IRAQ",Al Sharqiya *
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/2/1/6/22169553/22169553,640x360,b:2.jpg" group-title="IRAQ",Iraqia News
+http://37.152.128.66:7009/play/a00l
+
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",[B][COLOR blue]~ KSA TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/SaudiArabia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" group-title="KSA",Saudi 1
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" group-title="KSA",Saudi 1*
+http://37.152.128.66:7009/play/a00g
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" group-title="KSA",Saudi 2 (English)
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
@@ -3081,6 +3126,9 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="QATAR",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qtv.qa/qtv/images/logo_top.png" group-title="QATAR",Qatar TV
+http://37.152.128.66:7009/play/a00f
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem
 http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
 
@@ -3149,6 +3197,9 @@ http://www.lengua.com/anthems/Oman.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV
 http://38.96.148.30:1935/live/omantv1//playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV*
+http://37.152.128.66:7009/play/a00j
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/oman_live.png" group-title="OMAN",Oman Mubasher
 http://38.96.148.30:1935/live/omantv3/playlist.m3u8
@@ -3951,6 +4002,9 @@ http://178.253.194.75:1935/live/hram.stream/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="RELIGION",Al Quran Al Karim (KSA) [Off]
 http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="RELIGION",Al Quran Al Karim* (KSA)
+http://37.152.128.66:7009/play/a00n
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="RELIGION",Al Sunnah Al Nabawiyah (KSA)
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
 
@@ -3959,6 +4013,9 @@ http://almajd.ashttp21.visionip.tv/live/almajd-almajd-almajd-islamic-science-hss
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iqraa.com/MediaStorage/images/news451.jpg" group-title="RELIGION",Iqraa (KSA)
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iqraa.com/MediaStorage/images/news451.jpg" group-title="RELIGION",Iqraa* (KSA)
+http://37.152.128.66:7009/play/a00h
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ariase.com/media/television/logo-132x99/iqraa-international.jpg" group-title="RELIGION",Iqraa Int'l (KSA)
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_america
@@ -3992,6 +4049,9 @@ http://tayba.live.net.sa:1935/tayba/taybatv/chunklist_w1376954935.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg" group-title="RELIGION",Tayba TV* (Sudan)
 http://199.167.151.237:1935/live/sp15_17.stream/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/08/Tayba-TV-Sudan-live.jpg" group-title="RELIGION",Tayba TV** (Sudan)
+http://37.152.128.66:7009/play/a00q
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.duzicimuftulugu.gov.tr/resimler/bag/1cf553078842fce52c1d2edebaa51f69.jpg" group-title="RELIGION",TRT Diyanet (Turkey)
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
