@@ -3279,6 +3279,12 @@ http://www.lengua.com/anthems/Morocco.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
 http://95.81.155.40/5958/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://online.sccnn.com/icon/1093/195.png" group-title="LABEL",[B][COLOR blue]~ Sudan TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/Sudan.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://up.graaam.com/uploads/images/graaam-1431bf19d24.jpg" group-title="SUDAN",Al Sudan
+http://37.152.128.66:7009/play/a00i
+
 #EXTINF:-1 tvg-logo="http://amharic.co.il/images/ethiopia.png" group-title="LABEL",[B][COLOR blue]~ Ethiopia TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Ethiopia.mp3
 
