@@ -1083,9 +1083,6 @@ http://edge7.telesport.pw/live/amc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/y540w4T.png" group-title="SPAIN",AMC*
 http://93.158.220.149:5001/play/a02o
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/y540w4T.png" group-title="SPAIN",AMC**
-http://93.158.220.149:5001/play/a037
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2015/02/andalucia_television.jpg" group-title="SPAIN",Andalucia TV
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 
@@ -1093,9 +1090,6 @@ http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevi
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TP2hB6Ts-Dw/hqdefault.jpg" group-title="SPAIN",Antena 3*
-http://93.158.220.149:5001/play/a038
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TP2hB6Ts-Dw/hqdefault.jpg" group-title="SPAIN",Antena 3**
 http://93.158.220.149:5001/play/a01u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="SPAIN",Antena 3 Intl.
@@ -1137,9 +1131,6 @@ http://93.158.220.149:5001/play/a01a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.beinsports.com/2.6.61/images/logo-header__en.png" group-title="SPAIN",beIN Sports [NoKodi]
 http://edge10.verliga1.pw/live/verliga11/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.audiovisual451.com/wp-content/uploads/beIN-Sports-LaLiga.jpg" group-title="SPAIN",beIN La Liga
-http://93.158.220.149:5001/play/a00n
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.beinsports.com/2.6.61/images/logo-header__en.png" group-title="SPAIN",beIN Sports*
 http://93.158.220.149:5001/play/a01g
 
@@ -1171,9 +1162,6 @@ http://93.158.220.149:5001/play/a01r
 http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="SPAIN", Canal Viajar
-http://93.158.220.149:5001/play/a00g
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Canalviajar.png" group-title="SPAIN", Canal Viajar*
 http://93.158.220.149:5001/play/a02k
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/c/cd/Televisión_Canaria_SAT_logo_2008.png" group-title="SPAIN",Canaria SAT
@@ -1187,12 +1175,6 @@ http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/el-correo-de-andaluc-C3-ADa-tv-logo.png" group-title="SPAIN",Correo TV
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediaset.es/mediasetcom/brand-download/png/cuatro_logo_500.png" group-title="SPAIN",Cuatro
-http://93.158.220.149:5001/play/a039
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediaset.es/mediasetcom/brand-download/png/cuatro_logo_500.png" group-title="SPAIN",Cuatro*
-http://93.158.220.149:5001/play/a02z
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.federacionaspacecyl.org/wp-content/uploads/2016/08/cyltv-600x400.jpg" group-title="SPAIN",CYLTV
 http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
@@ -1221,12 +1203,6 @@ http://93.158.220.149:5001/play/a01w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1837.png" group-title="SPAIN",Fox [NoKodi]
 http://edge2.telesport.pw/live/fox/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1837.png" group-title="SPAIN",Fox*
-http://93.158.220.149:5001/play/a00a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1837.png" group-title="SPAIN",Fox**
-http://93.158.220.149:5001/play/a026
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="SPAIN",Fox Life [NoKodi]
 http://edge7.telesport.pw/live/foxlife/index.m3u8
 
@@ -1235,9 +1211,6 @@ http://93.158.220.149:5001/play/a01h
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="SPAIN",Fox Life**
 http://93.158.220.149:5001/play/a003
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="SPAIN",Fox Life***
-http://93.158.220.149:5001/play/a01z
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-Historia/Canal-Historia_.jpg" group-title="SPAIN",Historia [NoKodi]
 http://edge8.telesport.pw/live/historia/index.m3u8
@@ -1257,12 +1230,6 @@ http://edge7.telesport.pw/live/tve1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" group-title="SPAIN",La 1*
 http://93.158.220.149:5001/play/a00t
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVE_La1_logo_since_2008.png" group-title="SPAIN",La 1**
-http://93.158.220.149:5001/play/a02u
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="SPAIN",La 2
-http://93.158.220.149:5001/play/a02w
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.laliga.es/seccion_logos/laliga-v-negativo-16-9.jpg" group-title="SPAIN",La Liga TV
 http://93.158.220.149:5001/play/a00r
 
@@ -1271,12 +1238,6 @@ http://cast.streamingconnect.tv:1935/laregional/laregional/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg" group-title="SPAIN",La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg" group-title="SPAIN",La Sexta*
-http://93.158.220.149:5001/play/a03b
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2016/04/laSexta_NuevoLogo-325x289.jpg" group-title="SPAIN",La Sexta**
-http://93.158.220.149:5001/play/a02t
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lancelot.tv/lancelot.jpg" group-title="SPAIN",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
@@ -1332,14 +1293,8 @@ http://93.158.220.149:5001/play/a00h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vootar.com/imgs/elementos/_Movistar%20F1.jpg" group-title="SPAIN",Movistar Formula 1
 http://93.158.220.149:5001/play/a01e
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vootar.com/imgs/elementos/_Movistar%20F1.jpg" group-title="SPAIN",Movistar Formula 1*
-http://93.158.220.149:5001/play/a035
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/ef/MovistarGolf.png" group-title="SPAIN",Movistar Golf
 http://93.158.220.149:5001/play/a01j
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/estaticos/images/canales/png/movistarmotogp.png" group-title="SPAIN",Movistar MotoGP
-http://93.158.220.149:5001/play/a036
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/MovistarSeriesXtra.png" group-title="SPAIN",Movistar Series Xtra
 http://93.158.220.149:5001/play/a01i
@@ -1353,9 +1308,6 @@ http://edge3.telesport.pw/live/plus1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f2/MovistarXtra.png" group-title="SPAIN",Movistar Xtra
 http://93.158.220.149:5001/play/a00j
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f2/MovistarXtra.png" group-title="SPAIN",Movistar Xtra*
-http://93.158.220.149:5001/play/a02y
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rikstv.no/globalassets/upload/logo/tv-kanaler/mtv_hvit.png" group-title="SPAIN",MTV [NoKodi]
 http://edge7.telesport.pw/live/mtv/index.m3u8
 
@@ -1367,9 +1319,6 @@ http://edge3.telesport.pw/live/nationalgeo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://20916-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/03/watch_Nat_Geo_Wild_online.jpg" group-title="SPAIN",NatGeo Wild [NoKodi]
 http://edge2.telesport.pw/live/nationalwild/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://20916-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/03/watch_Nat_Geo_Wild_online.jpg" group-title="SPAIN",NatGeo Wild*
-http://93.158.220.149:5001/play/a031
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sergioalvarezweb.hol.es/img/navarratv.png" group-title="SPAIN",Navarra TV
 http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
@@ -1425,20 +1374,11 @@ http://93.158.220.149:5001/play/a02m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="SPAIN",Teledeporte*
 http://93.158.220.149:5001/play/a00r
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediaset.es/mediasetcom/brand-download/png/telecinco_circular_500.png" group-title="SPAIN",Telecinco
-http://93.158.220.149:5001/play/a03a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediaset.es/mediasetcom/brand-download/png/telecinco_circular_500.png" group-title="SPAIN",Telecinco*
-http://93.158.220.149:5001/play/a02x
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s03.s3c.es/imag/_v0/640x300/8/1/f/telemadridrecursonuevo.jpg" group-title="SPAIN",Telemadrid
 http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live/stream1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="SPAIN",TNT [NoKodi]
 http://edge1.telesport.pw/live/tnt/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="SPAIN",TNT*
-http://93.158.220.149:5001/play/a030
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/galaciatv.png" group-title="SPAIN",TVG Europa [Off]
 http://media3.crtvg.es/live/tvge/playlist.m3u8
