@@ -1284,9 +1284,6 @@ http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.quomusica.com/wp-content/uploads/2015/02/CanaldelaCiudad-TV-Logo.jpg" group-title="ARGENTINA",Canal de la Ciudad
 http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canalorbe21.png" group-title="ARGENTINA",Canal Orbe 21
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
@@ -1304,6 +1301,9 @@ http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20E
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canalorbe21.png" group-title="ARGENTINA",Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/programs/ar_chronochicos-s00e01_l_m.jpg" group-title="ARGENTINA",Pakapaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
@@ -3173,6 +3173,9 @@ http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/WBZ-TV_logo.png" group-title="USA LOCAL",CBS 4 News (Boston)
 http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890454.1464300091!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Brooklyn)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
