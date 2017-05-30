@@ -2961,7 +2961,7 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" group-title="IRAQ",Al Sharqiya *
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/2/1/6/22169553/22169553,640x360,b:2.jpg" group-title="IRAQ",Iraqia News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/1zg9ouf.jpg" group-title="IRAQ",Iraqia News
 http://37.152.128.66:7009/play/a00l
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",[B][COLOR blue]~ KSA TV ~[/COLOR][/B]
