@@ -1308,9 +1308,6 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/programs/ar_chronochicos-s00e01_l_m.jpg" group-title="ARGENTINA",Pakapaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/programs/ar_chronochicos-s00e01_l_m.jpg" group-title="ARGENTINA",Pakapaka
-http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/886.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="ARGENTINA",Power HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
@@ -1322,9 +1319,6 @@ http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="ARGENTINA",TelpinTV Canal 2
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="ARGENTINA",TelpinTV Canal 2*
-http://158.69.226.108:8000/live/FernandoIuorno/5VApbmL2UI/1194.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
@@ -3090,6 +3084,18 @@ http://cdn2.miip.tv:8880/live/stalker/stalker/53.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="CHINA",SinoVision (US)
 http://ec.sinovision.net/video/ts/lv.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/512/154-Hong-kong.png" group-title="LABEL",[B][COLOR blue]~ Hong Kong TV ~[/COLOR][/B]
+http://www.lengua.com/anthems/HongKong.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HONG KONG",RTHK 32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/88/ViuTV_logo.svg.png" group-title="HONG KONG",VIU TV
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Singapore-01.png" group-title="LABEL",[B][COLOR blue]~ Singapore TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Singapore.mp3
 
@@ -3695,6 +3701,9 @@ http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/30k67lu.jpg" group-title="RELIGION",Al Hayat 2 (Egypt)
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alhorreya.org/wp-content/uploads/2016/04/logo-3.png" group-title="RELIGION",Al Horreya (US)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="RELIGION",Soyuz (Russia)
 http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
