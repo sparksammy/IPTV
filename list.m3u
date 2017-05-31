@@ -675,6 +675,9 @@ http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/se/OEPPNA.png" group-title="SWEDEN",Oppna Kanalen
 http://83.140.64.214/edge/_451iw2h_/451iw2h/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://hyfytv.com/wp-content/uploads/2016/05/Suryoyo-Sat-TV-Live-Stream.png" group-title="SWEDEN",Suryoyo Sat (Syriac)
+http://185.53.161.149:8888/play/a00o
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/426711113166618624/C17iFx66_400x400.jpeg" group-title="SWEDEN",Vastmanlands TV
 http://83.140.64.214/edge/_93pr0kxj_/93pr0kxj/chunklist_w404315212.m3u8
 
