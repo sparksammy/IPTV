@@ -429,6 +429,9 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.earthtvnet.com/wp-content/uploads/2013/07/earthTV-Logo-white-white-on-blue.svg" group-title="GERMANY",earthTV
 http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Eurosport_360_Logo_2015.png" group-title="GERMANY",Eurosport 360
+http://93.158.220.133:5000/play/a034
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://seeklogo.com/images/E/Euronews-logo-1584DEBA3C-seeklogo.com.gif" group-title="GERMANY",Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 
@@ -1390,6 +1393,9 @@ http://edge8.telesport.pw/live/historia/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tecavicas.es/wp-content/uploads/2013/03/252733_10150276146069953_636747289_a.jpg" group-title="SPAIN",Hollywood
+http://93.158.220.133:5000/play/a026
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/1medium.jpg" group-title="SPAIN",Iberalia TV
 http://93.158.220.149:5001/play/a005
 
@@ -1486,6 +1492,9 @@ http://93.158.220.149:5001/play/a02l
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/vh5k1muMVbg/maxresdefault.jpg" group-title="SPAIN",Movistar Sports [NoKodi]
 http://edge3.telesport.pw/live/plus1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://socassat.com/wp-content/uploads/2015/06/Movistar-_Avatar_Plano_RGB1-300x300.png" group-title="SPAIN",Movistar Multieventos
+http://93.158.220.133:5000/play/a03w
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/f/f2/MovistarXtra.png" group-title="SPAIN",Movistar Xtra
 http://93.158.220.149:5001/play/a00j
 
@@ -1509,6 +1518,9 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://srv00.epimg.net/m/programacion-tv/iconos/canales/neox.png" group-title="SPAIN",Neox*
 http://93.158.220.149:5001/play/a01q
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/wiggles/images/9/9a/Nick_jr_words.png" group-title="SPAIN",Nick Jr.
+http://93.158.220.133:5000/play/a03y
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="SPAIN",Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
@@ -1542,6 +1554,9 @@ http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/sfc_tv.jpg" group-title="SPAIN",Sevilla FC TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="SPAIN",Sundance TV
+http://93.158.220.133:5000/play/a046
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2016_11/large.582cb27562d2d_Superee.png.762649faffad1d0df1ebf4fccedb7e66.png" group-title="SPAIN",SupereNe
 http://streann-i.akamaihd.net/hls/live/225396/STREANN-AkamaiSuperene/WVTSUPERENE/playlist.m3u8
