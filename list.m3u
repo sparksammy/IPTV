@@ -2241,6 +2241,36 @@ http://app.live.112.events/hls/112hd_mid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.start.crimea.ua/news/images/201410081430410.atr_n_b.jpg" group-title="UKRAINE",ATR (Crimea)
 http://stream.atr.ua/atr/live/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ukrainetvradio.com/wp-content/uploads/2015/02/Watch-Chernomorskaya-TV-Live-TV-from-Ukraine.jpg" group-title="UKRAINE",Black Sea TV
+http://37.152.128.66:6509/play/a00d
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.interntv.ru/modules/Main/image_1/enter_film.jpg" group-title="UKRAINE",Enter Film
+http://37.152.128.66:6509/play/a00l
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://savepic.ru/11839768.png" group-title="UKRAINE",Gorizont TV
+http://37.152.128.66:6509/play/a00f
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://inter.ua/uploads/news_oneday/2013/02/21/4b31651e07e70da9597c51e052a6457ad26f4083.jpg" group-title="UKRAINE",Inter
+http://37.152.128.66:6509/play/a00c
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/k1_ukraine.jpg" group-title="UKRAINE",K1
+http://37.152.128.66:6509/play/a00h
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://inter.ua/uploads/partners/4eb2317079f73aefadbb238588f469e6d72898f9.gif" group-title="UKRAINE",K2
+http://37.152.128.66:6509/play/a00i
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://megashopmebel.ru/wp-content/uploads/2015/09/mega.png" group-title="UKRAINE",Mega
+http://37.152.128.66:6509/play/a00g
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://inter.ua/uploads/news/2007/10/05/2251_3.jpg" group-title="UKRAINE",NTN
+http://37.152.128.66:6509/play/a00e
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/uk/b/b2/Pixel_logo.png" group-title="UKRAINE",Pixel
+http://37.152.128.66:6509/play/a00k
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Zoom_%28TV_channel%2C_Ukraine%29.jpg" group-title="UKRAINE",Zoom
+http://37.152.128.66:6509/play/a00j
+
 #EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/256/108-Moldova.png" group-title="LABEL",~ Moldova TV ~
 http://www.lengua.com/anthems/Moldova.mp3
 
