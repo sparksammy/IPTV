@@ -420,6 +420,9 @@ http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.earthtvnet.com/wp-content/uploads/2013/07/earthTV-Logo-white-white-on-blue.svg" group-title="GERMANY",earthTV
+http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://seeklogo.com/images/E/Euronews-logo-1584DEBA3C-seeklogo.com.gif" group-title="GERMANY",Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
 
@@ -2816,6 +2819,24 @@ http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lycatv.tv/lyca-cms/img/07102524star%20vijay.png" group-title="INDIA",Vijay
 http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Vijay_hs.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ctvn.co.in/admin/logoRepose/ctvn_Logo_9818113_20140925150926.jpeg" group-title="INDIA",CTVN AKD Plus
+http://vm3.cdbyte.in:1935/ivb7/ctvn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uttarbangla.com/Images/CompanyLogo.jpg" group-title="INDIA",Uttar Bangla
+http://vm3.gloriatech.in:1935/ivb7/uttarbangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://music.mhone.in/wp-content/themes/discussionwp/assets/img/logo-sticky.png" group-title="INDIA",MH One Music
+http://mh1musiccloud.purplestream.in/mhonemusic/mhonemusic3-live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pratidintime.com/images/logo.png" group-title="INDIA",Pratidin Time
+http://pratidintimestream.in:1935/unevent/timetv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rengonitv.com/admin/pdf/RENGONI%20white%20logo%20small.png" group-title="INDIA",Rengoni
+http://rengonicloud.purplestream.in/rengoniorg/ngrp:rengoni_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="INDIA",9XM
+http://ind19-lh.akamaihd.net/i/ind19_9xm@440010/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.pakistantv.tv/wp-content/uploads/2014/10/Pakistan-icon1.png" group-title="LABEL",[B][COLOR blue]~ Pakistan TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Pakistan.mp3
