@@ -585,27 +585,6 @@ http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/dk.png" group-title="LABEL",~ Denmark TV ~
 http://www.lengua.com/anthems/Denmark.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Canal_9_Denmark_2015.png" group-title="DENMARK",Canal 9
-http://82.137.27.223:2002/play/a009
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh5.googleusercontent.com/-yKUmYkYfE7s/Ugqtfc_By3I/AAAAAAAABRM/yX82abDg_Wc/dr1_logo.png" group-title="DENMARK",DR1
-http://82.137.27.223:2002/play/a002
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/dk/DR2.png" group-title="DENMARK",DR2
-http://82.137.27.223:2002/play/a003
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/f/fb/TV8_logo_2007.png" group-title="DENMARK",TV8
-http://82.137.27.223:2002/play/a004
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.eu-central-1.amazonaws.com/pressify-media/58340144071b250d00fcb13a_small_TV3_puls_logo.png" group-title="DENMARK",TV3 Puls
-http://82.137.27.223:2002/play/a006
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/MTV_Denmark.jpg" group-title="DENMARK",MTV Denmark
-http://82.137.27.223:2002/play/a007
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Viasat_Explore.png" group-title="DENMARK",Viasat Explore
-http://82.137.27.223:2002/play/a005
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ft.dk/images/sharing_folketinget_logo.png" group-title="DENMARK",TV Folketinget
 http://httpcache1.dna.qbrick.com/90042-httpcache2/smil:FT_stream_high/playlist.m3u8
 
