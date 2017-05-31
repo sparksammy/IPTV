@@ -117,7 +117,7 @@ http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1116_2.jpg" group-title="UK",Spike
 http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.fansided.com/wp-content/blogs.dir/229/files/2016/03/TRU.jpg" group-title="UK",tru TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.fansided.com/wp-content/blogs.dir/229/files/2016/03/TRU.jpg" group-title="UK",truTV
 http://212.231.80.4:3000/play/009
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/True_Entertainment_logo.png" group-title="UK",True Entertainment
