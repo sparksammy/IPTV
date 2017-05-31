@@ -3619,8 +3619,11 @@ http://185.53.161.149:8888/play/a00a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MOROCCO",Tamazight TV
 http://37.152.128.66:7012/play/a01m
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MOROCCO",Tamazight TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MOROCCO",Tamazight TV*
 http://185.53.161.149:8888/play/a00l
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MOROCCO",Tamazight TV**
+http://185.53.161.149:8888/play/a00d
 
 #EXTINF:-1 tvg-logo="http://online.sccnn.com/icon/1093/195.png" group-title="LABEL",~ Sudan TV ~
 http://www.lengua.com/anthems/Sudan.mp3
