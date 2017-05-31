@@ -4333,6 +4333,18 @@ http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b598000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://acafaith.com/website-images/elshaddai.png" group-title="RELIGION",ETN Elshaddai (Ethiopia)
 http://ipointcablertmp.tulix.tv/elshaddai/elshaddai/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alhorreya.org/wp-content/uploads/2016/04/logo-3.png" group-title="RELIGION",Al Horreya (US)
+http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="RELIGION",Soyuz (Russia)
+http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.rtv.rs/slike/2015/12/16/tv-hram_660x330.jpg" group-title="RELIGION",Hram TV (Serbia)
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thematv.com/images/channels/noursat.png" group-title="RELIGION",Tele Lumiere (Lebanon)
+http://185.53.161.149:8888/play/a00f
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ted.adventist.org/sites/default/files/FINAL_LOGO_NO_ENGLISH_s.jpg" group-title="RELIGION",Al Waad (Lebanon)
 http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
 
@@ -4342,14 +4354,16 @@ http://185.53.161.149:8888/play/a015
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/30k67lu.jpg" group-title="RELIGION",Al Hayat 2 (Egypt)
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alhorreya.org/wp-content/uploads/2016/04/logo-3.png" group-title="RELIGION",Al Horreya (US)
-http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-3JAcQA7D5YY/UZnQ6ZFkc_I/AAAAAAAAAR8/Rq84Rg1rwL8/s320/185007_272231836220249_1896566426_n.jpg" group-title="RELIGION",Al Fady (USA)
+http://185.53.161.149:8888/play/a00i
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="RELIGION",Soyuz (Russia)
-http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-yGH6llWlQ3c/UaDUwx1sAUI/AAAAAAAAATQ/wx4IKe4cEjk/s320/AlkarmaTVLogo.jpg" group-title="RELIGION",Al Karma TV (USA)
+http://185.53.161.149:8888/play/a00s
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.rtv.rs/slike/2015/12/16/tv-hram_660x330.jpg" group-title="RELIGION",Hram TV (Serbia)
-http://178.253.194.75:1935/live/hram.stream/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2012/12/Al-Malakoot-TV.jpg" group-title="RELIGION",Al Malakoot TV (Egypt)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" group-title="RELIGION",CTV (Egypt)
+http://185.53.161.149:8888/play/a023
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="RELIGION",Al Quran Al Karim (KSA) [Off]
 http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
@@ -4410,3 +4424,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/amozhgary.png" group-title="RELIGION",Amozhgary TV (Kurdistan) [Off]
 http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cantemo.com/casestudies/mta-international/mta-logo-small.png" group-title="RELIGION",MTA Intl.(UK)
+http://185.53.161.149:8888/play/a00x
