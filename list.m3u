@@ -9,7 +9,7 @@ http://sc9106.xpx.pl:9106/
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",< FLUXUS TV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 05/30/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 05/31/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -81,7 +81,7 @@ http://5.135.139.19:1935/server7/stream30.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p02lrp06.jpg" group-title="UK",BBC Four
 http://79.172.241.74:8081/hls/bbcfour.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News [Geo]
 http://www.osltv.com/sniffs-s/python/fi.m3u8?channel_name=bbc-news
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5998.png" group-title="UK",BBC News *
@@ -2958,7 +2958,7 @@ http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nabiltv.com/wp-content/uploads/2016/07/image-1.png" group-title="ARABIC NEWS",Russia Today
 http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.keia.org/sites/default/files/media_sky_news_arabia.jpg" group-title="ARABIC NEWS",Sky News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.keia.org/sites/default/files/media_sky_news_arabia.jpg" group-title="ARABIC NEWS",Sky News [Geo]
 http://selevision9890-i.akamaihd.net/hls/live/219323/98906/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" group-title="ARABIC NEWS",TRT
@@ -3102,7 +3102,7 @@ http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV *
 http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="KSA",Rotana Aflam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rorana-Aflam-logo.png" group-title="KSA",Rotana Aflam [Geo]
 http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.desifree.tv/wp-content/uploads/rotana-cinema.jpg" group-title="KSA",Rotana Cinema
@@ -3148,7 +3148,7 @@ http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV
-http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8
+http://selevision9876-i.akamaihd.net/hls/live/219113/98765/1.m3u8 [Geo]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV*
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
@@ -3192,13 +3192,13 @@ http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg" group-title="UAE",Dubai Racing 2
 http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV [Geo]
 http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uaeinteract.com/news/article_pics/uae-67398.jpg" group-title="UAE",Abu Dhabi TV*
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama [Geo]
 http://selevision9876-i.akamaihd.net/hls/live/219115/98767/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama*
@@ -3207,7 +3207,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2016/04/quest-arabia.jpg" group-title="UAE",Quest
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2016/04/quest-arabia.jpg" group-title="UAE",Quest [Geo]
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2016/04/quest-arabia.jpg" group-title="UAE",Quest*
@@ -3384,7 +3384,7 @@ http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq
 http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.livetvhd.net/thumbs/al_masriya.jpg" group-title="EGYPT",ERTU 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.livetvhd.net/thumbs/al_masriya.jpg" group-title="EGYPT",ERTU 1 [Geo]
 http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
@@ -3534,7 +3534,7 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 #EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/512/154-Hong-kong.png" group-title="LABEL",~ Hong Kong TV ~
 http://www.lengua.com/anthems/HongKong.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31 [Geo]
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HONG KONG",RTHK 32
