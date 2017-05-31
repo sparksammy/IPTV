@@ -1185,10 +1185,7 @@ http://93.158.220.149:5001/play/a016
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="SPAIN",Barca TV
 http://93.158.220.149:5001/play/a01a
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.beinsports.com/2.6.61/images/logo-header__en.png" group-title="SPAIN",beIN Sports [NoKodi]
-http://edge10.verliga1.pw/live/verliga11/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.beinsports.com/2.6.61/images/logo-header__en.png" group-title="SPAIN",beIN Sports*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.beinsports.com/2.6.61/images/logo-header__en.png" group-title="SPAIN",beIN Sports
 http://93.158.220.149:5001/play/a01g
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/031a89fb932fc4501cfc67691ccb6f31.jpeg" group-title="SPAIN",Betis TV
@@ -1237,9 +1234,6 @@ http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/07/comedy-central-logo-1.png" group-title="SPAIN",Comedy Central
-http://93.158.220.149:5001/play/a01y
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcdeadline2.files.wordpress.com/2015/07/comedy-central-logo-1.png" group-title="SPAIN",Comedy Central*
 http://93.158.220.149:5001/play/a02j
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adslzone.tv/app/uploads/2012/01/cosmoHD.gif" group-title="SPAIN",Cosmo HD
@@ -1282,9 +1276,6 @@ http://edge2.telesport.pw/live/fox/index.m3u8
 http://edge7.telesport.pw/live/foxlife/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="SPAIN",Fox Life*
-http://93.158.220.149:5001/play/a01h
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="SPAIN",Fox Life**
 http://93.158.220.149:5001/play/a003
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="SPAIN",GOL
