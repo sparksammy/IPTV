@@ -399,9 +399,6 @@ http://54.152.138.11:1935/live/switching1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rmk-Pryx74g/maxresdefault.jpg" group-title="JAMAICA",Mello TV
 http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2016/03/Watch-MTM-TV-Live-TV-from-Jamaica.jpg" group-title="JAMAICA",MTM TV
-http://media.btbn.tv/mtmtv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://realjamaicantelevision.com/sites/default/files/retv_logo.png" group-title="JAMAICA",RETV [Off]
 http://54.152.138.114:1935/live/switching1/playlist.m3u8
 
@@ -4204,6 +4201,9 @@ http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="RELIGION",3ABN Kidz (USA)
 http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2016/03/Watch-MTM-TV-Live-TV-from-Jamaica.jpg" group-title="RELIGION",MTM TV (Jamaica)
+http://media.btbn.tv/mtmtv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://old.omega.is/Broadcast_files/image002.jpg" group-title="RELIGION",Omega (Iceland)
 http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
 
@@ -4453,5 +4453,5 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/amozhgary.png" group-title="RELIGION",Amozhgary TV (Kurdistan) [Off]
 http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cantemo.com/casestudies/mta-international/mta-logo-small.png" group-title="RELIGION",MTA Intl.(UK)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cantemo.com/casestudies/mta-international/mta-logo-small.png" group-title="RELIGION",MTA Int'l.(UK)
 http://185.53.161.149:8888/play/a00x
