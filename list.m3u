@@ -3027,6 +3027,9 @@ http://www.lengua.com/anthems/Jordan.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/02/08/0bd3c28c-2064-4bc0-a1fe-f6f4efc3e75a/0bd3c28c-2064-4bc0-a1fe-f6f4efc3e75a_16x9_788x442.jpg" group-title="JORDAN",Al Hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/02/08/0bd3c28c-2064-4bc0-a1fe-f6f4efc3e75a/0bd3c28c-2064-4bc0-a1fe-f6f4efc3e75a_16x9_788x442.jpg" group-title="JORDAN",Al Hadath*
+http://37.152.128.66:7010/play/a00z
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2uer4go.jpg" group-title="JORDAN",Al Taghier
 http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 
@@ -3116,6 +3119,12 @@ http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/51/11/e3/5111e30e5fab24255daa987a2a583eeb.jpg" group-title="KSA",MBC Action
+http://37.152.128.66:7010/play/a014
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/july/week-1/7-7-2013/max-1024/original/e8a7ce923c2e39313ea1d624a1754cde4cc87bbc/max-1024.jpg" group-title="KSA",MBC Max
+http://37.152.128.66:7010/play/a016
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/08/08/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe_4x3_690x515.jpg" group-title="KSA",MBC Pro Sports
 http://37.152.128.66:7017/play/a00e
@@ -3233,6 +3242,18 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://riyadhpost.live/uploads/public/additions_pictures/1277/YAS%20logo.jpg" group-title="UAE",YAS Sports
+http://37.152.128.66:7011/play/a015
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://majid.ae/wp-content/themes/majid/images/logo.png" group-title="UAE",Majid
+http://37.152.128.66:7011/play/a013
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="UAE",National Geographic Abu Dhabi
+http://37.152.128.66:7011/play/a017
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dubaichronicle.com/wp-content/uploads/2009/10/AD-al-Riyadiya-2.jpg" group-title="UAE",Abu Dhabi Sport 2
+http://37.152.128.66:7011/play/a016
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/qatar/flag-button-square-250.png" group-title="LABEL",~ Qatar TV ~
 http://www.lengua.com/anthems/Qatar.mp3
@@ -3434,6 +3455,18 @@ http://www.lengua.com/anthems/Morocco.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
 http://95.81.155.40/5958/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tendance-du-web.com/2013/img/img900_1.jpg" group-title="MOROCCO",Al Aoula*
+http://37.152.128.66:7012/play/a01g
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Arrabia-TV-550x367.png" group-title="MOROCCO",Arrabiaa
+http://37.152.128.66:7012/play/a01j
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/01/assadissa_tv.jpg" group-title="MOROCCO",Assadissa
+http://37.152.128.66:7012/play/a01l
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MOROCCO",Tamazight TV
+http://37.152.128.66:7012/play/a01m
 
 #EXTINF:-1 tvg-logo="http://online.sccnn.com/icon/1093/195.png" group-title="LABEL",~ Sudan TV ~
 http://www.lengua.com/anthems/Sudan.mp3
