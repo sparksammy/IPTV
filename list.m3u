@@ -3231,6 +3231,9 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2*
+http://37.152.128.66:7011/play/a016
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 3
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 
@@ -3251,9 +3254,6 @@ http://37.152.128.66:7011/play/a013
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/Nat_geo_channel_abu_dhabi.png" group-title="UAE",National Geographic Abu Dhabi
 http://37.152.128.66:7011/play/a017
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dubaichronicle.com/wp-content/uploads/2009/10/AD-al-Riyadiya-2.jpg" group-title="UAE",Abu Dhabi Sport 2
-http://37.152.128.66:7011/play/a016
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/qatar/flag-button-square-250.png" group-title="LABEL",~ Qatar TV ~
 http://www.lengua.com/anthems/Qatar.mp3
