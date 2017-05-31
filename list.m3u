@@ -1273,6 +1273,9 @@ http://93.158.220.149:5001/play/a00k
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="SPAIN",Baby TV
 http://93.158.220.149:5001/play/a016
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/10511.jpg" group-title="SPAIN",Baby TV*
+http://93.158.220.133:5000/play/a02a
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_club_barcelona_television.png" group-title="SPAIN",Barca TV
 http://93.158.220.149:5001/play/a01a
 
@@ -1357,11 +1360,17 @@ http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="SPAIN",Eurosport 1
 http://93.158.220.149:5001/play/a01b
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="SPAIN",Eurosport 1*
+http://93.158.220.133:5000/play/a02b
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/3d/ESP_2_GGS_RVB.png" group-title="SPAIN",Eurosport 2
 http://93.158.220.149:5001/play/a01w
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1837.png" group-title="SPAIN",Fox [NoKodi]
 http://edge2.telesport.pw/live/fox/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1837.png" group-title="SPAIN",Fox*
+http://93.158.220.133:5000/play/a023
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="SPAIN",Fox Life [NoKodi]
 http://edge7.telesport.pw/live/foxlife/index.m3u8
@@ -1371,6 +1380,9 @@ http://93.158.220.149:5001/play/a003
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="SPAIN",GOL
 http://93.158.220.149:5001/play/a01d
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://compass.xboxlive.com/assets/43/e3/43e36213-33fc-4c23-bdb7-e7c8cff61e44.png" group-title="SPAIN",GOL*
+http://93.158.220.133:5000/play/a02c
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-Historia/Canal-Historia_.jpg" group-title="SPAIN",Historia [NoKodi]
 http://edge8.telesport.pw/live/historia/index.m3u8
@@ -1426,6 +1438,9 @@ http://93.158.220.149:5001/play/a007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png" group-title="SPAIN",Movistar Accion**
 http://93.158.220.149:5001/play/a023
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/29/MAccion1.png" group-title="SPAIN",Movistar Accion***
+http://93.158.220.133:5000/play/a024
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/2000px-Movistar_Comedia.svg.png" group-title="SPAIN",Movistar Comedia
 http://93.158.220.149:5001/play/a00q
 
@@ -1458,6 +1473,9 @@ http://93.158.220.149:5001/play/a01e
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/e/ef/MovistarGolf.png" group-title="SPAIN",Movistar Golf
 http://93.158.220.149:5001/play/a01j
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/MovistarSeries.png" group-title="SPAIN",Movistar Series
+http://93.158.220.133:5000/play/a03x
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/MovistarSeriesXtra.png" group-title="SPAIN",Movistar Series Xtra
 http://93.158.220.149:5001/play/a01i
