@@ -504,7 +504,7 @@ http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="AUSTRIA",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",[B][COLOR blue]~ Netherlands TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/nl.png" group-title="LABEL",~ Netherlands TV ~
 http://www.lengua.com/anthems/Netherlands.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1960450032/tv538twitter.png" group-title="NETHERLANDS",538 TV
@@ -1116,7 +1116,7 @@ http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/11ch4sl.png" group-title="BRAZIL",Shoptime [Off]
 http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
 
-#EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/rounded-world-flags/andorra-flag-2.png" group-title="LABEL",[B][COLOR blue]~ Andorra TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/rounded-world-flags/andorra-flag-2.png" group-title="LABEL",~ Andorra TV ~
 http://www.lengua.com/anthems/Andorra.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vsn-tv.com/wp-content/uploads/2014/11/logo_atv.jpg" group-title="ANDORRA",Andorra TV
@@ -3432,7 +3432,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://qes.com.my/wp-content/uploads/QES-projects-bernama.png" group-title="MALAYSIA",Bernama
 http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Indonesia-01.png" group-title="LABEL",[B][COLOR blue]~ Indonesia TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Indonesia-01.png" group-title="LABEL",~ Indonesia TV ~
 http://www.lengua.com/anthems/Indonesia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV
