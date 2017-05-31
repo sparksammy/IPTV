@@ -3649,6 +3649,18 @@ http://www.lengua.com/anthems/Ethiopia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diretube.com/uploads/articles/a8b4536f.jpg" group-title="ETHIOPIA",Kana TV
 http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.foodforfamine.org/cms/wp-content/uploads/2017/02/somalia.png" group-title="LABEL",~ Somalia TV ~
+http://www.lengua.com/anthems/Somalia.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://somaliiptv.com/wp-content/uploads/2015/03/kalsan-tv.jpg" group-title="SOMALIA",Kalsan TV
+http://185.53.161.149:8888/play/a019
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-HxJ9JIhKtQg/AAAAAAAAAAI/AAAAAAAAAAA/cLwV6iXtY3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SOMALIA",Somali Cable
+http://185.53.161.149:8888/play/a01a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.raxanreeb.com/wp-content/uploads/2014/02/universal_somali_tv.png" group-title="SOMALIA",Universal TV
+http://185.53.161.149:8888/play/a010
+
 #EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Rwanda-icon.png" group-title="LABEL",~ Rwanda TV ~
 http://www.lengua.com/anthems/Rwanda.mp3
 
