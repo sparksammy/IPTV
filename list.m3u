@@ -2716,6 +2716,9 @@ http://82.76.40.76/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.forbes.ro/wp-content/uploads/2013/06/51b066754e457.jpg" group-title="ROMANIA",Realitatea TV
 http://realitatea.m247.ro/hls/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.akasat.com/images/TVR-International.jpg" group-title="ROMANIA",TVRi Romania
+http://185.53.161.149:8888/play/a00u
+
 #EXTINF:-1 tvg-logo="http://kordas.gr/img/gr.png" group-title="LABEL",~ Greece TV ~
 http://www.lengua.com/anthems/Greece.mp3
 
@@ -3046,6 +3049,9 @@ http://bcliveuniv-lh.akamaihd.net/i/TVMstream2TV_1@326354/master.m3u8
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
 http://192.99.35.215:5109/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-EkOUQ7HMk_4/WOK6-WtrNxI/AAAAAAAAEs0/-BxEyO5NvMQOVSlgBfHIZAmltbq08hrXQCLcB/s1600/al_hiwar.png" group-title="ARABIC NEWS",Al Hiwar
+http://185.53.161.149:8888/play/a00h
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="ARABIC NEWS",Al Hurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 
@@ -3072,6 +3078,9 @@ http://rt-ara-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.keia.org/sites/default/files/media_sky_news_arabia.jpg" group-title="ARABIC NEWS",Sky News [Geo]
 http://selevision9890-i.akamaihd.net/hls/live/219323/98906/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.keia.org/sites/default/files/media_sky_news_arabia.jpg" group-title="ARABIC NEWS",Sky News*
+http://185.53.161.149:8888/play/a01n
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.usycso.org/node/wp-content/uploads/2016/05/trt.jpg" group-title="ARABIC NEWS",TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
@@ -3573,6 +3582,9 @@ http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",~ Algeria TV ~
 http://www.lengua.com/anthems/Algeria.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.premium-dz.net/images/logo-chaine-tv/a3.png" group-title="ALGERIA",A3
+http://185.53.161.149:8888/play/a020
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.clipartlogo.com/files/images/50/502456/canal-algerie-tv_f.png" group-title="ALGERIA",Canal Algerie
 http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie
