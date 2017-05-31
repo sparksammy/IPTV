@@ -1602,6 +1602,15 @@ http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports
 http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports*
+http://209.126.110.107:8081/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/ac/Fox_sports_2.png" group-title="MEXICO",Fox Sports 2
+http://209.126.110.107:8081/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="MEXICO",Fox Sports 3
+http://209.126.110.107:8081/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-iRuhg96Qeho/AAAAAAAAAAI/AAAAAAAAAAA/bQm9MPIQfzs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Canal 26 (AG)
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 
