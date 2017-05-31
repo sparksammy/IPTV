@@ -1659,76 +1659,76 @@ http://209.126.110.107:8081/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="MEXICO",Fox Sports 3
 http://209.126.110.107:8081/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-iRuhg96Qeho/AAAAAAAAAAI/AAAAAAAAAAA/bQm9MPIQfzs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Canal 26 (AG)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-iRuhg96Qeho/AAAAAAAAAAI/AAAAAAAAAAA/bQm9MPIQfzs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Canal 26
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title="MEXICO",Canal 66 (BN)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title="MEXICO",Canal 66
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/rcgtv.png" group-title="MEXICO",RCG 1 TV (CA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/rcgtv.png" group-title="MEXICO",RCG 1 TV
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1401363587/logo_400x400.jpg" group-title="MEXICO",RCG 2 TV (CA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1401363587/logo_400x400.jpg" group-title="MEXICO",RCG 2 TV
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png" group-title="MEXICO",RCG 3 TV (CA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png" group-title="MEXICO",RCG 3 TV
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MEXICO",Canal 44 (CH)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MEXICO",Canal 44
 http://canal44-lh.akamaihd.net/i/ch_canal44@325633/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/TV_10_Chiapas.png" group-title="MEXICO",Canal 10 (CP) [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/TV_10_Chiapas.png" group-title="MEXICO",Canal 10 [Off]
 http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_3sp5q5of/sd/10000/t/xcFhHOHOWZElcfLGV6KV0w/index-s32.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-i1CqxKxOIxo/VOQWpvIKeDI/AAAAAAAAA7Y/73FsGhkuZ_8/s1600/rtg.jpg" group-title="MEXICO",RTG (GR) [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-i1CqxKxOIxo/VOQWpvIKeDI/AAAAAAAAA7Y/73FsGhkuZ_8/s1600/rtg.jpg" group-title="MEXICO",RTG [Off]
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png" group-title="MEXICO",Banda Ancha TV (JA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png" group-title="MEXICO",Banda Ancha TV
 https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/ochotv_mexico.jpg" group-title="MEXICO",Ocho TV (JA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/ochotv_mexico.jpg" group-title="MEXICO",Ocho TV
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
-#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title="MEXICO",Mexiquense TV (MX)
+#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title="MEXICO",Mexiquense TV
 http://fss28.streamhoster.com:1935/lv_tvmexiquense/broadcast1/live.m3u8
 
-#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title="MEXICO",Mexiquense TV (MX) *
+#EXTINF:-1 tvg-id="television-mexiquense" tvg-name="television mexiquense" tvg-logo="https://pbs.twimg.com/profile_images/687078333213876225/Iy0c9C0b.jpg" group-title="MEXICO",Mexiquense TV*
 http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8
 
-#EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/402.png" group-title="MEXICO",Multimedios (NL)
+#EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/402.png" group-title="MEXICO",Multimedios
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486350658770
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redmexico.org.mx/admin/dbfiles/dbdirectorio/dbicos/71.jpg" group-title="MEXICO",RTQ (QE)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redmexico.org.mx/admin/dbfiles/dbdirectorio/dbicos/71.jpg" group-title="MEXICO",RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="MEXICO",Canal 10 (QR)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="MEXICO",Canal 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://i.imgur.com/3t5Cz1e.jpg" group-title="MEXICO",Gala TV (QR)
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://i.imgur.com/3t5Cz1e.jpg" group-title="MEXICO",Gala TV
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/785523100502806529/2XMMyhdS.jpg" group-title="MEXICO",TVP (SI)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/785523100502806529/2XMMyhdS.jpg" group-title="MEXICO",TVP
 http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1521299175_b1428000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/819651361960669184/kiW1_Jcg.jpg" group-title="MEXICO",Canal 7 (SL)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/819651361960669184/kiW1_Jcg.jpg" group-title="MEXICO",Canal 7
 http://187.188.159.113:1935/live/web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-JrfUo7hu1AM/AAAAAAAAAAI/AAAAAAAAAAA/Xd1mW5rm2bA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",TVT (TB)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-JrfUo7hu1AM/AAAAAAAAAAI/AAAAAAAAAAA/Xd1mW5rm2bA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",TVT
 http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/images2012/tdt_tv_de_tlaxcala_mx.jpg" group-title="MEXICO",TDT (TL)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/images2012/tdt_tv_de_tlaxcala_mx.jpg" group-title="MEXICO",TDT
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cemev.gob.mx/local1/Imagenes/tvmas1.png" group-title="MEXICO",TVMas (VE)
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="MEXICO",Gala TV (YU)
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="MEXICO",Gala TV
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MEXICO",Trecevision (YU)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MEXICO",Trecevision
 http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",[B][COLOR blue]~ Chile TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",~ Chile TV ~
 http://www.lengua.com/anthems/Chile.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-65e5oTcogNE/Vx7Uf4GBd_I/AAAAAAAB0Wk/Sgz8L_ZHAs0yFMM1H8XQhD7QOYyEZp_hACLcB/s1600/Cnn_cl.jpg" group-title="CHILE",CNN
