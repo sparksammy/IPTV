@@ -2913,7 +2913,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1 tvg-logo="http://img.freeflagicons.com/thumb/square_icon/lebanon/lebanon_640.png" group-title="LABEL",[B][COLOR blue]~ Lebanon TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Lebanon.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC Europe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.musicnation.me/musicnation-uploads//2012/11/lbc.jpg" group-title="LEBANON",LBC Europe [Off]
 http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-06mS0mwhzno/AAAAAAAAAAI/AAAAAAAAAAA/6K-Wn_N0h98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LEBANON",Future TV
@@ -3021,17 +3021,11 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.awdnews.com/images/alshrkia-1_1_a5b3a.jpg" group-title="IRAQ",Al Sharqiya *
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/1zg9ouf.jpg" group-title="IRAQ",Iraqia News
-http://37.152.128.66:7009/play/a00l
-
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/sa.png" group-title="LABEL",[B][COLOR blue]~ KSA TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/SaudiArabia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" group-title="KSA",Saudi 1
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" group-title="KSA",Saudi 1*
-http://37.152.128.66:7009/play/a00g
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" group-title="KSA",Saudi 2 (English)
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
@@ -3294,7 +3288,7 @@ http://selevision9896-i.akamaihd.net/hls/live/219377/98960/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
 http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7pictures.net/images/moga-comedy.png" group-title="EGYPT",Moga Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://7pictures.net/images/moga-comedy.png" group-title="EGYPT",Moga Comedy [Off]
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=moga_comedy&t=ar
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2416811017/f24vex4drd87yxy2imbd.jpeg" group-title="EGYPT",Panorama Drama
