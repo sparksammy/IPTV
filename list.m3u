@@ -261,6 +261,9 @@ http://iphone-streaming.ustream.tv/uhls/4381960/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png" group-title="USA",Fox News
 http://93.158.220.149:5001/play/a015
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png" group-title="USA",Fox News
+http://93.158.220.133:5000/play/a029
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" group-title="USA",VoA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 
