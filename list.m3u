@@ -3078,6 +3078,18 @@ http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/08/08/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe_4x3_690x515.jpg" group-title="KSA",MBC Pro Sports
+http://37.152.128.66:7017/play/a00e
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/08/08/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe_4x3_690x515.jpg" group-title="KSA",MBC Pro Sports 2
+http://37.152.128.66:7017/play/a00f
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/08/08/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe_4x3_690x515.jpg" group-title="KSA",MBC Pro Sports 3
+http://37.152.128.66:7017/play/a00g
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/08/08/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe_4x3_690x515.jpg" group-title="KSA",MBC Pro Sports 4
+http://37.152.128.66:7017/play/a00h
+
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",[B][COLOR blue]~ UAE TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
 
@@ -3225,41 +3237,41 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports
 http://5.34.180.32:8010/play/a001
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports*
+http://5.34.180.32:8010/play/a00c
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 2
 http://5.34.180.32:8010/play/a002
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 3
 http://5.34.180.32:8010/play/a003
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 4
 http://5.34.180.32:8010/play/a004
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 5
 http://5.34.180.32:8010/play/a005
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 6
 http://5.34.180.32:8010/play/a006
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 7
 http://5.34.180.32:8010/play/a007
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 8
 http://5.34.180.32:8010/play/a008
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 9
 http://5.34.180.32:8010/play/a009
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 10
 http://5.34.180.32:8010/play/a00a
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 11
 http://5.34.180.32:8010/play/a00b
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sport 12
-http://5.34.180.32:8010/play/a00c
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kw.png" group-title="LABEL",[B][COLOR blue]~ Kuwait TV ~[/COLOR][/B]
 http://www.lengua.com/anthems/Kuwait.mp3
