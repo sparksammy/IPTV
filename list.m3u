@@ -117,6 +117,21 @@ http://5.135.139.19:1935/server7/stream35.stream/playlist.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1116_2.jpg" group-title="UK",Spike
 http://5.135.139.19:1935/server7/stream32.stream/playlist.m3u8?token=
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.fansided.com/wp-content/blogs.dir/229/files/2016/03/TRU.jpg" group-title="UK",tru TV
+http://212.231.80.4:3000/play/009
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/True_Entertainment_logo.png" group-title="UK",True Entertainment
+http://212.231.80.4:3000/play/013
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/True_Entertainment_logo.png" group-title="UK",True Entertainment +1
+http://212.231.80.4:3000/play/a00y
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/True_Movies_1_logo.png/200px-True_Movies_1_logo.png" group-title="UK",True Movies
+http://212.231.80.4:3000/play/008
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/True_Movies_1_logo.png/200px-True_Movies_1_logo.png" group-title="UK",True Movies +1
+http://212.231.80.4:3000/play/015
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
 
@@ -129,6 +144,24 @@ http://62.210.115.122:9099/play/a00o
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vectorlogo4u.com/wp-content/uploads/2015/08/Discovery-Science-Logo-vector-720x340.png" group-title="UK",Discovery Science
 http://62.210.115.122:9099/play/a00k
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Kix%21_%28TV_channel_-_logo%29.png" group-title="UK",Kix
+http://212.231.80.4:3000/play/004
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Kix%21_%28TV_channel_-_logo%29.png" group-title="UK",Kix +1
+http://212.231.80.4:3000/play/a00u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png" group-title="UK",Pop
+http://212.231.80.4:3000/play/005
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Pop_%28UK_TV_channel%29_logo.png" group-title="UK",Pop +1
+http://212.231.80.4:3000/play/006
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Tiny_Pop_2011_logo.png" group-title="UK",Tiny Pop
+http://212.231.80.4:3000/play/010
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Tiny_Pop_2011_logo.png" group-title="UK",Tiny Pop +1
+http://212.231.80.4:3000/play/014
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-tv.in/wp-content/uploads/2014/12/BEATZ-TV-live-streaming.gif" group-title="UK",Beatz TV
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 
@@ -138,7 +171,25 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1 [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.astra2sat.com/wp-content/uploads/2015/04/chart_show_tv-e1429198440229.jpg" group-title="UK",Chart Show TV
+http://212.231.80.4:3000/play/001
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a0/Chartshow_Hits.png" group-title="UK",Chart Show Hits
+http://212.231.80.4:3000/play/003
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/The_Vault_TV_channel_logo_2014.png" group-title="UK",The Vault
+http://212.231.80.4:3000/play/011
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Flava_TV_logo.png" group-title="UK",Flava
+http://212.231.80.4:3000/play/002
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Scuzz_2015_logo.png" group-title="UK",Scuzz
+http://212.231.80.4:3000/play/007
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Starz_TV_2014_logo.jpg/200px-Starz_TV_2014_logo.jpg" group-title="UK",Starz TV
+http://212.231.80.4:3000/play/012
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
 http://81.7.13.162/hls/ss4/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1108.jpg" group-title="UK",BT Sport 1
