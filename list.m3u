@@ -330,6 +330,9 @@ http://xrxs.net/video/live-p12ariz-2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
 http://xrxs.net/video/live-p12moun-2328.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="USA",Music Choice Play HD
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="USA",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 
@@ -3294,7 +3297,7 @@ https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.etere.com/DocImageArchive/636174029839741716.jpg" group-title="KUWAIT",KTV Al Majlis
 https://svs.itworkscdn.net/ktvalmajlislive/kalmajlis.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.wpclipart.com/flags/country_code_buttons/.cache/om_Oman.png" group-title="LABEL",[B][COLOR blue]~ Oman TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://www.wpclipart.com/flags/country_code_buttons/.cache/om_Oman.png" group-title="LABEL",~ Oman TV ~
 http://www.lengua.com/anthems/Oman.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://part.gov.om/part/english/images/omantv_general.png" group-title="OMAN",Oman TV
@@ -3321,7 +3324,7 @@ http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/almasirah_tv_yemen.jpg" group-title="YEMEN",Al Masirah
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",[B][COLOR blue]~ Egypt TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/eg.png" group-title="LABEL",~ Egypt TV ~
 http://www.lengua.com/anthems/Egypt.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-j2tQrXqcnbE/UJrfFKuhOVI/AAAAAAAAD9w/O1PAj3B0Wlw/s320/Screen_shot_2011-07-02_at_12.49.44_PM.png" group-title="EGYPT",CBC
@@ -3342,7 +3345,7 @@ http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=moga_comedy&t=ar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2416811017/f24vex4drd87yxy2imbd.jpeg" group-title="EGYPT",Panorama Drama
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=panorama_drama&t=ar
 
-#EXTINF:-1 tvg-logo="http://towers.com.ua/style/img/flags/tunisia.png" group-title="LABEL",[B][COLOR blue]~ Tunisia TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://towers.com.ua/style/img/flags/tunisia.png" group-title="LABEL",~ Tunisia TV ~
 http://www.lengua.com/anthems/Tunisia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma
@@ -3351,7 +3354,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma *
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
 
-#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Libya%20(New)-01.png" group-title="LABEL",[B][COLOR blue]~ Libya TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Libya%20(New)-01.png" group-title="LABEL",~ Libya TV ~
 http://www.lengua.com/anthems/Libya.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/mqEK6nU.gif" group-title="LIBYA",Al Hadath
@@ -3366,7 +3369,7 @@ http://91.134.145.75:10001/218tv/218tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wKJikLm.gif" group-title="LIBYA",Libya TV
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
-#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",[B][COLOR blue]~ Algeria TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",~ Algeria TV ~
 http://www.lengua.com/anthems/Algeria.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.clipartlogo.com/files/images/50/502456/canal-algerie-tv_f.png" group-title="ALGERIA",Canal Algerie
@@ -3375,31 +3378,31 @@ http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www12.0zz0.com/2013/05/19/19/779272851.jpg" group-title="ALGERIA",Dzair TV
 http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Morocco-01.png" group-title="LABEL",[B][COLOR blue]~ Morocco TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Morocco-01.png" group-title="LABEL",~ Morocco TV ~
 http://www.lengua.com/anthems/Morocco.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
 http://95.81.155.40/5958/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://online.sccnn.com/icon/1093/195.png" group-title="LABEL",[B][COLOR blue]~ Sudan TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://online.sccnn.com/icon/1093/195.png" group-title="LABEL",~ Sudan TV ~
 http://www.lengua.com/anthems/Sudan.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://up.graaam.com/uploads/images/graaam-1431bf19d24.jpg" group-title="SUDAN",Al Sudan
 http://37.152.128.66:7009/play/a00i
 
-#EXTINF:-1 tvg-logo="http://amharic.co.il/images/ethiopia.png" group-title="LABEL",[B][COLOR blue]~ Ethiopia TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://amharic.co.il/images/ethiopia.png" group-title="LABEL",~ Ethiopia TV ~
 http://www.lengua.com/anthems/Ethiopia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diretube.com/uploads/articles/a8b4536f.jpg" group-title="ETHIOPIA",Kana TV
 http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Rwanda-icon.png" group-title="LABEL",[B][COLOR blue]~ Rwanda TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/round-world-flags/512/Rwanda-icon.png" group-title="LABEL",~ Rwanda TV ~
 http://www.lengua.com/anthems/Rwanda.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="RWANDA",RTV
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 
-#EXTINF:-1 tvg-logo="http://topbandeiras.com.br/images/botoes/Nigeria-01.png" group-title="LABEL",[B][COLOR blue]~ Nigeria TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://topbandeiras.com.br/images/botoes/Nigeria-01.png" group-title="LABEL",~ Nigeria TV ~
 http://www.lengua.com/anthems/Nigeria.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iamericaa.com/wp-content/uploads/2016/04/TVC-LOGO-hd-2.jpg" group-title="NIGERIA",TVC Entertainment
@@ -3408,7 +3411,7 @@ http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.consat.tv/images/1475327925.jpg" group-title="NIGERIA",TVC News
 http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://jasatamadm.com/img/team/my.jpg" group-title="LABEL",[B][COLOR blue]~ Malaysia TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://jasatamadm.com/img/team/my.jpg" group-title="LABEL",~ Malaysia TV ~
 http://www.lengua.com/anthems/Malaysia.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.astroawani.com/2013-04/61365010299_295x200.jpg" group-title="MALAYSIA",Astro Awani
@@ -3435,7 +3438,7 @@ http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",[B][COLOR blue]~ South Korea TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-qmLWm9FFEDA/UdWIdPyqvtI/AAAAAAAAAdg/dOSv-sogcxg/s960/mbc.jpg" group-title="SOUTH KOREA",MBC
@@ -3462,7 +3465,7 @@ http://123.108.164.71/etv2sb/phd43/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://payload497.cargocollective.com/1/19/633459/12251667/KCTV_011_1280.png" group-title="SOUTH KOREA",KCTV
 http://122.202.129.136:1935/live/ch5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",[B][COLOR blue]~ China TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",~ China TV ~
 http://www.lengua.com/anthems/China.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lycatv.tv/lyca-cms/img/07102701CCTV4.png" group-title="CHINA",CCTV 4
@@ -3477,7 +3480,7 @@ http://cdn2.miip.tv:8880/live/stalker/stalker/53.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="CHINA",SinoVision (US)
 http://ec.sinovision.net/video/ts/lv.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/512/154-Hong-kong.png" group-title="LABEL",[B][COLOR blue]~ Hong Kong TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://www.haotu.net/up/3881/512/154-Hong-kong.png" group-title="LABEL",~ Hong Kong TV ~
 http://www.lengua.com/anthems/HongKong.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31
@@ -3489,7 +3492,7 @@ http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/88/ViuTV_logo.svg.png" group-title="HONG KONG",VIU TV
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Singapore-01.png" group-title="LABEL",[B][COLOR blue]~ Singapore TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Singapore-01.png" group-title="LABEL",~ Singapore TV ~
 http://www.lengua.com/anthems/Singapore.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5253176/16x9/947/533/ae942ff62b59f223ea6a9edacf1da744/Uf/channel-5.png" group-title="SINGAPORE",Mediacorp Channel 5
@@ -3501,7 +3504,7 @@ http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="SINGAPORE",Mediacorp Channel U
 http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",[B][COLOR blue]~ Adult Swim ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/metalocalypse/images/c/cd/Adult-swim-logo.png" group-title="LABEL",~ Adult Swim ~
 http://stream.dubstep.fm:80/256mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14060.jpg" group-title="ADULT SWIM",Animation
@@ -3534,25 +3537,22 @@ http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" group-title="ADULT SWIM",Williams Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
-#EXTINF:-1 tvg-logo="http://assets.ilounge.com/images/uploads/music-app-icon.jpg" group-title="LABEL",[B][COLOR blue]~ MUSIC TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9.jpg" group-title="LABEL",~ DJing ~
 http://37.97.160.125:9128
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Animation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="MUSIC",Animation
 http://www.djing.com/tv/a-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fernsehen-live-stream.org/uploads/posts/2016-05/1463334619_djing-classics.jpg" group-title="MUSIC",Classics
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Dancefloor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png" group-title="MUSIC",Ibiza
 http://www.djing.com/tv/d-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.djing.com/newimages/content/c01.jpg" group-title="MUSIC",DJing - Underground
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg" group-title="MUSIC",Underground
 http://www.djing.com/tv/u-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="MUSIC",Music Choice Play HD
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",[B][COLOR blue]~ USA Local News ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",~ USA Local News ~
 http://167.88.154.169/wnycfm-tunein
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ggbenitezpr.com/images/case_studies/mabels/wgn9-logo-bg.jpg" group-title="USA LOCAL",WGN News (Chicago)
@@ -3654,7 +3654,7 @@ http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" group-title="USA LOCAL",WTPC 16 (Virginia)
 http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
 
-#EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",[B][COLOR green]~ CCTV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",~ CCTV ~
 http://audio4.broadcastify.com/il_chicago_police2.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="CCTV",Christmas Fireplace
@@ -3675,7 +3675,7 @@ http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="CCTV",Ft. Lauderdale Marina
 http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's - Key (Duval St. Cam)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's (Duval St. Cam)
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's (Stage Cam)
@@ -3894,7 +3894,7 @@ http://stream.livespotting.tv/windit-edge/vv88_720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Wurzburg - Hotel Alter Kranen
 http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.youthscape.co.uk/assets/open_me/img/interface/prayer-icon.png" group-title="LABEL",[B][COLOR yellow]~ Religion TV ~[/COLOR][/B]
+#EXTINF:-1 tvg-logo="https://www.youthscape.co.uk/assets/open_me/img/interface/prayer-icon.png" group-title="LABEL",~ Religion TV ~
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jltv.tv/images/jltvLogoHor.png" group-title="RELIGION",Jewish Life TV (USA)
