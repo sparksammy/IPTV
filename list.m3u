@@ -3445,42 +3445,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports
-http://5.34.180.32:8010/play/a001
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports*
-http://5.34.180.32:8010/play/a00c
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 2
-http://5.34.180.32:8010/play/a002
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 3
-http://5.34.180.32:8010/play/a003
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 4
-http://5.34.180.32:8010/play/a004
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 5
-http://5.34.180.32:8010/play/a005
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 6
-http://5.34.180.32:8010/play/a006
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 7
-http://5.34.180.32:8010/play/a007
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 8
-http://5.34.180.32:8010/play/a008
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 9
-http://5.34.180.32:8010/play/a009
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 10
-http://5.34.180.32:8010/play/a00a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anywhere.fm/wp-content/uploads/bein-sports.png" group-title="QATAR",beIn Sports 11
-http://5.34.180.32:8010/play/a00b
-
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kw.png" group-title="LABEL",~ Kuwait TV ~
 http://www.lengua.com/anthems/Kuwait.mp3
 
