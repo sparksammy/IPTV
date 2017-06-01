@@ -63,13 +63,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK TV ~
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/211.png" group-title="UK",BBC One *
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/211.png" group-title="UK",BBC One
 http://79.172.241.74:8081/hls/bbcone.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1680.png" group-title="UK",BBC Two
-http://5.135.139.19:1935/server7/stream20.stream/playlist.m3u8?token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1680.png" group-title="UK",BBC Two *
 http://79.172.241.74:8081/hls/bbctwo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p02lrp06.jpg" group-title="UK",BBC Four
