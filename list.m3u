@@ -1725,53 +1725,11 @@ http://www.lengua.com/anthems/Nicaragua.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/canal2nicaragua.png" group-title="NICARAGUA",Canal 2
 http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/C/canal-4-nicaragua-logo-B52640A282-seeklogo.com.png" group-title="NICARAGUA",Canal 4
-http://cdn2.miip.tv:8880/live/stalker/stalker/34.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-SbBR5U7aiqE/U9XLKP6xjII/AAAAAAAAFYo/Ne82LFiKtNw/s1600/canal6_ni.png" group-title="NICARAGUA",Canal 6
-http://cdn2.miip.tv:8880/live/stalker/stalker/33.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-3oxonFRmkYc/AAAAAAAAAAI/AAAAAAAAAAA/QiIqZg4ic8A/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NICARAGUA",Canal 8
-http://cdn2.miip.tv:8880/live/stalker/stalker/32.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.canal10.com.ni/sites/common/img/logo_canal10.png" group-title="NICARAGUA",Canal 10
-http://cdn2.miip.tv:8880/live/stalker/stalker/39.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal12.com.ni/assets/logo_default_150px_150px-7b9663fca253e855caf7b21ceda1e689c9467bffdb3faf4aa81ab269a368bc7a.png" group-title="NICARAGUA",Canal 12
-http://cdn2.miip.tv:8880/live/stalker/stalker/38.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal12.com.ni/assets/logo_default_150px_150px-7b9663fca253e855caf7b21ceda1e689c9467bffdb3faf4aa81ab269a368bc7a.png" group-title="NICARAGUA",Canal 12*
-http://cdn2.miip.tv:8880/live/stalker/stalker/35.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vivanicaragua.com.ni/contenido/archivos/2013/03/logo-viva-nicaragua.jpg" group-title="NICARAGUA",Canal 13
-http://cdn2.miip.tv:8880/live/stalker/stalker/37.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.panoramanica.com/wp-content/uploads/2016/05/vostv-canal-14.png" group-title="NICARAGUA",Canal 14
-http://cdn2.miip.tv:8880/live/stalker/stalker/36.ts
-
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/15/90/1856aec6ddbc5f9.jpg" group-title="LABEL",~ El Salvador TV ~
 http://www.lengua.com/anthems/ElSalvador.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-El-Salvador.png" group-title="EL SALVADOR",Canal 2
-http://cdn2.miip.tv:8880/live/stalker/stalker/64.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-2-El-Salvador.png" group-title="EL SALVADOR",Canal 2*
-http://cdn2.miip.tv:8880/live/stalker/stalker/25.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-hBhUdQUtmms/Vt-EOhtIshI/AAAAAAAAKJM/b7LaQS3Ek0g/s1600/canal4elsalvador.jpg" group-title="EL SALVADOR",Canal 4
-http://cdn2.miip.tv:8880/live/stalker/stalker/29.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-6-El-Salvador.png" group-title="EL SALVADOR",Canal 6
-http://cdn2.miip.tv:8880/live/stalker/stalker/28.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://archivo.elsalvador.com/noticias/2004/11/17/escenarios/img/canal12.JPG" group-title="EL SALVADOR",Canal 12
-http://cdn2.miip.tv:8880/live/stalker/stalker/26.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Canal 21
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Canal-21-El-Salvador.png" group-title="EL SALVADOR",Canal 21*
-http://cdn2.miip.tv:8880/live/stalker/stalker/30.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg" group-title="EL SALVADOR",TVO Canal 23
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
