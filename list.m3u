@@ -1239,18 +1239,6 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="LATINO",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://freebeacon.com/wp-content/uploads/2015/05/azteca.jpg" group-title="LATINO",Azteca
-http://cdn2.miip.tv:8880/live/stalker/stalker/3.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/KSTS_Logo.png" group-title="LATINO",Telemundo
-http://cdn2.miip.tv:8880/live/stalker/stalker/6.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Logo_Univision_2013.svg/1269px-Logo_Univision_2013.svg.png" group-title="LATINO",Univision
-http://cdn2.miip.tv:8880/live/stalker/stalker/2.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tvbtn.files.wordpress.com/2015/09/unimas-logo.jpg" group-title="LATINO",Unimas
-http://cdn2.miip.tv:8880/live/stalker/stalker/4.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vsQAgvN5JtQ/AAAAAAAAAAI/AAAAAAAAAAA/0Xb-yTUf-bc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Canal Claro
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
 
