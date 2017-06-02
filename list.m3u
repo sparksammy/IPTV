@@ -1758,41 +1758,14 @@ http://162.220.218.101:8081/live/stream2.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/29c778_7ed6e418c0574ea38b1ff303f8a23041~mv2.png" group-title="LABEL",~ Panama TV ~
 http://www.lengua.com/anthems/Panama.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/857318641817325568/EztS0BHA.jpg" group-title="PANAMA",Canal 23
-http://cdn2.miip.tv:8880/live/stalker/stalker/16.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/COSPANAMA.svg/1200px-COSPANAMA.svg.png" group-title="PANAMA",COS
-http://cdn2.miip.tv:8880/live/stalker/stalker/8.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.medcom.com.pa/site/assets/files/1265/cos_fc.200x200.jpg" group-title="PANAMA",COS FC
-http://cdn2.miip.tv:8880/live/stalker/stalker/9.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-aFB7NQbGsmM/AAAAAAAAAAI/AAAAAAAAAAA/3rVDZSTgZMI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="PANAMA",Eco TV
-http://cdn2.miip.tv:8880/live/stalker/stalker/7.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV.png" group-title="PANAMA",NEXtv
 http://190.102.61.118:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV.png" group-title="PANAMA",NEXtv*
-http://cdn2.miip.tv:8880/live/stalker/stalker/15.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV*
-http://cdn2.miip.tv:8880/live/stalker/stalker/14.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Telemetro.png" group-title="PANAMA",Telemetro
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Telemetro.png" group-title="PANAMA",Telemetro*
-http://cdn2.miip.tv:8880/live/stalker/stalker/13.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.paginasamarillasdepanama.com/uploads/logos/Logo_tvmax.png" group-title="PANAMA",TV MAX
-http://cdn2.miip.tv:8880/live/stalker/stalker/12.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/836874432337543168/fWmvy0k1.jpg" group-title="PANAMA",TVN
-http://cdn2.miip.tv:8880/live/stalker/stalker/11.ts
 
 #EXTINF:-1 tvg-logo="http://th.seaicons.com/wp-content/uploads/2016/03/Honduras-icon.png" group-title="LABEL",~ Honduras TV ~
 http://www.lengua.com/anthems/Honduras.mp3
