@@ -162,9 +162,6 @@ http://62.210.115.122:9099/play/a00m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="USA",NASA TV
-http://cdn2.miip.tv:8880/live/stalker/stalker/54.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN
 http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 
@@ -1182,9 +1179,6 @@ http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/459282803549413376/JoWuNky2.jpeg" group-title="SPAIN",Onda Azul
 http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-charts.eu/img/paramounthd.jpg" group-title="SPAIN",Paramount Channel
-http://93.158.220.149:5001/play/a01n
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
@@ -1268,9 +1262,6 @@ http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/770289655795286016/yx04qWjm.jpg" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1490989068109.jpg" group-title="LATINO",Russia Today [Off]
-http://rt-lh.akamaihd.net/i/ch_02@325606/index_720p_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
