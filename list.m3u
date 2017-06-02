@@ -159,6 +159,9 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos.kodibg.org/docubox.png" group-title="USA",DocuBox
 http://62.210.115.122:9099/play/a00m
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-tv-radio.hu/images/stories/tv/cable/filmboxextra.jpg" group-title="USA",FilmBox (Multilingual)
+http://62.210.115.122:9099/play/a00t
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 
