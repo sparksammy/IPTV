@@ -192,9 +192,6 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3249.png" group-title="USA",C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/0f3d03b0dabd4b05a9597835ac79894d-hd.jpg" group-title="USA",Newsmax TV
-http://ooyalahd2-f.akamaihd.net/i/newsmax02_delivery@119568/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg" group-title="USA",The Blaze
 https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
 
@@ -249,7 +246,7 @@ http://xrxs.net/video/live-p12ariz-2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
 http://xrxs.net/video/live-p12moun-2328.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="USA",Music Choice Play HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="USA",Music Choice Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="USA",California Music Channel
