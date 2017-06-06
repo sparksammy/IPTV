@@ -1155,7 +1155,7 @@ http://stream.latino-webtv.com/series/gravityfalls.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://truedemocracyparty.net/wp-content/uploads/key_art_the_simpsons.jpg" group-title="LATINO”,24/7 Los Simpson*
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://truedemocracyparty.net/wp-content/uploads/key_art_the_simpsons.jpg" group-title="LATINO",24/7 Los Simpson*
 http://192.99.39.98:8000/live/angel/angel/1384.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="LATINO",Anime TV
@@ -1389,7 +1389,7 @@ http://209.126.110.107:8081/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="MEXICO",Fox Sports 3*
 http://192.99.39.98:8000/live/angel/angel/79.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-9GLT0HEl5oY/VzzKhVUfMvI/AAAAAAAAkvo/R8ArcRtMIfwt-pAbfl78Nl-OQU0ZRrDdwCLcB/s1600/Logo_TDN.png" group-title=“MEXICO”,TDN
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-9GLT0HEl5oY/VzzKhVUfMvI/AAAAAAAAkvo/R8ArcRtMIfwt-pAbfl78Nl-OQU0ZRrDdwCLcB/s1600/Logo_TDN.png" group-title="MEXICO",TDN
 http://192.99.39.98:8000/live/angel/angel/1373.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-iRuhg96Qeho/AAAAAAAAAAI/AAAAAAAAAAA/bQm9MPIQfzs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Canal 26
