@@ -1206,9 +1206,6 @@ http://192.99.39.98:8000/live/angel/angel/68.ts
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://portal4.iptvprivateserver.tv/stalker_portal/misc/logos/320/3207.png" group-title="LATINO",Univision Deportes
 http://192.99.39.98:8000/live/angel/angel/1337.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/fotoS/ufcc.png" group-title="LATINO",UFC
-http://192.99.39.98:8000/live/angel/angel/81.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vsQAgvN5JtQ/AAAAAAAAAAI/AAAAAAAAAAA/0Xb-yTUf-bc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Canal Claro
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
 
