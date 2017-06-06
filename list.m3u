@@ -612,9 +612,6 @@ http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.altrostudio.tv/images/portfolio/carinatv.jpg" group-title="ITALY",Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://allvectorlogo.com/img/2016/07/cinemax-logo.png" group-title="ITALY",Cinemax
-http://62.210.115.122:9099/play/a00h
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://operators.monaco-telecom.mc/images/part/tv/Class-TV-Moda_o.jpg" group-title="ITALY",Class TV Moda
 http://liveclass.edgesuite.net/i/classtvmoda_1@199801/master.m3u8
 
