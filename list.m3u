@@ -1191,7 +1191,7 @@ http://192.99.39.98:8000/live/angel/angel/3089.ts
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/natgeo.jpg" group-title="LATINO",Nat Geo Wild
 http://192.99.39.98:8000/live/angel/angel/68.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://portal4.iptvprivateserver.tv/stalker_portal/misc/logos/320/3207.png" group-title="LATINO",Univision Deportes
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/univision_deportes_c.png" group-title="LATINO",Univision Deportes
 http://192.99.39.98:8000/live/angel/angel/1337.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vsQAgvN5JtQ/AAAAAAAAAAI/AAAAAAAAAAA/0Xb-yTUf-bc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Canal Claro
