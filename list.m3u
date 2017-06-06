@@ -1147,6 +1147,7 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 http://50.7.56.2:8016
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/83/e9/ac/83e9acabae3493baeaacd50ea3aa2267.jpg" group-title="LATINO",24/7 El Chavo Animado
+http://192.99.39.98:8000/live/angel/angel/3068.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.postard.com/wp-content/uploads/2016/11/gravity-falls.jpg" group-title="LATINO",24/7 Gravity Falls (VOD)
 http://stream.latino-webtv.com/series/gravityfalls.mp4
