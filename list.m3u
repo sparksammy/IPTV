@@ -1158,7 +1158,7 @@ http://192.99.39.98:8000/live/angel/angel/48.ts
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://209.126.124.25/posters/1473884992445.png" group-title="LATINO",Cinecanal
 http://192.99.39.98:8000/live/angel/angel/87.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/depelicula.jpg" group-title="LATINO",De Pelicula
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/depelicula.jpg" group-title="LATINO",De Pelicula [NoKodi]
 http://192.99.39.98:8000/live/angel/angel/86.ts
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://planetadish.biz/cvr/tv/discoverycivilization.jpg" group-title="LATINO",Discovery Civilization
