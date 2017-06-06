@@ -2829,23 +2829,8 @@ http://185.53.161.149:8888/play/a00m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
 http://95.81.155.40/5958/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tendance-du-web.com/2013/img/img900_1.jpg" group-title="MOROCCO",Al Aoula*
-http://37.152.128.66:7012/play/a01g
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Arrabia-TV-550x367.png" group-title="MOROCCO",Arrabiaa
-http://37.152.128.66:7012/play/a01j
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/01/assadissa_tv.jpg" group-title="MOROCCO",Assadissa
-http://37.152.128.66:7012/play/a01l
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/01/assadissa_tv.jpg" group-title="MOROCCO",Assadissa*
 http://185.53.161.149:8888/play/a00a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MOROCCO",Tamazight TV
-http://37.152.128.66:7012/play/a01m
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Tamazight_TV8.png" group-title="MOROCCO",Tamazight TV*
-http://185.53.161.149:8888/play/a00d
 
 #EXTINF:-1 tvg-logo="http://online.sccnn.com/icon/1093/195.png" group-title="LABEL",~ Sudan TV ~
 http://www.lengua.com/anthems/Sudan.mp3
