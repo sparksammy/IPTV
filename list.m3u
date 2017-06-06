@@ -2565,45 +2565,6 @@ http://46.249.62.20:1830/play/a00m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah
 http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.shoofeetv.com/images/2013/08/20130825192233_channelsbig.png" group-title="KSA",Wanasah*
-http://37.152.128.66:7010/play/a01a
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" group-title="KSA",MBC
-http://37.152.128.66:7010/play/a011
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://b.vimeocdn.com/ts/347/553/347553907_640.jpg" group-title="KSA",MBC 2
-http://37.152.128.66:7010/play/a015
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/MBC_3_logo.jpg" group-title="KSA",MBC 3
-http://37.152.128.66:7010/play/a013
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sewar.panet.co.il/images/2009/03/23/1hkh.jpg" group-title="KSA",MBC 4
-http://37.152.128.66:7010/play/a012
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/51/11/e3/5111e30e5fab24255daa987a2a583eeb.jpg" group-title="KSA",MBC Action
-http://37.152.128.66:7010/play/a014
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mbc.net/default/mediaObject/Photos/2013/july/week-1/7-7-2013/max-1024/original/e8a7ce923c2e39313ea1d624a1754cde4cc87bbc/max-1024.jpg" group-title="KSA",MBC Max
-http://37.152.128.66:7010/play/a016
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-kEU08vkce8o/UtspIrSe2SI/AAAAAAAAAiI/eNN9_gm-CJU/s1600/Sans%2Btitre%2B1.png" group-title="KSA",MBC Drama
-http://37.152.128.66:7010/play/a018
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-67-gsy_3YnU/U0qiEq7Df8I/AAAAAAAAAzg/MK0SFJ48l7c/s1600/قناة+mbc+bollywood+2014.PNG" group-title="KSA",MBC Bollywood
-http://37.152.128.66:7010/play/a017
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/08/08/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe_4x3_690x515.jpg" group-title="KSA",MBC Pro Sports
-http://37.152.128.66:7017/play/a00e
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/08/08/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe_4x3_690x515.jpg" group-title="KSA",MBC Pro Sports 2
-http://37.152.128.66:7017/play/a00f
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/08/08/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe_4x3_690x515.jpg" group-title="KSA",MBC Pro Sports 3
-http://37.152.128.66:7017/play/a00g
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vid.alarabiya.net/images/2014/08/08/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe/fbe2b225-58f4-46d0-8cd9-a57c9f5714fe_4x3_690x515.jpg" group-title="KSA",MBC Pro Sports 4
-http://37.152.128.66:7017/play/a00h
-
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",~ UAE TV ~
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
 
