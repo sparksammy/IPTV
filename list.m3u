@@ -1149,6 +1149,36 @@ http://cast.streamingconnect.com:1935/elvenezolano/elvenezolano/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/770289655795286016/yx04qWjm.jpg" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.vimeocdn.com/video/264954255_1280x720.jpg" group-title="LATINO",AXN
+http://209.126.110.107:8081/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnlatam/site/static-3.1.79/img/cnlogo_social.png" group-title="LATINO",Cartoon Network
+http://209.126.110.107:8081/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/Discovery_Kids_Canada.png" group-title="LATINO",Discovery Kids
+http://209.126.110.107:8081/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.adweek.com/wp-content/uploads/files/news_article/disney-hed-2014.jpg" group-title="LATINO",Disney Channel
+http://209.126.110.107:8081/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/disney/images/7/73/Disney_junior24hrchannellogo.jpg" group-title="LATINO",Disney Junior
+http://209.126.110.107:8081/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.logo-designer.co/wp-content/uploads/2013/06/Disney-XD-Channel-MGFX-Studio-Rushes-Motion-Graphics-Branding-Identity-Design-8.jpg" group-title="LATINO",Disney XD
+http://209.126.110.107:8081/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/GJOQYfL6FOY/maxresdefault.jpg" group-title="LATINO",History
+http://209.126.110.107:8081/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="LATINO",Sony Channel
+http://209.126.110.107:8081/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-GWYPDztrmio/TmcVUzOhRZI/AAAAAAAAMag/8SAtw20RYnc/s1600/Studio+Universal%20MultiChoice%20DStv.png" group-title="LATINO",Universal Channel
+http://209.126.110.107:8081/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://style.shockvisual.net/wp-content/uploads/2014/08/warner.jpg" group-title="LATINO",Warner Channel
+http://209.126.110.107:8081/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
 
