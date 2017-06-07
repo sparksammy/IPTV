@@ -9,7 +9,7 @@ http://sc9106.xpx.pl:9106/
 #EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",< FLUXUS TV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 06/06/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 06/07/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -116,9 +116,6 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="USA",Bloomberg TV
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/0/0b/Fox_News_Channel.svg.png" group-title="USA",Fox News
-http://93.158.220.133:5000/play/a029
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.bbgdirect.com/Content/images/VOA-logo.png" group-title="USA",VoA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
@@ -1113,65 +1110,14 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latino TV ~
 http://50.7.56.2:8016
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/83/e9/ac/83e9acabae3493baeaacd50ea3aa2267.jpg" group-title="LATINO",24/7 El Chavo Animado
-http://192.99.39.98:8000/live/angel/angel/3068.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.postard.com/wp-content/uploads/2016/11/gravity-falls.jpg" group-title="LATINO",24/7 Gravity Falls (VOD)
 http://stream.latino-webtv.com/series/gravityfalls.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://truedemocracyparty.net/wp-content/uploads/key_art_the_simpsons.jpg" group-title="LATINO",24/7 Los Simpson*
-http://192.99.39.98:8000/live/angel/angel/1384.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="LATINO",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/boomerang.jpg" group-title="LATINO",Boomerang
-http://192.99.39.98:8000/live/angel/angel/49.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/carton.jpg" group-title="LATINO",Cartoon Network
-http://192.99.39.98:8000/live/angel/angel/48.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://209.126.124.25/posters/1473884992445.png" group-title="LATINO",Cinecanal
-http://192.99.39.98:8000/live/angel/angel/87.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/depelicula.jpg" group-title="LATINO",De Pelicula [NoKodi]
-http://192.99.39.98:8000/live/angel/angel/86.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://planetadish.biz/cvr/tv/discoverycivilization.jpg" group-title="LATINO",Discovery Civilization
-http://192.99.39.98:8000/live/angel/angel/2207.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/hh.jpg" group-title="LATINO",Discovery Home + Health
-http://192.99.39.98:8000/live/angel/angel/65.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://images.mi.tv/channels/sv_discovery-world-hd_m.png" group-title="LATINO",Discovery World
-http://192.99.39.98:8000/live/angel/angel/1375.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/dkids.jpg" group-title="LATINO",Discovery Kids
-http://192.99.39.98:8000/live/angel/angel/42.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://portal1.iptvprivateserver.tv/stalker_portal/misc/logos/320/56.png" group-title="LATINO",Discovery Turbo
-http://192.99.39.98:8000/live/angel/angel/150.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/fotoS/f1.jpg" group-title="LATINO",F1
-http://192.99.39.98:8000/live/angel/angel/82.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/fox.jpg" group-title="LATINO",Fox
-http://192.99.39.98:8000/live/angel/angel/24.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/history.jpg" group-title="LATINO",History
-http://192.99.39.98:8000/live/angel/angel/58.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="” tvg-logo="https://i0.wp.com/www.sopitas.com/wp-content/uploads/2016/04/tumblr_static_3s1vib38g52c8kgc8cgggggkk_640_v2.gif" group-title="LATINO",HomeTV Concerts
-http://192.99.39.98:8000/live/angel/angel/3089.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/natgeo.jpg" group-title="LATINO",Nat Geo Wild
-http://192.99.39.98:8000/live/angel/angel/68.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/univision_deportes_c.png" group-title="LATINO",Univision Deportes
-http://192.99.39.98:8000/live/angel/angel/1337.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vsQAgvN5JtQ/AAAAAAAAAAI/AAAAAAAAAAA/0Xb-yTUf-bc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Canal Claro
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
@@ -1269,17 +1215,8 @@ http://www.lengua.com/anthems/Mexico.mp3
 #EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title="MEXICO",Las Estrellas (Geo)
 http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 
-#EXTINF:-1 tvg-id="Canal 2 HD" tvg-name="Canal 2 HD" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title="MEXICO",Las Estrellas
-http://192.99.39.98:8000/live/angel/angel/1.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://planetadish.biz/cvr/tv/estrellas.jpg" group-title="MEXICO",Las Estrellas [-1]
-http://192.99.39.98:8000/live/angel/angel/5.ts
-
 #EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title="MEXICO",Las Estrellas [-2]
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
-
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg" group-title="MEXICO",Las Estrellas* [-2]
-http://192.99.39.98:8000/live/angel/angel/9.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png" group-title="MEXICO",A+
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
@@ -1347,17 +1284,8 @@ http://192.99.39.98:8000/live/angel/angel/77.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/ac/Fox_sports_2.png" group-title="MEXICO",Fox Sports 2
 http://209.126.110.107:8081/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/ac/Fox_sports_2.png" group-title="MEXICO",Fox Sports 2*
-http://192.99.39.98:8000/live/angel/angel/78.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="MEXICO",Fox Sports 3
 http://209.126.110.107:8081/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="MEXICO",Fox Sports 3*
-http://192.99.39.98:8000/live/angel/angel/79.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-9GLT0HEl5oY/VzzKhVUfMvI/AAAAAAAAkvo/R8ArcRtMIfwt-pAbfl78Nl-OQU0ZRrDdwCLcB/s1600/Logo_TDN.png" group-title="MEXICO",TDN
-http://192.99.39.98:8000/live/angel/angel/1373.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-iRuhg96Qeho/AAAAAAAAAAI/AAAAAAAAAAA/bQm9MPIQfzs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Canal 26
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
