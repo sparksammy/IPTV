@@ -1254,18 +1254,6 @@ http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports
 http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports*
-http://209.126.110.107:8081/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports**
-http://192.99.39.98:8000/live/angel/angel/77.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/a/ac/Fox_sports_2.png" group-title="MEXICO",Fox Sports 2
-http://209.126.110.107:8081/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Fox_Sports_3_logo.png" group-title="MEXICO",Fox Sports 3
-http://209.126.110.107:8081/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-iRuhg96Qeho/AAAAAAAAAAI/AAAAAAAAAAA/bQm9MPIQfzs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Canal 26
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 
@@ -1914,9 +1902,6 @@ http://www.lengua.com/anthems/Armenia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://izitv.tv/modules/homecontent/images/chans/trans/aabc.png" group-title="ARMENIA",AABC TV
 http://204.174.104.71:88/AABC_WEB_1201/aabc/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/6515.jpg" group-title="ARMENIA",MTV AM
-https://raw.githubusercontent.com/fluxustv/Channels/master/MTVArmenia.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.emit.it/assets/images/icone/Albania.png" group-title="LABEL",~ Albania TV ~
 http://www.lengua.com/anthems/Albania.mp3
 
@@ -1959,9 +1944,6 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rodiaki.gr/articles/2013-12-09/267507/thumb_640.jpg" group-title="GREECE",Aigaio TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www1.astratv.gr/wp-content/uploads/2015/06/logoastra-300x51.png" group-title="GREECE",Astra TV [Off]
-http://www.astratv.gr:8090/hls/livestream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cretetv.gr/wp-content/themes/apollo/images/logos/ktv-og.png" group-title="GREECE",Crete TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 
@@ -1986,7 +1968,7 @@ http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://syrosrace.gr/gr/wp-content/uploads/2011/08/TV1.jpg" group-title="GREECE",Syros TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-OKd7PRKNvq0/V5IU9KHwhkI/AAAAAAAACJs/Azm19N9RihkJaTIoBL9mm_gQOLcdHVc-gCLcB/s200/thrakinet.png" group-title="GREECE",Thraki Net TV [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-OKd7PRKNvq0/V5IU9KHwhkI/AAAAAAAACJs/Azm19N9RihkJaTIoBL9mm_gQOLcdHVc-gCLcB/s200/thrakinet.png" group-title="GREECE",Thraki Net TV
 http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/02f9ff0c940d52c67dc7a5aac7e9c235.jpeg" group-title="GREECE",Tilesport TV
