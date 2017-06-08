@@ -2682,17 +2682,11 @@ http://185.53.161.149:8888/play/a020
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.clipartlogo.com/files/images/50/502456/canal-algerie-tv_f.png" group-title="ALGERIA",Canal Algerie
 http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.clipartlogo.com/files/images/50/502456/canal-algerie-tv_f.png" group-title="ALGERIA",Canal Algerie*
-http://185.53.161.149:8888/play/a01z
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www12.0zz0.com/2013/05/19/19/779272851.jpg" group-title="ALGERIA",Dzair TV
 http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Morocco-01.png" group-title="LABEL",~ Morocco TV ~
 http://www.lengua.com/anthems/Morocco.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/2M_TV_%28logo%29.gif" group-title="MOROCCO",2M Monde
-http://185.53.161.149:8888/play/a00m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fraja-maroc.net/TV/img/img13.jpg" group-title="MOROCCO",Al Aoula
 http://95.81.155.40/5958/index.m3u8
