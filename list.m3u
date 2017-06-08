@@ -2628,9 +2628,6 @@ http://www.lengua.com/anthems/Yemen.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" group-title="YEMEN",Yemen TV
 http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" group-title="YEMEN",Yemen TV*
-http://185.53.161.149:8888/play/a014
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/almasirah_tv_yemen.jpg" group-title="YEMEN",Al Masirah
 http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 
