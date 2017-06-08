@@ -2661,9 +2661,6 @@ http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nessma
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Libya%20(New)-01.png" group-title="LABEL",~ Libya TV ~
 http://www.lengua.com/anthems/Libya.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/mqEK6nU.gif" group-title="LIBYA",Al Hadath [Off]
-http://starmena.ercdn.net/libya-alhadath/libya-alhadath.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i64.tinypic.com/msm71t.jpg" group-title="LIBYA",Al Nabaa
 http://www.elahmad.com/tv/m3u8/edgecastcdn.m3u8?id=nabaa_tv
 
@@ -2675,9 +2672,6 @@ http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",~ Algeria TV ~
 http://www.lengua.com/anthems/Algeria.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.premium-dz.net/images/logo-chaine-tv/a3.png" group-title="ALGERIA",A3
-http://185.53.161.149:8888/play/a020
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.clipartlogo.com/files/images/50/502456/canal-algerie-tv_f.png" group-title="ALGERIA",Canal Algerie
 http://www.elahmad.com/tv/m3u8/fr_xoyky_49.m3u8?id=algerie
