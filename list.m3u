@@ -171,6 +171,12 @@ http://stream.canalsavoir.tv/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/CHCH_HD.PNG" group-title="CANADA",CHCH
 http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-RptXgX--BQo/UzBZcK2YyGI/AAAAAAAABLU/NTJX82V0w2Q/s320/citytv.png" group-title="CANADA",CityTV Calgary
+http://btflash-lh.akamaihd.net/i/BTCALFLASH_live@120221/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vancitybuzz.com/wp-content/uploads/2012/06/city_tv_vancouver.jpg" group-title="CANADA",CityTV Vancouver
+http://btflash-lh.akamaihd.net/i/BTVANFLASH_live@120224/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg" group-title="CANADA",CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 
@@ -213,6 +219,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/11526.jpg" group-title="UK",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kompitv.com/images/chelsea-tv.jpg" group-title="UK",Chelsea TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
 http://81.7.13.162/hls/ss4/index.m3u8
 
@@ -252,11 +261,17 @@ http://mellotvnew.tulix.tv/live/smil:mellotv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/de.png" group-title="LABEL",~ Germany TV ~
 http://www.lengua.com/anthems/Germany.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/1200px-3sat-Logo.svg.png" group-title="GERMANY",3Sat
+http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="GERMANY",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle*
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://seeklogo.com/images/E/Euronews-logo-1584DEBA3C-seeklogo.com.gif" group-title="GERMANY",Euronews
 http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
@@ -332,6 +347,9 @@ http://apasfiisl.apa.at/ipad/orfs_q4a/orf.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rts-salzburg.at/wp-content/themes/rts/images/rts-logo.png" group-title="AUSTRIA",RTS Salzburg
 http://80.237.191.228:1935/live/_definst_/RTS2015/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/587888784945086464/3aMl6Uyt.jpg" group-title="AUSTRIA",ServusTV
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/TIROL_TV_Logo.jpg" group-title="AUSTRIA",Tirol TV
 http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
@@ -513,7 +531,7 @@ http://streaming06.axeweb.be/live/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV (French)
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV *(French)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tRonseR.png" group-title="BELGIUM",NRJ Hits TV* (French)
 http://5.196.138.6:1935/live/nrjbelgique_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://en.keywall.be/wp-content/themes/devdmbootstrap3-sasschild/img/partners/telesambre-512x512.png" group-title="BELGIUM",Telesambre (French)
@@ -521,6 +539,9 @@ http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cache.tvl.be/tvlbe/meta/tvl.25ce1cf6.png" group-title="BELGIUM",TVL (Dutch)
 http://urtmpkal-f.akamaihd.net/i/1ef9833b4_1@128347/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.frontview-magazine.be/sites/default/files/news/30843-tvo-digitext-de-nieuwe-digitale-teletekst-van-tv-oost-528130.jpg" group-title="BELGIUM",TV OOST
+http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://civiltarsulas.hu/uploads/icons/language/Français.png" group-title="LABEL",~ France TV ~
 http://www.lengua.com/anthems/France.mp3
@@ -1062,6 +1083,9 @@ http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV*
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg" group-title="SPAIN",Real Madrid TV (English)
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
@@ -1182,6 +1206,9 @@ http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radiopower.com.ar/img/logoPwrHD_small.png" group-title="ARGENTINA",Power HD
 http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redeco.com.ar/images/stories/redeco/Nacional/medios/qm_noticias.png" group-title="ARGENTINA",Qm Noticias
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ARGENTINA",Radio One
 http://server5.stweb.tv/radioone/live/playlist.m3u8
 
@@ -1206,6 +1233,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png" group-title="MEXICO",A+
 http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MEXICO",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://elpoderdelespiritu.com/channels/aztecatrece.png" group-title="MEXICO",Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 
@@ -1217,6 +1247,9 @@ http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="MEXICO",Milenio TV*
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="MEXICO",TeleFormula
 http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b1128000.m3u8
@@ -3234,6 +3267,9 @@ http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="RELIGION",3ABN Kidz (USA)
 http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/Daystar_TV.PNG" group-title="RELIGION",Daystar (Canada)
+http://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master_1080p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2016/03/Watch-MTM-TV-Live-TV-from-Jamaica.jpg" group-title="RELIGION",MTM TV (Jamaica)
 http://media.btbn.tv/mtmtv/live/playlist.m3u8
 
@@ -3308,6 +3344,9 @@ http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/8/logo_thumb.jpg" group-title="RELIGION",RTVida (Spain)
 http://178.32.53.254/radiovida/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/2qauuep.png" group-title="RELIGION",G12 Vision (Colombia)
+http://wowzaprod8-lh.akamaihd.net/i/e05c0eb8_1@44165/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tnetv.cl/img/logo.jpg" group-title="RELIGION",TNE TV
 http://video.crearchile.info:8080/live/tnetv1/playlist.m3u8
@@ -3395,6 +3434,9 @@ http://ipointcablertmp.tulix.tv/elshaddai/elshaddai/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alhorreya.org/wp-content/uploads/2016/04/logo-3.png" group-title="RELIGION",Al Horreya (US)
 http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bog.tv/img/logo.png" group-title="RELIGION",BOG TV (Russia)
+http://bogtvhdlive-f.akamaihd.net/i/bogtv_main@69601/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="RELIGION",Soyuz (Russia)
 http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
