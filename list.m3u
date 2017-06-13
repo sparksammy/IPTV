@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",! FLUXUS TV
+#EXTINF:-1 tvg-logo="http://i67.tinypic.com/4ui78x.png" group-title="LABEL",* FLUXUS TV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://casinofreespins.eu/wp-content/uploads/sites/19/2013/08/Casino-free-spins.gif" group-title="LABEL",$ Free IPTV
+#EXTINF:-1 tvg-logo="http://casinofreespins.eu/wp-content/uploads/sites/19/2013/08/Casino-free-spins.gif" group-title="LABEL",+ Free IPTV
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",* Please DONATE!
+#EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please DONATE!
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",+ Update: 06/12/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 06/13/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",= fb.me/FluxusTV
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
@@ -3444,29 +3444,11 @@ http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.rtv.rs/slike/2015/12/16/tv-hram_660x330.jpg" group-title="RELIGION",Hram TV (Serbia)
 http://178.253.194.75:1935/live/hram.stream/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-3JAcQA7D5YY/UZnQ6ZFkc_I/AAAAAAAAAR8/Rq84Rg1rwL8/s320/185007_272231836220249_1896566426_n.jpg" group-title="RELIGION",Al Fady (USA)
-http://185.53.161.149:8888/play/a00i
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-yGH6llWlQ3c/UaDUwx1sAUI/AAAAAAAAATQ/wx4IKe4cEjk/s320/AlkarmaTVLogo.jpg" group-title="RELIGION",Al Karma TV (USA)
-http://185.53.161.149:8888/play/a00s
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thematv.com/images/channels/noursat.png" group-title="RELIGION",Tele Lumiere (Lebanon)
-http://185.53.161.149:8888/play/a00f
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ted.adventist.org/sites/default/files/FINAL_LOGO_NO_ENGLISH_s.jpg" group-title="RELIGION",Al Waad (Lebanon)
 http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/30k67lu.jpg" group-title="RELIGION",Al Hayat (Egypt)
-http://185.53.161.149:8888/play/a015
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/30k67lu.jpg" group-title="RELIGION",Al Hayat 2 (Egypt)
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2012/12/Al-Malakoot-TV.jpg" group-title="RELIGION",Al Malakoot TV (Egypt)
-http://185.53.161.149:8888/play/a00r
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" group-title="RELIGION",CTV (Egypt)
-http://185.53.161.149:8888/play/a023
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="RELIGION",Al Quran Al Karim (KSA) [Off]
 http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
@@ -3525,8 +3507,5 @@ http://37.152.128.66:7009/play/a00q
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.duzicimuftulugu.gov.tr/resimler/bag/1cf553078842fce52c1d2edebaa51f69.jpg" group-title="RELIGION",TRT Diyanet (Turkey)
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/amozhgary.png" group-title="RELIGION",Amozhgary TV (Kurdistan) [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/amozhgary.png" group-title="RELIGION",Amozhgary TV (Kurdistan)
 http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cantemo.com/casestudies/mta-international/mta-logo-small.png" group-title="RELIGION",MTA Int'l.(UK)
-http://185.53.161.149:8888/play/a00x
