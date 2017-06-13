@@ -2241,10 +2241,10 @@ http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epaper.pknewspapers.com/images/epapers/pakistan/geo-news-urdu.jpg" group-title="PAKISTAN",Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN",Hum TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN",Hum TV [NoKodi]
 https://live.tune.tv/humtv/hum-tv/chunklist_w.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tune.tv/desktop/images/live4.png" group-title="PAKISTAN",Hum Masala
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tune.tv/desktop/images/live4.png" group-title="PAKISTAN",Hum Masala [NoKodi]
 https://live.tune.tv/humasala/hum-asala/chunklist_w.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveislife.info/wp-content/uploads/2015/12/Samaa-News-TV-Logo-Pakistan.png" group-title="PAKISTAN",Samaa
