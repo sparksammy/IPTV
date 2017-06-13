@@ -2241,7 +2241,7 @@ http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epaper.pknewspapers.com/images/epapers/pakistan/geo-news-urdu.jpg" group-title="PAKISTAN",Geo News
 http://stream.jeem.tv/geo/geonews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hum.tv/wp-content/themes/humtv2017/images/hum_tv_logo.svg" group-title="PAKISTAN",Hum TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="PAKISTAN",Hum TV
 https://live.tune.tv/humtv/hum-tv/chunklist_w.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tune.tv/desktop/images/live4.png" group-title="PAKISTAN",Hum Masala
