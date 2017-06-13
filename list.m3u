@@ -2868,22 +2868,22 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9.jpg" group-title="LABEL",~ DJing ~
 http://37.97.160.125:9128
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="MUSIC",Animation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.streamytv.net/wp-content/uploads/2015/11/Djing-Animation.png" group-title="DJing",Animation
 http://www.djing.com/tv/a-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fernsehen-live-stream.org/uploads/posts/2016-05/1463334619_djing-classics.jpg" group-title="MUSIC",Classics
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fernsehen-live-stream.org/uploads/posts/2016-05/1463334619_djing-classics.jpg" group-title="DJing",Classics
 http://www.djing.com/tv/i-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png" group-title="MUSIC",Ibiza
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bouquettv.mediactus.fr/wp-content/uploads/2016/11/Djing-Ibiza-TV.png" group-title="DJing",Ibiza
 http://www.djing.com/tv/d-05.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg" group-title="MUSIC",Underground
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wikibox.eu/wp-content/uploads/2015/09/DJing-Underground.jpg" group-title="DJing",Underground
 http://www.djing.com/tv/u-05.m3u8
 
 #EXTINF:-1 tvg-logo="http://wingsdomain.com/_shared/icons/wingsdomain-subscribe-icon.png" group-title="LABEL",~ USA Local News ~
 http://167.88.154.169/wnycfm-tunein
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ggbenitezpr.com/images/case_studies/mabels/wgn9-logo-bg.jpg" group-title="USA LOCAL",WGN News (Chicago)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ggbenitezpr.com/images/case_studies/mabels/wgn9-logo-bg.jpg" group-title="USA LOCAL",WGN News (Chicago) [Off]
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_4500_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="USA LOCAL",NBC 11 News (Bay Area)
