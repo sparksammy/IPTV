@@ -222,8 +222,38 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kompitv.com/images/chelsea-tv.jpg" group-title="UK",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jameshaskell.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/b/bbc_sport.png" group-title="UK",BBC Sport
+http://user:asdqwe@rel4.european-iptv.com:81/8144
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/bt-sport-1-logo.jpeg" group-title="UK",BT Sport 1
+http://user:asdqwe@rel4.european-iptv.com:81/8374
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s1.freesport24.pw/live/btsport2.png" group-title="UK",BT Sport 2
+http://user:asdqwe@rel4.european-iptv.com:81/8537
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
 http://81.7.13.162/hls/ss4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1*
+http://user:asdqwe@rel4.european-iptv.com:81/8328
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvcric.co/wp-content/uploads/2014/04/Sky-Sports-1-logo-Live-Streaming-Watch-Online-HD.jpg" group-title="UK",Sky Sports 1
+http://user:asdqwe@rel4.european-iptv.com:81/8360
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thebox.pk/wp-content/uploads/2016/11/SKY-SPORTS-2.jpg" group-title="UK",Sky Sports 2
+http://user:asdqwe@rel4.european-iptv.com:81/8359
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvcric.co/wp-content/uploads/2014/05/Sky-Sports-3-logo-Live-Streaming-Watch-Online-HD.jpg" group-title="UK",Sky Sports 3
+http://user:asdqwe@rel4.european-iptv.com:81/8361
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.btvsports24.com/wp-content/uploads/2017/05/sky-4.jpg" group-title="UK",Sky Sports 4
+http://user:asdqwe@rel4.european-iptv.com:81/8362
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="UK",Fox Sports
+http://user:asdqwe@rel4.european-iptv.com:81/8572
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1f4dbf7642995.560af1b873232.png" group-title="UK",Viasat Sport
+http://user:asdqwe@rel4.european-iptv.com:81/8358
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC Style
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
