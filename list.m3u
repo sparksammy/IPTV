@@ -3513,7 +3513,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/30k67lu.jpg" group-title="RELIGION",Al Hayat 2 (Egypt)
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="RELIGION",Al Quran Al Karim (KSA) [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="RELIGION",Al Quran Al Karim (KSA)
 http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="RELIGION",Al Quran Al Karim* (KSA)
