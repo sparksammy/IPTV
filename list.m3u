@@ -787,7 +787,7 @@ http://www.lengua.com/anthems/Portugal.mp3
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="PORTUGAL",Eurosport 1
-http://83.99.64.110:8005/play/a05e
+http://80.90.41.118:6600/play/a007
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg" group-title="PORTUGAL",Porto Canal
 http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
