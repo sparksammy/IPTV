@@ -798,6 +798,9 @@ http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="PORTUGAL",RTP2
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/28545_38014_27812.jpg" group-title="PORTUGAL",RTP 3
+http://80.90.41.118:6600/play/a00e
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2rbzh39.jpg" group-title="PORTUGAL",RTP Acores
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
 
