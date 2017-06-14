@@ -1260,6 +1260,9 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-VcZvgiA4ZWU/AAAAAAAAAAI/AAAAAAAAAAA/pIOWNecCpF4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Vorterix
+http://ffahls-lh.akamaihd.net/i/vorvideo01hls_1@305260/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://topqmedoc.com/wp-content/uploads/2014/11/Mexico-01.png" group-title="LABEL",~ Mexico TV ~
 http://www.lengua.com/anthems/Mexico.mp3
 
