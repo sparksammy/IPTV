@@ -120,20 +120,8 @@ http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN [Off]
 http://stream.i4atv.info/ggwpl/live2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN*
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/35502.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN**
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/1645.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-zfWmwT9TWQA/VO_8EqdcFwI/AAAAAAAABgc/F4ZIp0AfzXU/w1200-h630-p-k-no-nu/ESPN%2B2%2B%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="USA",ESPN 2
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/5426.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="USA",Fox Sports
 http://user:asdqwe@rel4.european-iptv.com:81/8572
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanflattrack.com/storage/app/uploads/public/564/381/463/thumb_60013_1200x800_0_0_auto.jpg" group-title="USA",NBCSN
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/1785.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
@@ -212,9 +200,6 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK TV ~
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/211.png" group-title="UK",BBC One
-http://dexonline.ninja:8000/live/clreaiptv/direct1654/34627.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/bbc_news_logo.png" group-title="UK",BBC News
 http://user:asdqwe@rel4.european-iptv.com:81/8144
