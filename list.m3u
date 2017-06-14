@@ -60,6 +60,15 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/7383.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/484.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/8020.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
@@ -119,6 +128,9 @@ http://stream.i4atv.info/ggwpl/live2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="USA",Fox Sports
 http://user:asdqwe@rel4.european-iptv.com:81/8572
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanflattrack.com/storage/app/uploads/public/564/381/463/thumb_60013_1200x800_0_0_auto.jpg" group-title="USA",NBCSN
+http://dexonline.ninja:8000/live/clreaiptv/direct1654/1785.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
