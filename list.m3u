@@ -2022,6 +2022,9 @@ http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Ellin
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live24.gr/resrc/styles/custom-popups/kontrachannel/logo-kontra.png" group-title="GREECE",Kontra
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/MakedoniaTV_OnAir_HD.jpg" group-title="GREECE",Makedonia TV
+http://anglantennalive5-lh.akamaihd.net:80/i/live_1@424766/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mpaxalotv.magicstreams.net/mpaxalologo.jpg" group-title="GREECE",Mpaxalo TV
 http://xmpaxalotv1x.api.channel.livestream.com/3.0/playlist.m3u8
 
