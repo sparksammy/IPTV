@@ -60,16 +60,16 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2730.jpg" group-title="USA",ABC
 http://dexonline.ninja:8000/live/clreaiptv/direct1654/7383.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diylogodesigns.com/blog/wp-content/uploads/2016/01/CBS-logo-design-tv-United-States.png" group-title="USA",CBS
 http://dexonline.ninja:8000/live/clreaiptv/direct1654/484.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/2126_2.jpg" group-title="USA",NBC
 http://dexonline.ninja:8000/live/clreaiptv/direct1654/8020.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491105333230.png" group-title="USA",Fox [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491105333230.png" group-title="USA",Fox
 http://dexonline.ninja:8000/live/clreaiptv/direct1654/9137.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
