@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please DONATE!
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 06/14/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 06/15/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -2651,6 +2651,45 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 1
+http://asno.gcdn.co/bn-sp-1-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 2
+http://asno.gcdn.co/bn-sp-2-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 3
+http://asno.gcdn.co/bn-sp-3-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 4
+http://asno.gcdn.co/bn-sp-4-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 5
+http://asno.gcdn.co/bn-sp-5-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 6
+http://asno.gcdn.co/bn-sp-6-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 7
+http://asno.gcdn.co/bn-sp-7-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 8
+http://asno.gcdn.co/bn-sp-8-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 9
+http://asno.gcdn.co/bn-sp-9-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 10
+http://asno.gcdn.co/bn-sp-10-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 11
+http://asno.gcdn.co/bn-sp-11-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 12
+http://asno.gcdn.co/bn-sp-12-hd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 13
+http://asno.gcdn.co/bn-sp-13-hd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kw.png" group-title="LABEL",~ Kuwait TV ~
 http://www.lengua.com/anthems/Kuwait.mp3
