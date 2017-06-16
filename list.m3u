@@ -180,10 +180,10 @@ http://liveradiocanada.cbc.ca/i/CBCR2_TOR@382863/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/CHCH_HD.PNG" group-title="CANADA",CHCH
 http://52.86.189.59:1935/live/news/chunklist_w479079800.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-RptXgX--BQo/UzBZcK2YyGI/AAAAAAAABLU/NTJX82V0w2Q/s320/citytv.png" group-title="CANADA",CityTV Calgary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-RptXgX--BQo/UzBZcK2YyGI/AAAAAAAABLU/NTJX82V0w2Q/s320/citytv.png" group-title="CANADA",CityTV Calgary [Off]
 http://btflash-lh.akamaihd.net/i/BTCALFLASH_live@120221/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vancitybuzz.com/wp-content/uploads/2012/06/city_tv_vancouver.jpg" group-title="CANADA",CityTV Vancouver
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vancitybuzz.com/wp-content/uploads/2012/06/city_tv_vancouver.jpg" group-title="CANADA",CityTV Vancouver [Off]
 http://btflash-lh.akamaihd.net/i/BTVANFLASH_live@120224/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg" group-title="CANADA",CPAC
