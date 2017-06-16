@@ -1239,6 +1239,9 @@ http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="ARGENTINA",Fox Sports
 http://link.theplatform.com/s/flac/nM8cCUC8Vx9L?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="ARGENTINA",Fox Sports*
+http://50.97.142.181:8080/foxsportt.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diario26.com/images/musictop_poster.png" group-title="ARGENTINA",Music Top
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
