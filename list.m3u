@@ -114,7 +114,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV
 http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN
 http://stream.i4atv.info/ggwpl/live2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="USA",Fox Sports
@@ -1338,6 +1338,9 @@ http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title="MEXICO",Canal 66
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/tva_mexico.jpg" group-title="MEXICO",TV Acapulco
+http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/rcgtv.png" group-title="MEXICO",RCG 1 TV
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 
@@ -1361,6 +1364,9 @@ http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
 
 #EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="https://destel.mx/wp-content/uploads/2016/04/402.png" group-title="MEXICO",Multimedios
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486350658770
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://abdavega.playlatinohd.com/logos/mexico/ptv.PNG" group-title="MEXICO",Puebla TV
+http://189.203.247.136/live/pueblatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redmexico.org.mx/admin/dbfiles/dbdirectorio/dbicos/71.jpg" group-title="MEXICO",RTQ
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
