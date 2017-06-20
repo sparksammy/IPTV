@@ -2919,38 +2919,11 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i66.tinypic.com/n1qafa.png" group-title="SOUTH KOREA",Ranking Mosaic
-http://61.82.207.234:9981/stream/channelid/1704918261
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="SOUTH KOREA",BBC Earth
-http://61.82.207.234:9981/stream/channelid/1170625772
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnlatam/site/static-3.1.79/img/cnlogo_social.png" group-title="SOUTH KOREA",Cartoon Network
-http://61.82.207.234:9981/stream/channelid/401479986
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Channel_A_Logo_transparent.png/220px-Channel_A_Logo_transparent.png" group-title="SOUTH KOREA",Channel A [Off]
 http://123.108.164.71/etv2sb/phd43/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Channel_A_Logo_transparent.png/220px-Channel_A_Logo_transparent.png" group-title="SOUTH KOREA",Channel A*
-http://61.82.207.234:9981/stream/channelid/1888686658
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.abu.org.my/images/articles/news/ebs_logo.jpg" group-title="SOUTH KOREA",EBS
-http://61.82.207.234:9981/stream/channelid/1546441291
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="SOUTH KOREA",Fun TV
-http://61.82.207.234:9981/stream/channelid/791844281
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/d/dc/JTBC-logo-424x299.jpg" group-title="SOUTH KOREA",JTBC
-http://61.82.207.234:9981/stream/channelid/1560755442
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png" group-title="SOUTH KOREA",KBS1
-http://61.82.207.234:9981/stream/channelid/172913083
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png" group-title="SOUTH KOREA",KBS 2
 http://123.108.164.71/etv2/phd847/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png" group-title="SOUTH KOREA",KBS 2*
-http://61.82.207.234:9981/stream/channelid/48197424
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://payload497.cargocollective.com/1/19/633459/12251667/KCTV_011_1280.png" group-title="SOUTH KOREA",KCTV
 http://122.202.129.136:1935/live/ch5/playlist.m3u8
@@ -2961,50 +2934,14 @@ http://111.118.21.79/etv1/phd393/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-qmLWm9FFEDA/UdWIdPyqvtI/AAAAAAAAAdg/dOSv-sogcxg/s960/mbc.jpg" group-title="SOUTH KOREA",MBC
 http://119.202.61.202:1935/live/livetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-qmLWm9FFEDA/UdWIdPyqvtI/AAAAAAAAAdg/dOSv-sogcxg/s960/mbc.jpg" group-title="SOUTH KOREA",MBC*
-http://61.82.207.234:9981/stream/channelid/1794524439
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-ZP83MPwNA0A/V5-orR6dvhI/AAAAAAAAAPE/h52o53wP-6IANiItXxXGiFl6SqBEaX0fQCLcB/s1600/mbc%2Bevery%2B1%2Bonline.png" group-title="SOUTH KOREA",MBC Every1
-http://61.82.207.234:9981/stream/channelid/1906096420
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-W9YlgIzBZJw/V5uxi3I_XfI/AAAAAAAAAOg/UoPbJUJpXGUsFxwfzIJWQUyRbVEnvPAaACLcB/s1600/mbc%2Bmusic%2Bonline.png" group-title="SOUTH KOREA",MBC Music
-http://61.82.207.234:9981/stream/channelid/89836161
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/mbn_korea.jpg" group-title="SOUTH KOREA",MBN
-http://61.82.207.234:9981/stream/channelid/1797813710
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pprkgraphiks.com/wp-content/uploads/2015/10/mnet.png" group-title="SOUTH KOREA",Mnet
-http://61.82.207.234:9981/stream/channelid/1643618824
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/1zoaoud.jpg" group-title="SOUTH KOREA",Mountain TV [Off]
 http://123.108.164.71/etv2sb/phd337/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/x_C1WD1fC5E/maxresdefault.jpg" group-title="SOUTH KOREA",NATV
-http://61.82.207.234:9981/stream/channelid/1889555540
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/thumb/5/5a/OBS-Logo.JPG/300px-OBS-Logo.JPG" group-title="SOUTH KOREA",OBS TV [Off]
 http://111.118.21.79/etv1sb/phd3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-wHzS04Swu30/VT4H_Rd5BHI/AAAAAAAAFdk/FJHXCCDtclY/s1600/LnsKz_4I_400x400.png" group-title="SOUTH KOREA",OCN
-http://61.82.207.234:9981/stream/channelid/1677317061
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/11ahf69.jpg" group-title="SOUTH KOREA",OnGameNet
-http://61.82.207.234:9981/stream/channelid/728820551
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arenamundo.com/wp-content/uploads/2016/11/SBS-Korea-Logo-vector.jpg" group-title="SOUTH KOREA",SBS
-http://61.82.207.234:9981/stream/channelid/499739177
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://archivenew.vop.co.kr/images/65b25adf4f62d1345837844e7239c144/2015-11/marked/27080104_logo_tvn.jpg" group-title="SOUTH KOREA",TVN
-http://61.82.207.234:9981/stream/channelid/822820247
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://english.cj.net/images/cjBrand/list_enjoy/list_xtm.png" group-title="SOUTH KOREA",XTM
-http://61.82.207.234:9981/stream/channelid/257022553
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo-670x300.jpg" group-title="SOUTH KOREA",YTN [Off]
 http://123.108.164.71/etv2sb/phd193/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo-670x300.jpg" group-title="SOUTH KOREA",YTN*
-http://61.82.207.234:9981/stream/channelid/111371087
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",~ China TV ~
 http://www.lengua.com/anthems/China.mp3
