@@ -1092,8 +1092,11 @@ http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="SPAIN",Eurosport 1
-http://93.158.220.133:5000/play/a02b
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="SPAIN",Eurosport [NoKodi]
+http://edge9.verliga.me/live/eurosport/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="SPAIN",Eurosport* [NoKodi]
+http://edge15.verliga.me/live/eurosport/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.beevoz.com/wp-content/uploads/2015/08/factoria-logo.jpg" group-title="SPAIN",FDF [NoKodi]
 http://edge4.telesport.pw/live/fdf/index.m3u8
@@ -2513,15 +2516,6 @@ http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aljazeera.com/mritems/images/2006/11/23/1_202119_1_5.jpg" group-title="LEBANON",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.MTVLebanon.png.pagespeed.ic.NLI5PzGo4z.png" group-title="LEBANON",MTV
-http://81.230.200.187:1967/live/rVgvJprKeu/deEf48S4MA/109.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.MTVLebanon.png.pagespeed.ic.NLI5PzGo4z.png" group-title="LEBANON",MTV*
-http://51.255.76.200:8000/live/1024r1mN991908/19mQH9092JEs44/1335.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.MTVLebanon.png.pagespeed.ic.NLI5PzGo4z.png" group-title="LEBANON",MTV**
-http://51.255.76.200:8000/live/303040977B03cC/040007400Y4282/1335.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.countryflags.com/thumbs/syria/flag-button-square-250.png" group-title="LABEL",~ Syria TV ~
 http://www.lengua.com/anthems/Syria.mp3
