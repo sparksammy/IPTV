@@ -1494,6 +1494,15 @@ http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/pl
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="CHILE",FM Hot
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1178_2_13968.png" group-title="CHILE",Fox Sports
+http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.itvpatagonia.com/joomla/images/FotosArticulos/Itv.png" group-title="CHILE",ITV
+http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
+
+#EXTINF:0 tvg-logo="http://i.imgur.com/xBgH1Tw.jpg" group-title="CHILE",Maxima TV
+http://190.107.176.55:1935/live/maxima-fm/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-YEjIIj8xuXo/WCsRZwvXK_I/AAAAAAAAnC4/C1Rdee9JTR4c25aDx20a-0BDqVtsl7NjwCLcB/s300/megatv-megavision-chile.png" group-title="CHILE",Mega
 http://edge-10-ak.mdstrm.com/i/mediastream01_hls@119683/master.m3u8
 
@@ -1506,8 +1515,14 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13
 http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ASr9Vkf.png" group-title="CHILE", TV Red
+http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="CHILE",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.novasur.cl/sites/default/files/web_umag_tv.png" group-title="CHILE", UMAG TV
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalvtv.cl/web/wp-content/uploads/2015/08/canalvtv_transparente_ch.png" group-title="CHILE",VTV
 http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
