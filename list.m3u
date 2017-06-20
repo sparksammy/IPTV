@@ -63,9 +63,6 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/HGTV.png" group-title="USA",HGTV
-https://hlsprx-10.herokuapp.com/hls/ffd7da11a7897c4c1d2000c8a95c44cd/1497660611/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3233352f7032702f37643930303063303936376363343931396630376563626532373336633935612e6d3375383f73743d744b5641304a6f72434937684a2d3739596f6d6f6c5126653d31343937363735303131.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV
 https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master_2000.m3u8
 
