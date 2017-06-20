@@ -999,6 +999,12 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg" group-title="BRAZIL",Via Morena
 http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/shoptime.png" group-title="BRAZIL",Shoptime
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vCvDIjPGEOL74WH8BlFA/index-s32.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/shoptime.png" group-title="BRAZIL",Shoptime*
+http://cdnapi.kaltura.com/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
+
 #EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/rounded-world-flags/andorra-flag-2.png" group-title="LABEL",~ Andorra TV ~
 http://www.lengua.com/anthems/Andorra.mp3
 
@@ -1262,6 +1268,9 @@ http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro
 http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000469137087/0d9032e1e3a7e6b29742ea8e3f679af4_400x400.png" group-title="ARGENTINA",ESPN Radio 107.9
+http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://insiderlatam.com/wp-content/uploads/2016/04/Europa-Europa-1.jpg" group-title="ARGENTINA",Europa Europa
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w437571733.m3u8
@@ -1901,6 +1910,9 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/MM_Television_logo_%28former_TV_station_in_Bulgaria%29.png" group-title="BULGARIA",MM TV
 http://live-24.viewer.dacast.com/i/dclive_1@407356/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-vhxMefIdkA4/AAAAAAAAAAI/AAAAAAAAAAA/10vB6Rm4S20/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BULGARIA",Tatai Televizio
+http://91.82.85.41:1935/liverelay/tataitv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.byalareka.com/ikoni/kanal/bg-stoychevtv.png" group-title="BULGARIA",TV Stoichev
 http://ios.cdn.bg:2015/fls/tvstoichev.stream/playlist.m3u8
