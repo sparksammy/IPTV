@@ -1794,8 +1794,17 @@ http://www.lengua.com/anthems/Venezuela.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal11delzulia.com.ve/11_files/Canal11-logo.png" group-title="VENEZUELA",Canal 11 [Off]
 http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1163_2_27037.png" group-title="VENEZUELA",Canal i
+http://edge.wms28.lorini.net/canal-i/canal-i/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1154505403/LOGO_PLUS_V1_400x400.jpg" group-title="VENEZUELA",Plus TV
+http://iphone-streaming.ustream.tv/uhls/18110205/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg" group-title="VENEZUELA",Promar TV
 http://edge.wms28.lorini.net/promar/promar/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Promar_tv_Venezuela.jpg" group-title="VENEZUELA",Promar TV*
+http://vpn58.hdtv.lorini.net/promar/promar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fun88goal.com/wp-content/uploads/2015/05/sun-channel-tourism-tv-logo-primary.jpg" group-title="VENEZUELA",Sun Channel
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
@@ -1814,6 +1823,9 @@ http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gentiuno.com/gt1media/2014/11/Vale-TV-Portada-620x310.jpg" group-title="VENEZUELA",Vale TV
 http://edge.wms28.lorini.net/valetv/valetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/1251.png" group-title="VENEZUELA",VMAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/logo-vivo.png" group-title="VENEZUELA",Vivo Play
 https://vivoplay-i.akamaihd.net/hls/live/261554/canal1/master2500k.m3u8
