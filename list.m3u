@@ -456,6 +456,9 @@ http://wowza.pmedia74.kpnstreaming.nl/pi6atvlive/rtvpurm/chunklist_w2047641916.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="NETHERLANDS",Slam! TV
 http://hls2.slamfm.nl/content/slamtv/slamtv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100714q.png" group-title="NETHERLANDS",Slam! TV*
+http://hls.slam.nl/streaming/hls/SLAM!/lower_500000/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.538.nl/social_share.png" group-title="NETHERLANDS",TV 538
 http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
 
@@ -795,8 +798,8 @@ http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Portugal-icon.png" group-title="LABEL",~ Portugal TV ~
 http://www.lengua.com/anthems/Portugal.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="PORTUGAL",Euronews
-http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/566414018/logo_TVAgueda.png" group-title="PORTUGAL",Agueda TV
+http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="PORTUGAL",Eurosport 1
 http://80.90.41.118:6600/play/a007
@@ -3424,6 +3427,9 @@ http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/874652880082522112/tJGtDDiy_400x400.jpg" group-title="RELIGION",MK Music (Brazil)
 http://45.43.208.98:1935/tvmonteiro/tvmonteiro/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-1Rl2iBFkIXk/AAAAAAAAAAI/AAAAAAAAAAA/qc0Gdz6Ssw0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="RELIGION",Foz TV (Brazil)
+http://gw01.7idi.com:8087/hls/foztv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/8/logo_thumb.jpg" group-title="RELIGION",RTVida (Spain)
 http://178.32.53.254/radiovida/livestream/playlist.m3u8
