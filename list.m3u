@@ -117,9 +117,6 @@ http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN
 http://stream.i4atv.info/ggwpl/live2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="USA",Fox Sports
-http://user:asdqwe@rel4.european-iptv.com:81/8572
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
@@ -239,6 +236,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kompitv.com/images/chelsea-tv.jpg" group-title="UK",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png" group-title="UK",Premier Sports
+http://user:asdqwe@rel4.european-iptv.com:81/8572
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/bt-sport-1-logo.jpeg" group-title="UK",BT Sport 1
 http://user:asdqwe@rel4.european-iptv.com:81/8374
