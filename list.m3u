@@ -354,9 +354,6 @@ http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="GERMANY",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://opsmedia.ru/wp-content/uploads/2016/10/ELECTROSOUND-TV-logo.jpg" group-title="GERMANY",Electrosound TV [Off]
-http://www.electrosound.tv:1935/public/stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="GERMANY",QVC
 http://ios-stream.qvc.de/qvc.m3u8
 
@@ -414,17 +411,14 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/_definst_/OFstream01.smil/chu
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/nl/RTVNH.png" group-title="NETHERLANDS",NH
 http://lb-nh-live.cdn.streamgate.nl:1935/nh/video/nh.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/2000px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/2000px-NPO_1_logo_2014.svg.png" group-title="NETHERLANDS",NPO 1 [Off]
 http://82.151.55.82/output/NPO1-KB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png" group-title="NETHERLANDS",NPO 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png" group-title="NETHERLANDS",NPO 2 [Off]
 http://82.151.55.82/output/NPO2-KB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/2000px-NPO_3_logo_2014.svg.png" group-title="NETHERLANDS",NPO 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/2000px-NPO_3_logo_2014.svg.png" group-title="NETHERLANDS",NPO 3 [Off]
 http://82.151.55.82/output/NPO3-KB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://l1.nl/content/images/old-assets/a700150942de644295d21826eb13b3f9-omroep_3ml.jpg" group-title="NETHERLANDS",Omroep 3ML [Off]
-http://fms1.3ml.nl/hls-live/livepkgr/_definst_/liveevent/livetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.allradio.nl/uploaded/logo/omroep-brabant.jpg" group-title="NETHERLANDS",Omroep Brabant
 http://omroepbrabant.rr.kpnstreaming.nl/b2b/live/omroepbrabant/omroepbrabant_tv/index.m3u8
@@ -627,9 +621,6 @@ http://stream-09.dc3.dailymotion.com/15/dm/1/xl1km0/live.isml/events(live-149762
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" group-title="FRANCE",TV5 Monde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/ENORME_TV_LOGO.png/1280px-ENORME_TV_LOGO.png" group-title="FRANCE",Enorme TV [Off]
-http://ec.playmedia.fr/enorme-tv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/60/Logo-antenne-reunion-television-2011.png" group-title="FRANCE",Antenne Reunion
 http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
 
@@ -653,9 +644,6 @@ http://www.lengua.com/anthems/Switzerland.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/0d1fd51e980e16909c0bf73a68767a97.jpeg" group-title="SWITZERLAND",TeleBarn
 http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soaktuell.ch/files/thumbnails/1d/1d63/1d639d302fe60d94877e51dd6cd537d3/c_300_200_6712_telebielingue.jpg" group-title="SWITZERLAND",TeleBielingue (French/German) [Off]
-http://rtmp.infomaniak.ch/livecast/telebielinguech/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/83/TeleTicino.png" group-title="SWITZERLAND",TeleTicino (Italian)
 http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
@@ -933,9 +921,6 @@ http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jacarei.sp.leg.br/wp-content/uploads/2015/04/btn-tv.gif" group-title="BRAZIL",TV Camara Jacarei
 http://wse.midiaserverbr.com:1935/jacarei/jacarei/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvcidadebrusque.com.br/wp-content/uploads/2016/04/tv-cidadeaeeeee-150x150.png" group-title="BRAZIL",TV Cidade (Brusque) [Off]
-http://179.107.83.10:1935/live/tvcidadeaovivo_1/livestream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.coletiva.net/wp-content/uploads/2016/02/TV-Cidade-Pelotas_fev16-1200x674.jpg" group-title="BRAZIL",TV Cidade (Pelotas)
 http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
 
@@ -969,9 +954,6 @@ http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://musikcity.mus.br/TV/figuras/tvjornal.png" group-title="BRAZIL",TV Jornal Recife
 http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-tDFM-FmSBEk/AAAAAAAAAAI/AAAAAAAAAAA/xalBBXt7iRY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="BRAZIL",TV Marajoara [Off]
-http://104.156.60.74:1935/canal50/canal50/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_Metrópole.png" group-title="BRAZIL",TV Metropole
 http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8
 
@@ -996,7 +978,7 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg" group-title="BRAZIL",TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png" group-title="BRAZIL",TVT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVT.png" group-title="BRAZIL",TVT [Off]
 http://slrp.sambavideos.sambatech.com/liveevent/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ucstv.com.br/wp-content/uploads/2015/02/logo_siteucstv.png" group-title="BRAZIL",UCSTV
@@ -1413,16 +1395,13 @@ http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports
 http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-zTOoF5BZeeU/WFlXiSElDjI/AAAAAAAACXA/VdzbOeRovPIqhWQcvrwWYl1rLRRFpP_YwCLcB/s640/Logo_TDN.png" group-title="MEXICO",TDN TV [NoSignal]
-http://stdephds-lh.akamaihd.net:80/i/ad3pst01hds_1@335204/index_1048_av-p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-iRuhg96Qeho/AAAAAAAAAAI/AAAAAAAAAAA/bQm9MPIQfzs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Canal 26
 http://xaguascalientesx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Logo-XHILA-TDT.png/200px-Logo-XHILA-TDT.png" group-title="MEXICO",Canal 66
 http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/tva_mexico.jpg" group-title="MEXICO",TV Acapulco
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/tva_mexico.jpg" group-title="MEXICO",TV Acapulco [Off]
 http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/rcgtv.png" group-title="MEXICO",RCG 1 TV
@@ -1722,9 +1701,6 @@ http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u88
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/32lNdWp.png" group-title="PERU",Panamericana TV
 http://stream-07.vty.dailymotion.com/09/dm/1/x18w5up/live.isml/events(live-1491417782)/live-audio=128000-video=2100000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.quatrotv.pe/images/logo_v.jpg" group-title="PERU",Quatro TV
-http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1b/RBC_Television_%28Variante%29.jpg" group-title="PERU",RBC TV
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
 
@@ -1791,9 +1767,6 @@ http://162.220.218.101:8081/live/stream2.sdp/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/29c778_7ed6e418c0574ea38b1ff303f8a23041~mv2.png" group-title="LABEL",~ Panama TV ~
 http://www.lengua.com/anthems/Panama.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/NEX-TV.png" group-title="PANAMA",NEXtv [Off]
-http://190.102.61.118:1935/live/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
 
@@ -1811,9 +1784,6 @@ http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.honduras504.com/img/tv/TeleceibaCanal7.png" group-title="HONDURAS",Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.oyehonduras.org/es/wp-content/uploads/sites/3/2014/08/logoteleprogreso_H4O.png" group-title="HONDURAS",Teleprogreso [Off]
-http://162.212.176.83:8080/teleprogreso.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-9A-7_CtfRPM/AAAAAAAAAAI/AAAAAAAAAAA/xF80hVNHCaM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="HONDURAS",Televicentro
 http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
@@ -2283,9 +2253,6 @@ http://www.lengua.com/anthems/Kurdistan.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i64.tinypic.com/rawwhe.png" group-title="KURDISTAN",Kurdistan TV
 http://84.244.187.12:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/581085560435023872/UPv58fOV.png" group-title="KURDISTAN",NewLine TV
-http://kurd-live.com:1935/live/new/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png" group-title="KURDISTAN",NRT
 http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/playlist.m3u8
 
@@ -2298,20 +2265,11 @@ http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="KURDISTAN",Rudaw
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/files/05-11-2016-de51def8-sahar-kurdish-kurdtvs-live.png" group-title="KURDISTAN",Sahar Kurdish
-http://wpc.1830a.phicdn.net/hls-live/201830A/kurdishInstance/kurdishEvent/KurdishHLS.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/470729064_1280x720.jpg" group-title="KURDISTAN",Speda Channel
-http://kurd-live.com:1935/live/speda/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/ltrt6_b.png" group-title="KURDISTAN",TRT Kurdi
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kurdishdailynews.org/wp-content/uploads/2014/12/tv10-logo.jpg" group-title="KURDISTAN",TV 10
 http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/files/19-05-2016-e4029549-utv-kurdtvs.png" group-title="KURDISTAN",UTV Hawler
-http://kurd-live.com:1935/live/utv/chunklist_w1553125784.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
 http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
@@ -2513,20 +2471,8 @@ http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://joinstreams.tv/wp-content/uploads/2016/10/Amen-FM-270x200.jpg" group-title="JORDAN",Amen FM 89.5
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/JordanTV.png" group-title="JORDAN",Jordan TV
-http://37.152.128.66:7009/play/a00m
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/9_EQ_4WVSvk/maxresdefault_live.jpg" group-title="JORDAN",Roya TV [Off]
-http://cdns724ste1010.shooowit.net/royatvlive/smil:live.smil/gmswf.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem
 http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.semsem.tv/images/logo2.png" group-title="JORDAN",Semsem *
-http://199.167.151.237:1935/live/sp15_46.stream/gmswf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://toyoraljannah.tv/img/logo-1x.png" group-title="JORDAN",Toyor Al Jannah TV
-http://199.167.151.237:1935/live/sp15_47.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Palestine-01.png" group-title="LABEL",~ Palestine TV ~
 http://users.atw.hu/szbszig/palestine.mp3
@@ -2690,9 +2636,6 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="QATAR",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qtv.qa/qtv/images/logo_top.png" group-title="QATAR",Qatar TV
-http://37.152.128.66:7009/play/a00f
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem
 http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
 
@@ -2716,45 +2659,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports 5
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 1
-http://asno.gcdn.co/bn-sp-1-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 2
-http://asno.gcdn.co/bn-sp-2-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 3
-http://asno.gcdn.co/bn-sp-3-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 4
-http://asno.gcdn.co/bn-sp-4-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 5
-http://asno.gcdn.co/bn-sp-5-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 6
-http://asno.gcdn.co/bn-sp-6-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 7
-http://asno.gcdn.co/bn-sp-7-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 8
-http://asno.gcdn.co/bn-sp-8-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 9
-http://asno.gcdn.co/bn-sp-9-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 10
-http://asno.gcdn.co/bn-sp-10-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 11
-http://asno.gcdn.co/bn-sp-11-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 12
-http://asno.gcdn.co/bn-sp-12-hd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soccerexplainer.files.wordpress.com/2013/07/bein-logo.jpg" group-title="QATAR",beIN Sport 13
-http://asno.gcdn.co/bn-sp-13-hd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kw.png" group-title="LABEL",~ Kuwait TV ~
 http://www.lengua.com/anthems/Kuwait.mp3
@@ -2939,9 +2843,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Channel_A_Logo_transparent.png/220px-Channel_A_Logo_transparent.png" group-title="SOUTH KOREA",Channel A [Off]
-http://123.108.164.71/etv2sb/phd43/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.netville.co.kr/wp-content/uploads/2015/06/kbs-460x300.png" group-title="SOUTH KOREA",KBS 2
 http://123.108.164.71/etv2/phd847/playlist.m3u8
 
@@ -2953,15 +2854,6 @@ http://111.118.21.79/etv1/phd393/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-qmLWm9FFEDA/UdWIdPyqvtI/AAAAAAAAAdg/dOSv-sogcxg/s960/mbc.jpg" group-title="SOUTH KOREA",MBC
 http://119.202.61.202:1935/live/livetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/1zoaoud.jpg" group-title="SOUTH KOREA",Mountain TV [Off]
-http://123.108.164.71/etv2sb/phd337/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/thumb/5/5a/OBS-Logo.JPG/300px-OBS-Logo.JPG" group-title="SOUTH KOREA",OBS TV [Off]
-http://111.118.21.79/etv1sb/phd3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/01/YTN-News-Logo-670x300.jpg" group-title="SOUTH KOREA",YTN [Off]
-http://123.108.164.71/etv2sb/phd193/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",~ China TV ~
 http://www.lengua.com/anthems/China.mp3
@@ -3239,14 +3131,8 @@ http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="CCTV",NYC Times Square (South View)
 http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageupper.com/s08/1/6/K14767538582167330_1.jpg" group-title="CCTV",NYC Harbor [Off]
-http://nyc10-1.portfever.com/liveedge/pnyw.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg" group-title="CCTV",Seattle Downtown
 http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://carmensluxurytravel.com/wp-content/uploads/2014/08/Space-Needle.jpg" group-title="CCTV",Seattle Space Needle [Off]
-http://video3.earthcam.com:80/fecnetwork/7254.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="CCTV",Toronto CN Tower 1
 http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
@@ -3260,157 +3146,154 @@ http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/switzerland/switzerland_640.png" group-title="CCTV",Switzerland - Zurich – Uetliberg
 http://stream.livespotting.tv/windit-edge/vv65_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/netherlands/netherlands_640.png" group-title="CCTV",Elburg - Netherlands [Off]
-http://stream.livespotting.tv/windit-edge/LS_36290_720p.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/france/france_640.png" group-title="CCTV",Plougonvelin - Bretagne - France
 http://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Frankfurt - Stadt Frankfurt am Main
 http://stream.livespotting.tv/windit-edge/vv100_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Erfurt - KoWo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Erfurt - KoWo
 http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Essen - Ruhrturm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Essen - Ruhrturm
 http://stream.livespotting.tv/windit-edge/vv60_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Flensburg - Fjord Tourismus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Flensburg - Fjord Tourismus
 http://stream.livespotting.tv/windit-edge/vv17_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Freiburg - Volksbank
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Freiburg - Volksbank
 http://stream.livespotting.tv/windit-edge/vv112_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Fulda - Schlossstrasse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Fulda - Schlossstrasse
 http://stream.livespotting.tv/windit-edge/vv62_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Gaienhofen - Hotel Gasthaus Hirschen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Gaienhofen - Hotel Gasthaus Hirschen
 http://stream.livespotting.tv/windit-edge/vv105_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
 http://stream.livespotting.tv/windit-edge/vv111_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Gehlberg - Michael Gebser
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Gehlberg - Michael Gebser
 http://stream.livespotting.tv/windit-edge/vv123_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Wuppertal - Barmenia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Wuppertal - Barmenia
 http://stream.livespotting.tv/windit-edge/vv117_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Neuharlingersiel - Hafen West
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Neuharlingersiel - Hafen West
 http://stream.livespotting.tv/windit-edge/vv13_450p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Monchengladbach - Best Western Crown
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Monchengladbach - Best Western Crown
 http://stream.livespotting.tv/windit-edge/vv118_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Munchen - Deutsche Eiche
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Munchen - Deutsche Eiche
 http://stream.livespotting.tv/windit-edge/vv72_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Munchen - Redaktion
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Munchen - Redaktion
 http://stream.livespotting.tv/windit-edge/vv55_450p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Munster - Raphaelsklinik
 http://stream.livespotting.tv/windit-edge/vv116_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Munster - Stadthaus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Munster - Stadthaus
 http://stream.livespotting.tv/windit-edge/vv63_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Neuharlingersiel - Hafen Ost
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Neuharlingersiel - Hafen Ost
 http://stream.livespotting.tv/windit-edge/vv12_450p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Neuharlingersiel - Panorama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Neuharlingersiel - Panorama
 http://stream.livespotting.tv/windit-edge/vv14_450p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Niendorf - Meerwasserhallenbad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Niendorf - Meerwasserhallenbad
 http://stream.livespotting.tv/windit-edge/vv81_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Norderney - Zimmerservice - Norderney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Norderney - Zimmerservice - Norderney
 http://stream.livespotting.tv/windit-edge/vv147_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Oberstdorf - Hotel Exquisit
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Oberstdorf - Hotel Exquisit
 http://stream.livespotting.tv/windit-edge/vv137_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Oberwiesenthal - Hotel Fichtelberghaus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Oberwiesenthal - Hotel Fichtelberghaus
 http://stream.livespotting.tv/windit-edge/vv30_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Oldenburg - Nordwest-Zeitung
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Oldenburg - Nordwest-Zeitung
 http://stream.livespotting.tv/windit-edge/vv91_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Passau - Hotel Konig
 http://stream.livespotting.tv/windit-edge/vv98_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Pelzerhaken - Lubecker Bucht
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Pelzerhaken - Lubecker Bucht
 http://stream.livespotting.tv/windit-edge/vv8_450p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Pertisau am Achensee - Bergstation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Pertisau am Achensee - Bergstation
 http://stream.livespotting.tv/windit-edge/vv126_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Potsdam - Hotel Am Luisenplatz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Potsdam - Hotel Am Luisenplatz
 http://stream.livespotting.tv/windit-edge/vv110_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Rostock - Apartment Living Hotel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Rostock - Apartment Living Hotel
 http://stream.livespotting.tv/windit-edge/vv89_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Rostock - Hotel Sportforum
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Rostock - Hotel Sportforum
 http://stream.livespotting.tv/windit-edge/vv119_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Saarbrucken - La Residence
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Saarbrucken - La Residence
 http://stream.livespotting.tv/windit-edge/vv68_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Sankt Peter-Ording - Beach Motel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Sankt Peter-Ording - Beach Motel
 http://stream.livespotting.tv/windit-edge/vv129_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Scharbeutz - Lubecker Bucht
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Scharbeutz - Lubecker Bucht
 http://stream.livespotting.tv/windit-edge/vv41_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Schwangau - Schloss Neuschwanstein
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Schwangau - Schloss Neuschwanstein
 http://stream.livespotting.tv/windit-edge/vv108_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Schwerin - Com In IT Solution Center
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Schwerin - Com In IT Solution Center
 http://stream.livespotting.tv/windit-edge/vv97_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",St. Anton am Arlberg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - St. Anton am Arlberg
 http://stream.livespotting.tv/windit-edge/vv21_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Stralsund - Hotel Hafenresidenz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Stralsund - Hotel Hafenresidenz
 http://stream.livespotting.tv/windit-edge/vv132_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Timmendorfer Strand
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Timmendorfer Strand
 http://stream.livespotting.tv/windit-edge/vv9_450p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Torfhaus - Harz
 http://stream.livespotting.tv/windit-edge/vv52_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Travemunde - Strand
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Travemunde - Strand
 http://stream.livespotting.tv/windit-edge/vv54_450p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Tubingen - Casino am Neckar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Tubingen - Casino am Neckar
 http://stream.livespotting.tv/windit-edge/vv109_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Tubingen - Heindl Internet AG
 http://stream.livespotting.tv/windit-edge/vv104_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Ulm - Hotel Blaubeurer Tor
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Ulm - Hotel Blaubeurer Tor
 http://stream.livespotting.tv/windit-edge/vv66_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Warnemunde - Best Western Hotel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Warnemunde - Best Western Hotel
 http://stream.livespotting.tv/windit-edge/vv20_450p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Warnemunde - Yachthafen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Warnemunde - Yachthafen
 http://stream.livespotting.tv/windit-edge/vv4_450p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Weimar - HotelPension am Goethehaus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Weimar - HotelPension am Goethehaus
 http://stream.livespotting.tv/windit-edge/vv92_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Westerland - Sylt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Westerland - Sylt
 http://stream.livespotting.tv/windit-edge/vv43_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Wiek - Rugen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Wiek - Rugen
 http://stream.livespotting.tv/windit-edge/vv25_450p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Wolfsburg - Stadt Wolfsburg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Wolfsburg - Stadt Wolfsburg
 http://stream.livespotting.tv/windit-edge/vv88_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Wurzburg - Hotel Alter Kranen
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Wurzburg - Hotel Alter Kranen
 http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.youthscape.co.uk/assets/open_me/img/interface/prayer-icon.png" group-title="LABEL",~ Religion TV ~
@@ -3661,9 +3544,6 @@ http://37.152.128.66:7009/play/a00n
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="RELIGION",Al Sunnah Al Nabawiyah (KSA)
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/almajd_tv_islamic_channel_live_online_free_arabic_channel.png" group-title="RELIGION",Al Majd TV (KSA)
-http://almajd.ashttp21.visionip.tv/live/almajd-almajd-almajd-islamic-science-hsslive-25f-16x9-HD/chunklist_w183387519.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iqraa.com/MediaStorage/images/news451.jpg" group-title="RELIGION",Iqraa (KSA)
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
