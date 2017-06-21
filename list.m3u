@@ -1257,6 +1257,9 @@ http://media203.services.digitar.net:1935/cablehogar/cablehogar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/canal_cuatro_argentina.jpg" group-title="ARGENTINA",Canal 4 Jujuy
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-faEL0PXwpjE/VXgmUHvbdDI/AAAAAAAAJHM/8Rl5m6mB0aI/s1600/cabecera%2Blogo%2B20%2Ba%25C3%25B1os.jpg" group-title="ARGENTINA",Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/02/Canal-9-Salta-Logo-670x300.jpg" group-title="ARGENTINA",Canal 9 Salta
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 
@@ -1460,6 +1463,12 @@ http://216.227.135.186:1935/tvnayarit/videotvnayarit/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/cl.png" group-title="LABEL",~ Chile TV ~
 http://www.lengua.com/anthems/Chile.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000501616172/717a0933db1da1509889629ea43d2811_400x400.jpeg" group-title="CHILE",Canal 2
+http://video.crearchile.com:8080/live/canal2.mp4/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com/images/reydddd/cdtv-cl.jpg" group-title="CHILE",Camara de Diputados TV
+http://origin.camara.ztreaming.com:1935/origincamara8/streamcam8.sdp/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-65e5oTcogNE/Vx7Uf4GBd_I/AAAAAAAB0Wk/Sgz8L_ZHAs0yFMM1H8XQhD7QOYyEZp_hACLcB/s1600/Cnn_cl.jpg" group-title="CHILE",CNN
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
