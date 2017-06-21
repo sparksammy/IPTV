@@ -603,9 +603,6 @@ http://streaming-hub.com/stream/arte.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_(2016).png" group-title="FRANCE",BFM TV
 http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8a/BFM_TV_logo_(2016).png" group-title="FRANCE",BFM TV*
-http://stream-12.dc3.dailymotion.com/45/dm/1/xgz4t1/live.isml/events(live-1497398924)/live-audio=128000-video=2100000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://artsaintgermaindespres.com/wp-content/uploads/2015/04/bfmbusiness.jpg" group-title="FRANCE",BFM Business
 http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
 
