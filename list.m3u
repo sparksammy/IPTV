@@ -60,6 +60,9 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sanomangiare.it/wp-content/uploads/2016/01/bracciodiferro-300x255.jpg" group-title="USA",24/7 Popeye [Beta]
+http://www.sanomangiare.it/wp-content/uploads/2016/01/bracciodiferro-300x255.jpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
@@ -2899,6 +2902,9 @@ http://amd.cdn.turner.com/adultswim/big/streams/playlists/live-action-marathon.m
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.cdn.turner.com/adultswim/big/video/mainstream/liveStream.jpg" group-title="ADULT SWIM",Live Stream
 http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/66d9qf.jpg" group-title="ADULT SWIM",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4974.jpg" group-title="ADULT SWIM",Off The Air
 http://adultswim-vodlive.cdn.turner.com/off-the-air/stream.m3u8
