@@ -2172,7 +2172,7 @@ http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rlv.zcache.com/cyprus_national_world_flag_square_sticker-r38fa1b624e1c483ea70d516fbd66397f_v9wf3_8byvr_324.jpg" group-title="LABEL",~ Cyprus TV ~
 http://www.lengua.com/anthems/Cyprus.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg" group-title="CYPRUS",Sigma TV (Greek) [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg" group-title="CYPRUS",Sigma TV (Greek)
 http://81.21.47.74/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1459039529.png" group-title="CYPRUS",BRT 1 (Turkish)
