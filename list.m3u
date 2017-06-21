@@ -2430,12 +2430,6 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1457920745.png" group-title="ISRAEL",ILand TV (Russian)
 http://146.185.61.140:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/47/Logo_for_banber.jpg/220px-Logo_for_banber.jpg" group-title="ISRAEL",Channel 66
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="ISRAEL",Musayof
-http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
 http://192.99.35.215:5109/stream
 
@@ -3319,6 +3313,12 @@ http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jltv.tv/images/jltvLogoHor.png" group-title="RELIGION",Jewish Life TV (USA)
 http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://shemeshnet.co.il/uploads/w-480/1494574673.7257.jpg" group-title="RELIGION",Kabbalah for the People (Israel)
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="RELIGION",Musayof (Israel)
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="RELIGION",Catholic TV (USA)
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
