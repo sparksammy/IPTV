@@ -69,6 +69,15 @@ https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png" group-title="USA",Classic Arts Showcase
+http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="USA",Music Choice Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="USA",California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TjHh4PW.png" group-title="USA",CNN [Off]
 http://109.123.114.178:1935/Livenewson/Livenewson/playlist.m3u8
 
@@ -146,15 +155,6 @@ http://xrxs.net/video/live-p12ariz-2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
 http://xrxs.net/video/live-p12moun-2328.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Classic_Arts_Showcase.png" group-title="USA",Classic Arts Showcase
-http://cds.d3r6a3c9.hwcdn.net/live/smil:CAS.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.musicchoice.com/files/1913/8178/7936/MCPlayLogo.png" group-title="USA",Music Choice Play
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/cmc_tv.jpg" group-title="USA",California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
