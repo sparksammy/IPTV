@@ -774,11 +774,17 @@ http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ildolomiti.it/sites/default/files/styles/articolo/public/articoli-blog/TrentinoTV.jpg" group-title="ITALY",Trentino TV
 http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ildolomiti.it/sites/default/files/styles/articolo/public/articoli-blog/TrentinoTV.jpg" group-title="ITALY",Trentino TV*
+http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456428050.png" group-title="ITALY",TSN
 http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/628966332944515072/Wbo1X8GM.png" group-title="ITALY",TV Luna
 http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/628966332944515072/Wbo1X8GM.png" group-title="ITALY",TV Luna*
+http://live.Kronopress.com:1935/test_live/teleluna/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dinamobasket.com/sites/default/files/styles/news_740_440/public/news/videolina.jpg" group-title="ITALY",Videolina
 http://178.33.229.111:1935/live/Videolina/livestream.m3u8
@@ -1266,6 +1272,9 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="ARGENTINA",Canal 26
 http://200.115.193.177/live/26hd-720/.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="ARGENTINA",Canal 26*
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.quomusica.com/wp-content/uploads/2015/02/CanaldelaCiudad-TV-Logo.jpg" group-title="ARGENTINA",Canal de la Ciudad
 http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
 
@@ -1496,6 +1505,9 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpinguino.com/web2012/logo.png" group-title="CHILE",Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpinguino.com/web2012/logo.png" group-title="CHILE",Pinguino TV*
+http://streaming.elpinguino.com:1935/live/pinguinotv_source/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13
 http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
@@ -3323,6 +3335,9 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="RELIGION",Catholic TV (USA)
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.i-italy.tv/wp/wp-content/uploads/2016/09/TESTATATV20001.jpg" group-title="RELIGION",TV 2000 (Italy)
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/b7b87e8c8abd4ac5b39e5cce15ced5de-hd.jpg" group-title="RELIGION",GOD TV (USA)
 http://ooyalahd2-f.akamaihd.net/i/godtv01_delivery@17341/master.m3u8
 
@@ -3367,6 +3382,9 @@ http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stre
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="RELIGION",Santuario de Fatima (Portugal)
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Logo_owned_by_Members_Church_of_God_International_for_TV_Verdade.jpg" group-title="RELIGION",TV Verdade (Brazil)
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvclaret.com/upload/claretianocms/22/programa/68.png" group-title="RELIGION",Rede Seculo 21 (Brazil)
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
@@ -3442,6 +3460,9 @@ http://gw01.7idi.com:8087/hls/foztv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/8/logo_thumb.jpg" group-title="RELIGION",RTVida (Spain)
 http://178.32.53.254/radiovida/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.589689416f983_TaberTV.png.47cf9534daf74008b24a435fb4343a51.png" group-title="RELIGION",Taber TV (El Salvador)
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/2qauuep.png" group-title="RELIGION",G12 Vision (Colombia)
 http://wowzaprod8-lh.akamaihd.net/i/e05c0eb8_1@44165/master.m3u8
