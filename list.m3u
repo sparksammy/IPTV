@@ -690,6 +690,12 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nellonetwork.com/media/zoo/images/cop_canale21_new_75d33e282d95b5b8474636e008388972.png" group-title="ITALY",Napoli Canale 21
 http://live.streamcaster.net:1935/canale21_live/canale21/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://nellonetwork.com/media/zoo/images/cop_canale21_new_75d33e282d95b5b8474636e008388972.png" group-title="ITALY",Napoli Canale 21*
+http://live.Kronopress.com:1935/canale21_live/canale21/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.orler.it/orlertv/wp-content/uploads/2015/12/orlertvlogo.png" group-title="ITALY",Orler TV
+http://77.92.76.135:1935/orler/livestream/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ottofmtv.com/img/logo.png" group-title="ITALY",OttoFM TV
 http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
 
@@ -738,6 +744,9 @@ http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/19/Rete_55.png" group-title="ITALY",Rete 55
 http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/19/Rete_55.png" group-title="ITALY",Rete 55*
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/livestream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv.haqbahu.com/tv/Tv2-images/www.freeetv.com//images/tv7/retesole.jpg" group-title="ITALY",Retesole
 http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
 
@@ -752,6 +761,9 @@ http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/Sky-TG24-2.jpg" group-title="ITALY",Sky TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.suedtiroltv.it/images/resource/logo-sudtirol.png" group-title="ITALY",Sudtirol TV (German)
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-ZyKgPwkQPmQ/V53UU0Cm1rI/AAAAAAAAAxY/Dnh6rCMIFMwaIYJpjIhqh1WPK47OARrFQCLcB/s1600/supertv.jpg" group-title="ITALY",SuperTV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
@@ -771,6 +783,9 @@ http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemilano.net/files/2016/03/31/TELEMILANO.jpg" group-title="ITALY",Tele Milano
 http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aviglianonline.eu/public/tvweb_img/tgnorba_24.jpg" group-title="ITALY",TG Norba 24
+http://85.17.80.132:1935/tgnorba_24/tgnorba_24_source.stream/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ildolomiti.it/sites/default/files/styles/articolo/public/articoli-blog/TrentinoTV.jpg" group-title="ITALY",Trentino TV
 http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 
@@ -779,6 +794,12 @@ http://77.72.196.214:8554/live/TrentinoSAT/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1456428050.png" group-title="ITALY",TSN
 http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sassilive.it/wp-content/uploads/trm-h242.jpg" group-title="ITALY",TRM h24
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/it/TVRS.png" group-title="ITALY",TVRS
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/628966332944515072/Wbo1X8GM.png" group-title="ITALY",TV Luna
 http://live.streamcaster.net:1935/test_live/teleluna/livestream.m3u8
