@@ -3056,6 +3056,9 @@ http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.news4jax.com/theme/images/logo-wjxt_FULL_303x100.png" group-title="USA LOCAL",WJXT News 4 (Jacksonville)
 http://play-prod1.live.anvato.net/server/play/pns-wjxt-dfp/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kvvu.images.worldnow.com/images/469499_G.jpg" group-title="USA LOCAL",Fox 5 News (Las Vegas)
+http://api.new.livestream.com/accounts/6910894/events/2707630/broadcasts/158557720.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890313.1464300030!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (Long Island)
 http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
 
