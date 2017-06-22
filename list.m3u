@@ -2283,6 +2283,33 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9a/Trt_turk.png" group-title="TURKEY",TRT Turk
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Kurdistan_Nation.png" group-title="LABEL",~ Kurdistan TV ~
+http://www.lengua.com/anthems/Kurdistan.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i64.tinypic.com/rawwhe.png" group-title="KURDISTAN",Kurdistan TV
+http://84.244.187.12:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png" group-title="KURDISTAN",NRT
+http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/nrt2-large.jpg" group-title="KURDISTAN",NRT 2
+http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/zt6qo9.jpg" group-title="KURDISTAN",Rega TV
+http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="KURDISTAN",Rudaw
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/ltrt6_b.png" group-title="KURDISTAN",TRT Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kurdishdailynews.org/wp-content/uploads/2014/12/tv10-logo.jpg" group-title="KURDISTAN",TV 10
+http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
+http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/493882319854653440/IS5djWg6.jpeg" group-title="LABEL",~ Israel TV ~
 http://www.lengua.com/anthems/Israel.mp3
 
@@ -2450,33 +2477,6 @@ http://efusion1-i.akamaihd.net/hls/live/252882/ifilmfa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-irib.com/wp-content/uploads/2014/11/IFILMARABIC-150x150.png" group-title="IRAN",iFilm (Arabic)
 http://178.32.255.199:1935/live/ifilmar/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Kurdistan_Nation.png" group-title="LABEL",~ Kurdistan TV ~
-http://www.lengua.com/anthems/Kurdistan.mp3
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i64.tinypic.com/rawwhe.png" group-title="KURDISTAN",Kurdistan TV
-http://84.244.187.12:1935/live/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/NRT_TV.png" group-title="KURDISTAN",NRT
-http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/nrt2-large.jpg" group-title="KURDISTAN",NRT 2
-http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/zt6qo9.jpg" group-title="KURDISTAN",Rega TV
-http://162.244.81.103:1935/RegaTV/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="KURDISTAN",Rudaw
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/ltrt6_b.png" group-title="KURDISTAN",TRT Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kurdishdailynews.org/wp-content/uploads/2014/12/tv10-logo.jpg" group-title="KURDISTAN",TV 10
-http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kurdishiptv.com/content/uploads/images/December2016/vintv-large.jpg" group-title="KURDISTAN",Vin TV
-http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
 
 #EXTINF:-1 tvg-logo="http://academics.smcvt.edu/llrc/images/flag_buttons/arab_league.png" group-title="LABEL",~ Arabic News ~
 http://192.99.35.215:5109/stream
