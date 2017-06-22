@@ -2430,7 +2430,7 @@ http://samaatr.videocdn.scaleengine.net/samaatr-iphone/play/samaatr_264k.stream/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveislife.info/wp-content/uploads/2015/12/Samaa-News-TV-Logo-Pakistan.png" group-title="PAKISTAN",Samaa*
 http://samaatr.videocdn.scaleengine.net/samaatr-live/play/samaatr.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="s1600/GeoTez.jpg" group-title="PAKISTAN",Tez
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2hoemb9.png" group-title="PAKISTAN",Tez
 http://stream.jeem.tv/geo/geotezz/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Iran-01.png" group-title="LABEL",~ Iran TV ~
