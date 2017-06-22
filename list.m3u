@@ -1704,7 +1704,7 @@ http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.colorvision.com.do/wp-content/uploads/2014/12/logo.png" group-title="DOMINICAN REP",Color Vision
 http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DOMINICAN REP",Noticias 16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/royal-blue/tv-xxl.png" group-title="DOMINICAN REP",Noticias 16
 http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-UY4XLA9W0HE/VRed0kD_SzI/AAAAAAAABR4/T3gjEW5LbWY/s1600/platinium-tv.jpg" group-title="DOMINICAN REP",Platinium TV
