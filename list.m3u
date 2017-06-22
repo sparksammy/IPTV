@@ -762,7 +762,7 @@ http://msh0193.stream.seeweb.it:1935/live/stream00.sdp/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewsbox.com/wp-content/uploads/2015/05/Sky-TG24-2.jpg" group-title="ITALY",Sky TG24
 http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.suedtiroltv.it/images/resource/logo-sudtirol.png" group-title="ITALY",Sudtirol TV (German)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.suedtiroltv.it/images/resource/logo-sudtirol.png" group-title="ITALY",Sudtirol TV
 http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-ZyKgPwkQPmQ/V53UU0Cm1rI/AAAAAAAAAxY/Dnh6rCMIFMwaIYJpjIhqh1WPK47OARrFQCLcB/s1600/supertv.jpg" group-title="ITALY",SuperTV
