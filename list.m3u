@@ -2112,9 +2112,6 @@ http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist_w1295439472.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.iden.sk/sites/2/2015/01/tv-nitricka-320x180.jpg" group-title="SLOVAKIA",TV Nitricka
 http://195.168.28.243/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.iden.sk/sites/2/2015/01/tv-nitricka-320x180.jpg" group-title="SLOVAKIA",TV Nitricka*
-http://88.212.46.127:9000/rtp/232.232.64.58:5004
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mojezamky.sk/images/clanky/vata/139268.jpg" group-title="SLOVAKIA",TVNZ
 http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
 
@@ -2139,7 +2136,7 @@ http://94.246.169.19/ttv_hls/live_270p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Hungary-01.png" group-title="LABEL",~ Hungary TV ~
 http://www.lengua.com/anthems/Hungary.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HUNGARY",Tisza TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Tisza+TV+logo_1355.png" group-title="HUNGARY",Tisza TV
 http://www.tiszatv.hu:443/tiszatv.f4v
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="HUNGARY",1Music
