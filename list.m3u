@@ -906,6 +906,9 @@ http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/Record-News-640x360.jpg" group-title="BRAZIL",Record News
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rotoscopers.com/wp-content/uploads/2014/09/retro-toons-dreamworks-tv.png" group-title="BRAZIL",Retro Cartoon
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="BRAZIL",RedeTV
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
 
