@@ -2982,20 +2982,65 @@ http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Indonesia-01.png" group-title="LABEL",~ Indonesia TV ~
 http://www.lengua.com/anthems/Indonesia.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV
+https://livestream-hybrid.akamaized.net/live/smil:antv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_beritasatu_big1.png" group-title="INDONESIA",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s29.postimg.org/jt0m1oqpj/jakarta_globe_news_channel_id.png" group-title="INDONESIA",Jakarta Globe (English)
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2121000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s28.postimg.org/lpinb43pp/indosiar.png" group-title="INDONESIA",Indosiar
+https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s27.postimg.org/t56iq66ib/insan_id_tv.png" group-title="INDONESIA",Insan TV
+http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png" group-title="INDONESIA",Kompas TV
+https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvstreaming.com/wp-content/uploads/2014/04/Metro-TV-Indonesia-Logo.jpg" group-title="INDONESIA",MetroTV*
+https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/chunklist_b846000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/globaltvindonesia/images/4/45/MNCTV_tegak.png" group-title="INDONESIA",MNC TV
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000022/index1024.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s29.postimg.org/s2lo7kz7b/o_channel_id.png" group-title="INDONESIA",O Channel
+https://livestream-hybrid.akamaized.net/live/smil:ochannel.smil/chunklist_b846000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rcti.tv/assets/images/RCTI-logo.png" group-title="INDONESIA",RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png" group-title="INDONESIA",RTV
+https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/chunklist_b846000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s24.postimg.org/6ld67eod1/sctv_id.png" group-title="INDONESIA",SCTV
+https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png" group-title="INDONESIA",Trans 7
+https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png" group-title="INDONESIA",Trans TV
+https://livestream-hybrid.akamaized.net/live/smil:transtv.smil/chunklist_b846000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.etere.com/DocImageArchive/636029732513782479.png" group-title="INDONESIA",TV Edukasi
 http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png" group-title="INDONESIA",TV One
+https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-30awn5OxihI/T9VuzQQ5RqI/AAAAAAAADRM/_iPdRJhYiwQ/s1600/logo-lpp-tvri.png" group-title="INDONESIA",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="INDONESIA",TVRI*
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png" group-title="INDONESIA",TVRI 4
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
