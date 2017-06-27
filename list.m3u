@@ -1326,7 +1326,7 @@ http://wowza2.mysoltv.com:1992/Latino_Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-wm2kZLz71tM/AAAAAAAAAAI/AAAAAAAAAAA/7mdxR68CgcU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Cinecanal
 http://wowza2.mysoltv.com:1992/Latino_Cinecanal/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/disney/images/7/73/Disney_junior24hrchannellogo.jpg" group-title="LATINO",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/0FA8024F-C977-F415-D54C59E3350A2569.jpg" group-title="LATINO",Disney Channel
 http://wowza2.mysoltv.com:1992/Latino_Disney/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Action-Logo-300x98.png" group-title="LATINO",Fox Premium Action
