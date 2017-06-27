@@ -1239,13 +1239,13 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1837.png" group-title="LATINO",Fox [NoKodi]
 http://edge7.telesport.pw/live/foxlatino/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1837.png" group-title="LATINO",Fox*
+http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="LATINO",TNT [NoKodi]
 http://cdn1.shurs.xyz/verliga/7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo [NoKodi]
-http://edge501.livesports.pw/live/vertelemundoesb4047ed6f94/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo* [NoKodi]
 http://edge5.telesport.pw/live/telemundo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="LATINO",Univision TDN
@@ -1253,6 +1253,42 @@ http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-u1R-pryM6rA/WEGZrTlPj9I/AAAAAAAAD3k/1IUfLSQDyZURbL2Nvs83cAbk3OO9m0tTgCLcB/s1600/goltv.png" group-title="LATINO",Gol TV [NoKodi]
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/615533092737056768/U4xpomT6.jpg" group-title="LATINO",Univision
+http://wowza2.mysoltv.com:1992/Latino_UNIVISION_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ipetitions.com/user-images/petitions/bring-back-the-old-boomerang-channel-2/w6tDRjJtQHyHgh4IAlRd_image.jpg" group-title="LATINO",Boomerang
+http://wowza2.mysoltv.com:1992/Latino_BOOMERANG/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/3CJezBMLwu0/maxresdefault.jpg" group-title="LATINO",ESPN
+http://wowza2.mysoltv.com:1992/Latino_UNIMAS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-m_F6pXqflvI/VfZT4h5IM2I/AAAAAAAACUE/Y50lSWpQ03s/s288-Ic42/Cinema_golden_en-vivo.png" group-title="LATINO",Golden
+http://wowza2.mysoltv.com:1992/Latino_Golden_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/664fuByTjTs/maxresdefault.jpg" group-title="LATINO",History
+http://wowza2.mysoltv.com:1992/Latino_History_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aquienguate.com/images/logos/124307.jpg" group-title="LATINO",Unicable
+http://wowza2.mysoltv.com:1992/Latino_Unicable_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mi.tv/channels/26ba2241-cf4e-42a7-b0e8-c8bbd06392c9_m.jpg" group-title="LATINO",Warner TV
+http://wowza2.mysoltv.com:1992/Latino_Warner_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://seriable.com/wp-content/uploads/2016/11/cinemax-logo.png" group-title="LATINO",Cinemax
+http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lamac.org/res/channels/logos/_0039_discovery_kids.png" group-title="LATINO",Discovery Kids
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-1M1pomqBn1I/V8lpMT8E15I/AAAAAAABGZQ/n0eVXL45oAA_j7UciHq27rJvYuwpPulwQCLcB/s1600/FOX+Crime+changing+to+FOX+Life+DStv+StarSat.png" group-title="LATINO",Fox Life
+http://wowza2.mysoltv.com:1992/Latino_FOX_LIFE/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s0.wp.com/wp-content/themes/vip/pmc-deadline/library/images/pilot-panic/network-logos/fx.png" group-title="LATINO",FX
+http://wowza2.mysoltv.com:1992/Latino_FX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.prensario.net/Multimedios/imgs/11356_468.jpg" group-title="LATINO",Sony
+http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2dm9jzc.jpg" group-title="LATINO",HispanTV
 http://efusion1-i.akamaihd.net/hls/live/252882/hispantv/chunklist.m3u8
