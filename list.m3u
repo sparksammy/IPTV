@@ -315,6 +315,9 @@ http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="GERMANY",Eurosport 1
 http://user:asdqwe@rel4.european-iptv.com:81/8328
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="GERMANY",HR Fernsehen
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/NDR_HD.svg" group-title="GERMANY",NDR Fernsehen
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
 
