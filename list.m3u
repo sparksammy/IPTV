@@ -291,6 +291,9 @@ http://www.lengua.com/anthems/NewZealand.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Kfj2J1z.png" group-title="NEW ZEALAND",The Edge
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782343735627554817/bYUDkc5L.jpg" group-title="NEW ZEALAND",TVNZ 2
+https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://rlv.zcache.be/drapeau_de_la_jamaique_sticker_carre-r7371985206334375b322718d635470e9_v9wf3_8byvr_324.jpg" group-title="LABEL",~ Jamaica TV ~
 http://www.lengua.com/anthems/Jamaica.mp3
 
@@ -1095,14 +1098,23 @@ http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://bptproducciones.com/wp-content/uploads/logocazaypesca.jpg" group-title="SPAIN",Caza y Pesca
 http://edge5.telesport.pw/live/cazaypesca/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://seriable.com/wp-content/uploads/2016/11/cinemax-logo.png" group-title="SPAIN",Cinemax
+http://cdn2.shurs.xyz/verliga/4/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bonaresdigital.es/wp-content/uploads/2011/02/condavision1-1024x246.png" group-title="SPAIN",Condavision
 http://cls2.todostreaming.eu/azahara/uSCQc5ky/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aiga.org/globalassets/migrated-images/uploadedimages/aiga/content/why_design/aiga_case_studies/justified/01_cc_2011_2line_stackedlogo_blk_lgr_wht.jpg" group-title="SPAIN",Comedy Central
+http://cdn2.shurs.xyz/verdirectotv/8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/el-correo-de-andaluc-C3-ADa-tv-logo.png" group-title="SPAIN",Correo TV
 http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.federacionaspacecyl.org/wp-content/uploads/2016/08/cyltv-600x400.jpg" group-title="SPAIN",CYLTV
 http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diariocontraste.com/wp-content/uploads/2016/11/Discovery.jpg" group-title="SPAIN",Discovery
+http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
@@ -1163,6 +1175,12 @@ http://edge3.telesport.pw/live/plusaccion/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/1920px-Movistar_Estrenos.svg.png" group-title="SPAIN",Movistar Estrenos [NoKodi]
 http://edge7.telesport.pw/live/plusestrenos/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://todotele.com/wp-content/uploads/2017/01/MOVISTAR-F1.png" group-title="SPAIN",Movistar F1
+http://edge505.livesports.pw/live/verfunoesp3d183864ebf1241/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://comunidad.movistar.es/movistar/attachments/movistar/Movistar-TV/21/1/Logotipo_Movistar_TV_MotoGP_RGB.jpg" group-title="SPAIN",Movistar Moto GP
+http://edge504.livesports.pw/live/vermotogpmea6b484f0907aac/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vertele.eldiario.es/files/2014/12/Movistar-Series.jpg" group-title="SPAIN",Movistar Series
 http://edge203.livesports.pw/live/vermseries9492273540e14a5/index.m3u8
@@ -1304,6 +1322,18 @@ http://wowza2.mysoltv.com:1992/Latino_Universal_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2014/04/Animal-Planet-logo-old.png" group-title="LATINO",Animal Planet
 http://wowza2.mysoltv.com:1992/Latino_Animal_Planet/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-wm2kZLz71tM/AAAAAAAAAAI/AAAAAAAAAAA/7mdxR68CgcU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",Cinecanal
+http://wowza2.mysoltv.com:1992/Latino_Cinecanal/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/disney/images/7/73/Disney_junior24hrchannellogo.jpg" group-title="LATINO",Disney Junior
+http://wowza2.mysoltv.com:1992/Latino_Disney/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Action-Logo-300x98.png" group-title="LATINO",Fox Premium Action
+http://wowza2.mysoltv.com:1992/Latino_Fox_Action_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/medium_1552.png.9fbdecda6fa2918007644b4f8c28bf88.png" group-title="LATINO",Fox Premium Series
+http://wowza2.mysoltv.com:1992/Latino_Fox_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2dm9jzc.jpg" group-title="LATINO",HispanTV
 http://efusion1-i.akamaihd.net/hls/live/252882/hispantv/chunklist.m3u8
