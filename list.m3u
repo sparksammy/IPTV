@@ -328,6 +328,9 @@ http://www.lengua.com/anthems/Germany.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3sat-Logo.svg/1200px-3sat-Logo.svg.png" group-title="GERMANY",3Sat
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alex_Offener_Kanal_Berlin_Logo.svg/2000px-Alex_Offener_Kanal_Berlin_Logo.svg.png" group-title="GERMANY",ALEX Berlin
+http://alex-stream.rosebud-media.de:80/live/smil:alexlivetv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvdigital.com/images/canal_live/22_canal_live_28_canal_live_baden_tv.png" group-title="GERMANY",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
@@ -337,11 +340,17 @@ http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/240px-Deutsche_Welle_symbol_2012.svg.png" group-title="GERMANY",Deutsche Welle*
 http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn-radiotime-logos.tunein.com/s100563q.png" group-title="GERMANY",Elbekanal
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="GERMANY",Eurosport 1
 http://user:asdqwe@rel4.european-iptv.com:81/8328
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="GERMANY",HR Fernsehen
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="GERMANY",Munchen TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/NDR_HD.svg" group-title="GERMANY",NDR Fernsehen
 http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
@@ -372,6 +381,9 @@ http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/play
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/1200px-Wdr_fernsehen_logo_2016.svg.png" group-title="GERMANY",WDR Fernsehen
 http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2014/05/Welt-der-Wunder.jpg" group-title="GERMANY",Welt der Wunder
+http://live.vidoo.de/live/weltderwunder/f1tv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/DeluxeMusicHD.svg/220px-DeluxeMusicHD.svg.png" group-title="GERMANY",Deluxe Music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
@@ -571,7 +583,7 @@ http://155.4.160.181:1935/fjwebb/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.himlentv7.se/files/2014/11/himlentv7_artikkelikuva.jpg" group-title="SWEDEN",Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ing-sat.what.hu/images/logo-insert/satlogos/sweden/217-Kanal-10[01].jpg" group-title="SWEDEN",Kanal 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ljungby-energi.se/wp-content/uploads/2014/11/kanaler_alacarte_kanal10.jpg" group-title="SWEDEN",Kanal 10
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/se/OEPPNA.png" group-title="SWEDEN",Oppna Kanalen
@@ -1008,6 +1020,9 @@ http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlis
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/TV_Metrópole.png" group-title="BRAZIL",TV Metropole
 http://wse2.player.tv.br:1935/fmoriginal/fmoriginal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/XNF7iTqRwBE/hqdefault.jpg" group-title="BRAZIL",TV MCJ
+http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvpontanegra.com.br/assets/app/tvpontanegra_logo-facebok-f10a54d732ddce5fad5cbe213e2af5b8db3e34b806d3b256941842e28c21cda1.png" group-title="BRAZIL",TV Ponta Negra
 http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
@@ -2334,6 +2349,12 @@ http://realitatea.m247.ro/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.akasat.com/images/TVR-International.jpg" group-title="ROMANIA",TVRi Romania
 http://185.53.161.149:8888/play/a00u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvkit.ro/soon/images/tv-logo.png" group-title="ROMANIA",TV Kit
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/0/03/U-TV-HD.png" group-title="ROMANIA",U TV
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://kordas.gr/img/gr.png" group-title="LABEL",~ Greece TV ~
 http://www.lengua.com/anthems/Greece.mp3
