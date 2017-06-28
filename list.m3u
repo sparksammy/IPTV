@@ -433,7 +433,7 @@ http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stream2watch.cc/images/streams/600x400/14637428725379.png" group-title="AUSTRIA",W24
 http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
 
-#EXTINF:-1 tvg-logo="https://bahaiprayers.net/Content/Images/flags/Lëtzebuergesch.png" group-title="LABEL",~ Luxembourg TV ~
+#EXTINF:-1 tvg-logo="https://bahaiprayers.net/Content/Images/flags/L%C3%ABtzebuergesch.png" group-title="LABEL",~ Luxembourg TV ~
 http://www.lengua.com/anthems/Luxembourg.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/8/8d/RTL-Tele-Luxembourg.jpg" group-title="LUXEMBOURG",RTL
