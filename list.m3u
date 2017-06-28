@@ -21,9 +21,6 @@ http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://drjasonjohnson.files.wordpress.com/2016/05/08-al-jazeera-e1336473401965.gif" group-title="WORLD NEWS",Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="WORLD NEWS",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3130.png" group-title="WORLD NEWS",BBC World News
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 
@@ -3219,6 +3216,9 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/i
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang (English)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1458422731.png" group-title="SOUTH KOREA",CBS TV
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
