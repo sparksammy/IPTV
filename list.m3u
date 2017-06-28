@@ -1903,9 +1903,6 @@ http://rctvhdstream.ddns.net:5050/rctv/senalestv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cristoreypuntocom.blogia.com/upload/20100228171452-logo-supercanal.jpg" group-title="DOMINICAN REP",Super Canal
 http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teleradioamerica.com/wp-content/uploads/2015/02/download.jpg" group-title="DOMINICAN REP",Tele Radio America
-http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telefuturo-23.jpg" group-title="DOMINICAN REP",Telefuturo
 http://qs1.distream.net:2112/tf_str/futu/chunklist_w1961345922.m3u8
 
