@@ -1513,6 +1513,9 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.expodestinos.mx/images/expositores/mexico-travel-channel.jpg" group-title="MEXICO",Mexico Travel Channel
 http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg" group-title="MEXICO",GreenTV
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO",Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 
@@ -1521,9 +1524,6 @@ http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20E
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="MEXICO",Univision TDN
 http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/2014/01/GreenTV.jpg" group-title="MEXICO",GreenTV
-http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/mx/XHGJG.png" group-title="MEXICO",C7 Jalisco
 http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
