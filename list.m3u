@@ -2767,6 +2767,9 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.arablive-tv.com/2016/02/arabica-tv-logo.jpg" group-title="LEBANON",Arabica TV
 https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://anastasiaklauser.ulango.tv/uploads/channels/24653/logo_hawacom.png" group-title="LEBANON",Hawacom TV
+http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mayadeen.blob.core.windows.net/store/archive/_shared/mayadeen-logo.png" group-title="LEBANON",Al Mayadeen
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
 
