@@ -1483,11 +1483,11 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="MEXICO",TeleFormula
 http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b1128000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.radioformula.com.mx/images/notas/20121003_20_32_unoTV_Sit.jpg" group-title="MEXICO",Uno TV
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="MEXICO",Once TV
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EfektoTV" tvg-name="EfektoTV" tvg-logo="http://elpoderdelespiritu.com/channels/efektotv.png" group-title="MEXICO",Efekto TV [Off]
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.blogs.es/7abda0/mvs-noticias3-1-/original.jpg" group-title="MEXICO",MVS Noticias
 http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
@@ -1500,6 +1500,9 @@ http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal Capital 21" tvg-name="Canal Capital 21" tvg-logo="http://imryt.org/sites/default/files/noticias/capital21.jpg" group-title="MEXICO",Capital 21
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+
+#EXTINF:-1 tvg-id="EfektoTV" tvg-name="EfektoTV" tvg-logo="http://elpoderdelespiritu.com/channels/efektotv.png" group-title="MEXICO",Efekto TV [Off]
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.expodestinos.mx/images/expositores/mexico-travel-channel.jpg" group-title="MEXICO",Mexico Travel Channel
 http://live10.cdnmedia.tv/mtchlive/smil:live.smil/playlist.m3u8
@@ -2485,6 +2488,9 @@ http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/kanal-d-hd-logo-resmi.png" group-title="TURKEY",Kanal D
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tamtvizle.com/wp-content/uploads/2016/01/meclis-tv.jpg" group-title="TURKEY",Meclis TV
+http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 
@@ -2622,6 +2628,9 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://drop.ndtv.com/albums/GADGETS/indianapps/ndtvapp.jpg" group-title="INDIA",NDTV
 http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch678.jpg" group-title="INDIA",NDTV 24x7
+http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-z-DeHLjzo4M/AAAAAAAAAAI/AAAAAAAAAAA/xz8h1oFDw7k/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDIA",NDTV Prime
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/testmultibitrate.smil/chunklist_w1017334011_b512000.m3u8
@@ -3417,6 +3426,9 @@ http://krex-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mycitykitchen.org/wp-content/uploads/2013/02/WVIT_NBC30.png" group-title="USA LOCAL",WVIT 30 News (Hartford)
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/events/0000000000192e81/20b89d6e-9f4e-427c-ba32-ef5d183daf10_640x360.png" group-title="USA LOCAL",WTHI-TV 10 (Indiana)
+http://wthi-lh.akamaihd.net/i/WTHI_1405@304096/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tribwttv.files.wordpress.com/2017/03/cropped-cbs4512.png" group-title="USA LOCAL",CBS 4 News (Indianapolis)
 http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
