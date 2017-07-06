@@ -1921,6 +1921,9 @@ http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/u3-0ZnHM4GY/hqdefault.jpg" group-title="PUERTO RICO",Canal 13
 http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emcgconstruction.com/wp-content/uploads/Telemundo-Puerto-Rico-grande.png" group-title="PUERTO RICO",Telemundo
+http://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hemispheretv.com/wp-content/uploads/2013/04/wapaLogo-300x122.png" group-title="PUERTO RICO",WAPA
 http://dcunilive14-lh.akamaihd.net/i/dclive_1@176094/master.m3u8
 
