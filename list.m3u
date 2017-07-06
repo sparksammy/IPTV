@@ -2590,6 +2590,9 @@ http://146.185.61.140:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="LABEL",~ India TV ~
 http://www.lengua.com/anthems/India.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="INDIA",9XM
+http://ind19-lh.akamaihd.net/i/ind19_9xm@440010/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/742690056939311106/UdK1R9GE.jpg" group-title="INDIA",9x Jalwa
 http://ind28-lh.akamaihd.net/i/ind28_9xjalwa@424619/master.m3u8
 
@@ -2629,6 +2632,9 @@ http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-UYUhwHCm7bA/AAAAAAAAAAI/AAAAAAAAAAA/WxYiwYadTxw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDIA",Lok Sabha TV
 http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://music.mhone.in/wp-content/themes/discussionwp/assets/img/logo-sticky.png" group-title="INDIA",MH One Music
+http://mh1musiccloud.purplestream.in/mhonemusic/mhonemusic3-live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://drop.ndtv.com/albums/GADGETS/indianapps/ndtvapp.jpg" group-title="INDIA",NDTV
 http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
 
@@ -2650,23 +2656,17 @@ http://ibn7_hls-lh.akamaihd.net/i/ibn7_hls_n_1@174951/index_3_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-YvUAO640WNc/AAAAAAAAAAI/AAAAAAAAAAA/XHgSiezaGVg/s900-c-k-no-rj-c0xffffff/photo.jpg" group-title="INDIA",Paras TV
 http://208.109.243.12/apiupload/parasInternational/hls/5/parastv/playlist_9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.unlockworldtv.com/wp-content/uploads/bfi_thumb/star_sports_cn-2zcpeswm1s32y19f7hvmdm.png" group-title="INDIA",Star Sports [Off]
-http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Sports_3_hs.smil/chunklist_w1245298386_b528000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uttarbangla.com/Images/CompanyLogo.jpg" group-title="INDIA",Uttar Bangla
-http://vm3.gloriatech.in:1935/ivb7/uttarbangla/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://music.mhone.in/wp-content/themes/discussionwp/assets/img/logo-sticky.png" group-title="INDIA",MH One Music
-http://mh1musiccloud.purplestream.in/mhonemusic/mhonemusic3-live.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pratidintime.com/images/logo.png" group-title="INDIA",Pratidin Time
 http://pratidintimestream.in:1935/unevent/timetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rengonitv.com/admin/pdf/RENGONI%20white%20logo%20small.png" group-title="INDIA",Rengoni
 http://rengonicloud.purplestream.in/rengoniorg/ngrp:rengoni_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://9xm.in/wp-content/uploads/2016/07/mob-logo-1.png" group-title="INDIA",9XM
-http://ind19-lh.akamaihd.net/i/ind19_9xm@440010/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png" group-title="INDIA",Sathiyam TV
+http://live-10.viewer.dacast.com/i/dclive_1@139807/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uttarbangla.com/Images/CompanyLogo.jpg" group-title="INDIA",Uttar Bangla
+http://vm3.gloriatech.in:1935/ivb7/uttarbangla/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.pakistantv.tv/wp-content/uploads/2014/10/Pakistan-icon1.png" group-title="LABEL",~ Pakistan TV ~
 http://www.lengua.com/anthems/Pakistan.mp3
