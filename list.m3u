@@ -973,9 +973,6 @@ http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.portalimprensa.com.br/content_file_storage/2015/03/19/SBT.jpg" group-title="BRAZIL",SBT Sao Paulo
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" group-title="BRAZIL",TVCi
-http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://180graus.com/res/imagens/portal/2013/06/29/fdf-300x250e.jpg" group-title="BRAZIL",TV Antares
 http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8
 
@@ -3900,6 +3897,9 @@ http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sistema.sitewebtv.com.br/arquivos/slide/1905172618F01.jpg" group-title="RELIGION",TV Betel (Brazil)
 http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" group-title="RELIGION",TVCi (Brazil)
+http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/874652880082522112/tJGtDDiy_400x400.jpg" group-title="RELIGION",MK Music (Brazil)
 http://45.43.208.98:1935/tvmonteiro/tvmonteiro/live.m3u8
