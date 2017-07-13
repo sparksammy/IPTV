@@ -213,7 +213,7 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/gb.png" group-title="LABEL",~ UK TV ~
 http://www.lengua.com/anthems/nationalanthemukgreatbritain.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/bbc_news_logo.png" group-title="UK",BBC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/1.2.0/bbc_news_logo.png" group-title="UK",BBC News [Off]
 http://user:asdqwe@rel4.european-iptv.com:81/8144
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fatboyslim.org/wp-content/uploads/2006/10/bbc_radio1-520x245.png" group-title="UK",BBC Radio One
@@ -266,9 +266,6 @@ https://tv2iptv.com/live/Nomman/azeqsdvg/520.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
 http://81.7.13.162/hls/ss4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.freecaster.com/img/poster/program/320x240/default/extreme.pl.png" group-title="UK",Extreme Sports Channel
-http://93.91.113.8:8080/Apple/Extreme-Sports/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC Style
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
@@ -2109,6 +2106,9 @@ http://93.91.113.8:8080/Apple/Boks-TV/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/250x150/ru/Boets.png" group-title="RUSSIA",Match! Boec
 http://93.91.113.8:8080/Apple/Match!-BOEC-(Boec)/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.freecaster.com/img/poster/program/320x240/default/extreme.pl.png" group-title="RUSSIA",Extreme Sports Channel
+http://93.91.113.8:8080/Apple/Extreme-Sports/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://interzona.tv/media/image/exposure/abto_nahoc.1455635096.png" group-title="RUSSIA",Avto Pljus
 http://93.91.113.8:8080/Apple/Avto-pljus/.m3u8
