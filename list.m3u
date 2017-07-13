@@ -1357,6 +1357,15 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="LATINO",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/264954255_1280x720.jpg" group-title="LATINO",AXN
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7472/15749018460_4093ea374b_b.jpg" group-title="LATINO",Discovery H+H
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dearbornlibrary.org/wordpress/wp-content/uploads/EasyRotatorStorage/user-content/erc_94_1375728101/content/assets/KyleSmith_DisneyJunior_06-0.jpg" group-title="LATINO",Disney Junior
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/421329880190435328/xOK9DhHG_400x400.jpeg" group-title="LATINO",E! Latino
 http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
@@ -1364,10 +1373,25 @@ http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/pl
 http://edge7.telesport.pw/live/foxlatino/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/1837.png" group-title="LATINO",Fox*
-http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
+http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tracking-board.com/wp-content/uploads/2015/05/110115033133_fx-channel-logo-320.jpg" group-title="LATINO",FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logos-vector.com/images/logo/xxl/9/2/8/92850/TBS_97a3f_450x450.png" group-title="LATINO",TBS
+http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FkfkR6B.jpg" group-title="LATINO",TNT [NoKodi]
 http://cdn1.shurs.xyz/verliga/7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.seriados.tv.br/wp-content/uploads/2015/04/tnt_series_.jpg" group-title="LATINO",TNT Series
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/4/44/Universal_Channel_yellow_ident.jpg" group-title="LATINO",Universal Channel
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/af/Warner_Bros._Pictures_logo.png" group-title="LATINO",Warner TV
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo [NoKodi]
 http://edge5.telesport.pw/live/telemundo/index.m3u8
@@ -2074,6 +2098,21 @@ http://192.99.46.56:1935/patbolivia/patlapaz/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ru.seaicons.com/wp-content/uploads/2016/03/Russia-icon.png" group-title="LABEL",~ Russia TV ~
 http://www.lengua.com/anthems/Russia.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stream2watch.cc/images/streams/600x400/14731693795501.png" group-title="RUSSIA",Boks TV
+http://93.91.113.8:8080/Apple/Boks-TV/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/250x150/ru/Boets.png" group-title="RUSSIA",Match! Boec
+http://93.91.113.8:8080/Apple/Match!-BOEC-(Boec)/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://interzona.tv/media/image/exposure/abto_nahoc.1455635096.png" group-title="RUSSIA",Avto Pljus
+http://93.91.113.8:8080/Apple/Avto-pljus/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/NBEjRV4anrA/hqdefault.jpg" group-title="RUSSIA",History
+http://93.91.113.8:8080/Apple/History/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.freecaster.com/img/poster/program/320x240/default/extreme.pl.png" group-title="RUSSIA",Extreme Sports
+http://93.91.113.8:8080/Apple/Extreme-Sports/.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1hd.ru/assets/site/images/logo.png" group-title="RUSSIA",1 HD
 http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 
@@ -2622,6 +2661,15 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1457920745.png" group-title="ISRAEL",ILand TV (Russian)
 http://146.185.61.140:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://applogos.com/APPIMAGES/1.39341452139E+12_Discovery-Channel.jpg" group-title="ISRAEL",Discovery
+http://s1-p3.peer5.net/edge/44-1.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.playbuzz.com/cdn/4544d479-c523-4fd0-a642-2391269d1f90/eb72b3c4-018c-4394-89c8-7a34a223c330_560_420.jpg" group-title="ISRAEL",Disney Channel
+http://s1-p3.peer5.net/edge/41-1.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://twiar.net/wp-content/uploads/2016/11/NatGeo-Black.png" group-title="ISRAEL",National Geographic
+http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="LABEL",~ India TV ~
 http://www.lengua.com/anthems/India.mp3
@@ -3336,6 +3384,9 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel18/700.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hlyy.cc/uploadfile/20150411/yhio2s54d5j.jpg" group-title="CHINA",Shandong TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Shaanxi_TV_logo.png" group-title="CHINA",Shaanxi TV
+http://27.148.240.208/PLTV/88888888/224/3221226062/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TPBS.jpg/200px-TPBS.jpg" group-title="CHINA",Tianjin TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
