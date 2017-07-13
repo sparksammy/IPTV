@@ -252,17 +252,8 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kompitv.com/images/chelsea-tv.jpg" group-title="UK",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Premier_Sports_logo.png" group-title="UK",Premier Sports
-https://tv2iptv.com/live/Nomman/azeqsdvg/1022.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/seenit.co.uk/wp-content/uploads/BT-ESPN.png" group-title="UK",BT Sport ESPN
 http://185.142.239.164:3135/BT/Espn/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/bt-sport-1-logo.jpeg" group-title="UK",BT Sport 1
-https://tv2iptv.com/live/Nomman/azeqsdvg/519.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s1.freesport24.pw/live/btsport2.png" group-title="UK",BT Sport 2
-https://tv2iptv.com/live/Nomman/azeqsdvg/520.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
 http://81.7.13.162/hls/ss4/index.m3u8
