@@ -27,6 +27,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gigaom.com/wp-content/uploads/sites/1/2012/02/bloomberg-tv-logo-o.jpg" group-title="WORLD NEWS",Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://nativeadvertising.com/content/images/2016/08/CNN_International_2009.png" group-title="WORLD NEWS",CNN Int'l
+http://91.121.244.94:8081/61ATxa3TeuYIZxYQIZuQVRINTVI2ND6dQrh/live/cnn_id6748/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singapore.mfa.gov.ua/mediafiles/sites/singapore/images/articles/tmbs/CNA_logo-tmb-270x180.jpg" group-title="WORLD NEWS",Channel NewsAsia
 http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
 
