@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please DONATE!
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/13/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/20/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -60,8 +60,11 @@ http://www.lengua.com/anthems/USA.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV 1
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV 2
+https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yiptv.com/wp-content/uploads/2015/05/channels-page-_0000_yes.png" group-title="USA",Yes TV
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8
@@ -129,6 +132,12 @@ http://185.142.239.164:3135/Espn/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/b/b1/Logo_ESPN2_HD.png" group-title="USA",ESPN 2
 http://185.142.239.164:3135/Espn/2/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585-354x200.jpg" group-title="USA",Fox Sports 1
+http://185.142.239.164:3135/1/FOX/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/300px-FS2_logo_2015.svg.png" group-title="USA",Fox Sports 2
+http://185.142.239.164:3135/2/FOX/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 
@@ -147,6 +156,9 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network*
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.bleacherreport.net/images/team_logos/328x328/wwe.png" group-title="USA",WWE Network
+http://185.142.239.164:3135/WWe/Network/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-washington.jpg" group-title="USA",Pac-12 Washington
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
@@ -161,6 +173,30 @@ http://xrxs.net/video/live-p12ariz-2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
 http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestbrandlogo.com/logos/48742.jpg" group-title="USA",ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aero-news.net/images/content/general/2016/miami-seal-0616a.jpg" group-title="USA",City of Miami TV
+http://oflash.dfw.swagit.com/live/miamibeachfl/smil:std-16x9-1-a/chunklist_w1459206316_b878000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://oct.dc.gov/sites/default/files/styles/medium/public/dc/sites/office%20of%20cable%20television/page_content/images/DCN.gif" group-title="USA",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.snodoglog.com/images/5348-CityOfNaplesLogo-EM.jpg" group-title="USA",Naples TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/naples/mp4:G0145_002/chunklist_w1350568572.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cnlsierra.org/wp-content/uploads/2014/11/NCTV-2015.jpg" group-title="USA",Nevada County TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-3/nevco/mp4:G0644_001/chunklist_w1334900630.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg" group-title="USA",Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" group-title="USA",Seminole TV
+http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stpete.org/logo/images/city_logo_color.gif" group-title="USA",St. Petersburg TV
+http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-1/stpete/mp4:G0187_002/chunklist_w306238720.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
@@ -255,8 +291,17 @@ http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/seenit.co.uk/wp-content/uploads/BT-ESPN.png" group-title="UK",BT Sport ESPN
 http://185.142.239.164:3135/BT/Espn/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK",BT Sport 3
+http://185.142.239.164:3135/BT/3/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
 http://81.7.13.162/hls/ss4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1*
+http://185.142.239.164:3135/Euro/1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="UK",Eurosport 2
+http://185.142.239.164:3135/Euro/2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" group-title="UK",QVC Style
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
@@ -3610,15 +3655,6 @@ http://ad-playlistserver.aws.syncbak.com/playlist/898788/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAa-AAAAJGEzZTg3ZGVlLTAzNmQtNDk4My1hNzMyLWM2Nzk0OTE0MGIxMg.png" group-title="USA LOCAL",WJFW Newswatch 12 (Wisconsin)
 http://cdn.bimvidlive.com/wjfw1/wjfw1/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://apps.seminolecountyfl.gov/images/logo2_sgtv.gif" group-title="USA LOCAL",Seminole TV (Florida)
-http://video.seminolecountyfl.gov:1935/live/SGTV/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wrcftv.com/index_htm_files/1747.jpg" group-title="USA LOCAL",Orange TV (Orlando)
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestbrandlogo.com/logos/48742.jpg" group-title="USA LOCAL",ATXN (Austin)
-http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/Fairfax+County+Government+TV+Channel+16+logo_1396.png" group-title="USA LOCAL",WTPC 16 (Virginia)
 http://mplive.play.ebmcdn.net/eastbay-live-pull-camera-3/_definst_/mp4:camera.stream/chunklist_w1700328985.m3u8
 
@@ -3640,8 +3676,11 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dceaglecam.org/img/american_eagle_foundation_logo.png" group-title="CCTV",DC Eagle Cam
 http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="CCTV",Int'l Space Station [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="CCTV",Int'l Space Station 1
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+
+logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="CCTV",Int'l Space Station 2
+http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="CCTV",Ft. Lauderdale Marina
 http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
