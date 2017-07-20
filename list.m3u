@@ -108,6 +108,9 @@ http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/3249.png" group-title="USA",C-SPAN 3
 http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="USA",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-QeEZiGWs7H0/AAAAAAAAAAI/AAAAAAAACmM/bx1U4F9IYgI/photo.jpg" group-title="USA",The Blaze
 https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
 
@@ -3418,8 +3421,11 @@ http://www.lengua.com/anthems/China.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://chaochaolive.icntv.xyz/taibiao/dongmanxiuchang.png" group-title="CHINA",Cartoon Show
 http://27.148.240.138/PLTV/88888888/224/3221226097/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="CHINA",CGTN (English)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="CHINA",CGTN
 http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CGTN-America_Logo.png/1200px-CGTN-America_Logo.png" group-title="CHINA",CGTN America
+http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CHINA",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
