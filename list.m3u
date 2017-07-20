@@ -240,7 +240,7 @@ http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ebosscanada.com/wp-content/uploads/2016/10/The-Weather-Network_01.jpg" group-title="CANADA",The Weather Network
 http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/NBA_TV_Canada.svg/300px-NBA_TV_Canada.svg.png" group-title="CANADA",NBA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/NBA_TV_Canada.svg/300px-NBA_TV_Canada.svg.png" group-title="CANADA",NBA TV [Off]
 http://edge2504.livesports.pw/live/vernbatvbacad13168a4762e0/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg" group-title="CANADA",The Shopping Channel
