@@ -1630,7 +1630,7 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="MEXICO",TeleFormula
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mediavyasa.com.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="MEXICO",TeleFormula [Off]
 http://gformula.mmdlive.lldns.net/gformula/1cb087d8264e4b4097a6ac23cff3cbea/chunklist_b1128000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png" group-title="MEXICO",Once TV
@@ -1717,7 +1717,7 @@ http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="MEXICO",Canal 10
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://i.imgur.com/3t5Cz1e.jpg" group-title="MEXICO",Gala TV
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://i.imgur.com/3t5Cz1e.jpg" group-title="MEXICO",Gala TV Cancun
 http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/785523100502806529/2XMMyhdS.jpg" group-title="MEXICO",TVP
