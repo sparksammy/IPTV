@@ -3409,14 +3409,50 @@ http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/cn.png" group-title="LABEL",~ China TV ~
 http://www.lengua.com/anthems/China.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://chaochaolive.icntv.xyz/taibiao/dongmanxiuchang.png" group-title="CHINA",Cartoon Show
+http://27.148.240.138/PLTV/88888888/224/3221226097/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv02.jpg" group-title="CHINA",CCTV 2
+http://27.148.240.138/PLTV/88888888/224/3221226046/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/CCTV4-670x300.jpg" group-title="CHINA",CCTV 4
+http://27.148.240.138/PLTV/88888888/224/3221226047/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv07.jpg" group-title="CHINA",CCTV 7
+http://27.148.240.138/PLTV/88888888/224/3221226048/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv10.jpg" group-title="CHINA",CCTV 10
+http://27.148.240.138/PLTV/88888888/224/3221226051/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv11.jpg" group-title="CHINA",CCTV 11
+http://27.148.240.138/PLTV/88888888/224/3221226052/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv12.jpg" group-title="CHINA",CCTV 12
+http://27.148.240.138/PLTV/88888888/224/3221226053/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LU9WYBf.jpg" group-title="CHINA",CCTV 13
 http://61.155.167.11/live/cctv13.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zhiboba.cc/zbbimg/cctv13.jpg" group-title="CHINA",CCTV 13* [Off]
+http://27.148.240.138/PLTV/88888888/224/3221226054/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.test.2plus2.od.ua/uploads/thumbs/b1c60ff26-1.jpg" group-title="CHINA",CCTV 14
+http://27.148.240.138/PLTV/88888888/224/3221226055/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.test.2plus2.od.ua/uploads/thumbs/f14b82922-1.jpg" group-title="CHINA",CCTV 15
+http://27.148.240.138/PLTV/88888888/224/3221226056/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-live.tv/wp-content/uploads/2014/01/CCTV-Golf-Tennis.gif" group-title="CHINA",CCTV Golf + Tennis
+http://27.148.240.138/PLTV/88888888/224/3221226058/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/CCTV-NEWS.png" group-title="CHINA",CCTV News
+http://27.148.240.138/PLTV/88888888/224/3221226050/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbprmc.com/img/clients/CBN.png" group-title="CHINA",China Business Network
 http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="CHINA",SinoVision (US)
-http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.53zb.com/images/pindao_img/1-150125225910126.jpg" group-title="CHINA",City
+http://27.148.240.138/PLTV/88888888/224/3221226098/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png" group-title="CHINA",Dragon TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel10/700.m3u8
@@ -3442,6 +3478,9 @@ http://27.148.240.207/PLTV/88888888/224/3221226040/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.phone.baidu.com/public/uploads/store_7/0/c/e/0ce49f19ddaf12e3bbb579dfd68a6c4d_200x200.png" group-title="CHINA",Fujian NBA
 http://27.148.240.138/PLTV/88888888/224/3221225939/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tva4.sinaimg.cn/crop.0.0.299.299.180/6df91699gw1eaepxad5o8j208c08cgmd.jpg" group-title="CHINA",GameFy
+http://27.148.240.138/PLTV/88888888/224/3221226064/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.american-checkout.com/wp-content/uploads/2012/03/global-shopping.jpg" group-title="CHINA",Global Shopping
 http://27.148.240.138/PLTV/88888888/224/3221226043/index.m3u8
 
@@ -3454,6 +3493,12 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel89/700.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/jilintv-live.jpg" group-title="CHINA",Jilin TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel25/700.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dongqiuzhibo.com/uploads/tv/hxjcpd.jpg" group-title="CHINA",Laughter Theater
+http://27.148.240.138/PLTV/88888888/224/3221226095/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.xtseo.com/uploads/allimg/160510/5-160510153950352.jpg" group-title="CHINA",Lifestyle
+http://27.148.240.138/PLTV/88888888/224/3221226091/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-1O_rjcgmyds/AAAAAAAAAAI/AAAAAAAAAAA/tCoHqwYjv7w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHINA",Sichuan TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel18/700.m3u8
 
@@ -3463,8 +3508,20 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Shaanxi_TV_logo.png" group-title="CHINA",Shaanxi TV
 http://27.148.240.208/PLTV/88888888/224/3221226062/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="CHINA",SinoVision (US)
+http://ec.sinovision.net/video/ts/lv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.el-tony.com/wp-content/uploads/2014/06/F1-Formula-1-Side-Super-Abstract-Speed-Car-2014-Orange-Neon-HD-Wallpapers-design-by-Tony-Kokhan-www.el-tony.com_.jpg" group-title="CHINA",Speed Car
+http://27.148.240.138/PLTV/88888888/224/3221226109/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.098.name/uploads/allimg/150817/1-150QG0210N50.jpg" group-title="CHINA",Sports
+http://27.148.240.138/PLTV/88888888/224/3221226092/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TPBS.jpg/200px-TPBS.jpg" group-title="CHINA",Tianjin TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple117/v4/46/29/8c/46298cca-ebfc-c6e7-96bf-6a777ea32868/source/1200x630bb.jpg" group-title="CHINA",Ugo Shop
+http://27.148.240.138/PLTV/88888888/224/3221226044/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/556dfbc3e4b08d611ed0ece8/5578ab02e4b0107e2664bb95/5578ad94e4b0dfea70397bfa/1433972147679/Screen+Shot%202015-06-10%20at%2022.34.56.png" group-title="CHINA",Xiamen TV
 http://27.148.240.138/PLTV/88888888/224/3221226042/index.m3u8
@@ -3960,6 +4017,9 @@ http://s1.thedove.us:1935/theDoveTV/3theDoveTV.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/family_friendly_tv_usa.jpg" group-title="RELIGION",Family Friendly Entertainment (USA)
 http://54.225.64.228:1935/live/roku2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/616609783274164224/waq5RhQO_400x400.png" group-title="RELIGION",Rap Resurrection (USA)
+http://edge2.tikilive.com:1935/unrestricted_tikilive/36008/amlst:amKEQ2Y2gYN4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg" group-title="RELIGION",Amazing Facts TV (USA)
 http://amazingfacts.live-s.cdn.bitgravity.com/cdn-live/_definst_/amazingfacts/live/feed01/chunklist_w1921345467.m3u8
