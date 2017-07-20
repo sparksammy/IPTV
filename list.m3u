@@ -2815,7 +2815,7 @@ http://rengonicloud.purplestream.in/rengoniorg/ngrp:rengoni_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png" group-title="INDIA",Sathiyam TV
 http://live-10.viewer.dacast.com/i/dclive_1@139807/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_SIX.svg" group-title="INDIA",Sony Six
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-tQ8E_vI8AaI/AAAAAAAAAAI/AAAAAAAAAAA/GYiqfyPIKzE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDIA",Sony Six
 http://185.142.239.164:3135/Sony/Six/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://smarttv.pk/wp-content/uploads/2016/11/tenSports1.jpg" group-title="INDIA",Ten 1
