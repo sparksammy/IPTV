@@ -349,14 +349,50 @@ http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/au.png" group-title="LABEL",~ Australia TV ~
 http://www.lengua.com/anthems/Australia.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rewindradio.com/images/stationlogos/55932209c31e01.77524418.jpeg" group-title="AUSTRALIA",2GB Sydney
+http://syd2gbaud-lh.akamaihd.net/i/sydneygbaudio_1@367120/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/2SM_Radio_Station_Logo.jpg.png" group-title="AUSTRALIA",2SM Sydney
+http://144.140.228.109:8220/mp3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.talkinglifestyle.com.au/wp-content/uploads/sites/3/2016/09/logo.jpg" group-title="AUSTRALIA",2UE Sydney
+http://shout01.stream.hostworks.com.au/2ue_mp3/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/3awlogo.jpg" group-title="AUSTRALIA",3AW Melbourne
+http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="AUSTRALIA",4BC Brisbane
+http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/1/1d/ABC-Radio-Sydney.png" group-title="AUSTRALIA",ABC Radio Sydney
+http://live-radio02.mediahubaustralia.com/2LRW/aac/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chifley.org.au/wp-content/uploads/2015/04/666_Twitter_400x400.jpg" group-title="AUSTRALIA",ABC Radio Canberra
+http://abcradiolivehls-lh.akamaihd.net/i/localcanberra_1@327263/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/470802028856213504/A4Dg37Ey_400x400.jpeg" group-title="AUSTRALIA",ABC Radio National
+http://live-radio01.mediahubaustralia.com/2RNW/aac/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ec/ABC_Jazz.png" group-title="AUSTRALIA",ABC Jazz
+http://abcradiolivehls-lh.akamaihd.net/i/abcjazz_1@327288/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/C31_Melbourne_logo_2010.png/400px-C31_Melbourne_logo_2010.png" group-title="AUSTRALIA",C31 Melbourne
 http://manifester-c31.mediafoundry.com.au/stream/c31melbourne/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/44adelaidelogo.png" group-title="AUSTRALIA",Channel 44 Adelaide
+https://manifester-c44adelaide.mediafoundry.com.au/stream/c44adelaide_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://icons.webpatashala.com/Icons/Flag-Borderless-Icons-Deleket-/Png/New-Zealand-01-icon57.PNG" group-title="LABEL",~ New Zealand TV ~
 http://www.lengua.com/anthems/NewZealand.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" group-title="NEW ZEALAND",Parliament TV
+http://streaming.kordia.net.nz/out/u/house_captionsVideo3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Kfj2J1z.png" group-title="NEW ZEALAND",The Edge
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png" group-title="NEW ZEALAND",Three
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782343735627554817/bYUDkc5L.jpg" group-title="NEW ZEALAND",TVNZ 2 [NoKodi]
 https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
@@ -474,6 +510,9 @@ http://dorf.openplayout.org/hls/dorf_high/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit
 http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg" group-title="AUSTRIA",KroneHit*
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.campusfernsehen.at/wp-content/themes/Orion/images/logo_okto.png" group-title="AUSTRIA",Okto TV
 http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8
@@ -1432,13 +1471,19 @@ http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/a/af/Warner_Bros._Pictures_logo.png" group-title="LATINO",Warner TV
 http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.syfy.com/sites/syfy/themes/syfy/default.jpg" group-title="LATINO",Syfy
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://20916-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/03/watch_Nat_Geo_Wild_online.jpg" group-title="LATINO",Nat Geo Wild
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo [NoKodi]
 http://edge5.telesport.pw/live/telemundo/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-u1R-pryM6rA/WEGZrTlPj9I/AAAAAAAAD3k/1IUfLSQDyZURbL2Nvs83cAbk3OO9m0tTgCLcB/s1600/goltv.png" group-title="LATINO",Gol TV [NoKodi]
 http://50.97.142.130/hls2/amlst:30001_ios/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2dm9jzc.jpg" group-title="LATINO",HispanTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2dm9jzc.jpg" group-title="LATINO",HispanTV [Off]
 http://efusion1-i.akamaihd.net/hls/live/252882/hispantv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/lamegamundial.png" group-title="LATINO",La Mega Mundial
@@ -2049,6 +2094,9 @@ http://162.220.218.101:8081/live/stream2.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/29c778_7ed6e418c0574ea38b1ff303f8a23041~mv2.png" group-title="LABEL",~ Panama TV ~
 http://www.lengua.com/anthems/Panama.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="PANAMA",NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
@@ -2787,6 +2835,9 @@ http://rengonicloud.purplestream.in/rengoniorg/ngrp:rengoni_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png" group-title="INDIA",Sathiyam TV
 http://live-10.viewer.dacast.com/i/dclive_1@139807/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Sony_SIX.svg" group-title="INDIA",Sony Six
+http://185.142.239.164:3135/Sony/Six/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://smarttv.pk/wp-content/uploads/2016/11/tenSports1.jpg" group-title="INDIA",Ten 1
 http://185.142.239.164:3135/Ten/1/index.m3u8
@@ -3897,6 +3948,9 @@ http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.youthscape.co.uk/assets/open_me/img/interface/prayer-icon.png" group-title="LABEL",~ Religion TV ~
 http://191.252.102.161:8040/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vishwaguruji.org/images/our-projects/swamiji-tv.jpg" group-title="RELIGION",Swamiji TV (Austria)
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w1606422831_b400000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jltv.tv/images/jltvLogoHor.png" group-title="RELIGION",Jewish Life TV (USA)
 http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
