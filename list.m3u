@@ -3418,6 +3418,12 @@ http://www.lengua.com/anthems/China.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://chaochaolive.icntv.xyz/taibiao/dongmanxiuchang.png" group-title="CHINA",Cartoon Show
 http://27.148.240.138/PLTV/88888888/224/3221226097/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="CHINA",CGTN (English)
+http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CHINA",CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv02.jpg" group-title="CHINA",CCTV 2
 http://27.148.240.138/PLTV/88888888/224/3221226046/index.m3u8
 
