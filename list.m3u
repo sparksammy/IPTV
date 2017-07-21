@@ -3094,9 +3094,6 @@ http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/
 #EXTINF:-1 tvg-logo="http://www.oktranslation.cn/images/languages/Arabic.png" group-title="LABEL",~ UAE TV ~
 http://www.lengua.com/anthems/UnitedArabEmirates.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png" group-title="UAE",CNBC Arabiya
-http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Al_Aan_TV_Logo.png" group-title="UAE",Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 
@@ -3105,6 +3102,9 @@ http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/29n9sg4.png" group-title="UAE",Al Dafrah TV
 http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png" group-title="UAE",CNBC Arabiya
+http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
@@ -3134,6 +3134,9 @@ http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" group-title="UAE",Dubai Sports
+http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Dubai-Sports-2_o.jpg" group-title="UAE",Dubai Sports*
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai
@@ -3141,6 +3144,9 @@ http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.my-tv.us/Portal/LibraryCustom/Photos/Channels/LogoBig/Sama-Dubai_300-094232.jpg" group-title="UAE",Sama Dubai*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alwathba.ae/images/Abu-Dhabi-YAS_o.jpg" group-title="UAE",YAS Sports
+http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg" group-title="UAE",Dubai Racing 1
 http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
@@ -3153,6 +3159,9 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.teles-live.com/uploads/thumbs/0924ddc86-1.jpg" group-title="UAE",Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.osn.com/logo/channel/165x120/SER.png" group-title="UAE",Musalsalat HD
+http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
@@ -3285,6 +3294,9 @@ http://www.lengua.com/anthems/Egypt.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-j2tQrXqcnbE/UJrfFKuhOVI/AAAAAAAAD9w/O1PAj3B0Wlw/s320/Screen_shot_2011-07-02_at_12.49.44_PM.png" group-title="EGYPT",CBC
 http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/b2/7d/63/b27d63c52f73b653d3da44668aeaf70d--live-stream-live-tv.jpg" group-title="EGYPT",Al Kahera Wal Nas
+http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq
 http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
