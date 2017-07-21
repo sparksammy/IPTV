@@ -222,6 +222,9 @@ http://www.lengua.com/anthems/Canada.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png" group-title="CANADA",Assemblee Nationale du Quebec (French)
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://preview.ibb.co/j6LZAF/IMG_6975.png" group-title="CANADA",Breakfast Television
+http://bthls-i.akamaihd.net/hls/live/264151/BTTORHLS/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.douglas.qc.ca/uploads/Image/images_site/1377_logo_canal_savoir_retaille/canevas-canal-savoir.jpg" group-title="CANADA",Canal Savoir (French)
 http://stream.canalsavoir.tv/livestream/stream.m3u8
 
