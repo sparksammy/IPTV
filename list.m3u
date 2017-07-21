@@ -400,27 +400,6 @@ http://manifester-c31.mediafoundry.com.au/stream/c31melbourne/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/44adelaidelogo.png" group-title="AUSTRALIA",Channel 44 Adelaide
 https://manifester-c44adelaide.mediafoundry.com.au/stream/c44adelaide_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/accounts/00000000006e4c27/4040bf3b-047c-4c0e-8ba3-66632886644b.png" group-title="AUSTRALIA",Sky Net HD
-http://178.33.237.97/live/wkySDc6tSs/ARSEHOLE5TheL0tAYESJD8667H/1526.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/accounts/00000000006e4c27/4040bf3b-047c-4c0e-8ba3-66632886644b.png" group-title="AUSTRALIA",Sky Net 1
-http://178.33.237.97/live/wkySDc6tSs/ARSEHOLE5TheL0tAYESJD8667H/1527.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/accounts/00000000006e4c27/4040bf3b-047c-4c0e-8ba3-66632886644b.png" group-title="AUSTRALIA",Sky Net 2
-http://178.33.237.97/live/wkySDc6tSs/ARSEHOLE5TheL0tAYESJD8667H/1528.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/accounts/00000000006e4c27/4040bf3b-047c-4c0e-8ba3-66632886644b.png" group-title="AUSTRALIA",Sky Net 3
-http://178.33.237.97/live/wkySDc6tSs/ARSEHOLE5TheL0tAYESJD8667H/1529.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/accounts/00000000006e4c27/4040bf3b-047c-4c0e-8ba3-66632886644b.png" group-title="AUSTRALIA",Sky Net 4
-http://178.33.237.97/live/wkySDc6tSs/ARSEHOLE5TheL0tAYESJD8667H/1530.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/accounts/00000000006e4c27/4040bf3b-047c-4c0e-8ba3-66632886644b.png" group-title="AUSTRALIA",Sky Net 5
-http://178.33.237.97/live/wkySDc6tSs/ARSEHOLE5TheL0tAYESJD8667H/1531.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.new.livestream.com/accounts/00000000006e4c27/4040bf3b-047c-4c0e-8ba3-66632886644b.png" group-title="AUSTRALIA",Sky Net 6
-http://178.33.237.97/live/wkySDc6tSs/ARSEHOLE5TheL0tAYESJD8667H/1532.m3u8
-
 #EXTINF:-1 tvg-logo="http://icons.webpatashala.com/Icons/Flag-Borderless-Icons-Deleket-/Png/New-Zealand-01-icon57.PNG" group-title="LABEL",~ New Zealand TV ~
 http://www.lengua.com/anthems/NewZealand.mp3
 
