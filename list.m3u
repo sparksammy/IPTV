@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please DONATE!
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/20/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/21/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -462,6 +462,9 @@ http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlis
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://programm.ard.de/files/265/2007/2778/28108.jpg" group-title="GERMANY",HR Fernsehen
 http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png" group-title="GERMANY",INTV
+https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="GERMANY",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
@@ -1447,8 +1450,23 @@ http://stream.latino-webtv.com/series/gravityfalls.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-sXNN5oNhnAI/VShC8sO_9II/AAAAAAAAAiw/euDCYhFUWtE/s320/AnimeTV.jpg" group-title="LATINO",Anime TV [Off]
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson 2
+http://tecnotv.xyz/media/simpsons
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/25/12/hfuwpcupirfetn8guqtyhq7h1j02kwfij44ieojq6o8mllxfgn7mgl6khteuz2ey.png" group-title="LATINO",24/7 Los Simpson [VOD]
+http://stream.latino-webtv.com/series/simpsons.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/chespirito.jpg" group-title="LATINO",24/7 Chespirito
+http://tecnotv.xyz/media/tvchespirito
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.joshborras.com/wp-content/uploads/peliculas-on-line-735x400.png" group-title="LATINO",24/7 Cine Premiere
+http://tecnotv.xyz/media/tvcinecalidad
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://st-listas.20minutos.es/images/2014-04/380666/list_640px.jpg" group-title="LATINO",24/7 Ciencia Ficcion
+http://tecnotv.xyz/media/tvficcion
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://virtualrealityreporter.com/wp-content/uploads/2016/12/horror-360-degree-video.jpg" group-title="LATINO",24/7 Horror
+http://tecnotv.xyz/media/tvterror
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/264954255_1280x720.jpg" group-title="LATINO",AXN
 http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
@@ -1491,6 +1509,15 @@ http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://20916-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/03/watch_Nat_Geo_Wild_online.jpg" group-title="LATINO",Nat Geo Wild
 http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/ed/fc/58/edfc588c18d5c2ed78ebf36a6e855b96--online-games-for-kids-free-kids-games.jpg" group-title="LATINO",Cartoon Network
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ppcorn.com/us/wp-content/uploads/sites/14/2016/04/History-Channel-ppcorn.jpg" group-title="LATINO",History
+http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://presentationarchive.com/comedycentral/anagramsblack-h.jpg" group-title="LATINO",Comedy Central
+http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/promo/article/2015/05/11/tlmd.jpg" group-title="LATINO",Telemundo [NoKodi]
 http://edge5.telesport.pw/live/telemundo/index.m3u8
@@ -1641,6 +1668,12 @@ http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
 
 #EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://elpoderdelespiritu.com/channels/aztecatrece.png" group-title="MEXICO",Azteca 13
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-VU58EUC2eB4/T3Kk9CfXJeI/AAAAAAAABgU/hKjjVdXCiP0/s320/azteca7.jpeg" group-title="MEXICO",Azteca 7
+http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img4.wikia.nocookie.net/__cb20140714200611/logopedia/images/a/ae/QdyTObH6-1.jpg" group-title="MEXICO",Canal 5
+http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -2365,6 +2398,9 @@ http://edge-de-01.maksnet.tv/soskanal/soskanal/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logo.exyu.xyz/telegraf.png" group-title="SERBIA",Telegraf
 http://v.tf.rs/liveedge/smil:livestream.smil/chunklist_w2119200807_b1396000.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-SSkkIlaJa10/AAAAAAAAAAI/AAAAAAAAAAA/6JDfiPrQf64/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SERBIA",Tlevizija Raska
+http://212.200.112.1:9999/play/a01h/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/2016/03/TVDugaSATlogo_1675-150x120.png" group-title="SERBIA",TV Duga
 http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
 
@@ -2829,6 +2865,9 @@ http://pratidintimestream.in:1935/unevent/timetv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rengonitv.com/admin/pdf/RENGONI%20white%20logo%20small.png" group-title="INDIA",Rengoni
 http://rengonicloud.purplestream.in/rengoniorg/ngrp:rengoni_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Republic_TV.jpg" group-title="INDIA",Republic TV
+http://sshds5-lh.akamaihd.net/i/pcrepublichs_3@503842/index_1300_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/SathiyamFinallogo.png" group-title="INDIA",Sathiyam TV
 http://live-10.viewer.dacast.com/i/dclive_1@139807/master.m3u8
