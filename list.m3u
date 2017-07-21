@@ -3784,7 +3784,7 @@ http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="CCTV",Int'l Space Station 1
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="CCTV",Int'l Space Station 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="CCTV",Int'l Space Station 2
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="CCTV",Ft. Lauderdale Marina
