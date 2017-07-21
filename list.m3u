@@ -1363,6 +1363,9 @@ http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/2ptxhsh.png" group-title="SPAIN",Life TV
 http://109.236.91.150:8080/A1:LifeTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tutele.s3.amazonaws.com/wp-content/uploads/2011/12/Marca_TV.png" group-title="SPAIN",Marca TV
+http://universalhdlive.marca.com/i/dr21_1@100203/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14839.jpg" group-title="SPAIN",Mega
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 
