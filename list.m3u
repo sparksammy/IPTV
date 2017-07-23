@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< PLEASE DONATE!
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/22/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/23/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -1288,6 +1288,9 @@ http://163.172.15.219:1935/live/vivatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canalandaluciaturismo.es/siteadmin/uploads/logo.png" group-title="SPAIN",Canal Andalucia Turismo
 http://cast.streamingconnect.com:1935/csturismo/csturismo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalcocina.es/medias/images/1410CanalCocinaRecomienda.jpg" group-title="SPAIN",Canal Cocina
+http://edge5204.livesports.pw/live/vercocinaesp305b2a402c837/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://m.canalextremadura.es/sites/all/themes/canalex_2016/images/canalex/logotipo@2x.png" group-title="SPAIN",Canal Extremadura
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
@@ -1323,6 +1326,9 @@ http://cdn.s1.eu.nice264.com:1935/niceLiveServer/_definst_/cyl_cyltvlivem_MB_698
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.diariocontraste.com/wp-content/uploads/2016/11/Discovery.jpg" group-title="SPAIN",Discovery
 http://cdn2.shurs.xyz/verdirectotv/11/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-3QImK9KP2KE/TwOQkE7KC-I/AAAAAAAAERI/L4FEY3Jfa4k/s1600/5energy3.jpg" group-title="SPAIN",Energy
+https://cdn.opencable.es/hls/live/energy/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
@@ -1473,6 +1479,9 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latino TV ~
 http://50.7.56.2:8016
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pixcelation.com/wp-content/uploads/2013/04/FuturamaWallpaper1024.gif" group-title="LATINO",VOD - Futurama [Off]
+http://tecnotv.xyz/media/futurama/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.postard.com/wp-content/uploads/2016/11/gravity-falls.jpg" group-title="LATINO",VOD - Gravity Falls
 http://stream.latino-webtv.com/series/gravityfalls.mp4
