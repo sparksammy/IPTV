@@ -1495,21 +1495,6 @@ http://stream.latino-webtv.com/series/simpsons.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson 2 [Off]
-http://tecnotv.xyz/media/simpsons
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.tvtropes.org/pmwiki/pub/images/chespirito.jpg" group-title="LATINO",24/7 Chespirito [Off]
-http://tecnotv.xyz/media/tvchespirito
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.joshborras.com/wp-content/uploads/peliculas-on-line-735x400.png" group-title="LATINO",24/7 Cine Premiere [Off]
-http://tecnotv.xyz/media/tvcinecalidad
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://st-listas.20minutos.es/images/2014-04/380666/list_640px.jpg" group-title="LATINO",24/7 Ciencia Ficcion [Off]
-http://tecnotv.xyz/media/tvficcion
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://virtualrealityreporter.com/wp-content/uploads/2016/12/horror-360-degree-video.jpg" group-title="LATINO",24/7 Horror [Off]
-http://tecnotv.xyz/media/tvterror
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/264954255_1280x720.jpg" group-title="LATINO",AXN
 http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
