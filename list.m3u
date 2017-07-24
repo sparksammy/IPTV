@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< PLEASE DONATE!
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/23/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/24/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -194,6 +194,9 @@ http://video.oct.dc.gov/out/u/DCN.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/aspenroaringforkwellness.com/wp-content/uploads/2016/06/grassroots.jpg" group-title="USA",Grassroots Community Network
 http://reflect.live.grassroots.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Prince_George's_County_Public_Schools_Logo.svg/1011px-Prince_George's_County_Public_Schools_Logo.svg.png" group-title="USA",PG's County Public Schools
+http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.snodoglog.com/images/5348-CityOfNaplesLogo-EM.jpg" group-title="USA",Naples TV
 http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/naples/mp4:G0145_002/chunklist_w1350568572.m3u8
@@ -418,13 +421,13 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/ma
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Three_NZ_TV.png" group-title="NEW ZEALAND",Three
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.9.png" group-title="NEW ZEALAND",TVNZ 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.9.png" group-title="NEW ZEALAND",TVNZ 1 [Geo]
 https://tvnzioslive04-i.akamaihd.net/hls/live/267188/1924997895001/channel1/masterR_5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782343735627554817/bYUDkc5L.jpg" group-title="NEW ZEALAND",TVNZ 2 [NoKodi]
 https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782343735627554817/bYUDkc5L.jpg" group-title="NEW ZEALAND",TVNZ 2*
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/782343735627554817/bYUDkc5L.jpg" group-title="NEW ZEALAND",TVNZ 2* [Geo]
 https://tvnzioslive05-i.akamaihd.net/hls/live/267189/1924997895001/channel2/masterR_55.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.45.png" group-title="NEW ZEALAND",TVSN
@@ -3772,13 +3775,10 @@ https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/14551.jpg" group-title="USA LOCAL",NBC 11 News (Bay Area)
 http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4059.jpg" group-title="USA LOCAL",KTVU 2 News (Bay Area)
-http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" group-title="USA LOCAL",WBZ 4 News (Boston)
 http://cbslocaltv-i.akamaihd.net/hls/live/221461/WBZTV/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/WBZ-TV_logo.png" group-title="USA LOCAL",CBS 4 News (Boston)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/888431997017661440/fj0FLr2O_400x400.jpg" group-title="USA LOCAL",WBZ 4 News* (Boston)
 http://54.163.107.81/server/play/cbslocal-wbzx-dfp/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.news12.com/polopoly_fs/1.8890451.1464300188!/httpImage/image.jpg_gen/derivatives/display_600/image.jpg" group-title="USA LOCAL",News 12 (The Bronx)
@@ -3940,28 +3940,28 @@ http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm8.staticflickr.com/7457/27288844496_d181bf1bc4_b.jpg" group-title="CCTV",Ft. Lauderdale Marina
 http://video3.earthcam.com:1935/fecnetwork/8891.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's (Duval St.)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Key West - Sloppy Joe's (Duval St.)
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's (Stage)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Key West - Sloppy Joe's (Stage)
 http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1380977688.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Sloppy Joe's (Bar)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.keywestexpress.net/hubfs/Restaurant_Pages/Sloppy%20Joes/Sloppy-Joes-Metal-Sign.jpeg" group-title="CCTV",Key West - Sloppy Joe's (Bar)
 http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.history.com/sites/2/2015/07/hith-white-house-attacks-E.jpeg" group-title="CCTV",Washington DC - White House
 http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.america2day.com/media/1110/conversions/full.jpg" group-title="CCTV",San Francisco - Golden Gate
-http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wtop.com/wp-content/uploads/2015/08/540809551.jpg" group-title="CCTV",Washington DC -Washington Monument
+http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="CCTV",NYC Statue of Liberty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://windagainstcurrent.files.wordpress.com/2011/12/libertycam_20111207141712.jpg" group-title="CCTV",NYC - Statue of Liberty
 http://video3.earthcam.com:1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg" group-title="CCTV",NYC Midtown Skyline
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://midtowngirl.com/wp-content/uploads/2014/03/Midtown-Girl-by-Amy-Chandra-NYC-Park-Avenue.jpg" group-title="CCTV",NYC - Midtown Skyline
 http://video3.earthcam.com:1935/fecnetwork/5321.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg" group-title="CCTV",NYC 5th Avenue
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fitzpatrickhotels.com/wp-content/uploads/2016/08/5th-avenue.jpg" group-title="CCTV",NYC - 5th Avenue
 http://video3.earthcam.com:1935/fecnetwork/fridays_5th.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mylivestreams.com/images/camera/large_10724.jpg" group-title="CCTV",NYC Brooklyn Bridge
@@ -3970,38 +3970,43 @@ http://video3.earthcam.com:1935/fecnetwork/3983.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2U3__wGBMPQ/maxresdefault.jpg" group-title="CCTV",NYC Charging Bull
 http://video3.earthcam.com:1935/fecnetwork/chargingbull.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg" group-title="CCTV",NYC Columbus Circle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.crainsnewyork.com/apps/pbcsi.dll/storyimage/CN/20131113/RETAIL_APPAREL/131119946/AR/0/Columbus-Circle.jpg" group-title="CCTV",NYC - Columbus Circle
 http://video3.earthcam.com:1935/fecnetwork/6427.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.timeout.com/images/103264714/630/472/image.jpg" group-title="CCTV",NYC High Line
 http://video3.earthcam.com:1935/fecnetwork/7384.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="CCTV",NYC Times Square
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://culturewhiz.org/sites/default/files/images/places/home4-4032.jpg" group-title="CCTV",NYC - Times Square
 http://video3.earthcam.com:1935/fecnetwork/hdtimes11.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="CCTV",NYC Times Square (47th & Broadway)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.earthcam.com/cams/includes/images/offline_images/tsHD1.jpg" group-title="CCTV",NYC - Times Square (47th & Broadway)
 http://video3.earthcam.com:1935/fecnetwork/hdtimes10.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="CCTV",NYC Times Square (Street Cam)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://experiential-advertising.com/news/wp-content/uploads/2012/02/IMG_1967.jpg" group-title="CCTV",NYC - Times Square (Street Cam)
 http://video3.earthcam.com:1935/fecnetwork/9974.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg" group-title="CCTV",NYC Times Square (Crossroads)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://archpaper.com/wp-content/uploads/2016/04/TimesSquarePlaza.jpg" group-title="CCTV",NYC - Times Square (Crossroads)
 http://video3.earthcam.com:1935/fecnetwork/4717.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="CCTV",NYC Times Square (South View)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.secretsinplainsight.com/wp-content/uploads/Times_Square_Evening.jpg" group-title="CCTV",NYC - Times Square (South View)
 http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg" group-title="CCTV",Seattle Downtown
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.mentalfloss.com/sites/default/files/istock_000008381799_small.jpg" group-title="CCTV",Seattle - KIRO Cam
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destination360.com/north-america/us/washington/images/s/downtown-seattle.jpg" group-title="CCTV",Seattle - Downtown
 http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="CCTV",Toronto CN Tower 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.america2day.com/media/1110/conversions/full.jpg" group-title="CCTV",San Francisco - KNTV Cam
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4059.jpg" group-title="CCTV",San Francisco - KTVU Cam
+http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="CCTV",Toronto - CN Tower 1
 http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="CCTV",Toronto CN Tower 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="CCTV",Toronto - CN Tower 2
 http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wtop.com/wp-content/uploads/2015/08/540809551.jpg" group-title="CCTV",Washington Monument
-http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/switzerland/switzerland_640.png" group-title="CCTV",Switzerland - Zurich – Uetliberg
 http://stream.livespotting.tv/windit-edge/vv65_720p.stream/playlist.m3u8
@@ -4051,7 +4056,7 @@ http://stream.livespotting.tv/windit-edge/vv72_720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Munchen - Redaktion
 http://stream.livespotting.tv/windit-edge/vv55_450p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Munster - Raphaelsklinik
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Munster - Raphaelsklinik
 http://stream.livespotting.tv/windit-edge/vv116_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Munster - Stadthaus
@@ -4078,7 +4083,7 @@ http://stream.livespotting.tv/windit-edge/vv30_720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Oldenburg - Nordwest-Zeitung
 http://stream.livespotting.tv/windit-edge/vv91_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Passau - Hotel Konig
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Passau - Hotel Konig
 http://stream.livespotting.tv/windit-edge/vv98_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.freeflagicons.com/thumb/round_pin_icon/germany/germany_640.png" group-title="CCTV",Germany - Pelzerhaken - Lubecker Bucht
