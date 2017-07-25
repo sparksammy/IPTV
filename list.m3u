@@ -2242,6 +2242,9 @@ http://www.lengua.com/anthems/Panama.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://panamajazzfestival.com/wp-content/uploads/2015/11/nextv.png" group-title="PANAMA",NexTV
 http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oyetv.com.pa/assets/img/logo.png" group-title="PANAMA",OyeTV
+http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-720p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
 
