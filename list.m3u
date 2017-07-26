@@ -198,6 +198,9 @@ http://reflect.live.grassroots.cablecast.tv/live/CELL-496k-270p/CELL-496k-270p.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Prince_George's_County_Public_Schools_Logo.svg/1011px-Prince_George's_County_Public_Schools_Logo.svg.png" group-title="USA",PG's County Public Schools
 http://reflect.live.pgcps.cablecast.tv/live/WIFI-696k-360p/WIFI-696k-360p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/970x545/public/live_keytv_0_0.jpg" group-title="USA",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.snodoglog.com/images/5348-CityOfNaplesLogo-EM.jpg" group-title="USA",Naples TV
 http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/naples/mp4:G0145_002/chunklist_w1350568572.m3u8
 
