@@ -1900,8 +1900,8 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 #EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="http://y.cdn.entutele.com/media/channels/big/gala-tv.gif" group-title="MEXICO",Gala TV
 http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MEXICO",Trecevision [Off]
-http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MEXICO",Trecevision
+http://198.255.112.18:1935/trecevision/videotrecevision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/f/ff/Canal2Tepic.png" group-title="MEXICO",TV Tepic
 http://216.227.135.186:1935/tvnayarit/videotvnayarit/playlist.m3u8
