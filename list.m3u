@@ -2725,8 +2725,11 @@ http://37.152.128.66:7007/play/a00x
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/mad3vUlHRKk/mqdefault.jpg" group-title="GREECE",Ellinikos FM
 http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/EllinikosFM.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" group-title="GREECE",Epsilon TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5d/EPSIlon.png" group-title="GREECE",Epsilon TV
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5d/EPSIlon.png" group-title="GREECE",Epsilon TV*
+http://s2.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/EPT_HD.png" group-title="GREECE",ERT HD
 http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
