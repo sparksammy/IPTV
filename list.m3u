@@ -3226,13 +3226,13 @@ http://www.lengua.com/anthems/SaudiArabia.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-3_zt_y7x15c/VXZIwWkzwkI/AAAAAAAABLg/15iDmGjA188/s1600/Ksa+1.jpg" group-title="KSA",Saudi 1
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi1tv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" group-title="KSA",Saudi 2 (English)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Saudi_2_logo.png" group-title="KSA",Saudi 2 [Off]
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=saudi2tv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg" group-title="KSA",Saudi Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/channel-tv-live/files/image/saudi_sport_channel_live_online_free_arabic_channel.jpg" group-title="KSA",Saudi Sports [Off]
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel4/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/game/files/image/al_ekhbariya_saudi_news_tv_islamic_live_online_free_arabic_channel.png" group-title="KSA",Saudi News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.qassimy.com/game/files/image/al_ekhbariya_saudi_news_tv_islamic_live_online_free_arabic_channel.png" group-title="KSA",Saudi News [Off]
 www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ekhbariyatv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.an7a.com/wp-content/uploads/2011/06/thaqafiyah.jpg" group-title="KSA",Saudi Documentary
@@ -3243,9 +3243,6 @@ http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=ajyaltv
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-672gRgfRWFA/VQ3Xej0w7bI/AAAAAAAAC2o/PKL52KExMIg/s1600/ajyal_tv_sa.png" group-title="KSA",Ajyal TV *
-http://199.167.151.237:1935/live/sp15_27.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.desifree.tv/wp-content/uploads/rotana-cinema.jpg" group-title="KSA",Rotana Cinema
 http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
@@ -3271,7 +3268,7 @@ http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i68.tinypic.com/29n9sg4.png" group-title="UAE",Al Dafrah TV
 http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png" group-title="UAE",CNBC Arabiya
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/588px-CNBC_Arabiya.svg.png" group-title="UAE",CNBC Arabiya [Off]
 http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emarattv.ae/public/img/branding/logo.png" group-title="UAE",Emarat TV
@@ -3282,9 +3279,6 @@ http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://superrepo.org/static/images/icons/original/xplugin.video.dubaitv.png.pagespeed.ic.7Zf1xyDRLq.png" group-title="UAE",Dubai TV**
-http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=dubai&t=ar
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.arabe-media.com/tv/img315.png" group-title="UAE",Dubai One
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
@@ -3336,9 +3330,6 @@ http://selevision9888-i.akamaihd.net/hls/live/219296/98880/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.creativeworldtrade.com/Watch%20&%20Listen%20CWT%27s%20Main%20Middle%20Eastern%20TVs%20Live%20Online%2024%20Hours%20Main%20Page/CWT%27s%20MBC%20MAX%20Movies%20TV%20Channel%20Logos/CWT%27s%20MBC%20MAX%20Movies%20TV%20Channel%20Logo2.png" group-title="UAE",MBC Max
 http://selevision9887-i.akamaihd.net/hls/live/219292/98876/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://content.osn.com/logo/channel/165x120/SER.png" group-title="UAE",Musalsalat HD
-http://selevision9886-i.akamaihd.net/hls/live/219285/98869/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="UAE",National Geographic
 http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
