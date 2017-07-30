@@ -1693,9 +1693,6 @@ http://painel.serveron.com.br:1935/8168/8168/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.quomusica.com/wp-content/uploads/2015/02/CanaldelaCiudad-TV-Logo.jpg" group-title="ARGENTINA",Canal de la Ciudad
 http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.funcinema.com.ar/wp-content/uploads/2017/03/cine-ar.jpg" group-title="ARGENTINA",CINE.AR
-http://ar.watcha.live/ch17/hi.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
 
