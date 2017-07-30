@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< PLEASE DONATE!
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/26/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 07/30/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -1321,6 +1321,9 @@ http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-pc23_Nhkpm8/AAAAAAAAAAI/AAAAAAAAAAA/YCfrdxwBEVw/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",Canal Flamenco TV
 http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2015/02/edit4.jpg" group-title="SPAIN",Canal Hollywood
+http://edge6204.livesports.pw/live/verhollywesp8e58e6a9fb909/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ptvtelecom.com/ficheros/imagennoticia311_0.jpg" group-title="SPAIN",Canal Parlamento
 http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8
 
@@ -1531,11 +1534,17 @@ http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lipmag.com/wp-content/uploads/2012/10/hbo-logo.jpg" group-title="LATINO",HBO
 https://freedom.dreamsmx.com/freedom/mlbusa/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wptest.medialuna.tv/wp-content/uploads/2013/11/hbo_06_1-480x312.jpg" group-title="LATINO",HBO Plus
+https://freedom.dreamsmx.com/freedom/hboplusdc/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/335.png" group-title="LATINO",HBO Family
 https://freedom.dreamsmx.com/freedom/hbopluswestizi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tudotv.tv/fotos/f17d92287fe68e4166baebd177ec1632.jpg" group-title="LATINO",HBO Signature
 https://freedom.dreamsmx.com/freedom/hbosignature/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png" group-title="LATINO",Max Up
+https://freedom.dreamsmx.com/freedom/feriastaurinas/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/264954255_1280x720.jpg" group-title="LATINO",AXN
 http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
@@ -1683,6 +1692,9 @@ http://painel.serveron.com.br:1935/8168/8168/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.quomusica.com/wp-content/uploads/2015/02/CanaldelaCiudad-TV-Logo.jpg" group-title="ARGENTINA",Canal de la Ciudad
 http://186.0.233.76:1935/CiudadAbierta/smil:ciudadabierta.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.funcinema.com.ar/wp-content/uploads/2017/03/cine-ar.jpg" group-title="ARGENTINA",CINE.AR
+http://ar.watcha.live/ch17/hi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410293214.jpeg" group-title="ARGENTINA",Cool 103.7
 http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
@@ -2260,11 +2272,17 @@ http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oyetv.com.pa/assets/img/logo.png" group-title="PANAMA",OyeTV
 http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-720p/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rpcradio.com/images/a/logo-rpcradio.png" group-title="PANAMA",RPC Radio
+http://cdnlive.medcom.com.pa/rpcradio/source/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV
 http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/06/Telemetro.png" group-title="PANAMA",Telemetro
 http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.telemetro.com/radio/Especial-Telemetro-Radio_MEDDIR20160128_0004_47.jpg" group-title="PANAMA",Telemetro Radio
+http://cdnlive.medcom.com.pa/tmradio/source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://th.seaicons.com/wp-content/uploads/2016/03/Honduras-icon.png" group-title="LABEL",~ Honduras TV ~
 http://www.lengua.com/anthems/Honduras.mp3
@@ -2689,6 +2707,9 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rodiaki.gr/articles/2013-12-09/267507/thumb_640.jpg" group-title="GREECE",Aigaio TV
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Alpha_TV_logo.svg" group-title="GREECE",Alpha
+http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VnrR3mN.png" group-title="GREECE",Alpha Cinema (AU)
 http://web.alphastream.eu:1935/neakrith/neakrith/playlist.m3u8
 
@@ -2709,6 +2730,18 @@ http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Ellin
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" group-title="GREECE",Epsilon TV
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/EPT_HD.png" group-title="GREECE",ERT HD
+http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/EPT1_logo_(2015).svg" group-title="GREECE",ERT 1
+http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/EPT2_logo_(2015).svg" group-title="GREECE",ERT 2
+http://s2.greekelitetv.com:1935/ert2/ert2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/EPT3_logo_(2015).svg" group-title="GREECE",ERT 3
+http://s2.greekelitetv.com:1935/ert3/ert3.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/rff1DsY.gif" group-title="GREECE",Fox TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
@@ -2731,6 +2764,9 @@ http://live.streams.ovh:1935/LIFEHD/LIFEHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/MakedoniaTV_OnAir_HD.jpg" group-title="GREECE",Makedonia TV
 http://anglantennalive5-lh.akamaihd.net:80/i/live_1@424766/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MEGA_CHANNEL.png" group-title="GREECE",Mega Channel
+http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/w37uJo1.png" group-title="GREECE",Mega Cosmos (CA)
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 
@@ -2751,6 +2787,12 @@ http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.doriforikanea.gr/sub/news/sbctv-logo.jpg" group-title="GREECE",SBC
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Skai_Tv_logo.svg" group-title="GREECE",Skai TV
+http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Star_Channel_2014_logo.png" group-title="GREECE",Star Channel
+http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://syrosrace.gr/gr/wp-content/uploads/2011/08/TV1.jpg" group-title="GREECE",Syros TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
@@ -2938,6 +2980,9 @@ http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://storiesofworld.com/wp-content/uploads/2016/03/8-9.jpg" group-title="INDIA",DD News
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newsgalaxy.org/wp-content/uploads/2016/10/DD-Punjabi-logo-400x150.jpg" group-title="INDIA",DD Punjabi
+http://nicls3-lh.akamaihd.net/i/ddpunjabi_1@122402/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" group-title="INDIA",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
@@ -2946,6 +2991,12 @@ http://live.wmncdn.net/desibeat/e09ed9b1bf87b35650da39a2924bc5ff.sdp/playlist.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.adgully.com/img/800/65401_logo-et-now.jpg" group-title="INDIA",ET Now
 http://etnowweblive-lh.akamaihd.net/i/Etnow-TIL-WAP/ETNowweb_1@348070/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.desifree.tv/wp-content/uploads/etv-1.jpg" group-title="INDIA",ETV Urdu
+http://etvurdulive-lh.akamaihd.net:80/i/etv_urdu_live_1@373059/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.desifree.tv/wp-content/uploads/etv-1.jpg" group-title="INDIA",ETV Urdu*
+http://etvurdulive-lh.akamaihd.net/i/etv_urdu_live_1@373059/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jadootv.com/wp-content/uploads/2015/05/ai1.png" group-title="INDIA",India TV
 http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
@@ -2958,6 +3009,9 @@ http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://music.mhone.in/wp-content/themes/discussionwp/assets/img/logo-sticky.png" group-title="INDIA",MH One Music
 http://mh1musiccloud.purplestream.in/mhonemusic/mhonemusic3-live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDIA",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MBNOW/mbnowweb_1@346545/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://drop.ndtv.com/albums/GADGETS/indianapps/ndtvapp.jpg" group-title="INDIA",NDTV
 http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
@@ -2983,6 +3037,9 @@ http://208.109.243.12/apiupload/parasInternational/hls/5/parastv/playlist_9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pratidintime.com/images/logo.png" group-title="INDIA",Pratidin Time
 http://pratidintimestream.in:1935/unevent/timetv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://outofline.co.in/wp-content/uploads/2016/09/RSTV-678x381.jpg" group-title="INDIA",Rajya Sabha TV
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rengonitv.com/admin/pdf/RENGONI%20white%20logo%20small.png" group-title="INDIA",Rengoni
 http://rengonicloud.purplestream.in/rengoniorg/ngrp:rengoni_all/playlist.m3u8
 
@@ -2998,11 +3055,17 @@ http://185.142.239.164:3135/Sony/Six/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://smarttv.pk/wp-content/uploads/2016/11/tenSports1.jpg" group-title="INDIA",Ten 1
 http://185.142.239.164:3135/Ten/1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://asiapacificrealtysummit.com/images/times.jpg" group-title="INDIA",Times Now
+http://timesnow-lh.akamaihd.net/i/TIMESNOWWEB/TimesNow_1@129288/index_600_av-p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uttarbangla.com/Images/CompanyLogo.jpg" group-title="INDIA",Uttar Bangla
 http://vm3.gloriatech.in:1935/ivb7/uttarbangla/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.jdmagicbox.com/chennai/e6/044pxx44.xx44.121015162838.h7e6/logo/eb28694445bcefbea53fff28807770f5.jpg" group-title="INDIA",Vendhar TV
 http://45.79.203.234:1935/vendharm/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://inkblingdesigns.files.wordpress.com/2015/07/endpage.jpg" group-title="INDIA",Zoom
+http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.pakistantv.tv/wp-content/uploads/2014/10/Pakistan-icon1.png" group-title="LABEL",~ Pakistan TV ~
 http://www.lengua.com/anthems/Pakistan.mp3
@@ -3321,15 +3384,6 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" group-title="QATAR",Al Jazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem
-http://199.167.151.237:1935/live/sp15_11.stream/gmswf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fe/Baraem.png" group-title="QATAR",Baraem *
-http://199.167.151.237:1935/live/sp15_35.stream/gmswf.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.atrissi.com/wp-content/uploads/2013/04/final-logo-jeem-television-aljazeera-design-arabic.jpg" group-title="QATAR",Jeem TV
-http://199.167.151.237:1935/live/sp15_13.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/al_dawri_tv.jpg" group-title="QATAR",Al Kass Sports
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
