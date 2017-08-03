@@ -1336,6 +1336,9 @@ https://cdn.opencable.es/hls/live/energy/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-Grt64gpUA1w/UZH6VNoXDZI/AAAAAAAAXK4/aOHkzPorWAQ/s1600/etb-sat.png" group-title="SPAIN",ETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-1.png" group-title="SPAIN",Fight Time Entertainment
+https://cdn.opencable.es/hls/live/fighttime/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
 
@@ -2608,6 +2611,9 @@ http://web.alphastream.eu:1935/neakrith/neakrith/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://greektv.pbworks.com/f/ANT1.png" group-title="GREECE",ANT1
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/BHIHYjHntYU/maxresdefault.jpg" group-title="GREECE",Attica TV
+http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3585927/logo_cannali%20tv1.png" group-title="GREECE",Cannali TV
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
 
@@ -2685,6 +2691,9 @@ http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zougla.gr/assets/images/2180976.jpg" group-title="GREECE",Skai TV
 http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Wj7UquLKe0c/maxresdefault.jpg" group-title="GREECE",Smile TV
+http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Star_Channel_2014_logo.png" group-title="GREECE",Star Channel
 http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8
