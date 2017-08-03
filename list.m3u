@@ -2677,7 +2677,7 @@ http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zougla.gr/assets/images/2180976.jpg" group-title="GREECE",Skai TV
 http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Wj7UquLKe0c/maxresdefault.jpg" group-title="GREECE",Smile TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Wj7UquLKe0c/maxresdefault.jpg" group-title="GREECE",Smile
 http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Star_Channel_2014_logo.png" group-title="GREECE",Star Channel
