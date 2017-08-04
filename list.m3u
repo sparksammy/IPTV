@@ -183,9 +183,6 @@ http://xrxs.net/video/live-p12moun-2328.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.cabq.gov/culturalservices/govtv/images/GOV%20TV%20live%20stream%20image.jpg/@@images/2e1b9909-8d45-4e86-b54b-375bb71bf3fb.jpeg" group-title="USA",GOV TV 16
 http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-4/cabq/mp4:G1163_002/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://watchtstv.com/assets/images/TSTV_extracted.png" group-title="USA",Texas Student Television
-http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bestbrandlogo.com/logos/48742.jpg" group-title="USA",ATXN
 http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/chunklist_w1826702480_b878000.m3u8
 
