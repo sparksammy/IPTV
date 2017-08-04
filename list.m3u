@@ -1714,17 +1714,17 @@ http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg" group-title="MEXICO",Teleritmo
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports 1 HD
 http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports*
-http://209.126.116.177/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="MEXICO",Fox Sports 1
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actv.tv/wp-content/uploads/freshizer/e9074200fdfb4ffb6c933c4f0f698e09_fox-sports-2-770-480-c.jpg" group-title="MEXICO",Fox Sports 2
-http://209.126.116.177/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="MEXICO",Fox Sports 3
-http://209.126.116.177/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="MEXICO",Univision TDN
 http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
