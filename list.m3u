@@ -1717,7 +1717,7 @@ http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="MEXICO",Fox Sports 1 HD
 http://link.theplatform.com/s/flac/xr8_wTxx_f5i?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/FoxSports1.png" group-title="MEXICO",Fox Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hendrickmotorsports.com/content/hendrickmotorsports.com/news/5318.jpg" group-title="MEXICO",Fox Sports 1
 http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://actv.tv/wp-content/uploads/freshizer/e9074200fdfb4ffb6c933c4f0f698e09_fox-sports-2-770-480-c.jpg" group-title="MEXICO",Fox Sports 2
