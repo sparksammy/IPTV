@@ -2,22 +2,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="LABEL",* FLUXUS CINEMA
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://casinofreespins.eu/wp-content/uploads/sites/19/2013/08/Casino-free-spins.gif" group-title="LABEL",+ Free Movies + TV Shows
-http://stream.srg-ssr.ch/m/rsj/mp3_128
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< PLEASE DONATE!
-http://sc9106.xpx.pl:9106/
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 08/07/17
-http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ Movies in English
-http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/37sLsd4N0JY/movieposter.jpg" group-title="MOVIES",Agent (2017) [AR-Subs]
 https://archive.org/download/Agent_2017/Agent%202017.mp4
@@ -1637,7 +1637,7 @@ https://archive.org/download/Granddad1913/Granddad%201913.mp4
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/german/img/apple-touch-icon.png" group-title="LABEL",~ Movies in German
-http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.winwallpapers.net/w1/2014/02/Der-Untergang-2004-Wallpapers-5.jpg" group-title="GERMAN",Der Untergang (2004)
 https://archive.org/download/DerUntergangDownfall20041080pX264Jalucian/Der%20Untergang%20(Downfall)%20(2004)%20[1080p]%20x264%20-%20Jalucian.mp4
@@ -1721,7 +1721,7 @@ https://archive.org/download/DerHimmelAufErden1935/Der%20Himmel%20auf%20Erden%20
 https://archive.org/download/DerDraufgnger1931/Der%20Draufg%C3%A4nger%201931.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/french/img/apple-touch-icon.png" group-title="LABEL",~ Movies in French
-http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/35/56/11/18406682.jpg" group-title="FRENCH",L'Age Ingrat (1964)
 https://archive.org/download/LgeIngrat1964/L'%C3%82ge%20ingrat%201964.mp4
@@ -1847,7 +1847,7 @@ https://archive.org/download/LcrinDuRaja/GastonVelleLecrinDuRaja1906TheKingsCask
 https://archive.org/download/LeThtrelectriqueDeBob/1909SegundoDeChomnLeThtrelectriqueDeBobbobsElectricTheatre.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ Movies in Spanish
-http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.mygoldenchoice.com/wp-content/uploads/FA-2.jpg" group-title="SPANISH",The Fate of the Furious (2017)
 https://archive.org/download/RapidosYFuriosos82017TSHQ/R%C3%A1pidos%20y%20Furiosos%208%202017%20-%20TSHQ.mp4
@@ -2216,7 +2216,7 @@ https://archive.org/download/La_Sensacion_de_Paris_1938/La_Sensacion_de_Paris_19
 https://archive.org/download/La_Reina_de_Nueva_York_1937/La_Reina_de_Nueva_York_1937.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/portuguese/img/apple-touch-icon%402.png" group-title="LABEL",~ Movies in Portuguese
-http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JJxSNHV.jpg" group-title="PORTUGUESE",Rock of Ages (2012)
 https://archive.org/download/RockOfAge2012BRRip1080pDualFILMESMEGA/Rock%20of%20Age%20(2012)%20BRRip%201080p%20Dual%20FILMESMEGA.mp4
@@ -2705,8 +2705,8 @@ https://archive.org/download/AMascaraDeFuManchu1932Dubl/A%20Mascara%20De%20Fu%20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/The_Mummy_1932_film_poster.jpg" group-title="PORTUGUESE",A Mumia (1932)
 https://archive.org/download/AMmia1932Dubl/A%20M%C3%BAmia%201932%20Dubl.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/japanese/img/apple-touch-icon%402.png" group-title="LABEL",~ JAPANESE ~
-http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/japanese/img/apple-touch-icon%402.png" group-title="LABEL",~ Movies in Japanese
+http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DRa3SUJ.jpg" group-title="JAPANESE",One Piece Film - Gold (2016)
 https://archive.org/download/OnePieceFilmGold2016JAP1080pBluRayX264DTSJYK/One%20Piece%20Film%20Gold%202016%20JAP%201080p%20BluRay%20x264%20DTS-JYK.mp4
