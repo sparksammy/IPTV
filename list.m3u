@@ -3650,13 +3650,13 @@ http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/400x150/samurai.jpg" group-title="JAPAN",Samurai Fighting TV
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.star-ch.jp/resources/img/base/logo-black.svg" group-title="JAPAN",Star Channel 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.britishtvabroad.com/EUROTV/EUROTV/EUROTV/starchanneljapan.jpg" group-title="JAPAN",Star Channel 1
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.star-ch.jp/resources/img/base/logo-black.svg" group-title="JAPAN",Star Channel 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.britishtvabroad.com/EUROTV/EUROTV/EUROTV/starchanneljapan.jpg" group-title="JAPAN",Star Channel 2
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.star-ch.jp/resources/img/base/logo-black.svg" group-title="JAPAN",Star Channel 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.britishtvabroad.com/EUROTV/EUROTV/EUROTV/starchanneljapan.jpg" group-title="JAPAN",Star Channel 3
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/PeuoiKF.jpg" group-title="JAPAN",TBS Television
