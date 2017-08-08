@@ -3662,13 +3662,13 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/PeuoiKF.jpg" group-title="JAPAN",TBS Television
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2r8cdkUDHGg/maxresdefault.jpg" group-title="JAPAN",Tokio MX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2r8cdkUDHGg/maxresdefault.jpg" group-title="JAPAN",Tokyo MX
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokyo
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="JAPAN",WOWOW Cinema
