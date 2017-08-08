@@ -3563,11 +3563,122 @@ http://live.thairath.co.th/trtv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://is.alicdn.com/img/esite/member/200305570/5ba3755f39b04a018c962bf05fb89df1_original.png" group-title="LABEL",~ Japan TV ~
 http://www.lengua.com/anthems/Japan.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zim9edfg88-flywheel.netdna-ssl.com/wp-content/uploads/logos/BS+12+TwellV+logo_39.png" group-title="JAPAN",BS 12 TwellV
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bs-asahi.co.jp/common/img/head_logo.gif" group-title="JAPAN",BS Asahi
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.anime-japan.jp/data/img/373/INTRO_IMAGE_216_ENG/0.jpg" group-title="JAPAN",BS Fuji
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/BS_japan_logo.jpg" group-title="JAPAN",BS Japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bs4.jp/fb.jpg" group-title="JAPAN",BS NTV
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3-ap-northeast-1.amazonaws.com/shirucafe.com/cms/wp-content/uploads/2015/06/b1f3b1cb33745766fc8ddcfa38664922.jpg" group-title="JAPAN",BS-TBS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs219.gif" group-title="JAPAN",CS219
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="JAPAN",Discovery Channel
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.playbuzz.com/cdn/4544d479-c523-4fd0-a642-2391269d1f90/eb72b3c4-018c-4394-89c8-7a34a223c330_560_420.jpg" group-title="JAPAN",Disney Channel
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/11.jpg" group-title="JAPAN",Eisei Gekijo
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fujitv.co.jp/common/images/logo_ogp.png" group-title="JAPAN",Fuji TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/70.jpg" group-title="JAPAN",Golf Network
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/295_2.jpg" group-title="JAPAN",History
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 1
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 2
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 3
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/1200px-J_Sports_Logo.svg.png" group-title="JAPAN",J Sports 4
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kids-station.com/campaign/cocomong-cp2016/img/common/logo_kids.png" group-title="JAPAN",Kids Station
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movieplus.jp/movie-detail/film_img/m/CS-MOCHIKOMIBANGUMI-001.jpg" group-title="JAPAN",Movie Plus
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/461060111662735360/ItdlcUgO.jpeg" group-title="JAPAN",Music Japan
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s1.dmcdn.net/dFFwY/240x240-G2G.png" group-title="JAPAN",Nihon Eiga TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.c21media.net/wp-content/uploads/2015/03/nippon-tv-logo_red_thumb.jpg" group-title="JAPAN",Nippon TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1294761501/icon_BS1_400x400.jpg" group-title="JAPAN",NHK BS1
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://livedoor.blogimg.jp/hotworks/imgs/0/b/0b74a44b.jpg" group-title="JAPAN",NHK BS Premium
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-ak.b.st-hatena.com/entryimage/262027845-origin-1438996966.jpg" group-title="JAPAN",NHK Educational TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NHK-General-TV-670x300.jpg" group-title="JAPAN",NHK General TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="JAPAN",NTV News24
 http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www2.myjcom.jp/special/common/channel_logo/400x150/samurai.jpg" group-title="JAPAN",Samurai Fighting TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.star-ch.jp/resources/img/base/logo-black.svg" group-title="JAPAN",Star Channel 1
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.star-ch.jp/resources/img/base/logo-black.svg" group-title="JAPAN",Star Channel 2
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.star-ch.jp/resources/img/base/logo-black.svg" group-title="JAPAN",Star Channel 3
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/PeuoiKF.jpg" group-title="JAPAN",TBS Television
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/2r8cdkUDHGg/maxresdefault.jpg" group-title="JAPAN",Tokio MX
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png" group-title="JAPAN",TV Asahi
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokio
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="JAPAN",WOWOW Cinema
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/34.jpg" group-title="JAPAN",WOWOW Live
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://japan.cnet.com/storage/2011/04/21/1a039af933e1b5e522f17d1982fc4538/110420_wowow_184_138.jpg" group-title="JAPAN",WOWOW Prime
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",~ South Korea TV ~
 http://www.lengua.com/anthems/SouthKorea.mp3
@@ -3614,77 +3725,14 @@ http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn-documentary-logo.png" group-title="CHINA",CGTN Documentary
 http://live.cgtn.com/cctv-d.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv02.jpg" group-title="CHINA",CCTV 2
-http://27.148.240.138/PLTV/88888888/224/3221226046/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/CCTV4-670x300.jpg" group-title="CHINA",CCTV 4
-http://27.148.240.138/PLTV/88888888/224/3221226047/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv07.jpg" group-title="CHINA",CCTV 7
-http://27.148.240.138/PLTV/88888888/224/3221226048/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv10.jpg" group-title="CHINA",CCTV 10
-http://27.148.240.138/PLTV/88888888/224/3221226051/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv11.jpg" group-title="CHINA",CCTV 11
-http://27.148.240.138/PLTV/88888888/224/3221226052/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cctv12.jpg" group-title="CHINA",CCTV 12
-http://27.148.240.138/PLTV/88888888/224/3221226053/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LU9WYBf.jpg" group-title="CHINA",CCTV 13
 http://61.155.167.11/live/cctv13.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zhiboba.cc/zbbimg/cctv13.jpg" group-title="CHINA",CCTV 13* [Off]
-http://27.148.240.138/PLTV/88888888/224/3221226054/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.test.2plus2.od.ua/uploads/thumbs/b1c60ff26-1.jpg" group-title="CHINA",CCTV 14
-http://27.148.240.138/PLTV/88888888/224/3221226055/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.test.2plus2.od.ua/uploads/thumbs/f14b82922-1.jpg" group-title="CHINA",CCTV 15
-http://27.148.240.138/PLTV/88888888/224/3221226056/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-live.tv/wp-content/uploads/2014/01/CCTV-Golf-Tennis.gif" group-title="CHINA",CCTV Golf + Tennis
-http://27.148.240.138/PLTV/88888888/224/3221226058/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/CCTV-NEWS.png" group-title="CHINA",CCTV News
-http://27.148.240.138/PLTV/88888888/224/3221226050/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbprmc.com/img/clients/CBN.png" group-title="CHINA",China Business Network
 http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/cbn/as/live/cbn_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.53zb.com/images/pindao_img/1-150125225910126.jpg" group-title="CHINA",City
-http://27.148.240.138/PLTV/88888888/224/3221226098/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/DragonTV_logo.png" group-title="CHINA",Dragon TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel10/700.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.roomy-tv.com/images/4656.png" group-title="CHINA",Fujian TV
-http://27.148.240.138/PLTV/88888888/224/3221226037/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.roomy-tv.com/images/4656.png" group-title="CHINA",Fujian News
-http://27.148.240.138/PLTV/88888888/224/3221226036/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.roomy-tv.com/images/4656.png" group-title="CHINA",Fujian Integrated
-http://27.148.240.138/PLTV/88888888/224/3221226033/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.roomy-tv.com/images/4656.png" group-title="CHINA",Fujian Public
-http://27.148.240.138/PLTV/88888888/224/3221226035/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.guojitv.com/tv/upfile/69af6586-de97-40a8-840c-f9831840f736.jpg" group-title="CHINA",Fujian Economic Life
-http://27.148.240.138/PLTV/88888888/224/3221226039/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.guojitv.com/tv/upfile/69af6586-de97-40a8-840c-f9831840f736.jpg" group-title="CHINA",Fujian Culture
-http://27.148.240.207/PLTV/88888888/224/3221226040/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.phone.baidu.com/public/uploads/store_7/0/c/e/0ce49f19ddaf12e3bbb579dfd68a6c4d_200x200.png" group-title="CHINA",Fujian NBA
-http://27.148.240.138/PLTV/88888888/224/3221225939/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tva4.sinaimg.cn/crop.0.0.299.299.180/6df91699gw1eaepxad5o8j208c08cgmd.jpg" group-title="CHINA",GameFy
-http://27.148.240.138/PLTV/88888888/224/3221226064/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.american-checkout.com/wp-content/uploads/2012/03/global-shopping.jpg" group-title="CHINA",Global Shopping
-http://27.148.240.138/PLTV/88888888/224/3221226043/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Gdtv.png" group-title="CHINA",Guangdong TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel11/700.m3u8
@@ -3695,38 +3743,17 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel89/700.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.isuper.tv/live-tv/cn-tv/jilintv-live.jpg" group-title="CHINA",Jilin TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel25/700.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dongqiuzhibo.com/uploads/tv/hxjcpd.jpg" group-title="CHINA",Laughter Theater
-http://27.148.240.138/PLTV/88888888/224/3221226095/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.xtseo.com/uploads/allimg/160510/5-160510153950352.jpg" group-title="CHINA",Lifestyle
-http://27.148.240.138/PLTV/88888888/224/3221226091/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-1O_rjcgmyds/AAAAAAAAAAI/AAAAAAAAAAA/tCoHqwYjv7w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHINA",Sichuan TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel18/700.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hlyy.cc/uploadfile/20150411/yhio2s54d5j.jpg" group-title="CHINA",Shandong TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel26/700.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/Shaanxi_TV_logo.png" group-title="CHINA",Shaanxi TV
-http://27.148.240.208/PLTV/88888888/224/3221226062/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="CHINA",SinoVision (US)
 http://ec.sinovision.net/video/ts/lv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.el-tony.com/wp-content/uploads/2014/06/F1-Formula-1-Side-Super-Abstract-Speed-Car-2014-Orange-Neon-HD-Wallpapers-design-by-Tony-Kokhan-www.el-tony.com_.jpg" group-title="CHINA",Speed Car
-http://27.148.240.138/PLTV/88888888/224/3221226109/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.098.name/uploads/allimg/150817/1-150QG0210N50.jpg" group-title="CHINA",Sports
-http://27.148.240.138/PLTV/88888888/224/3221226092/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/TPBS.jpg/200px-TPBS.jpg" group-title="CHINA",Tianjin TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel24/700.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is3.mzstatic.com/image/thumb/Purple117/v4/46/29/8c/46298cca-ebfc-c6e7-96bf-6a777ea32868/source/1200x630bb.jpg" group-title="CHINA",Ugo Shop
-http://27.148.240.138/PLTV/88888888/224/3221226044/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static1.squarespace.com/static/556dfbc3e4b08d611ed0ece8/5578ab02e4b0107e2664bb95/5578ad94e4b0dfea70397bfa/1433972147679/Screen+Shot%202015-06-10%20at%2022.34.56.png" group-title="CHINA",Xiamen TV
-http://27.148.240.138/PLTV/88888888/224/3221226042/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/ZJSTV-670x300.jpg" group-title="CHINA",Zhejiang TV
 http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
