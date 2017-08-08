@@ -517,6 +517,12 @@ http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png" group-title="GERMANY",INTV
 https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360
+http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/LS89GC9.png" group-title="GERMANY",MagentaMusik 360 [AudioOnly]
+http://streaming-magenta-music-360.akamaized.net/hls/live/504581/magentamusik1/magentamusik1_7/magentamusik1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/580346447574503424/CxEQwneb.png" group-title="GERMANY",Munchen TV
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8
 
@@ -1150,6 +1156,9 @@ http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvn
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radiomeninabc.portalmenina.com.br/images/logo-radio-bc.png" group-title="BRAZIL",Radio Menina TV
 http://173.236.10.10:1935/tvmocinha/tvmocinha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png" group-title="BRAZIL",RecordTV
+http://rcoberturahls-lh.akamaihd.net/i/rcoberturahls_1@7407/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/Record-News-640x360.jpg" group-title="BRAZIL",Record News
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/livestream.m3u8
