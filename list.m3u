@@ -159,7 +159,7 @@ http://185.142.239.164:3135/NFL/Network/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/9095.png" group-title="USA",NFL Now
 http://svglive3-event.level3.nfl.com/nflent3/live/now/NFLNOW.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9LtjkGW.jpg" group-title="USA",Olympic Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/9LtjkGW.jpg" group-title="USA",Olympic Channel [Off]
 http://ocs-live.hls.adaptive.level3.net/ocs/channel01/NBC_OCS1_VIDEO_7_6064000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/5249.jpg" group-title="USA",MLB Network
@@ -923,7 +923,7 @@ http://live.streamcaster.net:1935/live/fanotv/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fondazione.museostorico.it/var/plain_site/storage/images/progetti/principali-ambiti-tematici-di-ricerca/history-lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria/63732-1-ita-IT/History-Lab-il-canale-digitale-dedicato-alla-storia-e-alla-memoria_galleryfull.jpg" group-title="ITALY",History Lab
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",La 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-hYWT0MBszjE/AAAAAAAAAAI/AAAAAAAAAAA/Xbg1WDitHBI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ITALY",La 7 [Geo]
 http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_1_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.porto.it/radio/it_m2otv.jpg" group-title="ITALY",m20 TV
@@ -2783,7 +2783,7 @@ http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://georgianlive.com/wp-content/uploads/2013/02/sportstv.jpg" group-title="TURKEY",SportsTV
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/0/06/Trt1_2012.png" group-title="TURKEY",TRT 1 [Geo]
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.batitrakya.org/wp-content/uploads/2016/01/trt-avaz.jpg" group-title="TURKEY",TRT Avaz
@@ -2873,13 +2873,13 @@ http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1457920745.png" group-title="ISRAEL",ILand TV (Russian)
 http://146.185.61.140:1935/live/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://applogos.com/APPIMAGES/1.39341452139E+12_Discovery-Channel.jpg" group-title="ISRAEL",Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://applogos.com/APPIMAGES/1.39341452139E+12_Discovery-Channel.jpg" group-title="ISRAEL",Discovery Channel [Geo]
 http://s1-p3.peer5.net/edge/44-1.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.playbuzz.com/cdn/4544d479-c523-4fd0-a642-2391269d1f90/eb72b3c4-018c-4394-89c8-7a34a223c330_560_420.jpg" group-title="ISRAEL",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.playbuzz.com/cdn/4544d479-c523-4fd0-a642-2391269d1f90/eb72b3c4-018c-4394-89c8-7a34a223c330_560_420.jpg" group-title="ISRAEL",Disney Channel [Geo]
 http://s1-p3.peer5.net/edge/41-1.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://twiar.net/wp-content/uploads/2016/11/NatGeo-Black.png" group-title="ISRAEL",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://twiar.net/wp-content/uploads/2016/11/NatGeo-Black.png" group-title="ISRAEL",National Geographic [Geo]
 http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/in.png" group-title="LABEL",~ India TV ~
@@ -3330,9 +3330,6 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 http://www.lengua.com/anthems/Kuwait.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="KUWAIT",Al Rai
-http://stream02.fasttelco.net:1935/live/_definst_/alrai_360.stream/chunklist_w444492626.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="KUWAIT",Al Rai *
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/KTV1_Kuwait.jpg" group-title="KUWAIT",KTV 1
@@ -3380,7 +3377,7 @@ http://38.96.148.30:1935/live/omantv2//playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kr.seaicons.com/wp-content/uploads/2016/03/Yemen-icon.png" group-title="LABEL",~ Yemen TV ~
 http://www.lengua.com/anthems/Yemen.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" group-title="YEMEN",Yemen TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg" group-title="YEMEN",Yemen TV [Off]
 http://199.167.151.237:1935/live/sp15_38.stream/gmswf.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/02_logo/almasirah_tv_yemen.jpg" group-title="YEMEN",Al Masirah
@@ -3395,7 +3392,7 @@ http://www.elahmad.com/tv/m3u8/tele_du.m3u8?id=cbc&t=ar
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/b2/7d/63/b27d63c52f73b653d3da44668aeaf70d--live-stream-live-tv.jpg" group-title="EGYPT",Al Kahera Wal Nas
 http://selevision9877-i.akamaihd.net/hls/live/219125/98777/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/7d/Logo-alsharq.png" group-title="EGYPT",El Sharq [Off]
 http://cdn.edge.tmed.pw:8081/elsharqtv_main/main/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live-sport.me/wp-content/uploads/2015/06/Mekameleen-TV.gif" group-title="EGYPT",Mekameleen
@@ -3407,7 +3404,7 @@ http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
 #EXTINF:-1 tvg-logo="http://towers.com.ua/style/img/flags/tunisia.png" group-title="LABEL",~ Tunisia TV ~
 http://www.lengua.com/anthems/Tunisia.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma [Geo]
 http://cdn-hls.globecast.tv/live/ramdisk/nessma_eur/hls_video/nessma_eur-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-zMxay7dCrgs/T7EVKmWhbLI/AAAAAAAAA-Y/kKtgXjMGDMA/s1600/Nessma_Tv.png" group-title="TUNISIA",Nessma*
@@ -3428,7 +3425,7 @@ http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/46/80/0356d78c206f76c.jpg" group-title="LABEL",~ Algeria TV ~
 http://www.lengua.com/anthems/Algeria.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www12.0zz0.com/2013/05/19/19/779272851.jpg" group-title="ALGERIA",Dzair TV [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www12.0zz0.com/2013/05/19/19/779272851.jpg" group-title="ALGERIA",Dzair TV [Geo]
 http://cdn-hls.globecast.tv/live/ramdisk/dzair_tv/hls_video/dzair_tv-video=1562800-audio_AACL_und_65200_120=65200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qCi8d0o.png" group-title="ALGERIA",Ennahar TV
@@ -3761,10 +3758,10 @@ http://www.lengua.com/anthems/HongKong.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.btlive.tv/channels/29/cd6d275e25fa1e6f5f9aaa28973f192a.png" group-title="HONG KONG",Bloomberg TV Asia
 http://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="HONG KONG",RTHK 31 [Geo]
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HONG KONG",RTHK 32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="HONG KONG",RTHK 32 [Geo]
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/8/88/ViuTV_logo.svg.png" group-title="HONG KONG",VIU TV
