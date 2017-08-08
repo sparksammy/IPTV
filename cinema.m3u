@@ -1636,7 +1636,7 @@ https://archive.org/download/Granddad1913/Granddad%201913.mp4
 #EXTINF:-1 tvg-logo="https://f8b5db1e1f00cea72855-84a7d838f746c494b9783302a5a26cce.ssl.cf5.rackcdn.com/wp-content/uploads/2017/02/The-Wonderful-Wizard-of-Oz-1910-movie-poster.jpg" group-title="MOVIES",The Wonderful Wizard of Oz (1910)
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/german/img/apple-touch-icon.png" group-title="LABEL",~ GERMAN ~
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/german/img/apple-touch-icon.png" group-title="LABEL",~ Movies in German
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
 #EXTINF:-1 tvg-logo="http://www.winwallpapers.net/w1/2014/02/Der-Untergang-2004-Wallpapers-5.jpg" group-title="GERMAN",Der Untergang (2004)
@@ -1720,7 +1720,7 @@ https://archive.org/download/DerHimmelAufErden1935/Der%20Himmel%20auf%20Erden%20
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/dnXXyzU9mbDVLDLwD50n72jKx9L.jpg" group-title="GERMAN",Der Draufganger (1931)
 https://archive.org/download/DerDraufgnger1931/Der%20Draufg%C3%A4nger%201931.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/french/img/apple-touch-icon.png" group-title="LABEL",~ FRENCH ~
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/french/img/apple-touch-icon.png" group-title="LABEL",~ Movies in French
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
 #EXTINF:-1 tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/35/56/11/18406682.jpg" group-title="FRENCH",L'Age Ingrat (1964)
@@ -1846,10 +1846,10 @@ https://archive.org/download/LcrinDuRaja/GastonVelleLecrinDuRaja1906TheKingsCask
 #EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="FRENCH",Le Theatre electrique de Bob (1909)
 https://archive.org/download/LeThtrelectriqueDeBob/1909SegundoDeChomnLeThtrelectriqueDeBobbobsElectricTheatre.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ SPANISH ~
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ Movies in Spanish
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SPANISH",The Fate of the Furious (2017)
+#EXTINF:-1 tvg-logo="http://www.mygoldenchoice.com/wp-content/uploads/FA-2.jpg" group-title="SPANISH",The Fate of the Furious (2017)
 https://archive.org/download/RapidosYFuriosos82017TSHQ/R%C3%A1pidos%20y%20Furiosos%208%202017%20-%20TSHQ.mp4
 
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)
@@ -2215,7 +2215,7 @@ https://archive.org/download/La_Sensacion_de_Paris_1938/La_Sensacion_de_Paris_19
 #EXTINF:-1 tvg-logo="https://theblondeatthefilm.files.wordpress.com/2014/01/nothingsacred_1937_mp_wc_1200_072820111220.jpg" group-title="SPANISH",La Reina de Nueva York (1937)
 https://archive.org/download/La_Reina_de_Nueva_York_1937/La_Reina_de_Nueva_York_1937.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/portuguese/img/apple-touch-icon%402.png" group-title="LABEL",~ PORTUGUESE ~
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/portuguese/img/apple-touch-icon%402.png" group-title="LABEL",~ Movies in Portuguese
 http://jay.mobile9.com/4oShgoCCTCcXSpGw8InAwg/1498363127/vsdl/3/simpsonsmo_6rahLydA.mp3
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JJxSNHV.jpg" group-title="PORTUGUESE",Rock of Ages (2012)
