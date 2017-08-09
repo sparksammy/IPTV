@@ -81,9 +81,6 @@ https://archive.org/download/Ooops.Noah.Is.Gone.2015.BluRay.1080p.5.1CH.x264.Gan
 #EXTINF:-1 tvg-logo="https://cdn.flickeringmyth.com/wp-content/uploads/2015/02/avengers-age-of-ultron-alternate.jpg" group-title="MOVIES",Avengers - Age of Ultron (2015) [Dual-ES]
 https://archive.org/download/Aveng3rs.Age.of.Ultr0n.2015.hdDualLatR1/Aveng3rs.Age.of.Ultr0n.2015.hd-dual-lat-r%20(1).mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/JP0skqO.jpg" group-title="MOVIES",Furious 7 (2015) [Dual-ES]
-https://archive.org/download/FastFurious72015WebHD1080pX264LATINOEngHDLatino4U/Fast%20&%20Furious%207%20[2015]%20WebHD%201080p%20x264%20[LATINO%2BEng]%20HDLatino4U.mp4
-
 #EXTINF:-1 tvg-logo="https://myegy.tv/files/img/content/0/287/1458104133.original.jpg" group-title="MOVIES",Jurassic World (2015)
 https://archive.org/download/2.JurassicParkII1997/4.JurassicWorld.mp4
 
@@ -1892,6 +1889,9 @@ https://archive.org/download/RulesDontApply20161080p60FPS/Rules%20Dont%20Apply%2
 
 #EXTINF:-1 tvg-logo="http://museumweek2015.org/wp-content/uploads/2015/07/Ant-Man-2015-cover.jpg" group-title="SPANISH",Ant Man (2015)
 https://archive.org/download/AntMan.2015.1080pDualLat11/Ant-man.2015.1080p-dual-lat%20(1)%20(1).mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/JP0skqO.jpg" group-title="SPANISH",Furious 7 (2015)
+https://archive.org/download/FastFurious72015WebHD1080pX264LATINOEngHDLatino4U/Fast%20&%20Furious%207%20[2015]%20WebHD%201080p%20x264%20[LATINO%2BEng]%20HDLatino4U.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/og0G3ua.jpg" group-title="SPANISH",Las Bestias (2015)
 https://archive.org/download/LasBestias2015H2641080p4mbps/Las%20Bestias%20(2015)%20H264%201080p%204mbps.mp4
