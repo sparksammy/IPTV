@@ -895,8 +895,7 @@ http://www.lengua.com/anthems/Italy.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://okteve.com/wp-content/uploads/media/895636cf89509fb3e35cba8a36ac58ac.jpeg" group-title="ITALY",Alto Adige TV
 http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.coolstreaming.us/blog/wp-content/uploads/logo-automototv-def.jpg
-" group-title="ITALY",AutoMoto TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.coolstreaming.us/blog/wp-content/uploads/logo-automototv-def.jpg" group-title="ITALY",AutoMoto TV
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sudestival.org/wp-content/uploads/2015/01/canale7.png" group-title="ITALY",Canale 7
