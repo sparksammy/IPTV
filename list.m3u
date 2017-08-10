@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 08/08/17
+#EXTINF:-1 tvg-logo="http://www.promoteyoufirst.com/wp-content/uploads/2017/02/ehindtimes-3.png" group-title="LABEL",= Update: 08/09/17
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -86,6 +86,9 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg" group-title="USA",Ditty TV
 http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cnn.svg/2000px-Cnn.svg.png" group-title="USA",CNN
+http://109.123.114.178:1935/Livenewson/Livenewson2/chunklist_w831471124.m3u8?time=1502306638995
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QVvBPKr.jpg" group-title="USA",ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
