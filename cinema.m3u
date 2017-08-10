@@ -1878,6 +1878,9 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://www.mygoldenchoice.com/wp-content/uploads/FA-2.jpg" group-title="SPANISH",The Fate of the Furious (2017)
 https://archive.org/download/RapidosYFuriosos82017TSHQ/R%C3%A1pidos%20y%20Furiosos%208%202017%20-%20TSHQ.mp4
 
+#EXTINF:-1 tvg-logo="http://horrorcultfilms.co.uk/wp-content/uploads/2016/02/alienate.jpg" group-title="SPANISH",Alienate (2016)
+https://archive.org/download/Alienate2016/Alienate%20(2016).mp4
+
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)
 https://archive.org/download/BadSanta22016UNRATED1080p60FPS/Bad%20Santa%202%20(2016)%20UNRATED%201080p%2060%20FPS.mp4
 
@@ -1941,14 +1944,26 @@ https://archive.org/download/LneaDeEmergencia/L%C3%ADnea%20de%20emergencia.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5uzppQk.jpg" group-title="SPANISH",Turbo (2013)
 https://archive.org/download/TurboLatino/Turbo%20latino.mp4
 
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-adjustment-bureau-2011/large_g87PqGH9Oo3d3Tbczcfk7ZMAIEk.jpg" group-title="SPANISH",The Adjustment Bureau (2011)
+https://archive.org/download/AGENTESDELDESTINO/Agentes%20del%20Destino.mp4
+
+#EXTINF:-1 tvg-logo="http://fr.web.img2.acsta.net/medias/nmedia/18/73/28/01/19237620.jpg" group-title="SPANISH",L'immortel (2010)
+https://archive.org/download/22Bullets/22%20bullets.mp4
+
 #EXTINF:-1 tvg-logo="http://104.236.196.111/imdb//media/poster_movies/or8E43rNKVBLhMtDnwFkjSNgHNr.jpg" group-title="SPANISH",Under the Sea 3D (2009)
 https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b_zFDzI1ImA/movieposter.jpg" group-title="SPANISH",El Transportador 3 (2008)
 https://archive.org/download/ElTransportador3_201703/El%20Transportador%203.mp4
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/maradona_la_mano_di_dio-996908281-large.jpg" group-title="SPANISH",Maradona - la mano di Dio (2007)
+https://archive.org/download/maradona_201706/maradona.mp4
+
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-bourne-ultimatum-2007/large_fHho6JYYY0nRcETWSoeI19iZsNF.jpg" group-title="SPANISH",The Bourne Ultimatum (2007)
 https://archive.org/download/The.Bourne.Ultimatum.2007.1080p.Latino/The.Bourne.Ultimatum.2007.1080p.Latino.www.peliculashdmega.com.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/we-are-marshall.18837.jpg" group-title="SPANISH",We Are Marshall (2006)
+https://archive.org/download/SomosMarshall/Somos%20Marshall.mp4
 
 #EXTINF:-1 tvg-logo="https://film.geourdu.com/wp-content/uploads/2015/02/Transporter-2-2005.jpg" group-title="SPANISH",El Transportador 2 (2005)
 https://archive.org/download/ElTransportador2/El%20Transportador%202.mp4
@@ -1965,8 +1980,23 @@ https://archive.org/download/ElDiaDespuesDeMananaAudioLatino/El%20Dia%20Despues%
 #EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/lm/lminzh9e.jpg" group-title="SPANISH",El Transportador (2002)
 https://archive.org/download/El.Transportador1/El.Transportador1.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/15_Minutes_%28movie_poster%29.jpg" group-title="SPANISH",15 Minutes (2001)
+https://archive.org/download/15Minutos/15%20minutos.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Thirteen_days_poster.jpg" group-title="SPANISH",Thirteen Days (2000)
+https://archive.org/download/13Dias/13Dias.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/pFyzNcy7xuwGw6mStULsgCRTEwO.jpg" group-title="SPANISH",La Vendedora de Rosas (1998)
 https://archive.org/download/1080pLaVendedoraDeRosas1998PeliculaColombianaCompletaEnFULLHD/[1080p]%20La%20Vendedora%20De%20Rosas%20-%201998%20Pel%C3%ADcula%20Colombiana%20Completa%20En%20FULL%20HD.mp4
+
+#EXTINF:-1 tvg-logo="http://museumweek2015.org/wp-content/uploads/2015/06/Saving-Private-Ryan-1998-cover.jpg" group-title="SPANISH",Saving Private Ryan (1998)
+https://archive.org/download/RescatandoAlSoldadoRyan/Rescatando%20Al%20Soldado%20Ryan.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Assassins_ver1.jpg/220px-Assassins_ver1.jpg" group-title="SPANISH",Assassins (1995)
+https://archive.org/download/Asesinos/Asesinos.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Braveheart_imp.jpg" group-title="SPANISH",Braveheart (1995)
+https://archive.org/download/CorazonValiente/Corazon%20Valiente.mp4
 
 #EXTINF:-1 tvg-logo="http://www.incaatv.gov.ar/wp-content/uploads/2015/05/Rodrigo-D-no-futuro.jpg" group-title="SPANISH",Rodrigo D - No futuro (1990)
 https://archive.org/download/1080pRodrigoD.NoFuturoPeliculaColombianaCompletasinCensuraEnFULLHD1080p30fpsH264128kbitAAC/[1080p]%20Rodrigo%20D.%20no%20futuro%20-%20Pel%C3%ADcula%20Colombiana%20Completa%20(sin%20censura%20en%20FULL%20HD)%20(1080p_30fps_H264-128kbit_AAC).mp4
@@ -1980,6 +2010,9 @@ https://archive.org/download/PelculaRetrocederNuncaRendirseJamms1986ONLINE/Pel%C
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_patrullero_777-580104357-large.jpg" group-title="SPANISH",El Patrullero 777 (1978)
 https://archive.org/download/ElPatrullero777/El%20Patrullero%20777.mp4
 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815TiBuv5nL._SL1500_.jpg" group-title="SPANISH",The Game of Death (1978)
+https://archive.org/download/BRUCELEEENELJUEGODELAMUERTE/BRUCE%20LEE%20EN%20%20EL%20JUEGO%20DE%20LA%20MUERTE.mp4
+
 #EXTINF:-1 tvg-logo="https://www.spaghetti-western.net/images/thumb/7/70/Lo_chiamavano_requiescat_Fasthand_ItPoster.jpg/220px-Lo_chiamavano_requiescat_Fasthand_ItPoster.jpg" group-title="SPANISH",Mano Rapida (1973)
 https://archive.org/download/Mano_Rapida_1973/Mano_Rapida_1973.mp4
 
@@ -1991,6 +2024,9 @@ https://archive.org/download/Los_Hijos_Del_Dia_Y_De_La_Noche_1972/Los_Hijos_Del_
 
 #EXTINF:-1 tvg-logo="https://www.cinematerial.com/media/posters/md/cs/csvavyc0.jpg" group-title="SPANISH",Panico en el Transiberiano (1972)
 https://archive.org/download/PanicoEnElTransiberiano1972/P%C3%A1nico%20En%20El%20Transiberiano%201972.mp4
+
+#EXTINF:-1 tvg-logo="https://i.jeded.com/i/way-of-the-dragon-meng-long-guo-jiang.37435.jpg" group-title="SPANISH",Way of the Dragon (1972)
+https://archive.org/download/ElRegresoDelDragon/Bruce%20Lee%20-%20El%20Regreso%20del%20Dragon.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Hands_of_the_rippermp.jpg/220px-Hands_of_the_rippermp.jpg" group-title="SPANISH",Las Manos del Destripador (1971)
 https://archive.org/download/Las_manos_del_destripador_1971/Las_manos_del_destripador_1971.mp4
