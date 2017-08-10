@@ -1875,6 +1875,12 @@ https://archive.org/download/LcrinDuRaja/GastonVelleLecrinDuRaja1906TheKingsCask
 #EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="FRENCH",Le Theatre electrique de Bob (1909)
 https://archive.org/download/LeThtrelectriqueDeBob/1909SegundoDeChomnLeThtrelectriqueDeBobbobsElectricTheatre.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/italian/img/apple-touch-icon@2.png" group-title="LABEL",~ Movies in Italian
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Maradona%2C_the_Hand_of_God.jpg" group-title="ITALIAN",Maradona - la mano di Dio (2007)
+https://archive.org/download/maradona_201706/maradona.mp4
+
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ Movies in Spanish
 http://149.56.23.7:20082/stream
 
@@ -1955,9 +1961,6 @@ https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b_zFDzI1ImA/movieposter.jpg" group-title="SPANISH",El Transportador 3 (2008)
 https://archive.org/download/ElTransportador3_201703/El%20Transportador%203.mp4
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/maradona_la_mano_di_dio-996908281-large.jpg" group-title="SPANISH",Maradona - la mano di Dio (2007)
-https://archive.org/download/maradona_201706/maradona.mp4
 
 #EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/the-bourne-ultimatum-2007/large_fHho6JYYY0nRcETWSoeI19iZsNF.jpg" group-title="SPANISH",The Bourne Ultimatum (2007)
 https://archive.org/download/The.Bourne.Ultimatum.2007.1080p.Latino/The.Bourne.Ultimatum.2007.1080p.Latino.www.peliculashdmega.com.mp4
