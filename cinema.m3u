@@ -45,6 +45,9 @@ https://archive.org/download/Xxx.return.of.xander.cage1080pDualLat/Xxx.return.of
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71TCRM916WL._AC_UL320_SR224%2C320_.jpg" group-title="MOVIES",48 Hours to Live (2016)
 https://archive.org/download/48HoursToLive2016WatchOnlineFullMovieWatchOnlinePRO/48%20Hours%20to%20Live%202016%20Watch%20Online%20Full%20Movie%20%20%20WatchOnlinePRO.mp4
 
+#EXTINF:-1 tvg-logo="http://horrorcultfilms.co.uk/wp-content/uploads/2016/02/alienate.jpg" group-title="MOVIES",Alienate (2016)
+https://archive.org/download/Alienate2016/Alienate%20(2016).mp4
+
 #EXTINF:-1 tvg-logo="http://milversite.me/slike/All-the-Way_a54b4c90.jpg" group-title="MOVIES",All The Way (2016)
 https://archive.org/download/AllTheWay20161080pYTS.AG/All.The.Way.2016.1080p.BluRay.x264-[YTS.AG].mp4
 
@@ -1877,9 +1880,6 @@ http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.mygoldenchoice.com/wp-content/uploads/FA-2.jpg" group-title="SPANISH",The Fate of the Furious (2017)
 https://archive.org/download/RapidosYFuriosos82017TSHQ/R%C3%A1pidos%20y%20Furiosos%208%202017%20-%20TSHQ.mp4
-
-#EXTINF:-1 tvg-logo="http://horrorcultfilms.co.uk/wp-content/uploads/2016/02/alienate.jpg" group-title="SPANISH",Alienate (2016)
-https://archive.org/download/Alienate2016/Alienate%20(2016).mp4
 
 #EXTINF:-1 tvg-logo="http://images.mymovies.net/images/film/cin/350x522/fid16760.jpg" group-title="SPANISH",Bad Santa 2 (2016)
 https://archive.org/download/BadSanta22016UNRATED1080p60FPS/Bad%20Santa%202%20(2016)%20UNRATED%201080p%2060%20FPS.mp4
