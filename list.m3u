@@ -1486,6 +1486,9 @@ http://stream.latino-webtv.com/series/simpsons.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-rG5V1PdKlZg/WFHJXhXs5eI/AAAAAAAAxp4/4OEyUxuWExEuTZJpWDpD2fIsJUIUvYSdQCLcB/s1600/72.png" group-title="LATINO",Claro Sports
+http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/264954255_1280x720.jpg" group-title="LATINO",AXN
 http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
@@ -2187,6 +2190,9 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/15/90/1856aec6ddbc5f9.jpg" group-title="LABEL",~ El Salvador TV ~
 http://www.lengua.com/anthems/ElSalvador.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/008-Canal-8-Agape-TV-01.jpg" group-title="EL SALVADOR",Agape TV
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DISV0002&mode=12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Canal 21
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
