@@ -2077,6 +2077,18 @@ http://qs1.distream.net:2112/tf_str/futu/chunklist_w1961345922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mekstream.com/clients/telesistema/telesistema_poster.png" group-title="DOMINICAN REP",Telesistema 11
 http://mek6.mekstream.com/telesistema/live/chunklist_w743063287.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0026&mode=12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 10
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0027&mode=12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 12
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0028&mode=12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/telenord.jpg" group-title="DOMINICAN REP",Telenord Canal 14
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0029&mode=12
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/600x315/6c/f7/aa/6cf7aa90d1d7186a7b9a5467267a9630.jpg" group-title="DOMINICAN REP",Teleuniverso
 http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8
 
