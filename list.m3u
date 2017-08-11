@@ -2056,7 +2056,7 @@ http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.expatescort.com/public/img/flags/do.png" group-title="LABEL",~ Dominican Republic TV ~
 http://www.lengua.com/anthems/DominicanRepublic.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal4rd.com/portada/images/logos/logo-final5.jpg" group-title="DOMINICAN REP",Canal 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://canal4rd.com/portada/images/logos/logo-final5.jpg" group-title="DOMINICAN REP",Canal 4 [Off]
 http://216.24.196.40:1935/live/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal25rd.com/images/canal25_logo_2017_small.png" group-title="DOMINICAN REP",Canal 25
