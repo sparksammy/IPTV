@@ -2640,7 +2640,7 @@ http://mtvam.ru/hlsam/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.emit.it/assets/images/icone/Albania.png" group-title="LABEL",~ Albania TV ~
 http://www.lengua.com/anthems/Albania.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ejashiko.ch/wp-content/uploads/2014/06/abc-550x400_c.png" group-title="ALBANIA",ABC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ejashiko.ch/wp-content/uploads/2014/06/abc-550x400_c.png" group-title="ALBANIA",ABC News [Off]
 http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/albuktv.jpg" group-title="ALBANIA",ALB UK
@@ -2655,7 +2655,7 @@ http://81.7.13.162/hls/channelone/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/9/99/RTSH-HD.png" group-title="ALBANIA",Radio Televizioni Shqiptar
 http://edge01us.ekranet.com/rtshshqip1/index.m3u8?e=81d1ae65769a30042a3673b1c13f3795&c=rtshshqip1&medium=websocket
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/03/supersonic_tv_al.png" group-title="ALBANIA",Supersonic TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/03/supersonic_tv_al.png" group-title="ALBANIA",Supersonic TV [Off]
 http://str103.setplex.net:1935/228//stv_online/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/ro.png" group-title="LABEL",~ Romania TV ~
