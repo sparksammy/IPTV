@@ -2191,9 +2191,6 @@ http://162.244.81.181:1935/live//Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_pic/00/15/90/1856aec6ddbc5f9.jpg" group-title="LABEL",~ El Salvador TV ~
 http://www.lengua.com/anthems/ElSalvador.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/008-Canal-8-Agape-TV-01.jpg" group-title="EL SALVADOR",Agape TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DISV0002&mode=12
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-online.in/wp-content/uploads/2013/02/Canal-21-Megavision-live.jpg" group-title="EL SALVADOR",Canal 21
 http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
