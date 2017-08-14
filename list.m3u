@@ -9,7 +9,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please Donate
 http://sc9106.xpx.pl:9106/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.11.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.14.2017
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -66,8 +66,17 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4547.jpg" group-title="USA",D23 TV
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-17.sinclairstoryline.com/resources/media/ba7cba73-6daf-416c-ab9d-622cc4ab616e-large16x9_TBDTV.jpg" group-title="USA",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ramalin.com/wp-content/uploads/2015/08/metv-kodi-addon-the-programs-of.jpg" group-title="USA",MeTV
+http://video.metv.com/metv/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="USA",Hunt Channel
 http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Biz_LOGO.PNG" group-title="USA",Biz TV
+http://imavex2.mmdlive.lldns.net/imavex2/0b2f65006e0743bd9701cce1339a3b9f/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/NASA_TV.png" group-title="USA",NASA TV Public
 http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
@@ -188,6 +197,21 @@ http://xrxs.net/video/live-p12ariz-2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
 http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www2.selu.edu/thesoutheasternchannel/schedule/images/sectv.jpg" group-title="USA",The Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/kbvrtv-profile_image-666cfc3f59b5f449-300x300.jpeg" group-title="USA",KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2pouqfl1mif26n3ql1jslyj1.wpengine.netdna-cdn.com/wp-content/uploads/2015/02/360NorthTuneIn3-650x457.jpg" group-title="USA",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.physicaltherapist.com/wp-content/uploads/2015/04/30036_Northern-Virginia-Community-College.gif" group-title="USA",NVCC
+http://mplive.play.ebmcdn.net:1935/eastbay-fml-live03/_definst_/mp4:nvcc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/76e632433b1443ad84df1cf6d6799b03-hd.jpg" group-title="USA",SCCtv
+http://media3.scctv.net/live/scctv_300/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uga.edu/assets/img/GEORGIA-V-FC.png" group-title="USA",University of Georgia
 http://mmuga-lh.akamaihd.net/i/ctlcable_1@349875/master.m3u8
@@ -1953,6 +1977,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV
 http://wowza2.mysoltv.com:1992/Latino_Caracol/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV*
+http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-19K43ULMe40/TrvUcbhyiiI/AAAAAAAAAlM/L7sXf72CeCA/s1600/cosmo+tv.png" group-title="COLOMBIA",Cosmovision
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
 
@@ -2235,11 +2262,23 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPR0008&mode=12
 #EXTINF:-1 tvg-logo="http://www.ffpic.com/files/2012/1231/png1225guoqi/ffpic13061228190539.png" group-title="LABEL",~ Guatemala TV ~
 http://www.lengua.com/anthems/Guatemala.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png" group-title="GUATEMALA",Canal 3
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/chunklist_b1155072.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision Canal 25
 http://162.220.218.101:8081/live/stream2.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Guatevisionlogo.JPG" group-title="GUATEMALA",Guatevision Canal 25*
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIGT0009&mode=12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/7_de_guatemala_televisiete-mediano.png" group-title="GUATEMALA",Televisiete
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tn23-mediano.png" group-title="GUATEMALA",TN23
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvusac.com/wp-content/uploads/2015/07/logo-usac.jpg" group-title="GUATEMALA",TV USAC
+http://d1g0f89e0nep2x.cloudfront.net/live/tv_usac/chunklist_w34199542.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/29c778_7ed6e418c0574ea38b1ff303f8a23041~mv2.png" group-title="LABEL",~ Panama TV ~
 http://www.lengua.com/anthems/Panama.mp3
@@ -4340,6 +4379,18 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png" group-title="RELIGION",K-TV (Austria)
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mariavision.com/templates/yootheme/cache/Logo_med-0cc8d7c9.png" group-title="RELIGION",Maria Vision (Mexico)
+https://5905415e30c74.streamlock.net:8443/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://montemaria.org/web/web2/img/logo6.png" group-title="RELIGION",Monte Maria (Mexico)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-39-sv.png" group-title="RELIGION",TVCA (El Salvador)
+http://streamserver3.us:1935/tvcaelsalvador/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wacxtv.com/Portals/18/Skins/WACX/images/SuperChannel_logo.png" group-title="RELIGION",Super Channel (USA)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/CTN_Network.gif" group-title="RELIGION",Christian Television Network (USA)
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
