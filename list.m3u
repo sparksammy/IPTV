@@ -4416,6 +4416,9 @@ http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="RELIGION",Musayof (Israel)
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newtvworld.net/Images/Shal.jpg" group-title="RELIGION",Shalom TV (USA)
+http://109.68.190.192:1935/WEB_Shalom/Shalom.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="RELIGION",Catholic TV (USA)
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
 
@@ -4679,9 +4682,6 @@ http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://paxtvmovil.org/img/logo.png" group-title="RELIGION",PAX
 http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b598000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newtvworld.net/Images/Shal.jpg" group-title="RELIGION",Shalom TV (USA)
-http://109.68.190.192:1935/WEB_Shalom/Shalom.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://acafaith.com/website-images/elshaddai.png" group-title="RELIGION",ETN Elshaddai (Ethiopia)
 http://ipointcablertmp.tulix.tv/elshaddai/elshaddai/playlist.m3u8
