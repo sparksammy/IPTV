@@ -240,9 +240,6 @@ http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-_2a2A7YgxZ8/AAAAAAAAAAI/AAAAAAAAAAA/oqVLX-G8DAo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="USA",ATXN 2
 http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-_2a2A7YgxZ8/AAAAAAAAAAI/AAAAAAAAAAA/oqVLX-G8DAo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="USA",ATXN 3
-http://oflash.dfw.swagit.com/live/austintx/smil:std-16x9-2-a/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://myescambia.com/assets/images/seal.jpg" group-title="USA",ECTV
 http://58bfeaf58405a.streamlock.net/live/escambiacountyfl/smil:std-4x3-1-a/playlist.m3u8
 
