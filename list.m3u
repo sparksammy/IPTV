@@ -72,7 +72,7 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wnyt.com/wnytimages/repository/2014-03/MeTV%20Network%20Logo%20W%20BKGND%20SHAPES.jpg" group-title="USA",MeTV
 http://video.metv.com/metv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://revntv.com/media/pcon/bannernewstest-2_img_2.jpg" group-title="USA",Rev'n
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.revntv.com/media/site/images/logo_revntv.png" group-title="USA",Rev'n
 http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="USA",Hunt Channel
