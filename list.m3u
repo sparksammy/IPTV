@@ -2776,7 +2776,7 @@ http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 http://xaigaiotelevisionx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-vbvcHXkLAZ0/UaCQcoOkgBI/AAAAAAAAAoE/jMMYQMI-ty8/s1600/Alpha-TV-Logo.png" group-title="GREECE",Alpha
-http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/alpha/alpha.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VnrR3mN.png" group-title="GREECE",Alpha Cinema (AU)
 http://web.alphastream.eu:1935/neakrith/neakrith/playlist.m3u8
@@ -2785,7 +2785,7 @@ http://web.alphastream.eu:1935/neakrith/neakrith/playlist.m3u8
 http://antglantennatv-lh.akamaihd.net/i/live_1@421307/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/BHIHYjHntYU/maxresdefault.jpg" group-title="GREECE",Attica TV
-http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/attica/attica.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3585927/logo_cannali%20tv1.png" group-title="GREECE",Cannali TV
 http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
@@ -2803,19 +2803,19 @@ http://o98d0njv.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/Ellin
 https://57b1c3ae400ed.streamlock.net/live/epsilontv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/5/5d/EPSIlon.png" group-title="GREECE",Epsilon TV*
-http://s2.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/epsilon/epsilon.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/EPT_HD.png" group-title="GREECE",ERT HD
-http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/erthd/erthd.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EPT_logo.svg/1200px-EPT_logo.svg.png" group-title="GREECE",ERT 1
-http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/ert1/ert1.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EPT_logo.svg/1200px-EPT_logo.svg.png" group-title="GREECE",ERT 2
-http://s2.greekelitetv.com:1935/ert2/ert2.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/ert2/ert2.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/EPT_logo.svg/1200px-EPT_logo.svg.png" group-title="GREECE",ERT 3
-http://s2.greekelitetv.com:1935/ert3/ert3.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/ert3/ert3.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/rff1DsY.gif" group-title="GREECE",Fox TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
@@ -2839,7 +2839,7 @@ http://live.streams.ovh:1935/LIFEHD/LIFEHD/playlist.m3u8
 http://anglantennalive5-lh.akamaihd.net:80/i/live_1@424766/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MEGA_CHANNEL.png" group-title="GREECE",Mega Channel
-http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/mega/mega.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/w37uJo1.png" group-title="GREECE",Mega Cosmos (CA)
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
@@ -2863,13 +2863,13 @@ http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 http://xsbcgrx.api.channel.livestream.com/3.0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.zougla.gr/assets/images/2180976.jpg" group-title="GREECE",Skai TV
-http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/skai/skai.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/Wj7UquLKe0c/maxresdefault.jpg" group-title="GREECE",Smile
-http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/smile/smile.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Star_Channel_2014_logo.png" group-title="GREECE",Star Channel
-http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8
+http://s2.greekelitetv.com:1935/star/star.stream/playlist.m3u8 [Off]
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://syrosrace.gr/gr/wp-content/uploads/2011/08/TV1.jpg" group-title="GREECE",Syros TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
