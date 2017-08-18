@@ -36,7 +36,7 @@ http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="JUDAISM",Musayof (Israel)
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newtvworld.net/Images/Shal.jpg" group-title="JUDAISM",Shalom TV (USA)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.invictory.com/public/pictures/news/56/55653/m02ce4c8b38e85a312fc23a0f32da53121424769545.jpg" group-title="JUDAISM",Shalom Tele-Vision (Russia)
 http://109.68.190.192:1935/WEB_Shalom/Shalom.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Christian-cross-icon-Golden-Brown.png" group-title="LABEL",~ Christianity
