@@ -1534,16 +1534,31 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 http://50.7.56.2:8016
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pixcelation.com/wp-content/uploads/2013/04/FuturamaWallpaper1024.gif" group-title="LATINO",VOD - Futurama
-http://tecnotv.xyz/media/futurama/
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.postard.com/wp-content/uploads/2016/11/gravity-falls.jpg" group-title="LATINO",VOD - Gravity Falls [Off]
-http://stream.latino-webtv.com/series/gravityfalls.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/11/25/12/hfuwpcupirfetn8guqtyhq7h1j02kwfij44ieojq6o8mllxfgn7mgl6khteuz2ey.png" group-title="LATINO",VOD - Los Simpson [Off]
-http://stream.latino-webtv.com/series/simpsons.mp4
+http://tecnotv.xyz/media/futurama1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lascosasdedanny.files.wordpress.com/2017/04/the-simpsons-logo.jpg" group-title="LATINO",24/7 Simpsonmania
+http://tecnotv.xyz/media/simpsonmania
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/8/9/8/289833/289833_tvchespirito%2C640x360%2Cb%3A1.jpg" group-title="LATINO",24/7 TV Chespirito
+http://tecnotv.xyz/media/chespirito
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="LATINO",L'Creme Max
+http://tecnotv.xyz/media/lcrememax
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cinecalidad.to/wp-content/themes/gridthemeresponsive/images/logo.png" group-title="LATINO",Cine Calidad
+http://tecnotv.xyz/media/cinecalidad
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/91/CineStar_Logo.jpg" group-title="LATINO",Ciencia Ficcion
+http://tecnotv.xyz/media/ficcion
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/91/CineStar_Logo.jpg" group-title="LATINO",CineStar
+http://tecnotv.xyz/media/cinestar
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-MxFVv8kb3V4/VOY5A8D-VaI/AAAAAAAAAPA/hsjTaa44_3s/s1600/icon.png" group-title="LATINO",Cine On Demand
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-rG5V1PdKlZg/WFHJXhXs5eI/AAAAAAAAxp4/4OEyUxuWExEuTZJpWDpD2fIsJUIUvYSdQCLcB/s1600/72.png" group-title="LATINO",Claro Sports
 http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
