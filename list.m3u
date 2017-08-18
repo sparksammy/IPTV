@@ -2190,14 +2190,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fulltelevisiononline.com/wp-content/uploads/2016/06/CTC_TELEVISION.png" group-title="PERU",CTC TV Cusco
 http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-nF9dYlaQFj8/Vty14YpJPBI/AAAAAAAAAYo/69scp8b09w8/s1600/latina-tv-peru.png" group-title="PERU",Latina TV
-http://cialive-live.hds.adaptive.level3.net/hls-live/ciaremux-live/_definst_/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title="PERU",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u88
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/32lNdWp.png" group-title="PERU",Panamericana TV
-http://stream-07.vty.dailymotion.com/09/dm/1/x18w5up/live.isml/events(live-1491417782)/live-audio=128000-video=2100000.m3u8
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1b/RBC_Television_%28Variante%29.jpg" group-title="PERU",RBC TV
 http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
