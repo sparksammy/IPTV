@@ -1,7 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",~ CCTV ~
+#EXTINF:-1 tvg-logo="http://ai-i2.infcdn.net/icons_siandroid/png/300/5435/5435758.png" group-title="LABEL",* Fluxus CCTV
 http://audio4.broadcastify.com/il_chicago_police2.mp3
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free World CCTV 
+http://audio4.broadcastify.com/il_chicago_police2.mp3
+
+#EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please Donate
+http://audio4.broadcastify.com/il_chicago_police2.mp3
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.00.0000
+http://audio4.broadcastify.com/il_chicago_police2.mp3
+
+#EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="CCTV",Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
