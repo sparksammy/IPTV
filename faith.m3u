@@ -45,14 +45,17 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="CATHOLICISM",Catholic TV (USA)
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.i-italy.tv/wp/wp-content/uploads/2016/09/TESTATATV20001.jpg" group-title="CATHOLICISM",TV 2000 (Italy)
-http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png" group-title="CATHOLICISM",K-TV (Austria)
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.don-bosco.net/images/stories/articles/actualites2/2015/01-janvier/petites/KTOTV_Salesiens_Bosco.jpg" group-title="CATHOLICISM",KTO (France)
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png" group-title="CATHOLICISM",K-TV (Austria)
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.i-italy.tv/wp/wp-content/uploads/2016/09/TESTATATV20001.jpg" group-title="CATHOLICISM",TV 2000 (Italy)
+http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="CHRISTIANITY",Santuario de Fatima (Portugal)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mariavision.com/templates/yootheme/cache/Logo_med-0cc8d7c9.png" group-title="CATHOLICISM",Maria Vision (Mexico)
 https://5905415e30c74.streamlock.net:8443/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
@@ -242,9 +245,6 @@ http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frosat.net/images/logotv/original/SonLife-Broadcasting-Network.jpg" group-title="CHRISTIANITY",SBN (USA) [PT]
 http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="CHRISTIANITY",Santuario de Fatima (Portugal)
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Logo_owned_by_Members_Church_of_God_International_for_TV_Verdade.jpg" group-title="CHRISTIANITY",TV Verdade (Brazil)
 http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
