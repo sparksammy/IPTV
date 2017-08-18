@@ -63,8 +63,17 @@ http://162.212.176.51:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-39-sv.png" group-title="CATHOLICISM",TVCA (El Salvador)
 http://streamserver3.us:1935/tvcaelsalvador/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Christian-cross-icon-Golden-Brown.png" group-title="LABEL",~ Orthodoxy
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="ORTHODOXY",Soyuz (Russia)
+http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.rtv.rs/slike/2015/12/16/tv-hram_660x330.jpg" group-title="ORTHODOXY",Hram TV (Serbia)
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Christian-cross-icon-Golden-Brown.png" group-title="LABEL",~ Christianity
-https://archive.org/download/fluxustv/Fluxus_TV.mp
+https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wacxtv.com/Portals/18/Skins/WACX/images/SuperChannel_logo.png" group-title="CHRISTIANITY",Super Channel (USA)
 http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-128/mp4:wacx/playlist.m3u8
@@ -314,12 +323,6 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN06_delivery@186244/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bog.tv/img/logo.png" group-title="CHRISTIANITY",BOG TV (Russia)
 http://bogtvhdlive-f.akamaihd.net/i/bogtv_main@69601/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tv-soyuz.ru/static/images/new_image_placeholder.jpg" group-title="CHRISTIANITY",Soyuz (Russia)
-http://23.237.32.172/tvsoyuz/soyuz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.rtv.rs/slike/2015/12/16/tv-hram_660x330.jpg" group-title="CHRISTIANITY",Hram TV (Serbia)
-http://178.253.194.75:1935/live/hram.stream/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ted.adventist.org/sites/default/files/FINAL_LOGO_NO_ENGLISH_s.jpg" group-title="CHRISTIANITY",Al Waad (Lebanon)
 http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
