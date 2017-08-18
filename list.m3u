@@ -1542,7 +1542,7 @@ http://tecnotv.xyz/media/futurama1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lascosasdedanny.files.wordpress.com/2017/04/the-simpsons-logo.jpg" group-title="LATINO",24/7 Los Simpson HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson HD
 http://tecnotv.xyz/media/simpsonmania
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/8/9/8/289833/289833_tvchespirito%2C640x360%2Cb%3A1.jpg" group-title="LATINO",24/7 TV Chespirito
