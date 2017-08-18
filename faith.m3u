@@ -57,9 +57,6 @@ http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.i-italy.tv/wp/wp-content/uploads/2016/09/TESTATATV20001.jpg" group-title="CATHOLICISM",TV 2000 (Italy)
 http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="CHRISTIANITY",Santuario de Fatima (Portugal)
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mariavision.com/templates/yootheme/cache/Logo_med-0cc8d7c9.png" group-title="CATHOLICISM",Maria Vision (Mexico)
 https://5905415e30c74.streamlock.net:8443/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
@@ -68,6 +65,12 @@ http://162.212.176.51:1935/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-39-sv.png" group-title="CATHOLICISM",TVCA (El Salvador)
 http://streamserver3.us:1935/tvcaelsalvador/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="CHRISTIANITY",Santuario de Fatima (Portugal)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-9beSDaDpMPg/UmiU0tyOcdI/AAAAAAAACVg/kGgsxgZ9vsk/s1600/tv_louvar.jpg" group-title="CATHOLICISM",TV Louvar (Brazil)
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Christianity-Peace-Dove-Icon-Golden-Brown.png" group-title="LABEL",~ Christianity
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
@@ -284,9 +287,6 @@ http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2ki75z26cxs83vw1ja1h5j8n.wpengine.netdna-cdn.com/wp-content/uploads/2015/12/tv-web-cristo-vive.png" group-title="CHRISTIANITY",TV Cristo Vive (Brazil)
 http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-9beSDaDpMPg/UmiU0tyOcdI/AAAAAAAACVg/kGgsxgZ9vsk/s1600/tv_louvar.jpg" group-title="CHRISTIANITY",TV Louvar (Brazil)
-http://173.236.10.10:1935/renascer/renascer/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" group-title="CHRISTIANITY",TVCI (Brazil)
 http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
