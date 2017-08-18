@@ -1323,6 +1323,9 @@ https://archive.org/download/Trapeze.1956.720p.BRRip.x264PsiX/Trapeze.1956.720p.
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/9c/af/90/9caf90cee19d3c321a78cd6bf42e390d.jpg" group-title="MOVIES",World in My Corner (1956)
 https://archive.org/download/WorldInMyCorner1956/World%20In%20My%20Corner%201956.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LadyGodivafilmposter.jpg/220px-LadyGodivafilmposter.jpg" group-title="MOVIES",Lady Godiva of Coventry (1955) [AR-Subs]
+https://archive.org/download/LadyGodivaOfCoventry1955DVDRipX264PsiX/Lady%20Godiva%20of%20Coventry(1955)DVDRip%20x264%20PsiX.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Poster_of_the_movie_Son_of_Sinbad.jpg" group-title="MOVIES",Son of Sinbad (1955)
 https://archive.org/download/SonOfSinbad1955/SonOfSinbad.mp4
 
@@ -1347,6 +1350,9 @@ https://archive.org/download/Yellowneck1955cosmo/Yellowneck1955cosmo_512kb.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/N1iqpNm.jpg" group-title="MOVIES",You're Never Too Young (1955)
 https://archive.org/download/YoureNeverTooYoung1955JerryLewisDeanMartinFullLengthComedyMovie1/You%27re%20Never%20Too%20Young%201955%20Jerry%20Lewis%20Dean%20Martin%20Full%20Length%20Comedy%20Movie%20(1).mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/20000leaguesposter.jpg/220px-20000leaguesposter.jpg" group-title="MOVIES",20.000 Leagues Under the Sea (1954)
+https://archive.org/download/20000LeaguesUnderTheSea1954/20000%20Leagues%20Under%20The%20Sea%201954.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/3ringcircus.jpg" group-title="MOVIES",3 Ring Circus (1954)
 https://archive.org/download/3RingCircus/3%20Ring%20Circus.mp4
 
@@ -1362,6 +1368,9 @@ https://archive.org/download/cco_thelasttimeisawparis/ccoPublicDomainThe_Last_Ti
 #EXTINF:-1 tvg-logo="https://thetelltalemind.files.wordpress.com/2016/08/phantom-from-space-1.jpg" group-title="MOVIES",Phantom From Space (1953)
 https://archive.org/download/Phantom_From_Space/Phantom_From_Space_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/Roman_holiday.jpg" group-title="MOVIES",Roman Holiday (1953)
+https://archive.org/download/Roman.Holiday.1953.720p.WEBDL.H264HDBPublicHDPublicHD/Roman.Holiday.1953.720p.WEB-DL.H264-HDB%20%5BPublicHD%5D%20%5BPublicHD%5D.mp4
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Stalag_17.jpeg" group-title="MOVIES",Stalag 17 (1953)
 https://archive.org/download/Stalag17FULLMOVIE/Stalag%2017%20FULL%20MOVIE.mp4
 
@@ -1374,14 +1383,23 @@ https://archive.org/download/IDreamOfJeannieWithTheLightBrownHair/IDreamOfJeanni
 #EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="MOVIES",Operation IVY (1952)
 https://archive.org/download/OperationIVY1952/OperationIVY1952_512kb.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Scaramouche_1952_film.jpg/220px-Scaramouche_1952_film.jpg" group-title="MOVIES",Scaramouche (1952)
+https://archive.org/download/ScaramoucheStewartGrangerEleanorParker1952/Scaramouche-%20Stewart%20Granger%2C%20Eleanor%20Parker%20(1952).mp4
+
 #EXTINF:-1 tvg-logo="http://i43.tower.com/images/mm113268398/big-trees-kirk-douglas-dvd-cover-art.jpg" group-title="MOVIES",The Big Trees (1952)
 https://archive.org/download/big_trees/big_trees_512kb.mp4
+
+#EXTINF:-1 tvg-logo="http://www.streamlord.com/thumbs/0044517.jpg" group-title="MOVIES",The Crimson Pirate (1952)
+https://archive.org/download/TheCrimsonPirate1952DVDRipXvidNGP/The%20Crimson%20Pirate%201952%20DVDRip%20Xvid-NGP.mp4
 
 #EXTINF:-1 tvg-logo="https://img.posterlounge.co.uk/images/wbig/poster-the-snows-of-kilimanjaro-susan-hayward-gregory-peck-ava-gardner-1952-364113.jpg" group-title="MOVIES",The Snows of Kilimanjaro (1952)
 https://archive.org/download/Kilimanjaro/The_Snows_of_Kilimanjaro_512kb.mp4
 
 #EXTINF:-1 tvg-logo="https://img.posterlounge.co.uk/images/wbig/poster-the-snows-of-kilimanjaro-susan-hayward-gregory-peck-ava-gardner-1952-364113.jpg" group-title="MOVIES",The Snows of Kilimanjaro (1952)*
 https://archive.org/download/TheSnowsOfKilimanjaro1952_201603/The%20Snows%20of%20Kilimanjaro%20(1952).mp4
+
+#EXTINF:-1 tvg-logo="https://img.posterlounge.co.uk/images/wbig/poster-the-snows-of-kilimanjaro-susan-hayward-gregory-peck-ava-gardner-1952-364113.jpg" group-title="MOVIES",The Snows of Kilimanjaro (1952)**
+https://archive.org/download/TheSnowsOfKilimanjaro1952DVDRipXvid1.33EngQuincyMKT/The%20Snows%20of%20Kilimanjaro%20%281952%29%20%5BDVDRip%2CXvid%2C1.33%2CEng%5D%20-%20QuincyMKT.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Mother_Riley_meets_the_Vampire.jpg/220px-Mother_Riley_meets_the_Vampire.jpg" group-title="MOVIES",Vampire Over London (1952)
 https://archive.org/download/VampireOverLondon1952_201702/Vampire%20Over%20London%201952.mp4
@@ -1409,6 +1427,9 @@ https://archive.org/download/Cyrano_DeBergerac/Cyrano_De_Bergerac_512kb.mp4
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BCm6jkMMvOA/ULu5N_Wk6dI/AAAAAAAAHOs/1qW-C2RfyM8/s1600/ThelmajordBig.jpg" group-title="MOVIES",The File On Thelma Jordon (1950)
 https://archive.org/download/TheFileonThelmaJordanBarbaraStanwyck1950ripHJXvid2/TheFileonThelmaJordanBarbaraStanwyck1950ripHJXvid2_512kb.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flame_and_the_arrowposter.jpg/220px-Flame_and_the_arrowposter.jpg" group-title="MOVIES",The Flame and the Arrow (1950)
+https://archive.org/download/TheFlameAndTheArrow1950/The%20Flame%20and%20the%20Arrow%20%281950%29.mp4
 
 #EXTINF:-1 tvg-logo="http://theredlist.com/media/database/films/cinema/1950/winchester-73/004-winchester-73-theredlist.jpg" group-title="MOVIES",Winchester '73 (1950)
 https://archive.org/download/Winchester731950FullWesternMovieJamesStewartFullMovie/Winchester%20%2773%20(1950)%20Full%20Western%20Movie%20_%20James%20Stewart%20Full%20Movie.mp4
@@ -2301,6 +2322,9 @@ https://archive.org/download/22Bullets/22%20bullets.mp4
 #EXTINF:-1 tvg-logo="http://104.236.196.111/imdb//media/poster_movies/or8E43rNKVBLhMtDnwFkjSNgHNr.jpg" group-title="SPANISH",Under the Sea 3D (2009)
 https://archive.org/download/U0011080pDual/U-001-1080p%20Dual.mp4
 
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/zombieland-2009/large_yKXt47xzRS7oZwmIWLH1QbWAEcY.jpg" group-title="SPANISH",Zombieland (2009)
+https://archive.org/download/Zombieland.DVDRip.Latino/Zombieland.DVDRip.Latino.mp4
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b_zFDzI1ImA/movieposter.jpg" group-title="SPANISH",El Transportador 3 (2008)
 https://archive.org/download/ElTransportador3_201703/El%20Transportador%203.mp4
 
@@ -2624,6 +2648,9 @@ https://archive.org/download/La_Reina_de_Nueva_York_1937/La_Reina_de_Nueva_York_
 
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/portuguese/img/apple-touch-icon%402.png" group-title="LABEL",~ Movies in Portuguese
 http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://thevillagevidiot.com/wp/wp-content/uploads/2015/09/81ClciXon2L._SL1500_.jpg" group-title="PORTUGUESE",Furious 7 (2015)
+https://archive.org/download/VelozesFuriosos7_201704/Velozes%20&%20Furiosos%207%20-%20Bluray%20720p%20-%20SeriesDaHora.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5w7GAZF.jpg" group-title="PORTUGUESE",A Face da Morte (2014)
 https://archive.org/download/13Fantasmas2001720pDubladoAlan680/A.Face.da.Morte.2014.BRRip.720p.DUAL.mp4
