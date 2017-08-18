@@ -1,1 +1,14 @@
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/K4a3EoW.png" group-title="LABEL",* Fluxus Faith
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Religious IPTV
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please Donate
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.00.2000
+http://149.56.23.7:20082/stream
