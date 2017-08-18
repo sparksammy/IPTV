@@ -45,6 +45,9 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="CATHOLICISM",Catholic TV (USA)
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/zubifun.net/wp-content/uploads/2017/01/Divine-Vision-Network-Live-TV.jpg" group-title="CATHOLICISM",Divine Vision Network (USA)
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ktv.png" group-title="CATHOLICISM",K-TV (Austria)
 http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 
@@ -114,6 +117,9 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://89rrj5puz31fk9l54floftjs-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/cornerstone.jpg" group-title="CHRISTIANITY",Cornerstone TV (USA)
 http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.drgenescott.org/images/doc-top.jpg" group-title="CHRISTIANITY",Dr. Gene Scott (USA)
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iptvcristiano.com/uploads/channels/56/logo_thumb.jpg" group-title="CHRISTIANITY",JUCE TV (USA)
 http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
 
@@ -125,6 +131,9 @@ http://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master_1080p
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2016/03/Watch-MTM-TV-Live-TV-from-Jamaica.jpg" group-title="CHRISTIANITY",MTM TV (Jamaica)
 http://media.btbn.tv/mtmtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/nz/images/tv.7.png" group-title="CHRISTIANITY",Shine TV (New Zealand)
+http://rhema.streamguys1.com/live/smil:shinetv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://old.omega.is/Broadcast_files/image002.jpg" group-title="CHRISTIANITY",Omega (Iceland)
 http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
