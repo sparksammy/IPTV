@@ -741,14 +741,17 @@ http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static3.omroepzeeland.nl/sites/all/themes/omroepzeeland/logo.png" group-title="NETHERLANDS",Omroep Zeeland
 http://livestream.zeelandnet.nl:1935/live/omroepzeeland_tv_1500k.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://opsterland.d66.nl/content/uploads/sites/185/2014/03/omrop_logo.png" group-title="NETHERLANDS",Omrop Fryslan
+http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg" group-title="NETHERLANDS",Qmusic
+http://102793ooyala-lh.akamaihd.net/i/depers02_delivery@381748/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/kSr7t6X7l.png" group-title="NETHERLANDS",RTV Drenthe
 http://stream.rtvdrenthe.nl/tv/:tvstream1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.nrc.nl/FuZApxT5P6e1cqPM9CT767tUpLA=/1280x/s3/static.nrc.nl/wp-content/uploads/2016/10/rtv-rijnmond.jpg" group-title="NETHERLANDS",RTV Rijnmond
 http://d1eexm99gmxi2a.cloudfront.net/live/rijnmond/ngrp:TV-Rijnmond_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://opsterland.d66.nl/content/uploads/sites/185/2014/03/omrop_logo.png" group-title="NETHERLANDS",Omrop Fryslan
-http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream04.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rtvpurmerend.nl/assets/basic-newsportal/img/logo/rtvpurmerend.png" group-title="NETHERLANDS",RTV Purmerend
 http://wowza.pmedia74.kpnstreaming.nl/pi6atvlive/rtvpurm/chunklist_w2047641916.m3u8
