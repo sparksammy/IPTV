@@ -1533,6 +1533,9 @@ http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/
 #EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latino TV ~
 http://50.7.56.2:8016
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgur.com/1oapo3E.png" group-title="LATINO",VOD - El Chavo
+http://tecnotv.xyz/media/chavo
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.pixcelation.com/wp-content/uploads/2013/04/FuturamaWallpaper1024.gif" group-title="LATINO",VOD - Futurama
 http://tecnotv.xyz/media/futurama1
 
