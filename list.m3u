@@ -1380,9 +1380,6 @@ http://cdn.opencable.es/hls/live/ae/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-xcZovqoAtbQ/AAAAAAAAAAI/AAAAAAAAAAA/LPU5B24VR4w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="SPAIN",A1 TV
 http://109.236.91.150:8080/a1espanmahiryahsattv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.broadbandtvnews.com/wp-content/uploads/2015/02/andalucia_television.jpg" group-title="SPAIN",Andalucia TV [Off]
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TP2hB6Ts-Dw/hqdefault.jpg" group-title="SPAIN",Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
@@ -1827,9 +1824,6 @@ http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="MEXICO",Fox Sports 3
 http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="MEXICO",Univision TDN
-http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/mx/XHGJG.png" group-title="MEXICO",C7 Jalisco
 http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
 
@@ -1850,9 +1844,6 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rcg.com.mx/wp-content/uploads/2016/01/LOGO-RCG-TV-7-3-1.png" group-title="MEXICO",RCG 3 TV
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MEXICO",Canal 44
-http://canal44-lh.akamaihd.net/i/ch_canal44@325633/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/-i1CqxKxOIxo/VOQWpvIKeDI/AAAAAAAAA7Y/73FsGhkuZ_8/s1600/rtg.jpg" group-title="MEXICO",RTG
 http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
