@@ -126,87 +126,6 @@ http://media.btbn.tv/mtmtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://old.omega.is/Broadcast_files/image002.jpg" group-title="CHRISTIANITY",Omega (Iceland)
 http://sip-live.hds.adaptive.level3.net/hls-live/omega-omega/_definst_/live/stream1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frosat.net/images/logotv/original/SonLife-Broadcasting-Network.jpg" group-title="CHRISTIANITY",SBN (USA) [PT]
-http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="CHRISTIANITY",Santuario de Fatima (Portugal)
-http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Logo_owned_by_Members_Church_of_God_International_for_TV_Verdade.jpg" group-title="CHRISTIANITY",TV Verdade (Brazil)
-http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvclaret.com/upload/claretianocms/22/programa/68.png" group-title="CHRISTIANITY",Rede Seculo 21 (Brazil)
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg" group-title="CHRISTIANITY",Cancao Nova (Brazil)
-http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="CHRISTIANITY",Novo Tempo (Brazil)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Rede_Fam%C3%ADlia_logo_2013.png" group-title="CHRISTIANITY",Rede Familia (Brazil)
-http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_w1834697316_b300000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.igreja-online.com/img/logo.png" group-title="CHRISTIANITY",Igreja Online (Brazil)
-http://195.22.19.179:1935/igronl/igronline2/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jesuscristoapalavra.com/website/template/img/logo.png" group-title="CHRISTIANITY",Jesus Cristo - A Palavra (Brazil)
-http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2d7vy4n.png" group-title="CHRISTIANITY",Rede Gospel (Brazil)
-http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-FzZZDVhvkbY/VEPST1_CpoI/AAAAAAAAEwI/2nzsDQ-R3oc/s1600/Rede%2BGênesis%2B-%2BCDP%2BRede%2B-%2BServidor%2B3.png" group-title="CHRISTIANITY",Rede Genesis (Brazil)
-http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/529848566_780x439.jpg" group-title="CHRISTIANITY",RIT TV (Brazil)
-http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f2/Logo_rede_aparecida_comunicacao.png" group-title="CHRISTIANITY",Aparecida (Brazil)
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alagoasgospel.com.br/painel/categorias/noticia/b171323b0258d8043783c77c089b7f24.jpg" group-title="CHRISTIANITY",Mundial (Brazil)
-http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.cejn4.webnode.com/200003588-a2e9ba4dbe/Links_TVs_TV%20ACaminhodaLuz.jpg" group-title="CHRISTIANITY",TV A Caminho da Luz (Brazil)
-http://streaming50.sitehosting.com.br:1935/angra/angra/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aainfo.com.br/wp/wp-content/uploads/2015/05/tv-aovivo.jpg" group-title="CHRISTIANITY",TV Arca da Alianca (Brazil)
-http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2ki75z26cxs83vw1ja1h5j8n.wpengine.netdna-cdn.com/wp-content/uploads/2015/12/tv-web-cristo-vive.png" group-title="CHRISTIANITY",TV Cristo Vive (Brazil)
-http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-9beSDaDpMPg/UmiU0tyOcdI/AAAAAAAACVg/kGgsxgZ9vsk/s1600/tv_louvar.jpg" group-title="CHRISTIANITY",TV Louvar (Brazil)
-http://173.236.10.10:1935/renascer/renascer/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" group-title="CHRISTIANITY",TVCI (Brazil)
-http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="CHRISTIANITY",TV Gidoes (Brazil)
-http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vemevetv.com.br/images/logo.png" group-title="CHRISTIANITY",Vem e Ve TV (Brazil)
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vemevetv.com.br/images/logo.png" group-title="CHRISTIANITY",Vem e Ve TV* (Brazil)
-http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3780556/logo_canal%20cjc.png" group-title="CHRISTIANITY",Canal CJC (Brazil)
-http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sistema.sitewebtv.com.br/arquivos/slide/1905172618F01.jpg" group-title="CHRISTIANITY",TV Betel (Brazil)
-http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" group-title="CHRISTIANITY",TVCi (Brazil)
-http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/874652880082522112/tJGtDDiy_400x400.jpg" group-title="CHRISTIANITY",MK Music (Brazil)
-http://45.43.208.98:1935/tvmonteiro/tvmonteiro/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-1Rl2iBFkIXk/AAAAAAAAAAI/AAAAAAAAAAA/qc0Gdz6Ssw0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHRISTIANITY",Foz TV (Brazil)
-http://gw01.7idi.com:8087/hls/foztv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frosat.net/images/logotv/original/SonLife-Broadcasting-Network.jpg" group-title="CHRISTIANITY",SBN (USA) [ES]
 http://sonlife-i.akamaihd.net/hls/live/250023/spanishvtt/spanishvtt3/master.m3u8
 
@@ -320,6 +239,87 @@ http://bcoveliveios-i.akamaihd.net/hls/live/224241/4303072782001/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i65.tinypic.com/30k67lu.jpg" group-title="CHRISTIANITY",Al Hayat 2 (Egypt)
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/FluxusTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frosat.net/images/logotv/original/SonLife-Broadcasting-Network.jpg" group-title="CHRISTIANITY",SBN (USA) [PT]
+http://sonlife-i.akamaihd.net:80/hls/live/250090/portuguesevtt/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.nsaparecidanatal.com.br/wp-content/uploads/2015/12/aparicoes.jpg" group-title="CHRISTIANITY",Santuario de Fatima (Portugal)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/46/Logo_owned_by_Members_Church_of_God_International_for_TV_Verdade.jpg" group-title="CHRISTIANITY",TV Verdade (Brazil)
+http://ocatv.mcgi.me:1935/public/247_es/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvclaret.com/upload/claretianocms/22/programa/68.png" group-title="CHRISTIANITY",Rede Seculo 21 (Brazil)
+http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/7/2014/01/compartilhamento_padrao.jpg" group-title="CHRISTIANITY",Cancao Nova (Brazil)
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="CHRISTIANITY",Novo Tempo (Brazil)
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/7/7c/Rede_Fam%C3%ADlia_logo_2013.png" group-title="CHRISTIANITY",Rede Familia (Brazil)
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/chunklist_w1834697316_b300000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.igreja-online.com/img/logo.png" group-title="CHRISTIANITY",Igreja Online (Brazil)
+http://195.22.19.179:1935/igronl/igronline2/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jesuscristoapalavra.com/website/template/img/logo.png" group-title="CHRISTIANITY",Jesus Cristo - A Palavra (Brazil)
+http://srv6.zoeweb.tv:1935/z476-live/stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2d7vy4n.png" group-title="CHRISTIANITY",Rede Gospel (Brazil)
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-FzZZDVhvkbY/VEPST1_CpoI/AAAAAAAAEwI/2nzsDQ-R3oc/s1600/Rede%2BGênesis%2B-%2BCDP%2BRede%2B-%2BServidor%2B3.png" group-title="CHRISTIANITY",Rede Genesis (Brazil)
+http://snt.sisdera.com:1935/tvgenesis/aovivo.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.vimeocdn.com/video/529848566_780x439.jpg" group-title="CHRISTIANITY",RIT TV (Brazil)
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/f/f2/Logo_rede_aparecida_comunicacao.png" group-title="CHRISTIANITY",Aparecida (Brazil)
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alagoasgospel.com.br/painel/categorias/noticia/b171323b0258d8043783c77c089b7f24.jpg" group-title="CHRISTIANITY",Mundial (Brazil)
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://files.cejn4.webnode.com/200003588-a2e9ba4dbe/Links_TVs_TV%20ACaminhodaLuz.jpg" group-title="CHRISTIANITY",TV A Caminho da Luz (Brazil)
+http://streaming50.sitehosting.com.br:1935/angra/angra/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aainfo.com.br/wp/wp-content/uploads/2015/05/tv-aovivo.jpg" group-title="CHRISTIANITY",TV Arca da Alianca (Brazil)
+http://v.pool.us.wse-1.srvstream.com:1935/arcadaalianca/arcadaalianca/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2ki75z26cxs83vw1ja1h5j8n.wpengine.netdna-cdn.com/wp-content/uploads/2015/12/tv-web-cristo-vive.png" group-title="CHRISTIANITY",TV Cristo Vive (Brazil)
+http://stream300.overseebrasil.com.br:1935/live_apostolo_115/live_apostolo_115/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-9beSDaDpMPg/UmiU0tyOcdI/AAAAAAAACVg/kGgsxgZ9vsk/s1600/tv_louvar.jpg" group-title="CHRISTIANITY",TV Louvar (Brazil)
+http://173.236.10.10:1935/renascer/renascer/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" group-title="CHRISTIANITY",TVCI (Brazil)
+http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="CHRISTIANITY",TV Gidoes (Brazil)
+http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vemevetv.com.br/images/logo.png" group-title="CHRISTIANITY",Vem e Ve TV (Brazil)
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv023/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.vemevetv.com.br/images/logo.png" group-title="CHRISTIANITY",Vem e Ve TV* (Brazil)
+http://srv-vvtv.sisdera.com.br:1935/live/vvtv033/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ulango.tv/uploads/channels/3780556/logo_canal%20cjc.png" group-title="CHRISTIANITY",Canal CJC (Brazil)
+http://flash1.crossdigital.com.br:1935/ponto85/ongrace/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sistema.sitewebtv.com.br/arquivos/slide/1905172618F01.jpg" group-title="CHRISTIANITY",TV Betel (Brazil)
+http://45.43.208.98:1935/betelnc/betelnc/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/TVCi.png" group-title="CHRISTIANITY",TVCi (Brazil)
+http://wz5.dnip.com.br/tvci/tvci.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/874652880082522112/tJGtDDiy_400x400.jpg" group-title="CHRISTIANITY",MK Music (Brazil)
+http://45.43.208.98:1935/tvmonteiro/tvmonteiro/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-1Rl2iBFkIXk/AAAAAAAAAAI/AAAAAAAAAAA/qc0Gdz6Ssw0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CHRISTIANITY",Foz TV (Brazil)
+http://gw01.7idi.com:8087/hls/foztv.m3u8
 
 #EXTINF:-1 tvg-logo="https://openclipart.org/image/2400px/svg_to_png/268551/VA-005-Russian-Orthodox-Cross.png" group-title="LABEL",~ Orthodoxy
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
