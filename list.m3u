@@ -1860,7 +1860,7 @@ http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlis
 #EXTINF:-1 tvg-id="multimedios-monterrey" tvg-name="multimedios monterrey" tvg-logo="https://i.ytimg.com/vi/x3J94Nlydq0/maxresdefault.jpg" group-title="MEXICO",Multimedios
 http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486350658770
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://abdavega.playlatinohd.com/logos/mexico/ptv.PNG" group-title="MEXICO",Puebla TV [Off]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://abdavega.playlatinohd.com/logos/mexico/ptv.PNG" group-title="MEXICO",Puebla TV
 http://189.203.247.136/live/pueblatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.redmexico.org.mx/admin/dbfiles/dbdirectorio/dbicos/71.jpg" group-title="MEXICO",RTQ
@@ -1919,9 +1919,6 @@ http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/pl
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fmhot.cl/wp-content/uploads/2014/08/logo1.png" group-title="CHILE",FM Hot
 http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_1178_2_13968.png" group-title="CHILE",Fox Sports [Off]
-http://link.theplatform.com/s/flac/80Wqf2qD7W5V?mbr=true&feed=FoxPlay%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.itvpatagonia.com/joomla/images/FotosArticulos/Itv.png" group-title="CHILE",ITV
 http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/chunklist_w204765687.m3u8
