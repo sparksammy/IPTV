@@ -2259,12 +2259,6 @@ http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emcgconstruction.com/wp-content/uploads/Telemundo-Puerto-Rico-grande.png" group-title="PUERTO RICO",Telemundo
 http://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emcgconstruction.com/wp-content/uploads/Telemundo-Puerto-Rico-grande.png" group-title="PUERTO RICO",Telemundo [NoKodi]
-http://edge5.telesport.pw/live/telemundo/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.hemispheretv.com/wp-content/uploads/2013/04/wapaLogo-300x122.png" group-title="PUERTO RICO",WAPA
-http://dcunilive14-lh.akamaihd.net/i/dclive_1@176094/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://noticiasprtv.com/wp-content/uploads/2016/09/WIPR-TV-logo-png.png" group-title="PUERTO RICO",WIPR TV
 http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
 
