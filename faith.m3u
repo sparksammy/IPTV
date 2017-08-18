@@ -39,7 +39,7 @@ http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.invictory.com/public/pictures/news/56/55653/m02ce4c8b38e85a312fc23a0f32da53121424769545.jpg" group-title="JUDAISM",Shalom Tele-Vision (Russia)
 http://109.68.190.192:1935/WEB_Shalom/Shalom.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Christianity-Peace-Dove-Icon-Golden-Brown.png" group-title="LABEL",~ Catholicism
+#EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Christian-cross-icon-Golden-Brown.png" group-title="LABEL",~ Catholicism
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="CATHOLICISM",Catholic TV (USA)
@@ -66,7 +66,7 @@ http://162.212.176.51:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-39-sv.png" group-title="CATHOLICISM",TVCA (El Salvador)
 http://streamserver3.us:1935/tvcaelsalvador/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Christian-cross-icon-Golden-Brown.png" group-title="LABEL",~ Christianity
+#EXTINF:-1 tvg-logo="http://www.icon2s.com/wp-content/uploads/2013/01/Christianity-Peace-Dove-Icon-Golden-Brown.png" group-title="LABEL",~ Christianity
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.wacxtv.com/Portals/18/Skins/WACX/images/SuperChannel_logo.png" group-title="CHRISTIANITY",Super Channel (USA)
