@@ -324,6 +324,9 @@ http://granicus.mpl.miisolutions.net:1935/granicus-livepull-us-1/stpete/mp4:G018
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.thefloridachannel.org/wp-content/themes/tfc/images/logo.png" group-title="USA",The Florida Channel
 http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/92/City_of_Montgomery_Great_Seal.png" group-title="USA",Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mms.businesswire.com/media/20170113005327/en/564340/5/HSN_logo.jpg" group-title="USA",HSN
 http://hsn.mpl.miisolutions.net/hsn-live01/_definst_/smil:HSN1_ipad.smil/playlist.m3u8
 
