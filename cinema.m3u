@@ -9,7 +9,7 @@ http://149.56.23.7:20082/stream
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please Donate
 http://149.56.23.7:20082/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.18.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.21.2017
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
@@ -167,9 +167,6 @@ https://archive.org/download/Jerusalem20131080pBluRay/Jerusalem%202013%201080p%2
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jVQzuIJ.jpg" group-title="MOVIES",Pup (2013)
 https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
-
-#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/star-trek-into-darkness-2013/large_bnttrKDyTUerPIGUXYX79CRWWUF.jpg" group-title="MOVIES",Star Trek Into Darkness (2013)
-https://archive.org/download/Star.Trek.Into.Darkness.2013.720p.BluRay.x264.YIFY/Star.Trek.Into.Darkness.2013.720p.BluRay.x264.YIFY.mp4
 
 #EXTINF:-1 tvg-logo="http://static.infowars.com/pptv/images/2013-07-17StateofMind.jpg" group-title="MOVIES",State of Mind - The Psychology of Control (2013)
 https://archive.org/download/AlexJonesMovie2013StateOfMindThePsychologyOfControlFullVersionHD/Alex%20Jones%20Movie%20(2013)%20State%20Of%20Mind%20The%20Psychology%20Of%20Control%20Full%20Version%20HD.mp4
