@@ -591,7 +591,7 @@ http://83.218.163.132:8081/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Salzburg - Berggasthof BiBerg
 http://85.199.24.194:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Rome - Lazio - St. Peter’s Basilica
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Rome - Lazio - St. Peter's Basilica
 http://93.146.249.144:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Rome - Lazio
