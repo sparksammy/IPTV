@@ -294,9 +294,6 @@ http://216.223.107.138/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",West Lethbridge - Alberta
 http://184.70.212.198:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",Cambridge - Ontario
-http://67.43.130.207:80/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",The Blue Mountains - Ontario - Craigleith Ski Club
 http://72.143.50.74:80/mjpg/video.mjpg
 
@@ -594,15 +591,6 @@ http://85.33.43.238:9000/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Pisa - Toscana
 http://79.5.248.181:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Ovada - Piemonte
-http://77.72.38.94:81/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Sessa Aurunca - Campania
-http://185.95.239.153:88/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Brescia - Lombardia
-http://88.147.109.127:85/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Imperia - Liguria - Villaggio dei Fiori 01
 http://82.215.181.133:81/mjpg/video.mjpg
 
@@ -611,9 +599,6 @@ http://82.215.181.133:82/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Imperia - Liguria - Villaggio dei Fiori 03
 http://82.215.181.133:83/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Verona - Veneto
-http://217.11.84.173:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Carcavelos
 http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
@@ -678,14 +663,8 @@ http://37.35.189.15:8080/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/t1V7uVX.png" group-title="SPAIN",La Laguna - Tenerife - BRT Tenerife
 http://161.72.25.11:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/bhxixGM.png" group-title="EL SALVADOR",San Salvador
-http://190.120.3.195:8083/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Saint Petersburg Ice Hockey
 http://109.167.205.106:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Novosibirsk
-http://37.192.128.183:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Karachay-Cherkessia - Zelenchukskaya Observatory
 http://83.239.123.252:80/mjpg/video.mjpg
@@ -726,9 +705,6 @@ http://91.222.109.142:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ZDNQvWv.png" group-title="POLAND",Tarnow - Malopolskie - Starodabrowska Polnoc
 http://95.174.36.75:8084/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ZDNQvWv.png" group-title="POLAND",Gdansk - Pomorskie
-http://62.61.63.66:6002/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Brno - Brno University of Technology
 http://147.229.26.166:80/mjpg/video.mjpg
 
@@ -743,15 +719,6 @@ http://89.203.137.206:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Zlin
 http://77.48.209.214:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Boskovice - Jihomoravsky Kraj 01
-http://85.93.105.195:8084/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Boskovice - Jihomoravsky Kraj 02
-http://85.93.105.195:8082/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Boskovice - Jihomoravsky Kraj 03
-http://85.93.105.195:8081/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Baska - Moravskoslezsky Kraj
 http://217.197.149.7:88/mjpg/video.mjpg
