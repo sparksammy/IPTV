@@ -260,3 +260,60 @@ http://stream.livespotting.tv/windit-edge/vv88_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Wurzburg - Hotel Alter Kranen
 http://stream.livespotting.tv/windit-edge/vv70_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Carcavelos
+http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Costa Da Caparica
+http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Da Ericeira
+http://213.13.26.11:1935/live/ericeira.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Da Luz
+http://213.13.26.11:1935/live/luz.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia De Aveiro
+http://213.13.26.11:1935/live/aveiro.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia De Espinho
+http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="PORTUGAL",Praia De Peniche
+http://213.13.26.11:1935/live/peniche.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="PORTUGAL",Praia De Sao Pedro
+http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="PORTUGAL",Praia De Sao Torpes
+http://213.13.26.11:1935/live/saotorpes.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.safety4sea.com/wp-content/uploads/2016/07/Portugal-flag.jpg" group-title="PORTUGAL",Praia Do Guincho
+http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Do Norte
+http://213.13.26.11:1935/live/norte.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Grande
+http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Leca Da Palmeira
+http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Liga Moche Surfe
+http://213.13.26.11:1935/live/surfstream.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Madeira Jardim Do Mar
+http://213.13.26.11:1935/live/jardim.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Matosinhos
+http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Ribeira
+http://213.13.26.11:1935/live/ribeira.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Santa Cruz
+http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Supertubos
+http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
