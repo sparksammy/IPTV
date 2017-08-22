@@ -174,8 +174,14 @@ http://204.38.53.141:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Herndon - Virginia - Midway Home Service
 http://71.41.73.146:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia 01
 http://108.34.179.15:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia 02
+http://71.251.21.66:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia 03
+http://71.184.107.52:81/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Herndon - Virginia 01
 http://24.103.34.74:5000/mjpg/video.mjpg
@@ -189,14 +195,8 @@ http://66.108.251.98:9000/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Richmond - Virginia - Science Museum of Virginia
 http://184.80.5.148:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia
-http://71.251.21.66:80/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Newport News - Virginia
 http://216.54.25.122:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia
-http://71.184.107.52:81/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Vermont - Middlebury College
 http://140.233.86.204:80/mjpg/video.mjpg
