@@ -126,6 +126,9 @@ http://162.246.92.34:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Wyoming - Devil's Tower
 http://72.36.32.28:80/mjpg/video.mjpg
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Palestine - Texas - CSBF (NASA)
+http://iphone-streaming.ustream.tv/uhls/10208765/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Galveston - Texas - SeaLife TAMUG
 http://184.174.194.3:80/mjpg/video.mjpg
 
@@ -146,6 +149,27 @@ http://wowza.floridakeysmedia.com:8090/sloppyjoes/sloppyjoes.stream/chunklist_w1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Sloppy Joe's (Bar)
 http://wowza.floridakeysmedia.com:8090/sloppyjoesbar/sloppyjoesbar.stream/chunklist_w1500397604.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Hog's Breath Saloon (Bar Cam 01)
+http://wse1.resortcams.com/live-audio/hogsbreath1.stream_aac/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Hog's Breath Saloon (Bar Cam 02)
+http://wse1.resortcams.com/live-audio/hogsbreath2.stream_aac/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Irish Kevin's Bar (Bar Cam)
+http://wowza.floridakeysmedia.com:1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Key West - Florida - Irish Kevin's Bar (Street Cam)
+http://wowza.floridakeysmedia.com:1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Panama City - Florida - Schooners (Bar Cam)
+http://media3.tripsmarter.com:1935/schoonersbarHDCam485687461365/schbar/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Panama City - Florida - Schooners (Sun Cam)
+http://media3.tripsmarter.com:1935/schoonerssunsetHDCam392023487563/schsun/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Panama City - Florida - Schooners (Beach Cam)
+http://media5.tripsmarter.com:1935/schoonersbeachHDCam830294711349/schbeach/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ft. Myers - Florida - Town Hall
 http://74.11.145.210:80/mjpg/video.mjpg
@@ -231,6 +255,18 @@ http://134.84.117.226:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Minnesota
 http://138.236.66.144:80/mjpg/video.mjpg
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sandusky - Ohio - Cedar Point Park 01
+http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sandusky - Ohio - Cedar Point Park 02
+http://cs2.pixelcaster.com:1935/live/cedar3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sandusky - Ohio - Cedar Point Park 03
+http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Cincinnati - Ohio
+http://74.83.42.184:81/mjpg/video.mjpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",West Lafayette - Indiana - Purdue University (State St.)
 http://128.210.129.12:80/mjpg/video.mjpg
 
@@ -269,9 +305,6 @@ http://208.87.72.176:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Chattanooga - Tennessee
 http://96.38.26.130:8080/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Cincinnati - Ohio
-http://74.83.42.184:81/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Birmingham - Alabama
 http://138.26.105.144:80/mjpg/video.mjpg
