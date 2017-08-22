@@ -792,7 +792,7 @@ http://78.41.175.170:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FeGQull.png" group-title="BULGARIA",Ruse
 http://212.25.48.117:8080/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ISRAEL",Naor Webcam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/I19bniu.png" group-title="ISRAEL",Naor Webcam
 http://212.199.69.238:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FONQn9A.png" group-title="IRAN",Esfahan
