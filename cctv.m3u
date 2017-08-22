@@ -117,6 +117,12 @@ http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Seattle - Washington
 http://162.246.92.34:80/mjpg/video.mjpg
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Wyoming - Devil's Tower
+http://72.36.32.28:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Galveston - Texas - SeaLife TAMUG
+http://184.174.194.3:80/mjpg/video.mjpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",San Francisco - California - KNTV Cam
 http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 
@@ -198,6 +204,18 @@ http://184.80.5.148:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Newport News - Virginia
 http://216.54.25.122:80/mjpg/video.mjpg
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux City - Iowa - Sioux Center
+http://67.55.224.10:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux City - Iowa
+http://216.159.64.29:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Fairfield - Iowa - J. Raymond Chadwick Library
+http://69.18.18.83:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ames - Iowa - Iowa State University - Bessey Hall
+http://129.186.46.11:80/mjpg/video.mjpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Vermont - Middlebury College
 http://140.233.86.204:80/mjpg/video.mjpg
 
@@ -237,6 +255,9 @@ http://209.137.240.24:8083/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Missoula - Montana
 http://69.165.113.197:80/mjpg/video.mjpg
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Fairfield - Montana
+http://76.75.8.116:80/mjpg/video.mjpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Wichita - Kansas
 http://75.41.39.22:80/mjpg/video.mjpg
 
@@ -245,6 +266,9 @@ http://173.9.43.97:84/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Martin - Tennessee
 http://208.87.72.176:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Chattanooga - Tennessee
+http://96.38.26.130:8080/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Cincinnati - Ohio
 http://74.83.42.184:81/mjpg/video.mjpg
@@ -261,20 +285,26 @@ http://75.65.225.87:8081/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Tucson - Arizona
 http://128.196.250.158:8083/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux City - Iowa - Sioux Center
-http://67.55.224.10:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux City - Iowa
-http://216.159.64.29:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Fairfield - Iowa - J. Raymond Chadwick Library
-http://69.18.18.83:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ames - Iowa - Iowa State University - Bessey Hall
-http://129.186.46.11:80/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Mount Pleasant - Indiana - IWC Chapel
 http://69.18.18.80:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Clear Lake - South Dakota
+http://75.102.185.50:8888/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Chicago - Illinois
+http://71.57.23.135:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Madison - Wisconsin 01
+http://198.150.52.75:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Madison - Wisconsin 02
+http://198.27.60.44:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Boston - Massachusetts
+http://129.10.161.241:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Atlanta - Georgia
+http://72.215.139.121:8001/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",Toronto - Ontario - CN Tower 1
 http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
