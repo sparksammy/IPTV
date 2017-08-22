@@ -84,18 +84,6 @@ http://video3.earthcam.com:1935/fecnetwork/4017timessquare.flv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",East Ithaca - New York - TulipCam
 http://128.253.181.41:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Hicksville - New York 01
-http://47.21.223.180:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Hicksville - New York 02
-http://47.21.223.176:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Hicksville - New York 03
-http://47.21.223.173:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Hicksville - New York 04
-http://47.21.223.183:80/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Jamestown - New York
 http://143.67.94.18:80/mjpg/video.mjpg
 
@@ -174,20 +162,11 @@ http://media5.tripsmarter.com:1935/schoonersbeachHDCam830294711349/schbeach/chun
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ft. Myers - Florida - Town Hall
 http://74.11.145.210:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Miami - Florida 01
-http://174.140.110.39:81/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Miami - Florida 02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Miami - Florida
 http://173.162.100.238:81/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ft. Walton Beach - Florida
-http://68.225.122.22:8001/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Lake Mary - Florida
 http://216.239.164.3:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Pompano Beach - Florida
-http://206.214.159.19:8081/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Allendale - Michigan - Grand Valley State University
 http://148.61.63.226:80/mjpg/video.mjpg
@@ -208,19 +187,7 @@ http://71.41.73.146:80/mjpg/video.mjpg
 http://108.34.179.15:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia 02
-http://71.251.21.66:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ashburn - Virginia 03
 http://71.184.107.52:81/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Herndon - Virginia 01
-http://24.103.34.74:5000/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Herndon - Virginia 02
-http://24.73.140.88:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Herndon - Virginia 03
-http://66.108.251.98:9000/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Richmond - Virginia - Science Museum of Virginia
 http://184.80.5.148:80/mjpg/video.mjpg
@@ -230,9 +197,6 @@ http://216.54.25.122:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux City - Iowa - Sioux Center
 http://67.55.224.10:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux City - Iowa
-http://216.159.64.29:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Fairfield - Iowa - J. Raymond Chadwick Library
 http://69.18.18.83:80/mjpg/video.mjpg
@@ -248,12 +212,6 @@ http://140.233.86.205:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Minneapolis - Minnesota - Itasca Station
 http://160.94.34.250:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Minneapolis - Minnesota
-http://134.84.117.226:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Minnesota
-http://138.236.66.144:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sandusky - Ohio - Cedar Point Park 01
 http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
@@ -285,9 +243,6 @@ http://166.142.50.33:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Reno - Nevada
 http://134.197.79.252:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Missoula - Montana - Pool
-http://209.137.240.24:8083/mjpg/video.mjpg
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Missoula - Montana
 http://69.165.113.197:80/mjpg/video.mjpg
 
@@ -297,26 +252,14 @@ http://76.75.8.116:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Wichita - Kansas
 http://75.41.39.22:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Portsmouth - New Hampshire
-http://173.9.43.97:84/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Martin - Tennessee
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Martin - Tennessee - Elam Center
 http://208.87.72.176:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Chattanooga - Tennessee
-http://96.38.26.130:8080/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Birmingham - Alabama
 http://138.26.105.144:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Missouri - COB Building
 http://134.124.72.76:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Mt. Laurel - New Jersey
-http://75.65.225.87:8081/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Tucson - Arizona
-http://128.196.250.158:8083/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Mount Pleasant - Indiana - IWC Chapel
 http://69.18.18.80:80/mjpg/video.mjpg
