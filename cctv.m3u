@@ -177,7 +177,7 @@ http://webcam.st-malo.com/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VFZTk14.png" group-title="ICELAND",Saudarkrokur
 http://93.95.74.169:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NORWAY",Sveio - Hordaland
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TL6iaIh.png" group-title="NORWAY",Sveio - Hordaland
 http://83.243.203.103:8090/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/JC440IR.png" group-title="GERMANY",Dusseldorf - Nordrhein-Westfalen 01
