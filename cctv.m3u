@@ -102,10 +102,10 @@ http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Washington DC - Washington Monument
 http://video3.earthcam.com:1935/fecnetwork/7132.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="CCTV",Toronto - CN Tower 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",Toronto - CN Tower 1
 http://video3.earthcam.com:1935/fecnetwork/9299.flv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canadawanderer.com/wp-content/uploads/2012/11/CN-tower-Toronto-ilkerender.jpg" group-title="CCTV",Toronto - CN Tower 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",Toronto - CN Tower 2
 http://video3.earthcam.com:1935/fecnetwork/9298.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Zurich - Uetliberg
