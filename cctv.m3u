@@ -207,6 +207,9 @@ http://140.233.86.205:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Minneapolis - Minnesota - Itasca Station
 http://160.94.34.250:80/mjpg/video.mjpg
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Minneapolis - Minnesota
+http://134.84.117.226:80/mjpg/video.mjpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Minnesota
 http://138.236.66.144:80/mjpg/video.mjpg
 
@@ -219,8 +222,17 @@ http://165.234.216.241:81/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Bloomsburg - Pennsylvania - Bloomsburg University
 http://148.137.190.230:80/mjpg/video.mjpg
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Philadelphia - Pennsylvania
+http://204.109.14.199:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Doylestown - Pennsylvania - I-39 NB + Mile Post
+http://166.142.50.33:80/mjpg/video.mjpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Reno - Nevada
 http://134.197.79.252:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Missoula - Montana - Pool
+http://209.137.240.24:8083/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Missoula - Montana
 http://69.165.113.197:80/mjpg/video.mjpg
@@ -249,8 +261,17 @@ http://75.65.225.87:8081/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Tucson - Arizona
 http://128.196.250.158:8083/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux Center - Iowa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux City - Iowa - Sioux Center
 http://67.55.224.10:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Sioux City - Iowa
+http://216.159.64.29:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Fairfield - Iowa - J. Raymond Chadwick Library
+http://69.18.18.83:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ames - Iowa - Iowa State University - Bessey Hall
+http://129.186.46.11:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Mount Pleasant - Indiana - IWC Chapel
 http://69.18.18.80:80/mjpg/video.mjpg
