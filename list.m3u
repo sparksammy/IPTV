@@ -1941,7 +1941,7 @@ http://origin.camara.ztreaming.com:1935/origincamara8/streamcam8.sdp/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.carolina.cl/carolina-tv/img/ogimage.png" group-title="CHILE",Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/med_gallery_1157_6_2249.png" group-title="CHILE",CDF Premium [NoKodi]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_8435_2_3505.png" group-title="CHILE",CDF Premium [NoKodi]
 http://edga9.vergol.pw/live/cdf/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-65e5oTcogNE/Vx7Uf4GBd_I/AAAAAAAB0Wk/Sgz8L_ZHAs0yFMM1H8XQhD7QOYyEZp_hACLcB/s1600/Cnn_cl.jpg" group-title="CHILE",CNN
