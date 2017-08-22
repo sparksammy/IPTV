@@ -246,7 +246,7 @@ http://213.200.245.146:83/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zo6j78g.png" group-title="FRANCE",Plougonvelin - Bretagne
 http://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zo6j78g.png" group-title="FRANCE",Saint Malo - Les Thermes Marins de Saint Malo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zo6j78g.png" group-title="FRANCE",Saint Malo - Les Thermes Marins de Saint Malo [Limited]
 http://webcam.st-malo.com/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VFZTk14.png" group-title="ICELAND",Saudarkrokur
