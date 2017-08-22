@@ -336,7 +336,7 @@ http://93.95.74.169:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VFZTk14.png" group-title="ICELAND",Reykjavik - Kopaskershofn
 http://157.157.90.210:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FINLAND",Pieksamaki - Pieksanjarvi Lake
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DKko4X9.png" group-title="FINLAND",Pieksamaki - Pieksanjarvi Lake
 http://79.141.146.78:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ytw2AJh.png" group-title="SWEDEN",Halmstad
