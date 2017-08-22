@@ -15,28 +15,28 @@ http://audio4.broadcastify.com/il_chicago_police2.mp3
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="MISC.",Christmas Fireplace
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Christmas Fireplace
 http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/n1AJtRokP_w/maxresdefault.jpg" group-title="MISC.",Fish Tank
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Fish Tank
 http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="MISC.",Int'l Space Station 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Int'l Space Station 1
 http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.boeing.com/resources/boeingdotcom/space/international_space_station/images/iss_gallery_med_02_960x600.jpg" group-title="MISC.",Int'l Space Station 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Int'l Space Station 2
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="MISC.",Smithsonian Panda Cam 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Smithsonian Panda Cam 1
 http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/ca/a1/68/caa16846bcaa392766304ee68dba5af6.jpg" group-title="MISC.",Smithsonian Panda Cam 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",Smithsonian Panda Cam 2
 http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://r.ddmcdn.com/s_f/o_1/TLC/uploads/2017/02/Untitled-design-2.jpg" group-title="MISC.",TLC Cupcake Cam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",TLC Cupcake Cam
 http://iphone-streaming.ustream.tv/uhls/21661624/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dceaglecam.org/img/american_eagle_foundation_logo.png" group-title="MISC.",DC Eagle Cam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/A4AVDCE.png" group-title="MISC.",DC Eagle Cam
 http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Ft. Lauderdale Marina
