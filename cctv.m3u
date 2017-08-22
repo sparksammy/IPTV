@@ -99,10 +99,10 @@ http://128.151.54.230:8080/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Middletown - New York - KPC Webcam
 http://107.167.193.194:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Seattle - Washington - KIRO Cam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Seattle - Washington - KIRO Cam [M3U8]
 http://cmghlslive-i.akamaihd.net/hls/live/224708/KIROE1/300.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Seattle - Washington - Downtown
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Seattle - Washington - Downtown [M3U8]
 http://video3.earthcam.com:1935/fecnetwork/5019.flv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Seattle - Washington
@@ -117,7 +117,7 @@ http://iphone-streaming.ustream.tv/uhls/10208765/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Galveston - Texas - SeaLife TAMUG
 http://184.174.194.3:80/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",San Francisco - California - KNTV Cam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",San Francisco - California - KNTV Cam [M3U8]
 http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/2EsFuSR.png" group-title="USA",Concord - California
