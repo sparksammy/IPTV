@@ -327,38 +327,26 @@ http://72.143.50.74:80/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/u13UUNX.jpg" group-title="CANADA",Montreal - Quebec
 http://69.70.89.58:8001/mjpg/video.mjpg
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Zurich - Uetliberg
-http://stream.livespotting.tv/windit-edge/vv65_720p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Basel-Stadt - Neubau Biozentrum
-http://131.152.126.150:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Zurich - Stalder Kucher
-http://213.200.245.146:83/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Lausanne - Vaud 01
-http://130.223.93.252:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Lausanne - Vaud 02
-http://webcam2.etvj.rcv.ch:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Unknown
-http://195.176.31.70:80/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Schwyz
-http://83.78.117.160:90/mjpg/video.mjpg
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zo6j78g.png" group-title="FRANCE",Plougonvelin - Bretagne
-http://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zo6j78g.png" group-title="FRANCE",Saint Malo - Les Thermes Marins de Saint Malo [Limited]
-http://webcam.st-malo.com/mjpg/video.mjpg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VKolfAl.png" group-title="IRELAND",Kinsale
+http://62.77.164.197:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VFZTk14.png" group-title="ICELAND",Saudarkrokur
 http://93.95.74.169:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VFZTk14.png" group-title="ICELAND",Reykjavik - Kopaskershofn
 http://157.157.90.210:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FINLAND",Pieksamaki - Pieksanjarvi Lake
+http://79.141.146.78:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ytw2AJh.png" group-title="SWEDEN",Halmstad
+http://192.165.96.36:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ytw2AJh.png" group-title="SWEDEN",Sjoberg - Vasterbottens Lan
+http://81.8.239.195:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Ytw2AJh.png" group-title="SWEDEN",Vindeln - Vasterbottens Lan - Fagelstigen
+http://81.8.143.35:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TL6iaIh.png" group-title="NORWAY",Omlidstranda Camping
 http://193.213.5.46:8083/mjpg/video.mjpg
@@ -591,6 +579,36 @@ http://83.218.163.132:8081/mjpg/video.mjpg
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/V1N2sY9.png" group-title="AUSTRIA",Salzburg - Berggasthof BiBerg
 http://85.199.24.194:80/mjpg/video.mjpg
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Zurich - Uetliberg
+http://stream.livespotting.tv/windit-edge/vv65_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Basel-Stadt - Neubau Biozentrum
+http://131.152.126.150:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Zurich - Stalder Kucher
+http://213.200.245.146:83/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Lausanne - Vaud 01
+http://130.223.93.252:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Lausanne - Vaud 02
+http://webcam2.etvj.rcv.ch:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Unknown
+http://195.176.31.70:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8xPxB3h.jpg" group-title="SWITZERLAND",Schwyz
+http://83.78.117.160:90/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zo6j78g.png" group-title="FRANCE",Plougonvelin - Bretagne
+http://stream.livespotting.tv/windit-edge/LS_a7c71_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zo6j78g.png" group-title="FRANCE",Saint Malo - Les Thermes Marins de Saint Malo [Limited]
+http://webcam.st-malo.com/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/XMFAq9t.png" group-title="BELGIUM",Mechelen - Antwerpen
+http://94.227.131.77:8080/mjpg/video.mjpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/vls3aIR.png" group-title="ITALY",Rome - Lazio - St. Peter's Basilica
 http://93.146.249.144:80/mjpg/video.mjpg
 
@@ -678,6 +696,15 @@ http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UC4OjoF.jpg" group-title="PORTUGAL",Praia Supertubos
 http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/t1V7uVX.png" group-title="SPAIN",Burgos
+http://37.35.189.15:8080/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/t1V7uVX.png" group-title="SPAIN",La Laguna - Tenerife - BRT Tenerife
+http://161.72.25.11:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/bhxixGM.png" group-title="EL SALVADOR",San Salvador
+http://190.120.3.195:8083/mjpg/video.mjpg
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Saint Petersburg Ice Hockey
 http://109.167.205.106:80/mjpg/video.mjpg
 
@@ -710,6 +737,21 @@ http://84.53.206.194:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ijL2CTK.png" group-title="RUSSIA",Dolgoprudny Planernay
 http://87.228.103.93:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/Hyb3JEY.png" group-title="BELARUS",Radio Racja
+http://live.racyja.com:85/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/6OEMrFw.png" group-title="UKRAINE",Kiev
+http://31.42.168.71:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ZDNQvWv.png" group-title="POLAND",Chrzanowice - Gomunice Lodzkie
+http://91.222.109.142:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ZDNQvWv.png" group-title="POLAND",Tarnow - Malopolskie - Starodabrowska Polnoc
+http://95.174.36.75:8084/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ZDNQvWv.png" group-title="POLAND",Gdansk - Pomorskie
+http://62.61.63.66:6002/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/qDrNnrU.png" group-title="CZECH REP.",Brno - Brno University of Technology
 http://147.229.26.166:80/mjpg/video.mjpg
@@ -746,6 +788,18 @@ http://78.41.175.170:2000/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aGhVfMd.png" group-title="SLOVAKIA",Malacky 02
 http://78.41.175.170:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FeGQull.png" group-title="BULGARIA",Ruse
+http://212.25.48.117:8080/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ISRAEL",Naor Webcam
+http://212.199.69.238:80/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/FONQn9A.png" group-title="IRAN",Esfahan
+http://188.136.237.116:81/mjpg/video.mjpg
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/chRXCZV.png" group-title="EGYPT",Sharm Ash Shaykh - Janub Sina
+http://41.33.141.146:80/mjpg/video.mjpg
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/UkTalha.png" group-title="CHINA",Shanghai - Skyline
 http://bililive.kksmg.com/hls/sdi80/playlist.m3u8
