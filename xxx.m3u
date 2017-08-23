@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="LABEL",* Fluxus Lust
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="LABEL",* Fluxus Lust
 http://191.252.102.161:8040/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Adult VOD + IPTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Adult IPTV
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please Donate
