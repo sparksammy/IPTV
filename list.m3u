@@ -72,6 +72,9 @@ http://video.metv.com/metv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.revntv.com/media/site/images/logo_revntv.png" group-title="USA",Rev'n
 http://dcunilive16-lh.akamaihd.net/i/dclive_1@305811/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Current_logo_for_TUFF_TV.png" group-title="USA",Tuff TV
+http://cdn-live-egress.campfyre.tv/rightbrainmedia-live-604/mp4:Tufftv_all/rightbrainmedia-live-604/Tufftv2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.huntchannel.tv/wp-content/uploads/2015/12/Hunt-Channel-logo-transparent-plain-1-e1450645937919-300x203.png" group-title="USA",Hunt Channel
 http://studio.huntchannel.tv:8081/live/playout/playlist.m3u8
 
@@ -101,6 +104,9 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/844696406006779904/8qEYRQ5H.jpg" group-title="USA",Ditty TV
 http://desktop.dittytv.com/smil:DittyTV.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/xhqB0IJ.png" group-title="USA",Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WHTZ_logo.png" group-title="USA",Z100 Radio
 http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
@@ -1022,6 +1028,9 @@ http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/149abbcb156b5e4b6d87697452d29fdf.jpeg" group-title="ITALY",Radio 105 TV
 http://wow01.105.net:1935/live/105Test1/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstone.tv/images/logos/it/CAPITALTIVU.png" group-title="ITALY",Radio Capital TiVu
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png" group-title="ITALY",Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
