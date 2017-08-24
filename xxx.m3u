@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="LABEL",* Fluxus Lust
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Adult IPTV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/pYWMEWN.png" group-title="LABEL",+ Free Adult VOD
 http://184.173.142.117:21728/stream
 
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please Donate
@@ -13,9 +13,6 @@ http://184.173.142.117:21728/stream
 http://184.173.142.117:21728/stream
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusLust
-http://184.173.142.117:21728/stream
-
-#EXTINF:-1 tvg-logo="https://k60.kn3.net/taringa/C/7/0/8/A/5/bernabis2011/966.png" group-title="LABEL",@ ADULTS ONLY
 http://184.173.142.117:21728/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman (For Her)
