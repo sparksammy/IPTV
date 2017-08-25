@@ -3186,6 +3186,27 @@ https://archive.org/download/AMascaraDeFuManchu1932Dubl/A%20Mascara%20De%20Fu%20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/The_Mummy_1932_film_poster.jpg" group-title="PORTUGUESE",A Mumia (1932)
 https://archive.org/download/AMmia1932Dubl/A%20M%C3%BAmia%201932%20Dubl.mp4
 
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/arabic/img/apple-touch-icon%402.png" group-title="LABEL",~ Movies in Arabic
+http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BURHLXq.jpg" group-title="ARABIC",Oshan 14 (2016)
+https://archive.org/download/Ocean14.HDTV.1080p.RoMaNTiCPoET/Ocean%2014.HDTV.1080p.RoMaNTiCPoET.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/BURHLXq.jpg" group-title="ARABIC",Oshan 14 (2016)*
+https://archive.org/download/RoMaNTiCPoET_201708/Ocean%2014.HDTV.1080p.RoMaNTiCPoET.mp4
+
+#EXTINF:-1 tvg-logo="http://arab-moviez.org/files/image/Under%20The%20Table.jpg" group-title="ARABIC",Taht El Tarabiza (2016)
+https://archive.org/download/RoMaNTiCPoET_201708/Under%20The%20Table.2016.HD.BY.%20RoMaNTiCPoET.mp4
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gfhtF8f.jpg" group-title="ARABIC",El Eial Herbet (2006)
+https://archive.org/download/RoMaNTiCPoET_201708/El%20Eyal%20Herbet.HD720.BY.%20RoMaNTiCPoET.mp4
+
+#EXTINF:-1 tvg-logo="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_95ef0e024f75366d7ec81047861cab2e85ed806ac9699a2ef2dd2e44f3be959a.jpg" group-title="ARABIC",Eyal Habiba (2005)
+https://archive.org/download/RoMaNTiCPoET_201708/Aayal%20Habiba.2005.BY.%20RoMaNTiCPoET.mp4
+
+#EXTINF:-1 tvg-logo="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_95ef0e024f75366d7ec81047861cab2e85ed806ac9699a2ef2dd2e44f3be959a.jpg" group-title="ARABIC",Eyal Habiba (2005)*
+https://archive.org/download/AayalHabiba.2005.BY.RoMaNTiCPoET/Aayal%20Habiba.2005.BY.%20RoMaNTiCPoET.mp4
+
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/japanese/img/apple-touch-icon%402.png" group-title="LABEL",~ Movies in Japanese
 http://149.56.23.7:20082/stream
 
