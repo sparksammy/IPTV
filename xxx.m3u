@@ -78,7 +78,7 @@ http://78.109.133.126:81/udp/239.1.6.36:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uTqcgtj.png" group-title="IPTV",Night Club - Ночной Клуб [Unstable]
 http://78.109.133.126:81/udp/239.1.6.33:1234
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Nights - Русская ночь [Unstable]
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Night - Русская ночь [Unstable]
 http://78.109.133.126:81/udp/239.1.6.32:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/h9aRgeG.png" group-title="TINY 4K",Tiny 4K - VOD 01
