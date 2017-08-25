@@ -9,7 +9,7 @@ http://184.173.142.117:21728/stream
 #EXTINF:-1 tvg-logo="http://www.sgvhumane.org/wp-content/uploads/PayPalDonateNow.png" group-title="LABEL",< Please Donate
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.24.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.25.2017
 http://184.173.142.117:21728/stream
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusLust
@@ -36,11 +36,17 @@ http://78.109.133.126:81/udp/239.1.6.40:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/odOdCDo.png" group-title="IPTV",Brazzers TV Europe [Opt-2]
 http://89.208.202.33:5050/udp/230.3.4.143:5678
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/t8XLOQL.png" group-title="IPTV",Candy TV
+http://95.85.92.240:34040/udp/239.191.254.173:15285
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman [Opt-1]
 http://95.85.92.240:34040/udp/239.191.254.114:15285
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jFMsYLu.png" group-title="IPTV",Candyman [Opt-2]
 http://media.anycaster.tv/candyman/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/2ogUFiG.png" group-title="IPTV",Egoist TV
+http://95.85.92.240:34040/udp/239.191.254.249:15285
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-1]
 http://95.85.92.240:34040/udp/239.191.254.251:15285
