@@ -169,7 +169,7 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="USA",ACC Network
-http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+http://raycomhds-lh.akamaihd.net/i/hdslive_01@136338/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1000px-ESPN_wordmark.svg.png" group-title="USA",ESPN [Off]
 http://185.142.239.164:3135/Espn/1/index.m3u8
