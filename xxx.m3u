@@ -42,6 +42,9 @@ http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UKmZClv.png" group-title="IPTV",Nuart
 http://78.111.176.132:8080/
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passion XXX
+http://37.9.0.201:8888
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m91zS5d.png" group-title="IPTV",Playboy TV
 http://78.109.133.126:81/udp/239.1.6.39:1234
 
