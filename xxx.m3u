@@ -36,17 +36,35 @@ http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/05wfyrV.png" group-title="IPTV",Red Light Central
 http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/m91zS5d.png" group-title="IPTV",Playboy TV Chat
-http://publish.thewebstream.co:1935/rlc/_definst_/livestream1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
 http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UKmZClv.png" group-title="IPTV",Nuart
 http://78.111.176.132:8080/
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Nights
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m91zS5d.png" group-title="IPTV",Playboy TV
+http://78.109.133.126:81/udp/239.1.6.39:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/odOdCDo.png" group-title="IPTV",Brazzers TV Europe
+http://78.109.133.126:81/udp/239.1.6.40:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HwnRSqw.png" group-title="IPTV",O-La-La
+http://78.109.133.126:81/udp/239.1.6.34:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/3OQI0IC.png" group-title="IPTV",Hustler HD
+http://78.109.133.126:81/udp/239.1.6.35:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/suVpO98.png" group-title="IPTV",Blue Hustler
+http://78.109.133.126:81/udp/239.1.6.36:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uTqcgtj.png" group-title="IPTV",Night Club - Ночной Клуб
+http://78.109.133.126:81/udp/239.1.6.33:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Nights - Русская ночь
 http://78.111.176.132:8082
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Nights - Русская ночь*
+http://78.109.133.126:81/udp/239.1.6.32:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/h9aRgeG.png" group-title="TINY 4K",Tiny 4K - VOD 01
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
