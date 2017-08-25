@@ -54,6 +54,12 @@ http://37.9.0.201:8888
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
 http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uTqcgtj.png" group-title="IPTV",Night Club - Ночной Клуб
+http://78.109.133.126:81/udp/239.1.6.33:1234
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Night - Русская Ночь
+http://78.109.133.126:81/udp/239.1.6.32:1234
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UKmZClv.png" group-title="IPTV",Nuart [Unstable]
 http://78.111.176.132:8080/
 
@@ -74,12 +80,6 @@ http://78.109.133.126:81/udp/239.1.6.35:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/suVpO98.png" group-title="IPTV",Blue Hustler [Off]
 http://78.109.133.126:81/udp/239.1.6.36:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/uTqcgtj.png" group-title="IPTV",Night Club - Ночной Клуб [Unstable]
-http://78.109.133.126:81/udp/239.1.6.33:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H1banjU.png" group-title="IPTV",Russian Night - Русская ночь [Unstable]
-http://78.109.133.126:81/udp/239.1.6.32:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/h9aRgeG.png" group-title="TINY 4K",Tiny 4K - VOD 01
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
