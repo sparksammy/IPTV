@@ -168,10 +168,7 @@ http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptvchile.xyz/Logos/TeVe/esperanza%20tv.png" group-title="CHRISTIANITY",Esperanza TV (USA) [ES]
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://frosat.net/images/logotv/original/SonLife-Broadcasting-Network.jpg" group-title="CHRISTIANITY",SBN (USA) [ES]
-http://sonlife-i.akamaihd.net/hls/live/250023/spanishvtt/spanishvtt3/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/SBN_Network_Logo.png" group-title="CHRISTIANITY",SBN International (USA) [ES]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/25/SBN_Network_Logo.png" group-title="CHRISTIANITY",SBN (USA) [ES] [NoKodi]
 http://sonlife-i.akamaihd.net/hls/live/250023/spanishvtt/spanishvtt1/spanishvtt1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.christianworldmedia.com/screencap1501" group-title="CHRISTIANITY",Teledunamis (USA) [ES]
