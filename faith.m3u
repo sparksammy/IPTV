@@ -45,8 +45,17 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/72/CatholicTV_logo.png" group-title="CATHOLICISM",Catholic TV (USA)
 http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s-media-cache-ak0.pinimg.com/avatars/catholiclifetv_1382561352_280.jpg" group-title="CATHOLICISM",Catholic Life TV (USA)
+http://origin5-edge1.ord.yourstreamlive.com:1935/live/yourstreamlive/out_657_198vbyhi/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/zubifun.net/wp-content/uploads/2017/01/Divine-Vision-Network-Live-TV.jpg" group-title="CATHOLICISM",Divine Vision Network (USA)
 http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png" group-title="CATHOLICISM",Faith and Life TV (USA)
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lwctt.org/wp-content/uploads/2016/05/trinitty3-150x115.jpg" group-title="CATHOLICISM",TCN (Trinidad and Tobago)
+http://1-fss29-s0.streamhoster.com/lv_trinitytv/_definst_/broadcast1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channels.roku.com/images/75c1c6f4ae854328b5788a154d005e9f-hd.jpg" group-title="CATHOLICISM",Salt and Light TV (Canada)
 http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
