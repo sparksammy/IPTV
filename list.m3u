@@ -63,8 +63,8 @@ http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://channelpear.com/images/media/4547.jpg" group-title="USA",D23 TV
 http://h5j3hce9.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/d23tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i0.kym-cdn.com/entries/icons/original/000/016/618/7chan___channel7_logo_by_zodia_kun-d4zfcv3.png" group-title="USA",7chan TV [OGG]
-http://radio.7chan.org:8000/CH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/IH7rVcy.png" group-title="USA",7chan TV [OGG]*
+http://radio.7chan.org:8000/CH7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-17.sinclairstoryline.com/resources/media/ba7cba73-6daf-416c-ab9d-622cc4ab616e-large16x9_TBDTV.jpg" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
