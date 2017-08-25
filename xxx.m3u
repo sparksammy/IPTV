@@ -51,6 +51,9 @@ http://91.211.143.214:3333/play/a006
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passion XXX
 http://37.9.0.201:8888
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/m91zS5d.png" group-title="IPTV",Playboy TV
+http://78.109.133.126:81/udp/239.1.6.39:1234
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/uTqcgtj.png" group-title="IPTV",Night Club - Ночной Клуб
 http://78.109.133.126:81/udp/239.1.6.33:1234
 
@@ -59,9 +62,6 @@ http://78.109.133.126:81/udp/239.1.6.32:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/UKmZClv.png" group-title="IPTV",Nuart [Unstable]
 http://78.111.176.132:8080/
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/m91zS5d.png" group-title="IPTV",Playboy TV [Unstable]
-http://78.109.133.126:81/udp/239.1.6.39:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/odOdCDo.png" group-title="IPTV",Brazzers TV Europe [Unstable]
 http://78.109.133.126:81/udp/239.1.6.40:1234
