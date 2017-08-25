@@ -45,9 +45,6 @@ http://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
 http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/05wfyrV.png" group-title="IPTV",Red Light Central
-http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/playlists.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",French Lover TV
 http://91.211.143.214:3333/play/a006
 
