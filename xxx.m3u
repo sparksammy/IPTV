@@ -66,6 +66,9 @@ http://78.109.133.126:81/udp/239.1.6.40:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HwnRSqw.png" group-title="IPTV",O-La-La [Unstable]
 http://78.109.133.126:81/udp/239.1.6.34:1234
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HwnRSqw.png" group-title="IPTV",O-La-La* [Unstable]
+http://91.190.176.39:81/udp/239.195.5.33:1234
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/3OQI0IC.png" group-title="IPTV",Hustler HD [Unstable]
 http://78.109.133.126:81/udp/239.1.6.35:1234
 
