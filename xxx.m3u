@@ -24,13 +24,13 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 1
 http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation*
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 2
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder21/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 2*
 http://publish2.firestormmedia.tv:1935/ingest_cellcast/encoder31/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dUhd2a3.png" group-title="IPTV",Babestation 3
