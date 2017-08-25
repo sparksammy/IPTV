@@ -69,6 +69,9 @@ http://91.190.176.39:81/udp/239.195.5.33:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HwnRSqw.png" group-title="IPTV",O-La-La*
 http://91.190.179.31:81/udp/239.195.5.33:1234
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HwnRSqw.png" group-title="IPTV",O-La-La**
+http://62.76.82.81:81/udp/239.195.5.33:1234
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6Nr8Bqk.png" group-title="IPTV",Passion XXX
 http://37.9.0.201:8888
 
