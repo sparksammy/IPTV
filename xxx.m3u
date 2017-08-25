@@ -63,6 +63,9 @@ http://78.109.133.126:81/udp/239.1.6.39:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/odOdCDo.png" group-title="IPTV",Brazzers TV Europe [Unstable]
 http://78.109.133.126:81/udp/239.1.6.40:1234
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/odOdCDo.png" group-title="IPTV",Brazzers TV Europe* [Unstable]
+http://89.208.202.33:5050/udp/230.3.4.143:5678
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/HwnRSqw.png" group-title="IPTV",O-La-La [Unstable]
 http://78.109.133.126:81/udp/239.1.6.34:1234
 
