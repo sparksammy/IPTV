@@ -435,10 +435,16 @@ http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kompitv.com/images/chelsea-tv.jpg" group-title="UK",Chelsea TV
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/seenit.co.uk/wp-content/uploads/BT-ESPN.png" group-title="UK",BT Sport ESPN
-http://185.142.239.164:3135/BT/Espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 1
+http://wowza2.mysoltv.com:1992/BT_Sports_1_HD/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png" group-title="UK",BT Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 2
+http://wowza2.mysoltv.com:1992/BT_Sports_2_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 3
+http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 3*
 http://185.142.239.164:3135/BT/3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
@@ -1413,6 +1419,9 @@ http://109.236.91.150:8080/a1espanmahiryahsattv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TP2hB6Ts-Dw/hqdefault.jpg" group-title="SPAIN",Antena 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/TP2hB6Ts-Dw/hqdefault.jpg" group-title="SPAIN",Antena 3*
+http://vivoplay-i.akamaihd.net/hls/live/255335/canal7/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png" group-title="SPAIN",Antena 3 Intl.
 http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
 
@@ -1421,6 +1430,9 @@ http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="SPAIN",Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png" group-title="SPAIN",Atreseries*
+http://vivoplay-i.akamaihd.net/hls/live/255336/canal8/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/media/031a89fb932fc4501cfc67691ccb6f31.jpeg" group-title="SPAIN",Betis TV
 http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
@@ -1475,6 +1487,9 @@ https://cdn.opencable.es/hls/live/fighttime/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%20tv%20Series%20y%20Animes%20de%20Tv.png" group-title="SPAIN",Hit TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg" group-title="SPAIN",Hola TV
+http://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/62/IB3_logo_2008_1.jpg" group-title="SPAIN",IB3
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_2.m3u8
@@ -1605,6 +1620,12 @@ http://tecnotv.xyz/media/telemundo2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgur.com/X6PgEpo.png" group-title="LATINO",Telemundo*
 http://tecnotv.xyz/media/telemundo3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.prensario.net/Multimedios/imgs/23738_468.jpg" group-title="LATINO",Show Business
+http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvquisqueya.com/images/2017/07/14/logoweb.fw.png" group-title="LATINO",TV Quisqueya
+http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="LATINO",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
@@ -1707,11 +1728,17 @@ http://painel.serveron.com.br:1935/8166/8166/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mincyt.gob.ar/adjuntos/imagenes/000/021/0000021142.jpg" group-title="ARGENTINA",Tec TV
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA",Telefe
+http://vivoplay-i.akamaihd.net/hls/live/261555/canal1/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telpinteve.com.ar/imagenes/Canal2Logos-03.png" group-title="ARGENTINA",TelpinTV
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/tlxtelemax.png" group-title="ARGENTINA",TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.televisiongratis.tv/components/com_televisiongratis/images/tyc-sports-en-vivo-830.png" group-title="ARGENTINA",TyC Sports
+http://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-VcZvgiA4ZWU/AAAAAAAAAAI/AAAAAAAAAAA/pIOWNecCpF4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Vorterix
 http://ffahls-lh.akamaihd.net/i/vorvideo01hls_1@305260/master.m3u8
@@ -1727,6 +1754,21 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
 #EXTINF:-1 tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",FOROtv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/media/C80nB1RU0AENG1S.png" group-title="MEXICO",A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gruposalinas.com/images/nv/Azteca_04.png" group-title="MEXICO",Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://condista.com/wp-content/uploads/2015/09/az-cinema-680x328.jpg" group-title="MEXICO",Azteca Cinema
+http://vivoplay-i.akamaihd.net/hls/live/255328/canal9/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-Nwn_ksaYk7s/VjEN7wA7SSI/AAAAAAAAAg0/wIJBr_8zo08/s200/azcorazon.png" group-title="MEXICO",Azteca Corazon
+http://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/236216358508/medium/100/1473533249148a4e4602226294c4e8ae5f00bd69aa.jpg" group-title="MEXICO",Azteca Click
+http://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MEXICO",ADN 40
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
@@ -1782,8 +1824,11 @@ http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="MEXICO",Fox Sports 3
 http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN
-http://ryuk.onetvgratis.com/lstream4/591fa6cec40e12565f9ae0db/5900bc9a970b1071e240b0cd/_/TDN.flv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/237123622527/medium/100/1478017795700b084b1cdf4ad10dc7ff9ddc91abba.jpg" group-title="MEXICO",AYM Sports
+http://vivoplay-i.akamaihd.net/hls/live/255324/canal4/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thematv.us/medias/channels/latin-american-sports/logo.png" group-title="MEXICO",Latin American Sports
+http://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/mx/XHGJG.png" group-title="MEXICO",C7 Jalisco
 http://198.255.112.18:1935/c7cultura/videoc7cultura/chunklist.m3u8
@@ -1920,7 +1965,10 @@ http://v1.tustreaming.cl:1935/genialtv/genialtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/aslyRHq.png" group-title="CHILE",T13
 http://cdn.ztreaming.com/t13vivo3/desktop.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ASr9Vkf.png" group-title="CHILE", TV Red
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TVChile_logo_2016.png" group-title="CHILE",TV Chile
+http://vivoplay-i.akamaihd.net/hls/live/255329/canal8/master2500k.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ASr9Vkf.png" group-title="CHILE",TV Red
 http://69.164.193.177:1935/live/myStream/chunklist_w561342168.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="CHILE",UESTV
@@ -1977,6 +2025,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.todocanales.net/wp-content/uploads/2015/11/caracol-263x300-263x300.jpg" group-title="COLOMBIA",Caracol TV*
+http://vivoplay-i.akamaihd.net/hls/live/253482/canal1/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://3.bp.blogspot.com/-19K43ULMe40/TrvUcbhyiiI/AAAAAAAAAlM/L7sXf72CeCA/s1600/cosmo+tv.png" group-title="COLOMBIA",Cosmovision
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
 
@@ -1995,8 +2046,17 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/10/MIMUSICA-HD-GRANDE1.png" group-title="COLOMBIA",MiMusica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ntn24.com/sites/all/themes/ntn24/logo.png" group-title="COLOMBIA",NTN24
+http://vivoplay-i.akamaihd.net/hls/live/255326/canal6/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png" group-title="COLOMBIA",RCN
 https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/RCN_Televisión_logo.svg/2000px-RCN_Televisión_logo.svg.png" group-title="COLOMBIA",RCN
+http://vivoplay-i.akamaihd.net/hls/live/255327/canal7/master2500k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="COLOMBIA",RCN Novelas
+http://vivoplay-i.akamaihd.net/hls/live/255325/canal5/master2500k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052014/untitled-1_56.png" group-title="COLOMBIA",Senal Colombia
 http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/playlist.m3u8
