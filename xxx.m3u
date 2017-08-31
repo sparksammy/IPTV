@@ -9,7 +9,7 @@ http://184.173.142.117:21728/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.25.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.31.2017
 http://184.173.142.117:21728/stream
 
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusLust
@@ -48,11 +48,26 @@ http://media.anycaster.tv/candyman/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/2ogUFiG.png" group-title="IPTV",Egoist TV
 http://95.85.92.240:34040/udp/239.191.254.249:15285
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 1
+http://185.93.1.41/erotic1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 2
+http://185.93.1.41/erotic2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 3
+http://185.93.1.41/erotic3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HQJ3q4R.png" group-title="IPTV",Erotic 4
+http://185.93.1.41/erotic4/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-1]
 http://95.85.92.240:34040/udp/239.191.254.251:15285
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-2]
 http://91.211.143.214:3333/play/a006
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gs4HBbz.png" group-title="IPTV",FrenchLover TV [Opt-3]
+http://31.128.148.102:3371/udp/239.1.13.4:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0POW26v.png" group-title="IPTV",FunDorado TV
 http://streaming.fundorado.com:80/fundoradotv/live.stream/playlist.m3u8
@@ -62,6 +77,9 @@ http://78.109.133.126:81/udp/239.1.6.35:1234
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://latinangels.tv/wp-content/uploads/2016/03/slidelingeriehowie-2.jpg" group-title="IPTV",Latin Angels
+http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
 http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
