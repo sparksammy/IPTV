@@ -396,9 +396,6 @@ https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
 #EXTINF:-1 tvg-logo="https://i.jeded.com/i/harry-potter-and-the-goblet-of-fire.11171.jpg" group-title="MOVIES",Harry Potter and the Goblet of Fire (2005)
 https://archive.org/download/Harry.Potter.The.Ultimate.Collection.Pack.20012011.1080p.BluRay.MultiSubs.REMUXKRaLiMaRKorarbg.to/Harry%20Potter%204/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%202005%201080p%20Blu-ray%20Multisub%20Remux%20VC-1%20LPCM%205.1%20-%20KRaLiMaRKo.mp4
 
-#EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/70024092.jpg" group-title="MOVIES",March of the Penguins (2005) [Dual-FR]
-https://archive.org/download/March.of.the.Penguins.2005.x264.720p.DualAudio.ENFR/March.of.the.Penguins.2005.x264.720p.DualAudio.EN-FR.mp4
-
 #EXTINF:-1 tvg-logo="https://www.thedigitalfix.com/image/1143729591/film/59437.jpg" group-title="MOVIES",The Exorcism of Emily Rose (2005)
 https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
 
@@ -2123,6 +2120,9 @@ https://archive.org/download/DerDraufgnger1931/Der%20Draufg%C3%A4nger%201931.mp4
 
 #EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/french/img/apple-touch-icon.png" group-title="LABEL",~ Movies in French
 http://149.56.23.7:20082/stream
+
+#EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/70024092.jpg" group-title="FRENCH",March of the Penguins (2005)
+https://archive.org/download/March.of.the.Penguins.2005.x264.720p.DualAudio.ENFR/March.of.the.Penguins.2005.x264.720p.DualAudio.EN-FR.mp4
 
 #EXTINF:-1 tvg-logo="http://fr.web.img6.acsta.net/medias/nmedia/18/35/56/11/18406682.jpg" group-title="FRENCH",L'Age Ingrat (1964)
 https://archive.org/download/LgeIngrat1964/L'%C3%82ge%20ingrat%201964.mp4
