@@ -1776,18 +1776,6 @@ http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="MEXICO",ADN 40*
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
 
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://elpoderdelespiritu.com/channels/aztecatrece.png" group-title="MEXICO",Azteca 13
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-
-#EXTINF:-1 tvg-id="El Trece" tvg-name="El Trece" tvg-logo="http://elpoderdelespiritu.com/channels/aztecatrece.png" group-title="MEXICO",Azteca 13*
-http://209.126.116.177:2086/113azteca13/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-VU58EUC2eB4/T3Kk9CfXJeI/AAAAAAAABgU/hKjjVdXCiP0/s320/azteca7.jpeg" group-title="MEXICO",Azteca 7
-http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img4.wikia.nocookie.net/__cb20140714200611/logopedia/images/a/ae/QdyTObH6-1.jpg" group-title="MEXICO",Canal 5
-http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Milenio TV" tvg-name="Milenio TV" tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif" group-title="MEXICO",Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
