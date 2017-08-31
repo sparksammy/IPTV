@@ -1620,6 +1620,9 @@ http://tecnotv.xyz/media/telemundo2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgur.com/X6PgEpo.png" group-title="LATINO",Telemundo*
 http://tecnotv.xyz/media/telemundo3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/deTBL0Q.png" group-title="LATINO",Latin Angels
+http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.prensario.net/Multimedios/imgs/23738_468.jpg" group-title="LATINO",Show Business
 http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
 
