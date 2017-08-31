@@ -81,9 +81,6 @@ http://78.109.133.126:81/udp/239.1.6.35:1234
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6gckOd1.png" group-title="IPTV",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/deTBL0Q.png" group-title="IPTV",Latin Angels
-http://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/oU1nwLE.png" group-title="IPTV",Live Sex Latinas
 http://publish.thewebstream.co:1935/leved/livesexlatinas/playlist.m3u8
 
