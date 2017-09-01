@@ -15,9 +15,6 @@ http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 #EXTINF:-1 tvg-logo="http://www.freeiconspng.com/uploads/facebook-logo-png-2-0.png" group-title="LABEL",> fb.me/FluxusTV
 https://archive.org/download/fluxustv/Fluxus_TV.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="LABEL",@ Now Available
-http://184.173.142.117:21728/stream
-
 #EXTINF:-1 tvg-logo="http://www.easternrefinishing.com/wp-content/uploads/2016/02/117380-matte-blue-and-white-square-icon-culture-world1-150x150.png" group-title="LABEL",~ World News ~
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
 
