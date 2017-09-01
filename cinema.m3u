@@ -18,7 +18,7 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1DgSezF.png" group-title="LABEL",@ Now Available
 http://184.173.142.117:21728/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ Movies in English
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/EN_language_symbol_in_blue_letters_in_a_blue_square.svg/2000px-EN_language_symbol_in_blue_letters_in_a_blue_square.svg.png" group-title="LABEL",~ MOVIES
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/37sLsd4N0JY/movieposter.jpg" group-title="MOVIES",Agent (2017) [AR-Subs]
@@ -2034,7 +2034,7 @@ https://archive.org/download/Granddad1913/Granddad%201913.mp4
 #EXTINF:-1 tvg-logo="https://f8b5db1e1f00cea72855-84a7d838f746c494b9783302a5a26cce.ssl.cf5.rackcdn.com/wp-content/uploads/2017/02/The-Wonderful-Wizard-of-Oz-1910-movie-poster.jpg" group-title="MOVIES",The Wonderful Wizard of Oz (1910)
 https://archive.org/download/The_Wonderful_Wizard_of_Oz/WonderfulWizardofOz1910_512kb.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/german/img/apple-touch-icon.png" group-title="LABEL",~ Movies in German
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/german/img/apple-touch-icon.png" group-title="LABEL",~ GERMAN
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.winwallpapers.net/w1/2014/02/Der-Untergang-2004-Wallpapers-5.jpg" group-title="GERMAN",Der Untergang (2004)
@@ -2118,7 +2118,7 @@ https://archive.org/download/DerHimmelAufErden1935/Der%20Himmel%20auf%20Erden%20
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/dnXXyzU9mbDVLDLwD50n72jKx9L.jpg" group-title="GERMAN",Der Draufganger (1931)
 https://archive.org/download/DerDraufgnger1931/Der%20Draufg%C3%A4nger%201931.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/french/img/apple-touch-icon.png" group-title="LABEL",~ Movies in French
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/french/img/apple-touch-icon.png" group-title="LABEL",~ FRENCH
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="https://secure.netflix.com/us/boxshots/ghd/70024092.jpg" group-title="FRENCH",March of the Penguins (2005)
@@ -2247,7 +2247,7 @@ https://archive.org/download/LcrinDuRaja/GastonVelleLecrinDuRaja1906TheKingsCask
 #EXTINF:-1 tvg-logo="http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/512/movie-alt.png" group-title="FRENCH",Le Theatre electrique de Bob (1909)
 https://archive.org/download/LeThtrelectriqueDeBob/1909SegundoDeChomnLeThtrelectriqueDeBobbobsElectricTheatre.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/italian/img/apple-touch-icon@2.png" group-title="LABEL",~ Movies in Italian
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/italian/img/apple-touch-icon@2.png" group-title="LABEL",~ ITALIAN
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zW2C8SHThYc/VMzgH88KxZI/AAAAAAAADEE/0BX1XJ9e3Pg/s1600/posters-image-4.jpg" group-title="ITALIAN",Ex Machina (2014)
@@ -2316,7 +2316,7 @@ https://archive.org/download/RichieRich19941080pX264WEBDLVUEmux2OK/Richie%20Rich
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/43/American_gigolo_post.jpg" group-title="ITALIAN",American Gigolo (1980)
 https://archive.org/download/AmericanGigolo19801080pHevcSciencefunEncoding/American%20Gigol%C3%B2%20(1980)%201080p%20Hevc[Sciencefun%20Encoding].mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ Movies in Spanish
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/spanish/img/apple-touch-icon@2.png" group-title="LABEL",~ SPANISH
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://www.mygoldenchoice.com/wp-content/uploads/FA-2.jpg" group-title="SPANISH",The Fate of the Furious (2017)
@@ -2715,7 +2715,7 @@ https://archive.org/download/La_Sensacion_de_Paris_1938/La_Sensacion_de_Paris_19
 #EXTINF:-1 tvg-logo="https://theblondeatthefilm.files.wordpress.com/2014/01/nothingsacred_1937_mp_wc_1200_072820111220.jpg" group-title="SPANISH",La Reina de Nueva York (1937)
 https://archive.org/download/La_Reina_de_Nueva_York_1937/La_Reina_de_Nueva_York_1937.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/portuguese/img/apple-touch-icon%402.png" group-title="LABEL",~ Movies in Portuguese
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/portuguese/img/apple-touch-icon%402.png" group-title="LABEL",~ PORTUGUESE
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Baywatch_poster.jpg" group-title="PORTUGUESE",Baywatch (2017)
@@ -3270,7 +3270,7 @@ https://archive.org/download/AMascaraDeFuManchu1932Dubl/A%20Mascara%20De%20Fu%20
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/The_Mummy_1932_film_poster.jpg" group-title="PORTUGUESE",A Mumia (1932)
 https://archive.org/download/AMmia1932Dubl/A%20M%C3%BAmia%201932%20Dubl.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/arabic/img/apple-touch-icon%402.png" group-title="LABEL",~ Movies in Arabic
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/arabic/img/apple-touch-icon%402.png" group-title="LABEL",~ ARABIC
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BURHLXq.jpg" group-title="ARABIC",Oshan 14 (2016)
@@ -3291,7 +3291,7 @@ https://archive.org/download/RoMaNTiCPoET_201708/Aayal%20Habiba.2005.BY.%20RoMaN
 #EXTINF:-1 tvg-logo="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_95ef0e024f75366d7ec81047861cab2e85ed806ac9699a2ef2dd2e44f3be959a.jpg" group-title="ARABIC",Eyal Habiba (2005)*
 https://archive.org/download/AayalHabiba.2005.BY.RoMaNTiCPoET/Aayal%20Habiba.2005.BY.%20RoMaNTiCPoET.mp4
 
-#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/japanese/img/apple-touch-icon%402.png" group-title="LABEL",~ Movies in Japanese
+#EXTINF:-1 tvg-logo="https://cdn.sstatic.net/Sites/japanese/img/apple-touch-icon%402.png" group-title="LABEL",~ JAPANESE
 http://149.56.23.7:20082/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DRa3SUJ.jpg" group-title="JAPANESE",One Piece Film - Gold (2016)
