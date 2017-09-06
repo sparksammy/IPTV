@@ -1140,9 +1140,6 @@ http://www.lengua.com/anthems/Portugal.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/566414018/logo_TVAgueda.png" group-title="PORTUGAL",Agueda TV
 http://cmgaia.worldvds.com:8080/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="PORTUGAL",Eurosport 1
-http://80.90.41.118:6600/play/a007
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg" group-title="PORTUGAL",Porto Canal
 http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
 
