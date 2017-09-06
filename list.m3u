@@ -429,12 +429,6 @@ http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ksassets.timeincuk.net/wp/uploads/sites/54/2013/08/BT-Sport-3.jpg" group-title="UK",BT Sport 3*
 http://185.142.239.164:3135/BT/3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.discoverynetworks.nl/wp-content/uploads/2013/05/promo-eurosport.png" group-title="UK",Eurosport 1
-http://185.142.239.164:3135/Euro/1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" group-title="UK",Eurosport 2
-http://185.142.239.164:3135/Euro/2/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s12.postimg.org/h48arrsp9/jewellerymaker_logo2.jpg" group-title="UK",Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
 
