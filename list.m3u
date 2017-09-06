@@ -1587,23 +1587,8 @@ http://tecnotv.xyz/media/futurama2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491097598137.jpg" group-title="LATINO",24/7 Los Simpson
 http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/8/9/8/289833/289833_tvchespirito%2C640x360%2Cb%3A1.jpg" group-title="LATINO",24/7 TV Chespirito
-http://tecnotv.xyz/media/chespirito
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="LATINO",Cine Ready HD
-http://ss6.domint.net:2016/rtv_str/readytv/chunklist_w1642827167.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.iconsdb.com/icons/preview/persian-red/tv-xxl.png" group-title="LATINO",L'Creme Max
-http://tecnotv.xyz/media/lcrememax
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cinecalidad.to/wp-content/themes/gridthemeresponsive/images/logo.png" group-title="LATINO",Cine Calidad
-http://tecnotv.xyz/media/cinecalidad
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://st-listas.20minutos.es/images/2014-04/380666/list_640px.jpg" group-title="LATINO",Ciencia Ficcion
-http://tecnotv.xyz/media/ficcion
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/91/CineStar_Logo.jpg" group-title="LATINO",CineStar
-http://tecnotv.xyz/media/cinestar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="LATINO",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgur.com/X6PgEpo.png" group-title="LATINO",Telemundo
 http://tecnotv.xyz/media/telemundo
@@ -1626,8 +1611,8 @@ http://vivoplay-i.akamaihd.net/hls/live/255331/canal2/master2500k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvquisqueya.com/images/2017/07/14/logoweb.fw.png" group-title="LATINO",TV Quisqueya
 http://vivoplay-i.akamaihd.net/hls/live/255341/canal4/master2500k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/320350553/ANimeTV_logo_copy22.jpg" group-title="LATINO",Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="LATINO",Ready HD
+http://ss6.domint.net:2016/rtv_str/readytv/chunklist_w1642827167.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2dm9jzc.jpg" group-title="LATINO",HispanTV
 http://178.32.255.199:1935/live/hispantv/chunklist_w1362269254.m3u8
