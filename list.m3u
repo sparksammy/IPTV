@@ -162,6 +162,9 @@ http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://d31wsou9chh9ss.cloudfront.net/0/mobile/images/1409171234/3043/300/200/PlayerLogo.jpg" group-title="USA",Fox News Radio
 http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.tumblr.com/f9da82faf4956cc7fa2cc1ce6e2e2e20/pk9s04n/vC5nh2fuf/tumblr_static_914sssk3j7k00ww4k840w4okg.png" group-title="USA",Russia Today America
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/H00wiqw.jpg" group-title="USA",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
@@ -398,6 +401,9 @@ http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.digitaltveurope.net/wp-content/uploads/2014/12/Arise-News.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="UK",Russia Today UK
+https://secure-streams.akamaized.net/rt-uk/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.londonlive.co.uk/assets/images/logo-white.png" group-title="UK",London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
@@ -1248,8 +1254,14 @@ http://wsemedia.com:1935/cn01/cn01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2016/02/combate.jpg" group-title="BRAZIL",Combate
 http://95.211.149.215:8081/look/combate/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aovivonatv.com/fotos/aa65acc1369813386f529a4e5eaa89ab.jpg" group-title="BRAZIL",ESPN
+http://158.58.172.5:8081/look/espnbr/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://2.bp.blogspot.com/-voiBAis2qfU/VbFIxV5TzdI/AAAAAAAAEvk/qbBPmj8aAVY/s1600/123.jpg" group-title="BRAZIL",Esporte Interativo
 http://enlsso9vfh.singularcdn.net.br/live/canal_12/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tudotv.tv/fotos/089adfd02ebdb8d07e102e8eb58c87c8.jpg" group-title="BRAZIL",Globo Nordeste
+http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.ontvtonight.com/static/2/Open/2400x2400_1578/Misc/h2_2400_color_dark_light.png" group-title="BRAZIL",H2
 http://wowza2.mysoltv.com:1992/Latino_H2/index.m3u8
@@ -1644,8 +1656,8 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/770289655795286016/yx04qWjm.jpg" group-title="LATINO",Deutsche Welle
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alertamundial.com/wp-content/uploads/2015/04/RT-en-Espa%C3%B1ol.jpg" group-title="LATINO",Russia Today
-http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.alertamundial.com/wp-content/uploads/2015/04/RT-en-Espa%C3%B1ol.jpg" group-title="LATINO",Russia Today Espanol
+https://secure-streams.akamaized.net/rt-esp/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.topbandeiras.com.br/images/botoes/Argentina-01.png" group-title="LABEL",~ Argentina TV ~
 http://www.lengua.com/anthems/Argentina.mp3
@@ -2268,8 +2280,8 @@ http://www.lengua.com/anthems/PuertoRico.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://dominicanchannels.net/wp-content/uploads/2013/07/acs.jpg" group-title="PUERTO RICO",ACS Network
 http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.emcgconstruction.com/wp-content/uploads/Telemundo-Puerto-Rico-grande.png" group-title="PUERTO RICO",Telemundo
-http://cdnh8.iblups.com/hls/33hssQ13ID.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-6yYNELU2luw/Ve4b4VQ6DJI/AAAAAAAAx7Y/YAEejFNDPMk/s1600/60%2Ba%25C3%25B1os%2BWAPA%2BTV%2BLOGO.png" group-title="PUERTO RICO",WAPA TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://noticiasprtv.com/wp-content/uploads/2016/09/WIPR-TV-logo-png.png" group-title="PUERTO RICO",WIPR TV
 http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8
@@ -2458,7 +2470,7 @@ http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="RUSSIA",RT Documentary (English)
-http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
+https://secure-streams.akamaized.net/rt-doc/index.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.parsatv.com/index_files/channels/worldfashion.jpg" group-title="RUSSIA",World Fashion
 http://cdn-01.bonus-tv.ru:9090/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
