@@ -9,7 +9,7 @@ http://191.252.102.161:8040/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/f1T5BxB.png" group-title="LABEL",< Please Donate
 http://191.252.102.161:8040/stream
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Aug.31.2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/RGeIrMD.png" group-title="LABEL",= Sep.07.2017
 http://191.252.102.161:8040/stream
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/72tK2FB.png" group-title="LABEL",> Like Us!
@@ -53,6 +53,9 @@ http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1131290789/fnlLogo_400x400.png" group-title="CATHOLICISM",Faith and Life TV (USA)
 http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jrescatolicos.org/wp-content/uploads/2016/06/alogo.png" group-title="CATHOLICISM",JRES TV (USA) [ES]
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lwctt.org/wp-content/uploads/2016/05/trinitty3-150x115.jpg" group-title="CATHOLICISM",TCN (Trinidad and Tobago)
 http://1-fss29-s0.streamhoster.com/lv_trinitytv/_definst_/broadcast1/playlist.m3u8
@@ -378,17 +381,11 @@ https://archive.org/download/fluxustv/Fluxus_TV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="ISLAM",Al Quran Al Karim (KSA)
 http://selevision9885-i.akamaihd.net/hls/live/219267/98851/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livetvant.com/wp-content/uploads/2012/04/Watch-Al-Quran-TV-Saudi-Arabia-Live-Online.jpeg" group-title="ISLAM",Al Quran Al Karim* (KSA)
-http://37.152.128.66:7009/play/a00n
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/reydddd/al_sunnah_al_nabawiyah_tv.png" group-title="ISLAM",Al Sunnah Al Nabawiyah (KSA)
 http://www.elahmad.com/tv/m3u8/sauditv.m3u8?id=sunnatv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/8K3xXzq.png" group-title="ISLAM",Makkah TV (KSA)
 http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wNcqCeY.jpg" group-title="ISLAM",MTA (UK)
-http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iqraa.com/MediaStorage/images/news451.jpg" group-title="ISLAM",Iqraa (KSA)
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
@@ -437,3 +434,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kurdtvs.net/uploads/amozhgary.png" group-title="ISLAM",Amozhgary TV (Kurdistan)
 http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/wNcqCeY.jpg" group-title="ISLAM",MTA (UK)
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
