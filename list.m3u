@@ -459,24 +459,6 @@ http://185.53.163.205:2503
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thelogodb.com/images/media/logo/stxpwq1433361453.png" group-title="UK",BT Sport Extra 6
 http://185.53.163.205:2504
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="UK",Sky Sports 1
-http://185.53.163.212:2312
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="UK",Sky Sports 2
-http://185.53.163.212:2313
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="UK",Sky Sports 3
-http://185.53.163.212:2314
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="UK",Sky Sports 4
-http://185.53.163.212:19702
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="UK",Sky Sports 5
-http://185.53.163.212:19700
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/f1wikia/images/7/77/SkySportsF1.png" group-title="UK",Sky Sports F1
-http://185.53.163.212:2310
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s12.postimg.org/h48arrsp9/jewellerymaker_logo2.jpg" group-title="UK",Jewellery Maker
 http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
 
