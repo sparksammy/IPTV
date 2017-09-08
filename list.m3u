@@ -51,6 +51,15 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cimg.tvgcdn.net/i/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/47bf7d2f874199d49d328973cd5e9e28/150506-logo-abc-hp-lg.jpg" group-title="USA",ABC
+https://freeeucache3.streamlive.to/live/nz7l9vc5nv1og7b/index.m3u8?st=e2DhgteWfHjP-iIt0cHlLw&expires=1505447798
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/www.mangaforever.net/wp-content/uploads/2017/05/Upfronts2017_CBS.jpg" group-title="USA",CBS
+https://freeeucache3.streamlive.to/live/vp4q2gonwzh2dku/index.m3u8?st=fYDtUrWkcizW6nHlZxrnJw&expires=1505448629
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.comcast.com/images/nbc-logo-thumbnail.jpg" group-title="USA",NBC
+https://freeeucache3.streamlive.to/live/kjgkefh6la1di6g/index.m3u8?st=az4joS2VBHPMGhTT8vijBg&expires=1505448667
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvweek.com/wp-content/uploads/2015/07/animal-planet-logo.png" group-title="USA",Animal Planet
 http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
 
