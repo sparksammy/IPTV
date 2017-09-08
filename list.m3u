@@ -120,9 +120,6 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://wnyt.com/wnytimages/repository/2014-03/MeTV%20Network%20Logo%20W%20BKGND%20SHAPES.jpg" group-title="USA",MeTV
 http://video.metv.com/metv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://machammond.org/wp-content/uploads/2016/04/koolTV.gif" group-title="USA",Kool TV
-http://173.199.158.79:1935/roku/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rokuguide.com/sites/default/files/wilderness-channel_0.png" group-title="USA",Wilderness Channel
 http://pkg2.frontlayer.net/pseudolive/fl821095/index.m3u8
 
@@ -238,6 +235,10 @@ https://freeeucache3.streamlive.to/live/0fm1lstybe4a0j4/index.m3u8?st=tz1G9AiPWW
 https://freeeucache3.streamlive.to/live/xoaaohmeuajfeyf/index.m3u8?st=_S7DsqIETravuAi7J1EbTg&expires=1505448221
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-zfWmwT9TWQA/VO_8EqdcFwI/AAAAAAAABgc/F4ZIp0AfzXU/w1200-h630-p-k-no-nu/ESPN%2B2%2B%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="USA",ESPN 2
+https://freeeucache3.streamlive.to/live/rgyus7ao2ullmbt/index.m3u8?st=RM5XixqQg9hpnjiwHVyOzg&expires=1505448179
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="USA",Fox Sports 1
+https://freeeucache3.streamlive.to/live/svsgthhwl6djj5h/index.m3u8?st=SqF2wjR7WWYo612OUgpNSQ&expires=1505447731
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
@@ -269,6 +270,9 @@ http://xrxs.net/video/live-p12ariz-2328.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://x.pac-12.com/profiles/pac12/themes/pac12_foundation/images/pac12/networks/network-mountain.jpg" group-title="USA",Pac-12 Mountain
 http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://machammond.org/wp-content/uploads/2016/04/koolTV.gif" group-title="USA",Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1795192458/n23000337_31608642_9029.jpg" group-title="USA",WHOH TV
 http://oflash.dfw.swagit.com/live/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
