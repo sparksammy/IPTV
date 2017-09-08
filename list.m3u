@@ -57,6 +57,9 @@ https://freeeucache3.streamlive.to/live/nz7l9vc5nv1og7b/index.m3u8?st=e2DhgteWfH
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i1.wp.com/www.mangaforever.net/wp-content/uploads/2017/05/Upfronts2017_CBS.jpg" group-title="USA",CBS
 https://freeeucache3.streamlive.to/live/vp4q2gonwzh2dku/index.m3u8?st=fYDtUrWkcizW6nHlZxrnJw&expires=1505448629
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cordcuttersnews.com/wp-content/uploads/2016/01/the-cw__130916234421.jpg" group-title="USA",
+https://warm-waters-56641.herokuapp.com/hls/2a3469fcd2ce57ad8b6be50497f081b4/1504869407/7b226970223a66616c73652c227561223a22416e64726f6964222c22726566223a22687474703a5c2f5c2f6d6f6264726f2e6d65227d/687474703a2f2f3138352e35392e3232322e3232382f7032702f32393665353663363638626338626436623030343464336534663033343135332e6d3375383f73743d466d46485672666777476d62593268754d4f39536a7726653d31353034383833383037.m3u8?time=1504840709412
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://corporate.comcast.com/images/nbc-logo-thumbnail.jpg" group-title="USA",NBC
 https://freeeucache3.streamlive.to/live/kjgkefh6la1di6g/index.m3u8?st=az4joS2VBHPMGhTT8vijBg&expires=1505448667
 
@@ -182,6 +185,9 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/channels/images/ae82e725706942f08c4feabaf6f7da2d-hd.jpg" group-title="USA",TWiT.TV
 http://hls.twit.tv/flosoft/mp4:twitStream_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="USA",ESPN
+https://freeeucache3.streamlive.to/live/xoaaohmeuajfeyf/index.m3u8?st=_S7DsqIETravuAi7J1EbTg&expires=1505448221
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.troika.tv/wp-content/uploads/Golf_Flat.jpg" group-title="USA",NBC Golf [NoRoku]
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
