@@ -2,3 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-E5BrOQmTvgc/AAAAAAAAAAI/AAAAAAAAAAA/w058xHdXwWs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LABEL",* KVLU
 http://kvlustream.lamar.edu:8000/stream
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/577919677948506112/smYezI9e.png" group-title="LABEL",* Cool92
+http://c3.prod.playlists.ihrhls.com/2189/playlist.m3u8
